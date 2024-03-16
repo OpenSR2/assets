@@ -1,0 +1,4 @@
+Image=GI,Bm.FormAB2.2NoPower2
+Name=W4P2
+Pos=229,44,6
+Size=9,11

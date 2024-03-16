@@ -1,0 +1,11 @@
+AverageRadius=0330
+AverageSize=110
+DamageSet=Energy
+MaxDamage=040
+MinDamage=018
+MiningFactor=6
+ShotType=AreaDamage
+Speed=045
+TechLevel=09
+kCost=90.0
+mWeaponDamage=1.00,1.10,1.25,1.40,1.80,2.20,2.60,3.00

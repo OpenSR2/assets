@@ -1,0 +1,7 @@
+Access=8
+Dif=70
+Genre=бродилка с элементами черного юмора
+Group=1
+Image=Bm.PQI.63_Sibolusovt
+Length=4
+Name=Ухоногий Сиболусовт

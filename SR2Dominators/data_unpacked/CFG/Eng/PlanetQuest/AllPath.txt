@@ -1,0 +1,58 @@
+PlanetQuest ~{
+
+	Prison=cfg\Eng\PlanetQuest\Prison.qm
+
+	0None=cfg\Eng\PlanetQuest\Bank.qm
+	1=cfg\Eng\PlanetQuest\Boat.qm
+	2None=cfg\Eng\PlanetQuest\Newflora.qm
+	3=cfg\Eng\PlanetQuest\Commando.qm
+	4=cfg\Eng\PlanetQuest\Diehard.qm
+	5None=cfg\Eng\PlanetQuest\Examen.qm
+	6=cfg\Eng\PlanetQuest\Fishing.qm
+	7None=cfg\Eng\PlanetQuest\Galaxy.qm
+	8=cfg\Eng\PlanetQuest\Ikebana.qm
+	9=cfg\Eng\PlanetQuest\Murder.qm
+	10None=cfg\Eng\PlanetQuest\Penetrator.qm
+	11None=cfg\Eng\PlanetQuest\Poroda.qm
+	12None=cfg\Eng\PlanetQuest\Rush.qm
+	13None=cfg\Eng\PlanetQuest\Spy.qm
+	14=cfg\Eng\PlanetQuest\Tomb.qm
+	15=cfg\Eng\PlanetQuest\Gladiator.qm
+	16=cfg\Eng\PlanetQuest\Hachball.qm
+	17=cfg\Eng\PlanetQuest\Energy.qm
+	18=cfg\Eng\PlanetQuest\Gobsaur.qm
+	19None=cfg\Eng\PlanetQuest\Menzols.qm 
+	20None=cfg\Eng\PlanetQuest\Siege.qm
+	21=cfg\Eng\PlanetQuest\Casino.qm
+	22None=cfg\Eng\PlanetQuest\Bondiana.qm
+	23=cfg\Eng\PlanetQuest\Build.qm
+	24None=cfg\Eng\PlanetQuest\Diamond.qm
+}
+
+ItemForPlanetQuest {
+	0=none
+	1=none
+	2=none
+	3=none
+	4=none
+	5=Usl_GradDoc
+	6=Usl_FishCont
+	7=none
+	8=none
+	9=none
+	10=none
+	11=Usl_IdealPenchecryak
+	12=none
+	13=none
+	14=none
+	15=Usl_HeadBowl
+	16=none
+	17=none
+	18=Usl_ScnDisc
+	19=none
+	20=none
+	21=Usl_Doc
+	22=none
+	23=none
+	24=none
+}

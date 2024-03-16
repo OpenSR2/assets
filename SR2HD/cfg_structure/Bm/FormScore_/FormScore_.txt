@@ -1,0 +1,9 @@
+2ClearA=data\FormScore\2ClearA.gi
+2ClearD=data\FormScore\2ClearD.gi
+2ClearN=data\FormScore\2ClearN.gi
+2ToServerA=data\FormScore\2ToServerA.gi
+2ToServerD=data\FormScore\2ToServerD.gi
+2ToServerN=data\FormScore\2ToServerN.gi
+2bg=data\FormScore\2bg.gi
+2bg2=data\FormScore\2bg2.gi
+2sel=data\FormScore\2sel.gi

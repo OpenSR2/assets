@@ -1,0 +1,15 @@
+1ImageP=GI,Bm.ShipP.1FeiL
+2ImageP=GI,Bm.ShipP.2FeiL
+Anim=Anim\Anim.txt ^{
+}
+AnimS=AnimS\AnimS.txt ^{
+}
+Image=Bm.Ship.HS4
+ImageMap=Bm.Ship.FeiMap
+ImageS=Bm.Ship.HS4
+PosZ=Ship
+SizeImage=128,128
+SmeCenterImage=64,64
+SmeImage=65,76
+SmeImageMap=2,2
+StateTime=2000

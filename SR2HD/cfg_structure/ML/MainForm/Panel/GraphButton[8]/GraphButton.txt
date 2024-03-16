@@ -1,0 +1,9 @@
+Auto=Size
+ImageDown=GI,Bm.FormLoadRobot.2LoadQuestD
+ImageNormal=GI,Bm.FormLoadRobot.2LoadQuestN
+ImageNormalA=GI,Bm.FormLoadRobot.2LoadQuestA
+Kind=Normal
+KindHit=Rect
+Name=LoadQuest
+Pos=228,636,20
+Style=Style.GB.SoundNormal

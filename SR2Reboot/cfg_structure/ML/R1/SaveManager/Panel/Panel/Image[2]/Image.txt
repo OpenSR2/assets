@@ -1,0 +1,3 @@
+Image=GI,Bm.SB.1V1_DownH
+Pos=449,373,5
+Size=15,16

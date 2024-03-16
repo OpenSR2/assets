@@ -1,0 +1,27 @@
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Image=Image[3]\Image.txt ^{
+}
+Image=Image[4]\Image.txt ^{
+}
+Image=Image[5]\Image.txt ^{
+}
+Image=Image[6]\Image.txt ^{
+}
+Image=Image[7]\Image.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+Name=MainPanel
+Panel=Panel\Panel.txt ^{
+}
+Pos=0,0
+Size=800,600

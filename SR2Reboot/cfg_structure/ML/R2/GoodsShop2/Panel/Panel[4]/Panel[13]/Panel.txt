@@ -1,0 +1,3 @@
+Name=TovImgCnt15
+Pos=479,332,6
+Size=207,44

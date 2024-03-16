@@ -1,0 +1,10 @@
+Cost=140
+Equipments=Hull
+KindHull=ASTC
+Name=–емонтный корпус IV
+Priority=70
+Ruins=MC
+Size=110
+Special=1
+Text=Ёффективность дроида: <bonDroid> ед.
+bonDroid=20

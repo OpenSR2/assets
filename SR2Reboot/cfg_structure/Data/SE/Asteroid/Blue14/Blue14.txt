@@ -1,0 +1,3 @@
+Image=Bm.Asteroid.Blue14
+ImageMap=Alpha,Bm.Asteroid.Map
+PosZ=Asteroid

@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormRating2.2TraderN
+ImageDown=GI,Bm.FormRating2.2TraderN
+ImageNormal=GI,Bm.FormRating2.2TraderN
+ImageNormalA=GI,Bm.FormRating2.2TraderA
+Kind=Disable
+KindHit=Rect
+Name=ButTrader
+Pos=28,231,4
+Size=158,162
+Style=Style.GB.SoundNormal

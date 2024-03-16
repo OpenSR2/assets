@@ -1,0 +1,9 @@
+AutoTalk=Any
+FlyType=ToPlanet
+InFear=Any
+Priority=10
+Relations=War
+ShipBadFlyToShip=Any
+ShipStructure=Mini,Small,Average
+ShipType=Ranger,Pirate,Warrior
+Text=Твое счастье, <Player>, что мой корабль поврежден, и я захожу на посадку. Но ничего - на планете <ToPlanet> меня подлатают, и я тебя еще достану - попомни мои слова.

@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=ToShip
+PlayerIsShipBad=Yes
+PlayerStructure=Mini,Small,Average
+Priority=5
+Relations=War
+ShipBadFlyToShip=Any
+ShipFlyToPlayer=Yes
+ShipStatus=Pirate
+ShipTurnBeforeEndOrder=1,2,3
+ShipType=Ranger,Pirate
+StrengthShipWithPlayer=Average,Big,Huge
+Text=Только без обид, <Player>. Я всего лишь выполняю задание для агентства "Закажи другу друга". Слыхал, наверное? Понятия не имею, чем ты не угодил заказчику, но поручение я намерен выполнить до конца.

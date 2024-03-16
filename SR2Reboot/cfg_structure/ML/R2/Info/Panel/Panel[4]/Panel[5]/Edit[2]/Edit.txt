@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.2Normal
+MaxLen=30
+Name=M05Cost
+Pos=288,333,0
+Size=91,17
+TextColor=0,0,0

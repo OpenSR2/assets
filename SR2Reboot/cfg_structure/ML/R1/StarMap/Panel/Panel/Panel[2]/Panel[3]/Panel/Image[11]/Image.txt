@@ -1,0 +1,4 @@
+Image=GI,Bm.FormLoad2.1BarCenter
+Name=PLB12
+Pos=166,0
+Size=24,29

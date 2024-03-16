@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Name=TovPrice6
+Pos=293,377,6
+Size=100,20
+TextColor=0,0,0

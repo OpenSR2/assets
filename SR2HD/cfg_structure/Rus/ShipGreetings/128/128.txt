@@ -1,0 +1,6 @@
+FlyType=ToPlanet
+Relations=Normal,Good,Best
+ShipRaceIsPlayerRace=Yes
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=Привет, <Player>! Я всегда рад видеть соотечественника!
+Text=Ты обращаешься по делу, или просто поболтать? Я вообще-то пытаюсь рассчитать траекторию посадки на <ToPlanet>, и не могу отвлекаться.

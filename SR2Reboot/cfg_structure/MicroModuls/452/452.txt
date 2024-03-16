@@ -1,0 +1,11 @@
+Cost=130
+Equipments=Hook
+KindGraph=10
+Name=Миоплазменный захват III
+Priority=70
+Ruins=Any
+Special=1
+Text=Энергетическое оружие: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+bonWEnergy=5
+bonWSplinter=6

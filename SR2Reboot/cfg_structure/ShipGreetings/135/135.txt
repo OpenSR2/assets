@@ -1,0 +1,12 @@
+FlyType=ToPlanet
+InFear=Any
+Priority=3
+Relations=Good,Best
+ShipBadFlyToShip=No
+ShipRace=Maloc
+ShipStructure=Mini
+ShipTurnBeforeEndOrder=4,5,6,7,8,9,Far
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Эх, <Player>, ну и досталось же мне! Компьютер закончил тестирование систем, и что-то говорит о какой-то "разгерметизации". Может, знаешь, что это такое?
+Text=Черт, как дышать тяжело. Слышишь этот резкий свист? Кажется, я уже понял, что означает это слово. Надеюсь, мне удастся дотянуть до планеты <ToPlanet> и совершить посадку. А пока слушай совет бывалого малока: "Не ленись читать инструкцию, пилот, дольше проживешь!"
+ToPlanetIsLastPlanet=Any

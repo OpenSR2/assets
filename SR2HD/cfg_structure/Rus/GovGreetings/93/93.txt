@@ -1,0 +1,5 @@
+CurPlanetPirateClan=No
+CurPlanetRelations=Bad,Normal,Good,Best
+CurStarInBattlePirates=Yes
+Priority=1
+Text=В то время как вы прогуливаетесь по нашей планете, другие бьются с пиратами на орбите! Как вам не стыдно, <Player>?!!<br>Или вы сами поддерживаете этих негодяев? Тогда стыд вам и позор!

@@ -1,0 +1,30 @@
+Accept=Согласен
+Attack=Attack\Attack.txt ~{
+}
+Cancel=Отмена
+Count=Count\Count.txt ^{
+}
+DropGoodsInFear=DropGoodsInFear\DropGoodsInFear.txt ^{
+}
+Exit=Конец связи
+Goods=Goods\Goods.txt ^{
+}
+Money=Money\Money.txt ^{
+}
+Partner=Partner\Partner.txt ^{
+}
+PlanetSay=Планета
+PlanetSay=<Name>
+PreserveItems=PreserveItems\PreserveItems.txt ^{
+}
+Protect=Protect\Protect.txt ^{
+}
+Refuse=Refuse\Refuse.txt ^{
+}
+Reject=Отказываюсь
+ShipSay=<Name>
+To=-->
+Trade=Trade\Trade.txt ^{
+}
+Truce=Truce\Truce.txt ^{
+}

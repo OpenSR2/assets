@@ -1,0 +1,2 @@
+AlphaBlend=1
+AlphaTest=0

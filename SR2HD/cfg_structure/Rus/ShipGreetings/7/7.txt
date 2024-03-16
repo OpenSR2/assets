@@ -1,0 +1,11 @@
+FlyType=Any
+InFear=Yes
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipGoodsTypeCnt=0
+ShipRace=Peleng,People,Fei,Gaal
+ShipStructure=Mini,Small
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=SOS! SOS!
+Text=Меня преследует <FullShipBad>! Мой корабль поврежден, жить осталось недолго. Прошу тебя, <Player>, вступиться за меня.
+Text=Увы, предложить взамен ничего не могу. Никаких товаров у меня нет, как и денег. Но дружбу по гроб жизни обещаю.

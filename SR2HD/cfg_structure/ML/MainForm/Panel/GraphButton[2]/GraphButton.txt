@@ -1,0 +1,9 @@
+Auto=Size
+ImageDown=GI,Bm.FormMain3.2ButAchD
+ImageNormal=GI,Bm.FormMain3.2ButAchN
+ImageNormalA=GI,Bm.FormMain3.2ButAchA
+Kind=Normal
+KindHit=Rect
+Name=Achievements
+Pos=611,475,20
+Style=Style.GB.SoundNormal

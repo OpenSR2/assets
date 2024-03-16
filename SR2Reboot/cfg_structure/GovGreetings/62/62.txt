@@ -1,0 +1,6 @@
+CurPlanetRace=People
+CurPlanetRelations=Bad,Normal,Good,Best
+CurStarInBattle=Yes
+Priority=5
+Text=Ћюди стекаютс€ к нам в систему, чтобы помочь брать€м отразить атаку врагов. —пасибо и вам, <Player>.
+Text=ѕрошу вас, поторопитесь, вы нужны там, в бою, на орбите планеты <CurPlanet>, а не здесь, на ее поверхности.

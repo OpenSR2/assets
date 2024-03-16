@@ -1,0 +1,9 @@
+AutoTalk=Any
+DominatorsAlreadyDefeated=No
+FlyType=ToItem
+KlingInCurStar=3,4,5,6,7,8,9,Many
+Priority=10
+Relations=Bad,Normal,Good,Best
+ShipTurnBeforeEndOrder=2,3,4,5,6
+ShipType=Ranger,Pirate
+Text=Ќе думаю, что это понравитс€ доминаторам, но € рискну вз€ть этот контейнер с <Item> на борт.

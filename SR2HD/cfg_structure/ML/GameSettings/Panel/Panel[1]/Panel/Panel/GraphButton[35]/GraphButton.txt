@@ -1,0 +1,17 @@
+Caption=FormGameSet2.Extended.Button
+CaptionColorDown=248,164,0
+CaptionColorDownA=248,164,0
+CaptionColorNormal=88,229,255
+CaptionColorNormalA=248,236,96
+CaptionSme=0,-5,0,-5
+Font=Font.2Ranger
+Help=FormGameSet2.Extended.HelpButton
+ImageDown=GI,Bm.FormGameSet2.ButExtD
+ImageNormal=GI,Bm.FormGameSet2.ButExtN
+ImageNormalA=GI,Bm.FormGameSet2.ButExtN
+Kind=Fix
+KindHit=Rect
+Name=ButExtended
+Pos=134,540,101
+Size=205,33
+Style=Style.GB.SoundNormal

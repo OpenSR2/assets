@@ -1,0 +1,7 @@
+Name=Ракета
+Text=Самонаводящаяся ракета
+TextDamage=Урон: <Damage>
+TextFrom=Выпустил: <Name>
+TextNoTarget=Цель потеряна
+TextSpeed=Скорость: <Speed>
+TextTarget=Цель: <Name>

@@ -1,0 +1,9 @@
+Cost=110
+Equipments=Engine
+KindGraph=12
+Name=Пигамарный двигатель I
+Priority=10
+Ruins=Any
+Special=1
+Text=Сила ракет: <bonWMissile> ед.
+bonWMissile=2

@@ -1,0 +1,12 @@
+Cost=110
+Equipments=Hull
+KindHull=ASTC
+Name=–емонтный корпус I
+Priority=10
+Ruins=MC
+Size=80
+Special=1
+Text=Ёффективность дроида: <bonDroid> ед.
+bonDroid=20
+bonSlotArt=-1
+bonSlotWeapon=-2

@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Small
+Name=LabelKatauri
+Pos=816,746,40
+Size=108,20
+Text=FormAbout.Katauri
+TextColor=255,255,255
+WordWrap=False

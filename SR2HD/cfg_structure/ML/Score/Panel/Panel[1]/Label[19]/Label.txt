@@ -1,0 +1,6 @@
+AlignX=Auto
+Font=Font.2Normal
+Name=IQuests
+Pos=642,470,2
+Size=354,20
+TextColor=212,212,212

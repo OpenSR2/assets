@@ -1,0 +1,5 @@
+Auto=Size
+Frame=[60,0-33]
+Image=Bm.FormMain2.logo_elemental
+Name=LogoElemental
+Pos=485,509,48

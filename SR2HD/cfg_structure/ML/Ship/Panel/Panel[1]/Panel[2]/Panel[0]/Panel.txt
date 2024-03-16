@@ -1,0 +1,19 @@
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Label=Label[3]\Label.txt ^{
+}
+Label=Label[4]\Label.txt ^{
+}
+Label=Label[5]\Label.txt ^{
+}
+Name=PanelDestr
+Pos=714,108
+Size=126,399

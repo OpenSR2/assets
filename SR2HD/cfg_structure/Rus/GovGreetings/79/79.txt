@@ -1,0 +1,8 @@
+CoalitionAlreadyDefeated=No
+CurPlanetPirateClan=Yes
+CurPlanetRace=Maloc,People,Fei
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Bad,Normal
+PlayerRace=Peleng
+Priority=2
+Text=Что грязный четырехрукий пеленг <Player> забыл на нашей процветающей планете? Он, скорее всего, прилетел, чтобы разнюхать наши планы и потом продать их Коалиции?

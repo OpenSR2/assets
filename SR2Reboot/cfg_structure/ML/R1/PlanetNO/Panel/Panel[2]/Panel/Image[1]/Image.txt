@@ -1,0 +1,4 @@
+Image=GI,Bm.FormUnknown2.1W2
+Name=W1
+Pos=43,114,2
+Size=310,82

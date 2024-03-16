@@ -1,0 +1,7 @@
+CurPlanetPirateClan=No
+CurPlanetRelations=Normal,Good,Best
+DominatorsAlreadyDefeated=No
+PlayerRank=Cadet,Pilot,Wingman,Leader
+PlayerRating=Mini,Small
+Priority=10
+Text=О, рейнджер <Player>! Заходите! Лычка <PlayerRank> говорит о том, что вы не даете доминаторам жить спокойно. Сейчас сверимся с информацией от центров рейнджеров...<br>Так, так... Не густо...<br>Что же вы, <Player>, не сдаете им ноды? На вас жалуются. Вы в рейтинге в самом отстойнике, и это очень грустно! Надо вам пошевеливаться.

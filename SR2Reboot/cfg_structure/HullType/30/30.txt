@@ -1,0 +1,16 @@
+Artefact=0
+Cost=140
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Легион смерти
+Probability=3
+Race=Maloc,Peleng,People
+Radar=0
+Scaner=0
+ShipType=Pirate,Warrior
+Size=110
+Text=Мощный боевой корпус. Выбор настоящих мужчин.
+Weapon=1
+Year=30

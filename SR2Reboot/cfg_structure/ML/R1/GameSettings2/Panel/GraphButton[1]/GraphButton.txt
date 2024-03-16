@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpRacePeleng
+ImageDown=GI,Bm.FormGameSet2.1RacePelengD
+ImageNormalA=GI,Bm.FormGameSet2.1RacePelengA
+Kind=Fix
+KindHit=Graph
+Name=RacePeleng
+Pos=100,93,50
+Size=119,81
+Style=Style.GB.SoundNormal

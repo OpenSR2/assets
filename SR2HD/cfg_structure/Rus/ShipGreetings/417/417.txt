@@ -1,0 +1,14 @@
+AutoTalk=Any
+FlyType=ToShip
+PlayerIsShipBad=Yes
+PlayerStatus=Pirate
+PlayerStructure=Mini,Small,Average
+Priority=10
+Relations=War
+ShipBadFlyToShip=Any
+ShipFlyToPlayer=Yes
+ShipStatus=Trader,Warrior
+ShipTurnBeforeEndOrder=1,2
+ShipType=Transport,Liner,Diplomat,Ranger
+StrengthShipWithPlayer=Average,Big,Huge
+Text=Пара выстрелов, и еще на одного гнусного пирата станет меньше. Передавай привет Рачехану, <Player>!!!

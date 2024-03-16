@@ -1,0 +1,8 @@
+CurPlanetPirateClan=No
+CurPlanetRelations=Good,Best
+PlayerRank=Leader,Ace,Commander, Admiral
+Priority=10
+Text=Прославленный рейнджер <Player>. Мы рады приветствовать вас на планете <CurPlanet>. Пожалуйста, посетите наши магазины, мы будем очень рады, если вы что-нибудь приобретете у нас!<br>Кроме того, мы просим вас в ближайшее время принять участие в освобождении системы <ToStar> от доминаторов. Будьте так любезны.
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal
+ToStarControlByKling=Yes

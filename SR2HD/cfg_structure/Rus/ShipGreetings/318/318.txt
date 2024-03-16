@@ -1,0 +1,10 @@
+AutoTalk=Any
+FlyType=ToItem
+ItemType=FuelTanks,Engine,Radar,Scaner,RepairRobot,CargoHook,DefGenerator,Weapon,Food,Medicine,Technics,Luxury,Minerals,Alcohol,Arms,Narcotics
+PirateInCurStar=3,4,5,6,7,8,9,Many
+PlayerStatus=Pirate
+Priority=5
+Relations=Bad,Normal,Good,Best
+ShipType=Ranger,Pirate
+Text=¬нимание, пр€мо по курсу обнаружен контейнер, его содержимое: <Item>. ¬ыполн€ю маневр захвата...
+Text=ј вы, стерв€тники, не вздумайте перехватить мою добычу, иначе пожалеете! –азвелось тут пиратов... “еб€, <Player>, это тоже касаетс€.

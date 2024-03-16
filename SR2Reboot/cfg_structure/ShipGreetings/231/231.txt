@@ -1,0 +1,14 @@
+AutoTalk=Yes
+FlyType=ToStar
+InFear=Any
+PlayerIsShipBad=No
+PlayerStatus=Pirate
+Priority=10
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+ShipStructure=Small,Average,Big
+ShipTurnBeforeEndOrder=2,3,4
+ShipType=Pirate
+Text=«дорова, братан! “ы посмотри на этого идиота, <FullShipBad> - не с его кораблем за мной гон€тьс€. ≈ще немного, и € смоюсь в систему <ToStar>. ј если ты мен€ прикроешь, кореш, то € тебе по гроб об€зан буду, а € за базар всегда отвечаю.
+Text=Ќу, покедова, братан, вперед и с песней: "Ќас не догоню-ю-ют!.."

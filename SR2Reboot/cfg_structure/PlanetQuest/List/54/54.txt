@@ -1,0 +1,7 @@
+Access=4
+Dif=31
+Genre=бродилка с приключениями
+Group=1
+Image=Bm.PQI.van_57
+Length=3
+Name=Потерянный герой

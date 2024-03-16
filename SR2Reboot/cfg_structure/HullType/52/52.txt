@@ -1,0 +1,16 @@
+Artefact=0
+Cost=90
+Def=1
+Droid=1
+Forsage=1
+Hook=1
+Name=Цербер
+Probability=30
+Race=Maloc,People,Fei
+Radar=0
+Scaner=-1
+ShipType=Warrior
+Size=80
+Text=Маневренное патрульное судно, предназначенное для охраны систем.
+Weapon=-1
+Year=0

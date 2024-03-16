@@ -1,0 +1,6 @@
+Frame=[60,0-99]
+Image=Bm.FormAbout2.1Peleng
+Name=Peleng
+Pos=300,300,19
+Size=156,156
+Sme=78,78

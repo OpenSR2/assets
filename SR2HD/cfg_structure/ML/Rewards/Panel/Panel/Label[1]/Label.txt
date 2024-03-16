@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Center
+Font=Font.2Ranger
+Pos=170,0,0
+Size=134,16
+Text=FormRewards.Title
+TextColor=88,229,255
+WordWrap=True

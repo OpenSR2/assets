@@ -1,0 +1,14 @@
+Cost=130
+Equipments=Hull
+KindHull=AST1
+Name=Убийца
+Size=110
+Special=1
+Text=Двигатель: <bonSpeed> скорости.
+Text=Энергетическое оружие: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+Text=Сила ракет: <bonWMissile> ед.
+bonSpeed=150
+bonWEnergy=15
+bonWMissile=20
+bonWSplinter=30

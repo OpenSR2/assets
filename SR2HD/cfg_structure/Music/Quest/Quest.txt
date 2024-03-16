@@ -1,0 +1,15 @@
+1=Music\quests\gladiator.dat
+1=Music\special\SilentFlower.dat
+1=Music\special\SpaceIsCalling.dat
+1=Music\REV\nikinit_end_of_story.dat
+1=Music\REV\nikinit_flight_to_the_moon.dat
+1=Music\REV\nikinit_illusion.dat
+1=Music\REV\yozhik_a_guest_from_the_future.dat
+1=Music\fly\starflight.dat
+1=Music\special\outroden.dat
+1=Music\REV\nikinit_illuminator.dat
+1=Music\REV\lind_erebros_belegeuse_system.dat
+1=Music\REV\nikinit_pulsar.dat
+1=Music\REV\nikinit_star_trooper.dat
+1=Music\REV\engine_warming.dat
+1=Music\REV\your_favourite_spaceship.dat

@@ -1,0 +1,3 @@
+Auto=Size
+Image=GI,Bm.FormMain3.1Katauri
+Pos=266,548,20

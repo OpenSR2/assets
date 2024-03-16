@@ -1,0 +1,4 @@
+Image=GI,Bm.FormOptions2.1PlanetN
+Name=ModeLeftButtonN
+Pos=60,10,-3
+Size=159,38

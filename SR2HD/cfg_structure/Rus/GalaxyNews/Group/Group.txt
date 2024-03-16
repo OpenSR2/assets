@@ -1,0 +1,4 @@
+PirateInvader=PirateInvader\PirateInvader.txt ^{
+}
+WarriorLiberator=WarriorLiberator\WarriorLiberator.txt ^{
+}

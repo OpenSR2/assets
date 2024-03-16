@@ -1,0 +1,7 @@
+Access=2
+Dif=4
+Genre=бродилка с логическими головоломками
+Group=0
+Image=Bm.PQI.Pilot_02
+Length=2
+Name=Пилот

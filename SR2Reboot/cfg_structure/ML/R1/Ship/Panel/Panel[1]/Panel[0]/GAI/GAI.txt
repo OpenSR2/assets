@@ -1,0 +1,5 @@
+FrameLoad=0
+Image=Bm.FormShip2.1ActivateAnim
+Name=UseAnim
+Pos=35,20,4
+Size=41,41

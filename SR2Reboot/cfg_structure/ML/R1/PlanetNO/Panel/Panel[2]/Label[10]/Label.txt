@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.1Small
+Name=LandTimeLeft
+Pos=212,73,8
+Size=107,13
+TextColor=0,0,0
+WordWrap=False

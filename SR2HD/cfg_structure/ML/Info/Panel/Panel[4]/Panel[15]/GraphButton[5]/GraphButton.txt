@@ -1,0 +1,11 @@
+ImageDown=GI,Bm.FormInfo3.2BRacePirateD
+ImageDownA=GI,Bm.FormInfo3.2BRacePirateC
+ImageNormal=GI,Bm.FormInfo3.2BRacePirateN
+ImageNormalA=GI,Bm.FormInfo3.2BRacePirateA
+Kind=Fix
+KindHit=Graph
+Name=M15Pirate
+Pos=170,207,1
+Size=30,30
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

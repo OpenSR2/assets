@@ -1,0 +1,8 @@
+AutoTalk=Any
+FlyType=Any
+Priority=10
+Relations=Good,Best
+ShipBadFlyToShip=Yes
+ShipType=Transport,Liner,Diplomat
+Text=Гражданское судно <Ship> обращается к вам с просьбой, <Player>!
+Text=Нас преследует <FullShipBad>. Просим помощи, нам нужна огневая поддержка. Заранее спасибо!

@@ -1,0 +1,5 @@
+Image=Image\Image.txt ^{
+}
+Name=BarRange
+Pos=4,7,4
+Size=130,9

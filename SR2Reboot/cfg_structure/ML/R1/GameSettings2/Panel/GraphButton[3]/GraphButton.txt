@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpRaceFei
+ImageDown=GI,Bm.FormGameSet2.1RaceFeiD
+ImageNormalA=GI,Bm.FormGameSet2.1RaceFeiA
+Kind=Fix
+KindHit=Graph
+Name=RaceFei
+Pos=222,93,50
+Size=117,81
+Style=Style.GB.SoundNormal

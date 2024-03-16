@@ -1,0 +1,12 @@
+Cost=110
+Equipments=Hull
+KindHull=ASTE
+Name=Пигамарный корпус I
+Priority=10
+Ruins=PB
+Size=80
+Special=1
+Text=Сила ракет: <bonWMissile> ед.
+bonSlotArt=-1
+bonSlotWeapon=-2
+bonWMissile=5

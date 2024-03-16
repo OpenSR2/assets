@@ -1,0 +1,6 @@
+Equipments=Hull
+Name=Диамант
+Priority=31
+Text=Микромодуль второго уровня. Встраивается в корпус. Активирует слот ремонтного дроида и слот захвата
+bonSlotDroid=1
+bonSlotHook=1

@@ -1,0 +1,14 @@
+AutoTalk=Any
+FlyType=Any
+Goods=Narcotics
+PlayerGoodsCnt=Mini,Small,Average,Big,Huge
+PlayerHaveGoods=Yes
+Priority=20
+Relations=War
+ShipBadFlyToShip=Any
+ShipFlyToPlayer=Yes
+ShipMayScanPlayer=Yes
+ShipRace=Maloc,People,Fei,Gaal
+ShipType=Warrior
+Text="Stop, narcotics, narkomano stopo...". ј к чему это €? ј к тому, <Player>, что сканирование обнаружило на борту вашего судна груз наркотиков - запрещенного, между прочим, товара.
+Text=»звините, но, согласно законам моей планеты, <HomePlanet>, контрабандисты-наркоторговцы должны безжалостно уничтожатьс€. Ќичего личного, рейнджер, таков пор€док.

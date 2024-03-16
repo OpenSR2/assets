@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.1Normal
+MaxLen=30
+Name=M15Star
+Pos=221,204,0
+Size=79,13
+TextColor=0,0,0

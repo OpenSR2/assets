@@ -1,0 +1,4 @@
+Image=Bm.Ruins.Terron
+ImageI=GI,Bm.Ruins.Terroni
+ImageMap=GI,Bm.Ruins.MapTerron
+PosZ=Ruins

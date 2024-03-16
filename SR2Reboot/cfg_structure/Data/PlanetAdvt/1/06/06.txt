@@ -1,0 +1,2 @@
+Goods=Medicine
+Image2=GAI,Bm.PlanetAdvt.2_3_06

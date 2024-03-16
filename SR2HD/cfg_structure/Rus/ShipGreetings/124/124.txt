@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Arms
+InFear=Yes
+Priority=50
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Ranger,Pirate
+ShipGoodsCnt=Small,Average,Big,Huge
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=я вез партию стрелкового оружи€ на планету <ToPlanet>. Ќикого не трогал. “ут этот хрен, <FullShipBad>, сел мне на хвост и требует, чтобы € выкинул свой груз.
+Text=“ы, <Player>, парень не промах, должен пон€ть, что если ты отгонишь этого наглеца, то сможешь сам оружие на <ToPlanet> возить. ј цены там офигенные, надо сказать. ¬роде как там государственный переворот намечаетс€.
+ToPlanetGoodsBuy=Big,Huge

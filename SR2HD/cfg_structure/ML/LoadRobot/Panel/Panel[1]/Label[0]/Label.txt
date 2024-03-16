@@ -1,0 +1,7 @@
+AlignX=Center
+Font=Font.2Ranger
+Name=Caption
+Pos=379,62,2
+Size=210,25
+Text=FormLoadRobot.Caption
+TextColor=50,240,252

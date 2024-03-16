@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormShip2.2SC_DownH
+ImageDown=GI,Bm.FormShip2.2SC_DownD
+ImageNormal=GI,Bm.FormShip2.2SC_DownN
+ImageNormalA=GI,Bm.FormShip2.2SC_DownA
+Kind=Disable
+KindHit=Rect
+Name=SC_Down
+Pos=67,99,3
+Size=36,24
+Style=Style.GB.SoundNormal

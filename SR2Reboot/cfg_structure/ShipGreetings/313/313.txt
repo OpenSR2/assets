@@ -1,0 +1,10 @@
+AutoTalk=Any
+FlyType=ToItem
+ItemType=Narcotics
+Priority=10
+Relations=Normal,Good,Best
+ShipRace=Peleng
+ShipStatus=Pirate
+ShipType=Ranger,Pirate
+Text=Опа - укольчики по курсу. Тебе, <Player>, они все равно ни к чему, а у меня дома детей трое, у всех пяти - ломка страшная!
+Text=Как хороший отец шести детей, я все соберу и домой отвезу.

@@ -1,0 +1,9 @@
+Help=FormGameEnd.Ok
+ImageDown=GI,Bm.FormEnd2.2ExitD
+ImageNormal=GI,Bm.FormEnd2.2ExitN
+ImageNormalA=GI,Bm.FormEnd2.2ExitA
+Kind=Normal
+KindHit=Rect
+Name=Ok
+Pos=950,703,2
+Size=48,49

@@ -1,0 +1,9 @@
+AutoTalk=No
+FlyType=ToPlanet
+InFear=Any
+Priority=100
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Kling
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Доминатор преследует меня. Эта тварь, <FullShipBad>, сидит у меня на хвосте. Пытаюсь зайти на посадку на <ToPlanet>. На разговоры нет времени.

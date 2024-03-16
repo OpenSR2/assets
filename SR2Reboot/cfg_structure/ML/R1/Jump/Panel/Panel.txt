@@ -1,0 +1,7 @@
+MoveWorld=False
+Panel=Panel\Panel.txt ^{
+}
+Pos=0,0
+Size=800,600
+XviD=XviD\XviD.txt ^{
+}

@@ -1,0 +1,12 @@
+FlyType=Any
+Goods=Medicine
+LastPlanetDistToShipInTurn=1,2,3
+LastPlanetGoodsSale=Mini,Small,Average
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerStatus=Trader
+Priority=10
+Relations=Normal,Good,Best
+ShipGoodsCnt=Average,Big,Huge
+ShipType=Transport,Liner,Diplomat
+Text=Привет, <Player>! Как твой бизнес? Если ты узнал, что на <LastPlanet> есть дешевые медикаменты, то опоздал! Я ими набил полный трюм и надеюсь хорошенько подзаработать. Ха-ха, всего по <LastPlanetGoodsSale> cr!

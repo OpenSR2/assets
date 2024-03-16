@@ -1,0 +1,4 @@
+Image=GI,Bm.FormPlanet.2QuestIcon
+Pos=33,31,8
+Size=43,43
+Sme=21,21

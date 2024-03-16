@@ -1,0 +1,16 @@
+Blue00=data\Comet\Blue00.gai
+Blue01=data\Comet\Blue01.gai
+Blue02=data\Comet\Blue02.gai
+Blue03=data\Comet\Blue03.gai
+Green00=data\Comet\Green00.gai
+Green01=data\Comet\Green01.gai
+Green02=data\Comet\Green02.gai
+Green03=data\Comet\Green03.gai
+Red00=data\Comet\Red00.gai
+Red01=data\Comet\Red01.gai
+Red02=data\Comet\Red02.gai
+Red03=data\Comet\Red03.gai
+Yellow00=data\Comet\Yellow00.gai
+Yellow01=data\Comet\Yellow01.gai
+Yellow02=data\Comet\Yellow02.gai
+Yellow03=data\Comet\Yellow03.gai

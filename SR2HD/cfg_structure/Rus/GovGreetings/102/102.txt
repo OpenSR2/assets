@@ -1,0 +1,5 @@
+CoalitionAlreadyDefeated=Yes
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Bad
+DominatorsAlreadyDefeated=No
+Text=Ты гнусный тип, <Player> и твое появление здесь никого не радует. В старые времена я бы тебя упек в штрафной рейнджерский батальон и отправил валить доминаторов. Что ты вообще здесь делаешь, когда проклятые железки еще коптят небосвод?

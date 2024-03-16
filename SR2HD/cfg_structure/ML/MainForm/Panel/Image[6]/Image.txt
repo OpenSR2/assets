@@ -1,0 +1,4 @@
+Auto=Size
+Image=GI,Bm.FormMain3.Sub
+Name=SubName
+Pos=268,190,47

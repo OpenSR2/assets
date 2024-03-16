@@ -1,0 +1,15 @@
+AverageRadius=0500
+AverageSize=020
+DamageSet=Missile
+MaxDamage=012
+MinDamage=010
+MiningFactor=6
+MissileChanceToBeHit=50
+MissileMaxSpeed=1200
+MissileMinSpeed=600
+MissileRadius=1000
+ShotType=Rocket3
+Speed=000
+TechLevel=04
+kCost=04.0
+mWeaponDamage=1.00,1.15,1.30,1.45,1.60,1.75,1.90,2.05

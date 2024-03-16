@@ -1,0 +1,7 @@
+Access=1
+Dif=1
+Genre=текстово-логическая головоломка
+Group=0
+Image=Bm.PQI.Pharaon_01
+Length=0
+Name=Фараон

@@ -1,0 +1,6 @@
+100=Bm.Garbage.sf1
+100=Bm.Garbage.sf2
+100=Bm.Garbage.sf3
+100=Bm.Garbage.sf4
+100=Bm.Garbage.sf5
+100=Bm.Garbage.sf6

@@ -1,0 +1,7 @@
+Access=1
+Dif=2
+Genre=симулятор предвыборной кампании
+Group=0
+Image=Bm.PQI.Election_00
+Length=0
+Name=Выборы

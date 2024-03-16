@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.2UseRight
+Name=UseRight
+Pos=69,28,3
+Size=27,48

@@ -1,0 +1,10 @@
+Help=FormShip.HelpSortType
+ImageDown=GI,Bm.FormShip2.1RHSortTypeD
+ImageNormal=GI,Bm.FormShip2.1RHSortTypeN
+ImageNormalA=GI,Bm.FormShip2.1RHSortTypeA
+Kind=Normal
+KindHit=Rect
+Name=SortTypeRH
+Pos=129,411,-1
+Size=32,16
+Style=Style.GB.SoundNormal

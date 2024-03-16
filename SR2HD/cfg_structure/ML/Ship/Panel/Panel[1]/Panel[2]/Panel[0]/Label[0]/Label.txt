@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Pos=17,45,0
+Size=89,18
+Style=Style.Label.2Normal
+Text=FormShip.DestrLabel
+TextColor=0,0,0
+WordWrap=True

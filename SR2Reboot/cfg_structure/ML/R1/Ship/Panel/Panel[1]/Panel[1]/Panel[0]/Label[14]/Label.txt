@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Name=IEmpty
+Pos=15,57,0
+Size=70,14
+Style=Style.Label.1Normal
+TextColor=0,0,0

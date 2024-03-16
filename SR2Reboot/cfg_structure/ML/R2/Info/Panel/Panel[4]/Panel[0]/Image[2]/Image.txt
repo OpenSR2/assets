@@ -1,0 +1,3 @@
+Image=GI,Bm.FormInfo3.2MM_BG
+Pos=0,133,9
+Size=425,280

@@ -1,0 +1,16 @@
+2ImageP=GI,Bm.ShipP.PelengPC
+Anim=Anim\Anim.txt ^{
+}
+AnimS=AnimS\AnimS.txt ^{
+}
+Image=Bm.Ship.PelengPC
+ImageMap=Bm.Ship.SpecialMap
+ImageS=Bm.Ship.PelengPCs
+PosZ=Ship
+SizeImage=128,128
+SmeCenterImage=64,64
+SmeImage=64,64
+SmeImageMap=2,2
+StateTime=2000
+Tail1=53,112
+Tail2=74,112

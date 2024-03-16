@@ -1,0 +1,13 @@
+AtmColor=107,171,204
+BG=117
+Cloud0=2.00,Bm.Planet2.C.Solar.c08
+Cloud1=0.80,Bm.Planet2.C.Solar.c10
+Image=Bm.Planet2.T.Solar.Neptune
+ImageMap=Bm.Planet.M.0
+PosZ=Planet
+Quest=0
+Radius=70
+SmeImage=70,70
+SmeImageMap=4,4
+Space=380,110,0
+Style=1,7

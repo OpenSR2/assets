@@ -1,0 +1,10 @@
+Help=FormShip.HelpSortMoney
+ImageDown=GI,Bm.FormShip2.2RHSortMoneyD
+ImageNormal=GI,Bm.FormShip2.2RHSortMoneyN
+ImageNormalA=GI,Bm.FormShip2.2RHSortMoneyA
+Kind=Normal
+KindHit=Rect
+Name=SortMoneyRH
+Pos=249,526,-1
+Size=40,20
+Style=Style.GB.SoundNormal

@@ -1,0 +1,10 @@
+ImageDown=GI,Bm.FormCount2.1OkD
+ImageNormal=GI,Bm.FormCount2.1OkN
+ImageNormalA=GI,Bm.FormCount2.1OkA
+Kind=Normal
+KindHit=Graph
+Name=Ok
+Pos=68,130,5
+Size=39,17
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

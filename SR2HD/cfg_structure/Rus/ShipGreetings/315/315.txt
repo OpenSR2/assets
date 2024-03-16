@@ -1,0 +1,8 @@
+AutoTalk=Any
+FlyType=ToItem
+ItemType=Alcohol
+Priority=5
+Relations=Bad,Normal,Good,Best
+ShipRace=Peleng,People
+ShipType=Ranger,Pirate
+Text=По курсу целый контейнер выпивки! Осталось только его забрать, продать на ближайшей планете, а деньги - пропить.

@@ -1,0 +1,16 @@
+Caption=FormLoadQuest.Group1
+CaptionColorDown=0,0,0
+CaptionColorDownA=0,0,0
+CaptionColorNormal=165,183,143
+CaptionColorNormalA=165,183,143
+CaptionSme=0,-2,0,-2
+Font=Font.2Ranger
+ImageDown=GI,Bm.FormLoadQuest.2PageD
+ImageNormal=GI,Bm.FormLoadQuest.2PageN
+ImageNormalA=GI,Bm.FormLoadQuest.2PageA
+Kind=Fix
+KindHit=Rect
+Name=ButGroup1
+Pos=294,100,-3
+Size=124,25
+Style=Style.GB.SoundNormal

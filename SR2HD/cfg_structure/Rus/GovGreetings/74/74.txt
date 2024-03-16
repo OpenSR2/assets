@@ -1,0 +1,5 @@
+CurPlanetPirateClan=Yes
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Bad
+Priority=1
+Text=Какого черта тебе нужно на нашей планете, <Player>? Проваливай, пока я не позвал своих шестерок, и они не проломили твой тупой инопланетный череп!

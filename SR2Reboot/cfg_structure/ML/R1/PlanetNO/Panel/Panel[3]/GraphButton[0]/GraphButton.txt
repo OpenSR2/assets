@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormUnknown2.1ResearchH
+ImageDown=GI,Bm.FormUnknown2.1ResearchD
+ImageNormal=GI,Bm.FormUnknown2.1ResearchN
+ImageNormalA=GI,Bm.FormUnknown2.1ResearchA
+Kind=Disable
+KindHit=Graph
+Name=ButResearch
+Pos=64,1,8
+Size=37,26
+Style=Style.GB.SoundNormal

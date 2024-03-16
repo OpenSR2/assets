@@ -1,0 +1,13 @@
+AutoTalk=Yes
+FlyType=ToPlanet
+LastPlanetInCurStar=No
+LastPlanetRace=People
+Priority=2
+Relations=Bad,Normal,Good,Best
+ShipRace=People
+ShipStatus=Trader
+ShipType=Ranger
+Text=Приветствую, дружище <Player>! Как твои дела? А я вот лечу на планету <ToPlanet>, везу фэянам на экспертизу редкий минерал дизодан, найденный нашими умниками в обломках астероида.
+Text=Ха! Наши ученые просто побоялись заниматься им сами - говорят, что он на психику влияет. Нет, ты слыхал когда-нибудь подобную чушь? Приветствую, дружище <Player>... Думаю, они просто не хотели признаваться в собственном бессилии. Приветствую, дружище <Player>.
+Text=Приветствую, дружище <Player>... Приветствую, дружище <Player>...
+ToPlanetRace=Fei

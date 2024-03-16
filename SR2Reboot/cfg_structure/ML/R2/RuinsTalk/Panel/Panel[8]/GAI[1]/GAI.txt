@@ -1,0 +1,10 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-80]
+Image=Bm.Gov.2Gaal2Anim1a
+ImageFirst=Bm.Gov.2Gaal2Anim1i
+Name=PanelGaal_Anim1
+PBuf=True
+Pos=509,114,-2
+Size=436,654

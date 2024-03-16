@@ -1,0 +1,6 @@
+Frame=[60,0-99]
+Image=Bm.FormAbout2.1Jar2
+Name=Jar2
+Pos=500,500,19
+Size=170,170
+Sme=85,85

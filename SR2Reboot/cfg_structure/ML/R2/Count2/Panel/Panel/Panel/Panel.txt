@@ -1,0 +1,9 @@
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Name=PanelBar
+Panel=Panel\Panel.txt ^{
+}
+Pos=72,82,5
+Size=138,23

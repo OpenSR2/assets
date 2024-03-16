@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.1ForsageLight
+Name=ForsageLight
+Pos=18,4,4
+Size=18,17

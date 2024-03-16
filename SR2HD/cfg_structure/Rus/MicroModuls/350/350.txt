@@ -1,0 +1,15 @@
+Cost=130
+CustomTag=SuperHullPB
+Equipments=Hull
+KindGraph=1
+Name=Убийца
+Size=110
+Special=1
+Text=Скорость двигателя: <bonSpeed> ед.
+Text=Сила Энергетического оружия: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+Text=Сила ракетного оружия: <bonWMissile> ед.
+bonSpeed=150
+bonWEnergy=15
+bonWMissile=40
+bonWSplinter=30

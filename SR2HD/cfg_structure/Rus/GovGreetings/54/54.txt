@@ -1,0 +1,7 @@
+CurPlanetPirateClan=Any
+CurPlanetRace=Maloc
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Bad,Normal,Good,Best
+Priority=2
+Text=Парад, салют, боевые показы! Рейнджер <Player>, сегодня мы отмечаем всемалокский праздник "Семь взрывов".
+Text=Прошу вас долго меня не задерживать. Вам, инопланетянам, нас не понять.

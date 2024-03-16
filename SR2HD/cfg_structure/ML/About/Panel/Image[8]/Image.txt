@@ -1,0 +1,4 @@
+Image=GI,Bm.FormAbout.2Logo1C
+Name=Logo1C
+Pos=141,706,20
+Size=51,33

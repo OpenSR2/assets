@@ -1,0 +1,10 @@
+CurPlanetEconomy=Mixed,Industrial
+CurPlanetGoodsCnt=Small,Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small,Average
+CurPlanetPirateClan=No
+CurPlanetRace=Peleng
+CurPlanetRelations=Good,Best
+Goods=Arms
+Priority=30
+Text=На планете <CurPlanet> всегда рады видеть рейнджера, <Player>. Перевозки продуктов нашего военно-промышленного комплекса интересуют? Конечно, да!<br>Так вот, сегодня контейнеры с вооружением у нас всего по <CurPlanetGoodsSale> cr! Неплохо, а?

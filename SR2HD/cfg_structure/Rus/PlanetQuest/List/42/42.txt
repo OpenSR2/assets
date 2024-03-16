@@ -1,0 +1,7 @@
+Access=3
+Dif=21
+Genre=бродилка с логическими головоломками
+Group=1
+Image=Bm.PQI.feipsycho_00
+Length=1
+Name=Фэянская психушка

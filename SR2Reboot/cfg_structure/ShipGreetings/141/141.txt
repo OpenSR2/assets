@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Medicine
+LastPlanetGoodsCnt=Average,Big,Huge
+LastPlanetGoodsSale=Mini,Small,Average
+LastPlanetRace=Any
+Priority=30
+Relations=Good,Best
+ShipGoodsCnt=Mini,Small,Average,Big,Huge
+ShipType=Transport,Liner
+Text=Приветствую, <Player>! По дружбе могу подсказать тебе очень выгодный торговый маршрут, которым и сам пользуюсь порой. Лети на планету <LastPlanet> и затарься там медикаментами, цена которых сейчас составляет всего лишь <LastPlanetGoodsSale> cr за тонну. Их там полно сейчас! Ну а сбыть все это можно здесь, на планете <ToPlanet>. И, между прочим, по более чем приличным расценкам.
+ToPlanetGoodsBuy=Big,Huge

@@ -1,0 +1,11 @@
+ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+Kind=Fix
+KindHit=Graph
+Name=M01Peleng
+Pos=40,173,1
+Size=28,26
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

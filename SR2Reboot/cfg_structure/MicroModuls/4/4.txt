@@ -1,0 +1,8 @@
+Equipments=FuelTank
+Name=Ресиз
+Priority=100
+Size=120
+Text=Микромодуль третьего уровня. Размягчает и деформирует стенки топливного бака, увеличивая его объем.
+Text=Бак: <bonFuel> ед.
+Text=Размер: <clr>+20%<clrEnd>
+bonFuel=10

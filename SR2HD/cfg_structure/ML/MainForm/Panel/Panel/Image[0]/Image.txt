@@ -1,0 +1,6 @@
+Active=True
+KindX=Center
+KindY=Center
+Name=BGImage
+Pos=0,-229,10
+Size=1024,910

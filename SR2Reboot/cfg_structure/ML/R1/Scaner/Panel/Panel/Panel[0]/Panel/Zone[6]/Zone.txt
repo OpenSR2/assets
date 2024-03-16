@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_DefGenerator_0z
+Pos=215,329,0
+Size=79,61

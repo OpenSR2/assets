@@ -1,0 +1,7 @@
+Access=7
+Dif=32
+Genre=симулятор дальнобойщика
+Group=0
+Image=Bm.PQI.Driver_01
+Length=3
+Name=Водитель

@@ -1,0 +1,16 @@
+Artefact=2
+Cost=50
+Def=0
+Droid=0
+Forsage=1
+Hook=0
+Name=Жалящая стрела
+Probability=5
+Race=Maloc,Peleng,People,Fei,Gaal
+Radar=0
+Scaner=0
+ShipType=Warrior
+Size=80
+Text=Легкий боевой корабль для быстрого реагирования. Незаменим для охоты на пиратов.
+Weapon=0
+Year=0

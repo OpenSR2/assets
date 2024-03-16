@@ -1,0 +1,8 @@
+Active=False
+AlignX=Center
+Font=Font.1Ranger
+Name=CaptionSave
+Pos=263,11,2
+Size=234,20
+Text=FormSaveManager.CaptionSave
+TextColor=50,240,252

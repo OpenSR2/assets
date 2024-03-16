@@ -1,0 +1,10 @@
+Help=FormPQuest.HelpStyle1
+ImageDisable=GI,Bm.FormPQuest2.2Skin1D
+ImageDown=GI,Bm.FormPQuest2.2Skin1D
+ImageNormal=GI,Bm.FormPQuest2.2Skin1N
+ImageNormalA=GI,Bm.FormPQuest2.2Skin1A
+Kind=Disable
+KindHit=Rect
+Name=Style1
+Pos=529,742,2
+Size=15,15

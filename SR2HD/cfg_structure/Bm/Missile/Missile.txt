@@ -1,0 +1,6 @@
+w15=data\Missile\01.hai
+w15_2i=data\Missile\2_01.gi
+w18=data\Missile\02.hai
+w18_2i=data\Missile\2_02.gi
+w4=data\Missile\00.hai
+w4_2i=data\Missile\2_00.gi

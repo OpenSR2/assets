@@ -1,0 +1,7 @@
+Cost=Стоимость
+Main=Собственность вне корабля
+Page=Страница
+PlanetNO=( <Water> / <Land> / <Hill> )
+Size=Вес
+Star=Система <Star>
+StarInfo=система

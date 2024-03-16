@@ -1,0 +1,12 @@
+K0=K0\K0.txt ^{
+}
+K1=K1\K1.txt ^{
+}
+K2=K2\K2.txt ^{
+}
+K3=K3\K3.txt ^{
+}
+K4=K4\K4.txt ^{
+}
+K5=K5\K5.txt ^{
+}

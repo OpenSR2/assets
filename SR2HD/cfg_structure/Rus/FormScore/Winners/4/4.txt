@@ -1,0 +1,2 @@
+Name=Толстомордый
+Race=Maloc

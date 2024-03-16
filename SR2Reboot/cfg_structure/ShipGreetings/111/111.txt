@@ -1,0 +1,10 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Minerals
+Priority=50
+Relations=Good,Best
+ShipGoodsCnt=Small,Average,Big,Huge
+ShipRace=Maloc,Peleng,People,Fei
+ShipType=Transport,Liner
+Text=Приветствую, <Player>! Я планирую совершить посадку на планету <ToPlanet>. Слышал, что там в цене минералы и другие полезные ископаемые, а мои трюмы как раз забиты этой дрянью. Надеюсь все продать.
+ToPlanetGoodsBuy=Average,Big,Huge

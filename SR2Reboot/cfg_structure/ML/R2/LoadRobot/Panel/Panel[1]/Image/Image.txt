@@ -1,0 +1,3 @@
+Image=GI,Bm.FormLoadRobot.2BG
+Pos=0,0,97
+Size=973,701

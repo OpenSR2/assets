@@ -1,0 +1,9 @@
+Cost=120
+Equipments=FuelTank
+KindGraph=11
+Name=Пигамарный топливный бак II
+Priority=50
+Ruins=Any
+Special=1
+Text=Сила ракет: <bonWMissile> ед.
+bonWMissile=3

@@ -1,0 +1,19 @@
+Cost=110
+Equipments=Droid
+Fragility=90
+KindGraph=13
+Name=Нанобролитовый дроид III
+Priority=50
+Ruins=RC,WB,SB,BK,MC
+Special=1
+Text=<color=248,252,248>Оборудование, разработанное специально для армии, имеет минималистичный дизайн и помимо базовой деятельности улучшает атакующую мощь пилота. Также перенастраивает бортовую орудийную систему на повышение мощности выстрелов, из-за чего страдает дальность атаки.</color>
+Text=Навык атаки: <bonSkill1>
+Text=Сила энергетического оружия: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+Text=Дальность стрельбы: <bonWRadius> ед.
+Text=Навык торговли: <bonSkill4>
+bonSkill1=1
+bonSkill4=-1
+bonWEnergy=6
+bonWRadius=-30
+bonWSplinter=8

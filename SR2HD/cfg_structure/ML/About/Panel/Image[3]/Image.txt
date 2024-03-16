@@ -1,0 +1,4 @@
+Image=GI,Bm.FormAbout2.ShadeBottom
+Name=ShadeBottom
+Pos=0,275,300
+Size=1920,493

@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Center
+Font=Font.1Ranger
+Help=FormGameSet2.Common.HelpLevelProc
+Name=LevelProc
+Pos=48,384,4
+Size=78,16
+TextColor=88,229,255

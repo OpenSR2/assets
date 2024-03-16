@@ -1,0 +1,5 @@
+Image=GI,Bm.FormAB.2Right
+MVUpdate=True
+MouseBlocking=True
+Pos=0,0,9
+Size=191,106

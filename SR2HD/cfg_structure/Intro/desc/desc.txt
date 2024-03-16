@@ -1,0 +1,6 @@
+Frames=
+Image=
+Size=
+Sme=
+Sound=
+Time=

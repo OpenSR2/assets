@@ -1,0 +1,10 @@
+Cost=130
+Equipments=Hull
+KindHull=AST2
+Name=—кала
+Size=120
+Special=1
+Text=Ѕрон€ корпуса: <bonHull> ед.
+Text=Ёффективность дроида: <bonDroid> ед.
+bonDroid=20
+bonHull=10

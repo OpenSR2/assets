@@ -1,0 +1,3 @@
+Image=Simple,Bitmap.BGObj.O2_4
+PosZ=BGObj
+Radius=0

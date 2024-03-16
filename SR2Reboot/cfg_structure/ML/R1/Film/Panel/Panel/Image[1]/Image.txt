@@ -1,0 +1,5 @@
+Image=GI,Bm.PanelSpace2.1RadarA
+Name=MapPanelA
+Pos=333,-234,MapPanelF
+Size=117,117
+Sme=58,58

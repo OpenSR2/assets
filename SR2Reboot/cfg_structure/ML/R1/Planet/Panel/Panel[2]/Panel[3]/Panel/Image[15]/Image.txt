@@ -1,0 +1,4 @@
+Image=GI,Bm.FormLoad2.1BarRight
+Name=PLB16
+Pos=226,0
+Size=25,29

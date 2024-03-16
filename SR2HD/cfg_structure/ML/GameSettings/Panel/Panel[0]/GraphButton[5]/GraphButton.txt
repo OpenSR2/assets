@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpChar1
+ImageDown=GI,Bm.FormGameSet2.2Char1D
+ImageNormalA=GI,Bm.FormGameSet2.2Char1A
+Kind=Fix
+KindHit=Graph
+Name=Char1
+Pos=41,282,50
+Size=192,95
+Style=Style.GB.SoundNormal

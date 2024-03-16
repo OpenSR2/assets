@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Name=Caption
+Pos=68,30,5
+Size=161,43
+TextColor=0,0,0
+WordWrap=True

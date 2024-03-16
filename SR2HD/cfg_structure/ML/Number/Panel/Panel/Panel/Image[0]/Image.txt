@@ -1,0 +1,3 @@
+Image=GI,Bm.FormCount2.2BarBorder
+Pos=3,6,11
+Size=132,11

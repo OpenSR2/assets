@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Minerals
+PlayerStructure=Mini,Small
+Priority=50
+Relations=Good,Best
+ShipRace=Maloc,Peleng,People
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=Ты пойми меня правильно, <Player>, но твой корабль сильно поврежден. Тебе, друг, быстрей чиниться надо. Давай со мной на <ToPlanet> садись. Там твой корабль залатают, будешь как новенький.
+Text=Заодно и минеральчиков купишь. Планета-то не промышленная, она минералы экспортирует! По дешевке приобретешь несколько контейнеров. А потом к гаальцам или фэянам рванешь. Они за такой товар хорошо заплатят. Дело говорю!
+ToPlanetEconomy=Agriculture
+ToPlanetGoodsCnt=Small,Average,Big,Huge
+ToPlanetGoodsSale=Mini,Small

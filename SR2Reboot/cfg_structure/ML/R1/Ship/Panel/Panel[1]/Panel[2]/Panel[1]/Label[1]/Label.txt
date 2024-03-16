@@ -1,0 +1,10 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.1Ranger
+Pos=58,410,0
+Size=70,16
+Text=FormShip.LSort
+TextColor=0,24,41
+TextShadow=1
+TextShadowColor=61,88,95
+WordWrap=True

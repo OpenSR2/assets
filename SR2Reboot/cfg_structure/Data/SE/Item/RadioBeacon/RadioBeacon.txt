@@ -1,0 +1,4 @@
+1Image=Bm.ItemsUseless.1RadioBeacon_c
+2Image=Bm.ItemsUseless.2RadioBeacon_c
+ImageMap=Bm.Container.Map0
+PosZ=Item

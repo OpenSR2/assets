@@ -1,0 +1,4 @@
+Name=AnimGaalShip
+PBuf=True
+Size=650,650
+SkipImageUpdateRect=True

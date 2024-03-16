@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=Auto
+Font=Font.1Small
+Name=MessageText
+Pos=0,0,3,w
+Size=219,208
+TextColor=0,0,0
+WordWrap=True

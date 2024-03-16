@@ -1,0 +1,20 @@
+Circle=Circle[0]\Circle.txt ^{
+}
+Circle=Circle[1]\Circle.txt ^{
+}
+Circle=Circle[2]\Circle.txt ^{
+}
+GAI=GAI[0]\GAI.txt ^{
+}
+GAI=GAI[1]\GAI.txt ^{
+}
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+Panel=Panel\Panel.txt ^{
+}
+Pos=21,33
+Size=768,527

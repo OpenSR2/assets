@@ -1,0 +1,8 @@
+Active=True
+Name=QuestPanel
+PanelScrollBar=PanelScrollBar[0]\PanelScrollBar.txt ^{
+}
+PanelScrollBar=PanelScrollBar[1]\PanelScrollBar.txt ^{
+}
+Pos=0,0,8
+Size=1024,768

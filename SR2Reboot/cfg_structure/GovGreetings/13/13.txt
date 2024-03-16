@@ -1,0 +1,9 @@
+CurPlanetEconomy=Agriculture
+CurPlanetGoodsCnt=Small,Average,Big,Huge
+CurPlanetGoodsSale=Mini,Small
+CurPlanetRace=Maloc
+CurPlanetRelations=Normal,Good,Best
+Goods=Food
+PlayerRace=Peleng,People,Fei,Gaal
+Priority=10
+Text=<Player>, ты разве не знаешь, что твоя раса вымирает? Что скоро малоки будут править всей галактикой, а вы будете нам прислуживать?<br>Да ты, парень, не тушуйся. Это современный малокский юмор. Вам, тупым инопланетянам, не понять. Ха-ха!<br>Кстати, цены у нас тут на жратву небольшие. Отоваривайся, пожалуйста, здесь, на лучшей сельскохозяйственной планете в этом секторе!

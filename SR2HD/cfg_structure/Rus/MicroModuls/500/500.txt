@@ -1,0 +1,17 @@
+Cost=120
+Equipments=W01
+KindGraph=bon
+Name="Дифрод"
+OnPlanets=1
+Owner=Maloc,Peleng,People,Fei,Gaal
+Priority=10
+Ruins=Any
+ShotVisual=1
+Size=110
+Special=1
+Text=<color=248,252,248>Серийный комплект модифицированных узлов орудия и программных доработок "Дифрод", увеличивающих мощность оружия разных типов.</color><br> <br>
+Text=Бонус к урону: <clr>15%<clrEnd>
+Text=Мощность сканера: <bonScan> ед.
+Text=(необходимо превышение мощности сканера над защитой цели)
+WeaponMods=ScanBonus
+bonScan=-1

@@ -1,0 +1,9 @@
+Cost=120
+Equipments=Engine
+KindGraph=10
+Name=Таутитановый двигатель II
+Priority=50
+Ruins=Any
+Special=1
+Text=Генератор поля: <bonDef> ед.
+bonDef=4

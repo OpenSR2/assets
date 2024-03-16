@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Name=SortRank
+Pos=649,57,2
+Size=103,15
+Text=FormRating.Rank
+TextColor=0,0,0
+WordWrap=True

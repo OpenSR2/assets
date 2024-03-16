@@ -1,0 +1,9 @@
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Name=MainPanel
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Pos=0,0
+Size=1024,768

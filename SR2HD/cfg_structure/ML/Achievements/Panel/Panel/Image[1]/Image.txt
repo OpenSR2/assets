@@ -1,0 +1,4 @@
+Image=GI,Bm.FormLoadAB.NA
+Name=ImageMapBG
+Pos=658,168,99
+Size=256,256

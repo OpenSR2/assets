@@ -1,0 +1,6 @@
+CoalitionAlreadyDefeated=No
+DominatorsAlreadyDefeated=Yes
+InFear=No
+Relations=Normal,Good,Best
+ShipType=Warrior
+Text=<Player>, давай-ка, бросай свои ерундовые дела и собирайс€ с нами, пиратов уничтожать. — доминаторами мы успешно разобрались, теперь надо разогнать всех этих мерзавцев, которые воспользовались нашей слабостью и атаковали  оалицию в спину.

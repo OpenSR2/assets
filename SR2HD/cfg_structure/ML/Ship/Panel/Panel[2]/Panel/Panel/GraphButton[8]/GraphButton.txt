@@ -1,0 +1,10 @@
+Help=FormShip.HelpSortSize
+ImageDown=GI,Bm.FormShip2.SortStorageBySizeD
+ImageNormal=GI,Bm.FormShip2.SortStorageBySizeN
+ImageNormalA=GI,Bm.FormShip2.SortStorageBySizeA
+Kind=Disable
+KindHit=Rect
+Name=SortStorageBySize
+Pos=60,35,3
+Size=41,24
+Style=Style.GB.SoundNormal

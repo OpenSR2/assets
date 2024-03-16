@@ -1,0 +1,5 @@
+Image=GI,Bm.PanelSpace2.2PartnerPanel
+KindX=Right
+Name=MapPartnerBG2
+Pos=121,0,100
+Size=32,55

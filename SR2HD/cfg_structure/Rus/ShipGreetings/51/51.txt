@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=Any
+Goods=Luxury
+LastPlanetGoodsSale=Mini,Small
+LastPlanetInCurStar=No
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerRank=Rookie
+Relations=Bad,Normal
+ShipRace=Peleng
+ShipRaceIsPlayerRace=No
+ShipType=Transport,Liner,Diplomat
+Text=На пеленгском судне <Ship> очень рады возможности пообщаться с таким прославленным рейнджером, как ты! Я, капитан этого корабля, просто преклоняюсь перед твоими воинскими достижениями, <Player>! :-)
+Text=Так вот, знай, что на планете <LastPlanet> (система <LastPlanetStar>) резко взвинтились цены на предметы роскоши. Тебе нужно как можно быстрее приобрести где-то роскошь, и тогда получишь за товар тройную цену. Век будешь благодарить нас, пеленгов, которые всегда говорят только от чистого сердца!

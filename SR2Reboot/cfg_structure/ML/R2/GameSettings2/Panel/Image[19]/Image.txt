@@ -1,0 +1,3 @@
+Image=GI,Bm.FormGameSet2.2LevelUp
+Pos=533,44,10
+Size=474,91

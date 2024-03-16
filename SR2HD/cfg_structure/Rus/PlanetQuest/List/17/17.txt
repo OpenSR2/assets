@@ -1,0 +1,7 @@
+Access=1
+Dif=3
+Genre=бродилка с логическими элементами
+Group=0
+Image=Bm.PQI.Ministry_00
+Length=2
+Name=Министерство

@@ -1,0 +1,3 @@
+Name=S_CargoHook_0anim
+Pos=142,329,-1
+Size=75,61

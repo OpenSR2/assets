@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=Top
+Font=Font.2Normal
+Name=InfoShipEffects
+Pos=125,170,8
+Size=130,15
+TextColor=255,255,255
+WordWrap=True

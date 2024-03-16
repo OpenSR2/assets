@@ -1,0 +1,4 @@
+Image=GI,Bm.PanelMain2.2WarningSpace
+Name=PM_WarningSpace
+Pos=498,53,8
+Size=89,24

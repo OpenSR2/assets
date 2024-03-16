@@ -1,0 +1,4 @@
+Image=GI,Bm.FormGameSet2.2Name
+Name=ImageName
+Pos=171,516,50
+Size=122,21

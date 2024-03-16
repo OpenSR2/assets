@@ -1,0 +1,4 @@
+Image=GI,Bm.FormHangar2.2Light2
+Name=Light2
+Pos=166,81,-3
+Size=33,18

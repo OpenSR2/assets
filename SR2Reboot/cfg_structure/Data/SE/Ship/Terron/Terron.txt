@@ -1,0 +1,10 @@
+T1=T1\T1.txt ^{
+}
+T2=T2\T2.txt ^{
+}
+T3=T3\T3.txt ^{
+}
+T4=T4\T4.txt ^{
+}
+T5=T5\T5.txt ^{
+}

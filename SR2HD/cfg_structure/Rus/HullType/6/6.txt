@@ -1,0 +1,17 @@
+Artefact=0
+Cost=150
+Def=1
+Droid=0
+Forsage=0
+Fragility=110
+Hook=0
+Name=Бизнес-класс
+Probability=3
+Race=People, Peleng, Fei, Gaal
+Radar=0
+Scaner=1
+ShipType=Transport,Liner
+Size=120
+Text=Комфортабельный корпус повышенной надежности.
+Weapon=0
+Year=0

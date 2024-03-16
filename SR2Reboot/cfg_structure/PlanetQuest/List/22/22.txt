@@ -1,0 +1,7 @@
+Access=8
+Dif=34
+Genre=бродилка с логическими головоломками
+Group=0
+Image=Bm.PQI.Park_05
+Length=3
+Name=Парк аттракционов

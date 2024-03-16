@@ -1,0 +1,16 @@
+Artefact=0
+Cost=40
+Def=-1
+Droid=0
+Forsage=1
+Hook=0
+Name=Экстрим-лайт
+Probability=10
+Race=Maloc,People,Peleng
+Radar=0
+Scaner=0
+ShipType=Ranger, Pirate
+Size=60
+Text=Низкобюджетная серия для экстремальных полетов на высоких скоростях. Максимум скорости - минимум защиты.
+Weapon=-1
+Year=0

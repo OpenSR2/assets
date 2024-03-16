@@ -1,0 +1,9 @@
+Auto=Size
+ImageDown=GI,Bm.FormMain2.1ButExitD
+ImageNormal=GI,Bm.FormMain2.1ButExitN
+ImageNormalA=GI,Bm.FormMain2.1ButExitA
+Kind=Normal
+KindHit=Rect
+Name=Exit
+Pos=477,452,20
+Style=Style.GB.SoundNormal

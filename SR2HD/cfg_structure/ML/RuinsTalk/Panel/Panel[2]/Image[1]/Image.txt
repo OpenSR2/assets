@@ -1,0 +1,7 @@
+Active=True
+Image=GI,Bm.FormLoad2.ShipPanel
+KindX=Center
+KindY=Center
+Name=ShipPanelImage
+Pos=0,0,9
+Size=1024,768

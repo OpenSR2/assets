@@ -1,0 +1,5 @@
+Cost=Small
+Name=Святой Грааль
+Owner=Maloc
+Size=25
+Text=Малокский Святой Грааль

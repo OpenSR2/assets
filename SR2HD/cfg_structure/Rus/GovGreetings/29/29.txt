@@ -1,0 +1,10 @@
+CurPlanetGoodsCnt=Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small
+CurPlanetGoverment=Monarchy,Republic,Democracy
+CurPlanetPirateClan=No
+CurPlanetRace=Peleng,People,Fei,Gaal
+CurPlanetRelations=Good,Best
+Goods=Luxury
+Priority=10
+Text=Дорогой <Player>! На нашей цветущей планете проводится распродажа предметов роскоши! Чудесные малокские табуретки, человеческие валенки и другие чудеса искусства всего по <CurPlanetGoodsSale> cr за тонну! Поспеши в торговый центр!

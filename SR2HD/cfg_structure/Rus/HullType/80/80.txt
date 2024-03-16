@@ -1,0 +1,17 @@
+Artefact=3
+Cost=160
+Def=1
+Droid=1
+Forsage=1
+Fragility=85
+Hook=1
+Name=Фантом
+Probability=20
+Race=People
+Radar=1
+Scaner=1
+ShipType=Diplomat
+Size=70
+Text=Неприметный корпус, используется для перевозки документов под грифом "Совершенно секретно".
+Weapon=4
+Year=10

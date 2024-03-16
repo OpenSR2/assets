@@ -1,0 +1,9 @@
+FlyType=Any
+Priority=50
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Pirate
+ShipStructure=Small,Average,Big
+ShipType=Pirate
+Text=Здорово, <Player>! Я тут поссорился из-за бабок с дружком - командиром корабля <FullShipBad>. Мы не поделили кое-что, и он теперь на меня наезжает. Было бы здорово, если бы ты зашел с тылу и всадил бы ему из всех орудий!
+Text=А его добро потом поделим!

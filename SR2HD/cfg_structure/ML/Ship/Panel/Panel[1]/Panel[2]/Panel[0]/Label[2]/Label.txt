@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Small
+Name=IDestrShields
+Pos=48,150,0
+Size=52,31
+Style=Style.Label.2Normal
+TextColor=0,0,0
+WordWrap=True

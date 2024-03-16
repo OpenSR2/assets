@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormRating2.2WariorN
+ImageDown=GI,Bm.FormRating2.2WariorN
+ImageNormal=GI,Bm.FormRating2.2WariorN
+ImageNormalA=GI,Bm.FormRating2.2WariorA
+Kind=Disable
+KindHit=Rect
+Name=ButWarior
+Pos=28,51,4
+Size=158,171
+Style=Style.GB.SoundNormal

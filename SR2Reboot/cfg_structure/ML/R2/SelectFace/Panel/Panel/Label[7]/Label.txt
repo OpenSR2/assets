@@ -1,0 +1,8 @@
+AlignX=Auto
+AlignY=Top
+Font=Font.2Normal
+Name=Pact
+Pos=160,583,2
+Size=335,114
+TextColor=191,185,128
+WordWrap=True

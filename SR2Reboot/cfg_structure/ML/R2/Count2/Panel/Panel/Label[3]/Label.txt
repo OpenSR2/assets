@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=Center
+Font=Font.2Normal
+Name=Sum
+Pos=170,117,5
+Size=54,24
+TextColor=0,0,0

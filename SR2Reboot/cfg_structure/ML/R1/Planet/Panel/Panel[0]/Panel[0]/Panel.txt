@@ -1,0 +1,6 @@
+Active=False
+MVUpdate=True
+MouseBlocking=True
+Name=PM_PanelMsg
+Pos=87,579,2
+Size=283,20

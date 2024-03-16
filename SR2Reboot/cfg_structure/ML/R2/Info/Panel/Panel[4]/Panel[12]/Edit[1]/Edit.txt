@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.2Normal
+MaxLen=30
+Name=M12DamageMax
+Pos=344,122,0
+Size=42,17
+TextColor=0,0,0

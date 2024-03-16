@@ -1,0 +1,43 @@
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Name=MainPanel
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Panel=Panel[2]\Panel.txt ^{
+}
+Panel=Panel[3]\Panel.txt ^{
+}
+Panel=Panel[4]\Panel.txt ^{
+}
+Panel=Panel[5]\Panel.txt ^{
+}
+Panel=Panel[6]\Panel.txt ^{
+}
+Panel=Panel[7]\Panel.txt ^{
+}
+Panel=Panel[8]\Panel.txt ^{
+}
+Panel=Panel[9]\Panel.txt ^{
+}
+Panel=Panel[10]\Panel.txt ^{
+}
+Panel=Panel[11]\Panel.txt ^{
+}
+Panel=Panel[12]\Panel.txt ^{
+}
+Panel=Panel[13]\Panel.txt ^{
+}
+Panel=Panel[14]\Panel.txt ^{
+}
+Panel=Panel[15]\Panel.txt ^{
+}
+Panel=Panel[16]\Panel.txt ^{
+}
+Pos=0,0
+Size=1024,768
+XviD=XviD\XviD.txt ^{
+}

@@ -1,0 +1,8 @@
+2CloseA=data\FormRating\2CloseA.gi
+2CloseD=data\FormRating\2CloseD.gi
+2Down=data\FormRating\2Down.gi
+2Empty=data\FormRating\2Empty.gi
+2Panel=data\FormRating\2Panel.gi
+2Status=data\FormRating\2Status.gai
+2Up=data\FormRating\2Up.gi
+2VLine=data\FormRating\2VLine.gi

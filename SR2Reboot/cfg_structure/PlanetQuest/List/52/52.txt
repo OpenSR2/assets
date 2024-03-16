@@ -1,0 +1,7 @@
+Access=1
+Dif=8
+Genre=бродилка с приключениями
+Group=1
+Image=Bm.PQI.edelweiss_00
+Length=2
+Name=Эдельвейс

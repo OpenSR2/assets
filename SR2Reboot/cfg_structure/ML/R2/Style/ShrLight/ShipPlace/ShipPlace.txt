@@ -1,0 +1,3 @@
+Pos=1,1,-2
+ShrLight=1
+Size=32,32

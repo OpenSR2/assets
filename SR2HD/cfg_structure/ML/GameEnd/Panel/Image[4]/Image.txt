@@ -1,0 +1,4 @@
+Image=GI,Bm.FormEnd2.Screen
+Name=ImageScreen
+Pos=0,-131,998
+Size=427,997

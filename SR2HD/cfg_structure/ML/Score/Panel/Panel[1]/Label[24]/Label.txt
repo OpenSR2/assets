@@ -1,0 +1,6 @@
+AlignX=Left
+Font=Font.2Normal
+Name=ITerron
+Pos=641,568,2
+Size=245,20
+TextColor=212,212,212

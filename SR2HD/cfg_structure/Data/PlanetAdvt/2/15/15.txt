@@ -1,0 +1,2 @@
+Image2=GAI,Bm.PlanetAdvt.2_4_15
+Owner=Fei

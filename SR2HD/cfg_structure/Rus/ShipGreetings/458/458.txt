@@ -1,0 +1,7 @@
+CoalitionAlreadyDefeated=No
+DominatorsAlreadyDefeated=Yes
+InFear=No
+Relations=Normal,Good,Best
+ShipRace=Fei,Gaal,People
+ShipType=Ranger
+Text=Сейчас вот покончим с пиратами, <Player>, и вернусь я домой. У меня домик в пригороде, вокруг сад, цветы цветут, птички поют. Родственники еды вкусной наготовят. Буду сидеть у окошка и вспоминать, как воевали с доминаторами. Лепота, одним словом.

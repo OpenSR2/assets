@@ -1,0 +1,64 @@
+1C=1C\1C.txt ^{
+}
+All=All\All.txt ^{
+}
+ArcadeBattle=ArcadeBattle\ArcadeBattle.txt ^{
+}
+BK=BK\BK.txt ^{
+}
+Base=Base\Base.txt ^{
+}
+Battle=Battle\Battle.txt ^{
+}
+Begin ^{
+}
+CB=CB\CB.txt ^{
+}
+Destroyer=Destroyer\Destroyer.txt ^{
+}
+Excalibur=Excalibur\Excalibur.txt ^{
+}
+GalaxyMap=GalaxyMap\GalaxyMap.txt ^{
+}
+Hyper=Hyper\Hyper.txt ^{
+}
+Hyper2=Hyper2\Hyper2.txt ^{
+}
+Intro=Intro\Intro.txt ^{
+}
+Introduction=Introduction\Introduction.txt ^{
+}
+Logo=Logo\Logo.txt ^{
+}
+Loss=Loss\Loss.txt ^{
+}
+MC=MC\MC.txt ^{
+}
+Nation=Nation\Nation.txt ^{
+}
+Outro=Outro\Outro.txt ^{
+}
+PB=PB\PB.txt ^{
+}
+Quest=Quest\Quest.txt ^{
+}
+QuestSoundtrack=QuestSoundtrack\QuestSoundtrack.txt ^{
+}
+RC=RC\RC.txt ^{
+}
+Record=Record\Record.txt ^{
+}
+Robot=Robot\Robot.txt ^{
+}
+SB=SB\SB.txt ^{
+}
+SNK=SNK\SNK.txt ^{
+}
+Song=Song\Song.txt ^{
+}
+StarMap=StarMap\StarMap.txt ^{
+}
+WB=WB\WB.txt ^{
+}
+Win=Win\Win.txt ^{
+}

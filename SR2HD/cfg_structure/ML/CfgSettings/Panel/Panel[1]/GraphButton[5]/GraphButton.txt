@@ -1,0 +1,10 @@
+Help=FormCfgSettings.HelpButCancel
+ImageDown=GI,Bm.FormOptions2.2CancelD
+ImageNormal=GI,Bm.FormOptions2.2CancelN
+ImageNormalA=GI,Bm.FormOptions2.2CancelA
+Kind=Normal
+KindHit=Rect
+Name=Cancel
+Pos=675,21,2
+Size=67,45
+Style=Style.GB.SoundNormal

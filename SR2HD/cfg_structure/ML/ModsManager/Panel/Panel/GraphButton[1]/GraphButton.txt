@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormScore2.2CloseD
+ImageNormal=GI,Bm.FormScore2.2CloseN
+ImageNormalA=GI,Bm.FormScore2.2CloseA
+Kind=Normal
+KindHit=Rect
+Name=Cancel
+Pos=786,595,2
+Size=79,33
+Style=Style.GB.SoundNormal

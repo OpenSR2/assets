@@ -1,0 +1,7 @@
+Access=4
+Dif=15
+Genre=логическая игра
+Group=0
+Image=Bm.PQI.Player_00
+Length=0
+Name=Проигрыватель

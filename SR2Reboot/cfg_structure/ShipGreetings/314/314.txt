@@ -1,0 +1,8 @@
+AutoTalk=Any
+FlyType=ToItem
+ItemType=Weapon
+Priority=10
+Relations=Normal,Good,Best
+ShipNeedInItem=Yes
+ShipType=Ranger,Pirate
+Text=Отличная пушечка <Item>! Как раз то, чего мне не хватает. Ты, <Player>, даже не вздумай перехватить ее у меня - мне это орудие позарез нужно.

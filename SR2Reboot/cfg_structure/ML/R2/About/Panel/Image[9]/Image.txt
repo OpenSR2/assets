@@ -1,0 +1,3 @@
+Image=GI,Bm.FormAbout2.2LogoSR
+Pos=30,9,20
+Size=235,62

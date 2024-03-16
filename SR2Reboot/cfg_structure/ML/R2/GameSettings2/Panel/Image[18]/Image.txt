@@ -1,0 +1,3 @@
+Name=ItemI12
+Pos=892,521,40
+Size=36,36

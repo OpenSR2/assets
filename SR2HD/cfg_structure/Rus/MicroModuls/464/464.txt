@@ -1,0 +1,21 @@
+Cost=200
+Equipments=Hull
+KindGraph=G
+Name=Корпус "Мирный корсар" I
+Priority=10
+Ruins=PB,CB
+Size=100
+Special=1
+Text=<color=248,252,248>Корпус для тех, кто любит разорять мирные корабли, но при этом не хочет оказаться уничтоженным военными Коалиции. Вся структура корабля разработана с учетом максимальной защиты. Его минус - это сложные электронные системы управления. Из-за их медлительности и неточности навыки пилота мало на что влияют.</color>
+Text=Броня корпуса: <bonHull> ед.
+Text=Генератор поля: <bonDef> ед.
+Text=Навык атаки: <bonSkill1>
+Text=Навык техники: <bonSkill3>
+bonDef=3
+bonHull=1
+bonSkill1=-1
+bonSkill3=-1
+bonSlotArt=-2
+bonSlotDroid=-1
+bonSlotForsage=-1
+bonSlotWeapon=-2

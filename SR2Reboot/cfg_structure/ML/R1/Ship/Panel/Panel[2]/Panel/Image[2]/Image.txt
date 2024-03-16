@@ -1,0 +1,3 @@
+Name=Storage_1i
+Pos=46,5,0
+Size=30,30

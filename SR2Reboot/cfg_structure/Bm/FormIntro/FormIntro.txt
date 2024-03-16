@@ -1,0 +1,16 @@
+1ButLeftA=data\FormIntro\1ButLeftA.gi
+1ButLeftD=data\FormIntro\1ButLeftD.gi
+1ButLeftN=data\FormIntro\1ButLeftN.gi
+1ButRightA=data\FormIntro\1ButRightA.gi
+1ButRightD=data\FormIntro\1ButRightD.gi
+1ButRightN=data\FormIntro\1ButRightN.gi
+1Panel=data\FormIntro\1Panel.gi
+1bg=data\FormIntro\1bg.gi
+2ButLeftA=data\FormIntro\2ButLeftA.gi
+2ButLeftD=data\FormIntro\2ButLeftD.gi
+2ButLeftN=data\FormIntro\2ButLeftN.gi
+2ButRightA=data\FormIntro\2ButRightA.gi
+2ButRightD=data\FormIntro\2ButRightD.gi
+2ButRightN=data\FormIntro\2ButRightN.gi
+2Panel=data\FormIntro\2Panel.gi
+2bg=data\FormIntro\2bg.gi

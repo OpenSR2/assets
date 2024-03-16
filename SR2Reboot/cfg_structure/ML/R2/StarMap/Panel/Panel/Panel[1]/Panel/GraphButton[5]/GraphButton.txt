@@ -1,0 +1,11 @@
+Help=Help.ButSelAllWeapon
+ImageDisable=GI,Bm.PanelMain2.2WAllH
+ImageDown=GI,Bm.PanelMain2.2WAllD
+ImageNormal=GI,Bm.PanelMain2.2WAllN
+ImageNormalA=GI,Bm.PanelMain2.2WAllA
+Kind=Disable
+KindHit=Graph
+Name=PS_WA
+Pos=268,7,5
+Size=28,23
+Style=Style.GB.SoundNormal

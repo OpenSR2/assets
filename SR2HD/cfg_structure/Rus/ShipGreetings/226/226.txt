@@ -1,0 +1,11 @@
+AutoTalk=Any
+DominatorsAlreadyDefeated=No
+FlyType=ToStar
+KlingInToStar=2,3,4,5,6,7,8,9,Many
+Priority=50
+Relations=Bad,Normal,Good,Best
+ShipType=Ranger
+Text=Привет, <Player>. Ты в курсе, что доминаторы напали на систему <ToStar>? Я отправляюсь туда, чтобы помочь нашим.
+Text=Это и твой долг тоже!
+ToStarControlByKling=No
+ToStarInBattle=Yes

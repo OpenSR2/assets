@@ -1,0 +1,7 @@
+Access=5
+Dif=22
+Genre=логико-математическая игра
+Group=0
+Image=Bm.PQI.Pizza_00
+Length=2
+Name=Пицца

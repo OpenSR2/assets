@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormTalk2.1CenterD
+ImageNormal=GI,Bm.FormTalk2.1CenterN
+ImageNormalA=GI,Bm.FormTalk2.1CenterA
+Kind=Normal
+KindHit=Rect
+Name=CenterShip
+Pos=70,105,2
+Size=27,22
+Style=Style.GB.SoundNormal

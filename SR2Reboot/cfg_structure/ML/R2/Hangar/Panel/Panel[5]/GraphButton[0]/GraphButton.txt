@@ -1,0 +1,11 @@
+Help=Help.ButRepair
+ImageDisable=GI,Bm.FormHangar2.2RepairH
+ImageDown=GI,Bm.FormHangar2.2RepairD
+ImageNormal=GI,Bm.FormHangar2.2RepairN
+ImageNormalA=GI,Bm.FormHangar2.2RepairA
+Kind=Disable
+KindHit=Rect
+Name=ButRepair
+Pos=18,11,8
+Size=63,37
+Style=Style.GB.SoundNormal

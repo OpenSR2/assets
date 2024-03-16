@@ -1,0 +1,4 @@
+Auto=Size
+Image=GI,Bm.FormMain3.2snk
+Name=LogoSNK
+Pos=943,681

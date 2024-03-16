@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=IKillPirate
+Pos=624,196,2
+Size=73,16
+TextColor=255,222,0

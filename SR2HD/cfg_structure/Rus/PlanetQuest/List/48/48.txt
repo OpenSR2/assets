@@ -1,0 +1,7 @@
+Access=3
+Dif=26
+Genre=бродилка с логическими головоломками
+Group=1
+Image=Bm.PQI.van_44
+Length=2
+Name=Туристы

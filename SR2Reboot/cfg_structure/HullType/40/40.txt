@@ -1,0 +1,16 @@
+Artefact=0
+Cost=30
+Def=-1
+Droid=-1
+Forsage=-1
+Hook=0
+Name=Микробус
+Probability=100
+Race=Maloc,Peleng,People,Fei,Gaal
+Radar=0
+Scaner=0
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Size=80
+Text=Из этого корпуса удалены все лишние и редко используемые модули.
+Weapon=0
+Year=0

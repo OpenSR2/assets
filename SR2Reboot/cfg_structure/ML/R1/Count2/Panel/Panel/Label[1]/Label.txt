@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=Center
+Font=Font.1Normal
+Name=Count
+Pos=60,96,5
+Size=38,19
+TextColor=0,0,0

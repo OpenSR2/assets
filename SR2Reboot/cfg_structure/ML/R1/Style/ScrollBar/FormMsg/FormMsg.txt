@@ -1,0 +1,15 @@
+ImageBottomA=GI,Bm.FormMsg.1TBBottomA
+ImageBottomD=GI,Bm.FormMsg.1TBBottomD
+ImageBottomN=GI,Bm.FormMsg.1TBBottomN
+ImageCenterA=GI,Bm.FormMsg.1TBCenterA
+ImageCenterD=GI,Bm.FormMsg.1TBCenterD
+ImageCenterN=GI,Bm.FormMsg.1TBCenterN
+ImageDownA=GI,Bm.FormMsg.1TBDownA
+ImageDownD=GI,Bm.FormMsg.1TBDownD
+ImageDownN=GI,Bm.FormMsg.1TBDownN
+ImageTopA=GI,Bm.FormMsg.1TBTopA
+ImageTopD=GI,Bm.FormMsg.1TBTopD
+ImageTopN=GI,Bm.FormMsg.1TBTopN
+ImageUpA=GI,Bm.FormMsg.1TBUpA
+ImageUpD=GI,Bm.FormMsg.1TBUpD
+ImageUpN=GI,Bm.FormMsg.1TBUpN

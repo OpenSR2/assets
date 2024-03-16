@@ -1,0 +1,6 @@
+CoalitionAlreadyDefeated=Yes
+DominatorsAlreadyDefeated=Yes
+InFear=No
+Relations=Normal,Good,Best
+ShipType=Pirate
+Text=Вот скажи, <Player>, не скучно тебе живется? Мне вот скучно. Коалиции уже нет, доминаторов тоже. Только и остается, что мирные корабли пощипывать. Правда, они слабаки и еле ползают, никакого адреналина от боя не получаешь. Хоть за клисанами в другой рукав галактики улетай...

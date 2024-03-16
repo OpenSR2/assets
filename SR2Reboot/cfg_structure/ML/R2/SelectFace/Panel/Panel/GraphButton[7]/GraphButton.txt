@@ -1,0 +1,8 @@
+ImageDown=GI,Bm.FormMessageBox.2OkD
+ImageNormalA=GI,Bm.FormMessageBox.2OkA
+Kind=Normal
+KindHit=Graph
+Name=Ok
+Pos=200,710,0
+Size=48,21
+Style=Style.GB.SoundNormal

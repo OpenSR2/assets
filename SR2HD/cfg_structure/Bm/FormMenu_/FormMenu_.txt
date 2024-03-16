@@ -1,0 +1,11 @@
+2ContinueA=data\FormMenu\2ContinueA.gi
+2ContinueH=data\FormMenu\2ContinueH.gi
+2ExitA=data\FormMenu\2ExitA.gi
+2ExitH=data\FormMenu\2ExitH.gi
+2OpenA=data\FormMenu\2OpenA.gi
+2OpenH=data\FormMenu\2OpenH.gi
+2SaveA=data\FormMenu\2SaveA.gi
+2SaveH=data\FormMenu\2SaveH.gi
+2SettingsA=data\FormMenu\2SettingsA.gi
+2SettingsH=data\FormMenu\2SettingsH.gi
+2bg=data\FormMenu\2bg.gi

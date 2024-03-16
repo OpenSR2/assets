@@ -1,0 +1,4 @@
+1Arrow=data\FormTalk\1Arrow.gi
+1bg=data\FormTalk\1bg.gi
+2Arrow=data\FormTalk\2Arrow.gi
+2bg=data\FormTalk\2bg.gi

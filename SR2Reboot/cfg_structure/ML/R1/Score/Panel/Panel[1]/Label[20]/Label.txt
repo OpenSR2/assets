@@ -1,0 +1,6 @@
+AlignX=Left
+Font=Font.1Normal
+Name=IPlanetBattles
+Pos=494,377,2
+Size=277,16
+TextColor=212,212,212

@@ -1,0 +1,3 @@
+Continue=Далее
+History=History\History.txt ^{
+}

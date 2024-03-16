@@ -1,0 +1,19 @@
+Cost=500
+Equipments=Hull
+KindGraph=H
+Name=Корпус "Броненосец" IV
+Priority=70
+Ruins=RC
+Size=130
+Special=1
+Text=<color=248,252,248>Военная серия акриновых корпусов, предназначена для проведения боевых операций по принципу: "прилетел, перестрелял всех вокруг, победил". В народе еще именуется как "Утюг", из-за внешнего вида и неповоротливости при маневрах.</color>
+Text=Сила энергетического оружия: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+Text=Генератор поля: <bonDef> ед.
+Text=Скорость двигателя: <bonSpeed> ед.
+Text=Навык маневренности: <bonSkill2>
+bonDef=4
+bonSkill2=-2
+bonSpeed=-75
+bonWEnergy=4
+bonWSplinter=3

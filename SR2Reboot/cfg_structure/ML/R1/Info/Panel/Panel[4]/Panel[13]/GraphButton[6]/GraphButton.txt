@@ -1,0 +1,11 @@
+ImageDown=GI,Bm.FormInfo3.1MGoods6D
+ImageDownA=GI,Bm.FormInfo3.1MGoods6C
+ImageNormal=GI,Bm.FormInfo3.1MGoods6N
+ImageNormalA=GI,Bm.FormInfo3.1MGoods6A
+Kind=Fix
+KindHit=Rect
+Name=M13Goods6
+Pos=93,189,1
+Size=22,28
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

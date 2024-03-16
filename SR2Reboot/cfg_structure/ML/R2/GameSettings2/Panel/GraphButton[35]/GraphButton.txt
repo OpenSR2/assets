@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpOk
+ImageDown=GI,Bm.FormGameSet2.2FooterRD
+ImageNormalA=GI,Bm.FormGameSet2.2FooterRA
+Kind=Disable
+KindHit=Graph
+Name=Ok
+Pos=967,686,40
+Size=39,70
+Style=Style.GB.SoundNormal

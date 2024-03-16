@@ -1,0 +1,4 @@
+Image=GI,Bm.FormNote.2HP_W4
+Name=InfoHull_W4
+Pos=24,6
+Size=16,13

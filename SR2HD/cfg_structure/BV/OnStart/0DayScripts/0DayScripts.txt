@@ -1,0 +1,5 @@
+00=ScriptRun(ShipStar(Player()),GetShipPlanet(Player()),'MS_Begin');
+01=ScriptRun(ShipStar(Player()),GetShipPlanet(Player()),'MS_SB1');
+02=ScriptRun(ShipStar(Blazer()),StarPlanets(ShipStar(Blazer()),0),'MS_Blazer');
+03=ScriptRun(ShipStar(Keller()),StarPlanets(ShipStar(Keller()),0),'MS_Keller');
+04=ScriptRun(ShipStar(Terron()),StarPlanets(ShipStar(Terron()),0),'MS_Terron');

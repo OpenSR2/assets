@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormHangar2.2CloseD
+ImageNormal=GI,Bm.FormHangar2.2CloseN
+ImageNormalA=GI,Bm.FormHangar2.2CloseA
+Kind=Normal
+KindHit=Rect
+Name=ButClose
+Pos=220,26,8
+Size=61,35
+Style=Style.GB.SoundNormal

@@ -1,0 +1,3 @@
+Name=RankImage
+Pos=12,10,8
+Size=43,43

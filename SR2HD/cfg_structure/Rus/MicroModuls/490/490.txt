@@ -1,0 +1,21 @@
+Cost=100
+Equipments=Hull
+HullGraphSize=200
+KindGraph=L
+Name=Тень Империи
+Priority=50
+Size=100
+Special=1
+Text=<color=248,252,248>Современные технологии смогли адаптировать доисторического великана для использования рейнджерами. Тем не менее, внутри периодически раздается странная музыка, напоминающая марш, а боевая мощь этой махины продолжает поражать даже самых прожженных вояк.</color>
+Text=Навык атаки: <bonSkill1>
+Text=Навык маневренности: <bonSkill2>
+Text=Навык лидерства: <bonSkill6>
+Text=Навык обаяния: <bonSkill5>
+Text=Броня корпуса: <bonHull>
+bonHull=4
+bonSkill1=2
+bonSkill2=2
+bonSkill5=-2
+bonSkill6=2
+bonSlotForsage=-1
+bonSlotWeapon=-2

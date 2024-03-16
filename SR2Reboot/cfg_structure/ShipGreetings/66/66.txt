@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=Any
+PlayerFlyToShip=Yes
+PlayerRace=Peleng
+PlayerStatus=Pirate,Warrior
+Priority=10
+Relations=Bad,Normal,Good
+ShipFlyToPlayer=No
+ShipRaceIsPlayerRace=No
+ShipType=Transport,Liner,Diplomat
+Text=ј ну, <Player>, лучше по-хорошему отстань от мен€, пиратска€ морда! я знаю, что ты задумал недоброе.   вам, пеленгам, спиной лучше не поворачиватьс€ - так и норовите подлость какую сделать.

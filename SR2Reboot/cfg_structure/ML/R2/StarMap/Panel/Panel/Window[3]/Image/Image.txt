@@ -1,0 +1,3 @@
+Name=InfoPlanetEmRace
+Pos=211,128,8
+Size=35,35

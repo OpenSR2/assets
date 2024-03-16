@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpSkill4
+ImageDown=GI,Bm.FormGameSet2.2Skill4D
+ImageNormalA=GI,Bm.FormGameSet2.2Skill4A
+Kind=Fix
+KindHit=Graph
+Name=Skill4
+Pos=236,112,50
+Size=36,36
+Style=Style.GB.SoundNormal

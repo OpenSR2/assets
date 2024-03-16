@@ -1,0 +1,8 @@
+CurPlanetGoodsCnt=Average,Big,Huge
+CurPlanetRace=Peleng
+CurPlanetRelations=Bad,Normal,Good,Best
+Goods=Luxury
+PlayerRace=Maloc
+Priority=30
+Text=Ну чего вы, <Player>, все, простите, быкуете? Взяли бы, собрали флот и разнесли бы базу этих надменных фэян. Знаю, знаю, они вам, малокам, ох как не нравятся.
+Text=Так это, купите у нас партию оружия. Знаете, очень качесс-ственно, очень хорошо! И - как вы, малоки, любите - очень много, аж <CurPlanetGoodsCnt> ед!

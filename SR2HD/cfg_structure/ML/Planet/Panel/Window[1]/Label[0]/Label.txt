@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2SmallBold
+Name=QuestInfo_Name
+Pos=60,10,8
+Size=165,43
+TextColor=57,239,255
+WordWrap=True

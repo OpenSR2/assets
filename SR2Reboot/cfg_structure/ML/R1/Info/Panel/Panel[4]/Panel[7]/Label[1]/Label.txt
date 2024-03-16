@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1SmallBold
+Pos=42,35,0
+Size=234,16
+Text=FormInfo.M07Caption
+TextColor=0,0,0

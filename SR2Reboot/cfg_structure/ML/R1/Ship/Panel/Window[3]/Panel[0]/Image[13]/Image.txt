@@ -1,0 +1,4 @@
+Image=GI,Bm.FormNote.2HP_Scaner
+Name=InfoHull_Scaner
+Pos=55,36
+Size=17,14

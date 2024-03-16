@@ -1,0 +1,9 @@
+Help=FormPQuest.HelpAnimTextOff
+ImageDown=GI,Bm.FormPQuest2.1AnimOffD
+ImageNormal=GI,Bm.FormPQuest2.1AnimOffN
+ImageNormalA=GI,Bm.FormPQuest2.1AnimOffA
+Kind=Normal
+KindHit=Rect
+Name=AnimTextOff
+Pos=388,578,2
+Size=23,15

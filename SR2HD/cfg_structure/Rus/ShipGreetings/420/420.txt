@@ -1,0 +1,7 @@
+FlyType=ToPlanet
+PirateRankShipWithPlayer=Average,Big,Huge
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Kling
+ShipType=Pirat
+Text=<PlayerPirateRank>, братиш, прикрой меня, попытаюсь доползти до космодрома. Починюсь и снова в бой!

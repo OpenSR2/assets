@@ -1,0 +1,6 @@
+CurPlanetRace=Fei,Gaal
+CurPlanetRelations=Normal,Good,Best
+PlayerRace=People
+PlayerRating=Mini,Small
+Priority=5
+Text=ѕриветствуем теб€, человек, на нашей замечательной планете <CurPlanet>. «аметим, что тебе нужно вести более активный образ жизни. ѕока что твой рейтинг среди рейнджеров очень мал.

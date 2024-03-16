@@ -1,0 +1,7 @@
+Access=7
+Dif=29
+Genre=тактическая стратегия
+Group=0
+Image=Bm.PQI.Citadels_00
+Length=2
+Name=Цитадели

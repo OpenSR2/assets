@@ -1,0 +1,16 @@
+CurPlanetGoodsCnt=Small,Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small
+CurPlanetRace=Maloc,Peleng,People
+CurPlanetRelations=Good,Best
+Goods=Arms
+Priority=30
+Text=Ќа планете <ToPlanet>, где проживают наши соотечественники, готовитс€ переворот. ÷ены на вооружение баснословные.
+Text= ак насчет того, чтобы отвезти в систему <ToStar> партию оружи€ в <CurPlanetGoodsCnt> единиц, при цене <CurPlanetGoodsSale> cr?<br>≈сли предложение вас заинтересовало, то идите в торговый центр. ¬ыручку гарантируем.
+ToPlanetGoodsBuy=Big,Huge
+ToPlanetGoodsCnt=Zero,Mini,Small,Average
+ToPlanetGoodsPermit=Yes
+ToPlanetGoverment=Anarchy,Dictatorship,Monarchy
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People
+ToPlanetRaceIsCurPlanetRace=Yes

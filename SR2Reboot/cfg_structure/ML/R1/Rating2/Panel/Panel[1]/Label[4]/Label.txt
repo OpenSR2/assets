@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Name=SortRace
+Pos=438,45,2
+Size=58,12
+Text=FormRating.Race
+TextColor=0,0,0
+WordWrap=True

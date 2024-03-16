@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Help=Help.LabelFreeSpace
+Name=ADD_Space
+Pos=507,739,97
+Size=70,22
+TextColor=55,230,255

@@ -1,0 +1,8 @@
+AutoTalk=Any
+FlyType=Any
+PlayerAttackGoodShip=Yes
+Priority=10
+Relations=Normal,Good,Best
+ShipRace=People,Fei,Gaal
+ShipType=Diplomat
+Text=–ейнджер <Player>!  ак дипломат, € не могу не отреагировать на ваш акт агрессии по отношению к кораблю <FullShipGood>. я взываю к вашему милосердию и состраданию. «адумайтесь, какой пример вы подаете нашей молодежи?

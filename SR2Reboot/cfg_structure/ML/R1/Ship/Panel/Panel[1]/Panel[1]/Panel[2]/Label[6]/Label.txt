@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Top
+Font=Font.1Ranger
+Pos=149,37,1
+Size=51,16
+Text=FormShip.LNewExp1
+TextColor=41,101,123
+WordWrap=True

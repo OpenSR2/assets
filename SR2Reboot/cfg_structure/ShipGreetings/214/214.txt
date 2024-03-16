@@ -1,0 +1,7 @@
+FlyType=ToStar
+PlayerRating=Mini
+Relations=Good,Best
+ShipRace=Maloc,Peleng,People,Fei,Gaal
+ShipRaceIsPlayerRace=Yes
+ShipType=Diplomat
+Text=Здорово, <Player>. Я собираюсь навестить приятеля в системе <ToStar>. Заодно решу и некоторые дипломатические проблемы нашего народа. Мы ведь с тобой одной крови!

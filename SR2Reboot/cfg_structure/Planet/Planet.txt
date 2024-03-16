@@ -1,0 +1,7 @@
+Civil=Civil\Civil.txt ^{
+}
+Kling=Kling\Kling.txt ^{
+}
+Name=Планета
+NotCivil=NotCivil\NotCivil.txt ^{
+}

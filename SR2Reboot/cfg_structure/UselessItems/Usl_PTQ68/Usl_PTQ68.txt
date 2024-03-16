@@ -1,0 +1,5 @@
+Cost=Huge
+Name=Секретные документы
+Owner=Peleng
+Size=1
+Text=Конверт с секретными данными

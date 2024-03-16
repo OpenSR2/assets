@@ -1,0 +1,25 @@
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[3]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[4]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[5]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[6]\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Name=PanelRH
+Panel=Panel\Panel.txt ^{
+}
+Pos=410,12
+Size=328,598

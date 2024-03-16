@@ -1,0 +1,5 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Size=75,26
+TextColor=7,105,158

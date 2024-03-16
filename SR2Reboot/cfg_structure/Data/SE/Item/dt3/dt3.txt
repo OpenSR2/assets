@@ -1,0 +1,4 @@
+1Image=Bm.Container.dt32
+2Image=Bm.Container.dt38
+ImageMap=Bm.Container.Map0
+PosZ=Item

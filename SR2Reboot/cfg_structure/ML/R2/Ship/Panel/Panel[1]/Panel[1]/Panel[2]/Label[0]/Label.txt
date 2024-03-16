@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Bottom
+Font=Font.2Mini
+Help=Skills.sAccuracy.Name
+Name=PDS_Skill0v
+Pos=44,33,1
+Size=20,35
+TextColor=0,0,0

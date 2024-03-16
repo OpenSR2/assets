@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Center
+Font=Font.2Ranger
+Name=NameGroup3Level0
+Pos=48,166,4
+Size=100,20
+Text=FormGameSet2.Common.NameGroup3Easy
+TextColor=0,255,0

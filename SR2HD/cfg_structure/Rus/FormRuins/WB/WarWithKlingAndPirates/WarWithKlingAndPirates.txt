@@ -1,0 +1,7 @@
+KlingAndPirates=KlingAndPirates\KlingAndPirates.txt ^{
+}
+KlingOnly=KlingOnly\KlingOnly.txt ^{
+}
+PiratesOnly=PiratesOnly\PiratesOnly.txt ^{
+}
+PlayerSend=Расскажите о ходе военных действий

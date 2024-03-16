@@ -1,0 +1,16 @@
+Artefact=2
+Cost=110
+Def=0
+Droid=0
+Forsage=1
+Hook=0
+Name=Мутабор
+Probability=3
+Race=Maloc,Peleng,People,Fei,Gaal
+Radar=0
+Scaner=0
+ShipType=Liner
+Size=80
+Text=Линейка лайнеров с дополнительной системой подключения артефактов и возможностью форсажа.
+Weapon=0
+Year=0

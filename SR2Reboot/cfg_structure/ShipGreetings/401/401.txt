@@ -1,0 +1,9 @@
+AutoTalk=Any
+FlyType=ToShip
+InFear=Any
+Priority=20
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipType=Ranger
+Text=У меня проблемы! Пожалуйста, <Player>, помоги мне в бою с <FullShipBad>. Рейнджеры должны выручать друг друга!
+ToShipRelations=War

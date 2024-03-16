@@ -1,0 +1,63 @@
+Circle=Circle\Circle.txt ^{
+}
+GraphBuf=GraphBuf[0]\GraphBuf.txt ^{
+}
+GraphBuf=GraphBuf[1]\GraphBuf.txt ^{
+}
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+MoveWorld=True
+MultiImage=MultiImage[0]\MultiImage.txt ^{
+}
+MultiImage=MultiImage[1]\MultiImage.txt ^{
+}
+Name=MainPanel
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Panel=Panel[2]\Panel.txt ^{
+}
+Panel=Panel[3]\Panel.txt ^{
+}
+Pos=512,384,-1
+Size=1024,768
+Sme=512,384
+SpaceCircle=SpaceCircle[0]\SpaceCircle.txt ^{
+}
+SpaceCircle=SpaceCircle[1]\SpaceCircle.txt ^{
+}
+SpaceCircle=SpaceCircle[2]\SpaceCircle.txt ^{
+}
+SpaceCircle=SpaceCircle[3]\SpaceCircle.txt ^{
+}
+SpaceCircle=SpaceCircle[4]\SpaceCircle.txt ^{
+}
+SpaceImg=SpaceImg\SpaceImg.txt ^{
+}
+StarField=StarField\StarField.txt ^{
+}
+StarFieldImg=StarFieldImg\StarFieldImg.txt ^{
+}
+StarFieldM=StarFieldM\StarFieldM.txt ^{
+}
+Window=Window[0]\Window.txt ^{
+}
+Window=Window[1]\Window.txt ^{
+}
+Window=Window[2]\Window.txt ^{
+}
+Window=Window[3]\Window.txt ^{
+}
+Window=Window[4]\Window.txt ^{
+}
+Window=Window[5]\Window.txt ^{
+}

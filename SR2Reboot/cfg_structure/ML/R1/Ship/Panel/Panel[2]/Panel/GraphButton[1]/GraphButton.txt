@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormShip2.1SC_DownD
+ImageNormal=GI,Bm.FormShip2.1SC_DownN
+ImageNormalA=GI,Bm.FormShip2.1SC_DownA
+Kind=Normal
+KindHit=Rect
+Name=SC_Down
+Pos=52,78,3
+Size=29,19
+Style=Style.GB.SoundNormal

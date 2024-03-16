@@ -1,0 +1,7 @@
+Active=False
+Label=Label\Label.txt ^{
+}
+Name=PM_WinMsg
+Pos=57,725,1
+Size=500,20
+Style=Style.Window.2Tips

@@ -1,0 +1,3 @@
+Goods=Arms
+Image2=GAI,Bm.PlanetAdvt.2_4_04
+War=-1

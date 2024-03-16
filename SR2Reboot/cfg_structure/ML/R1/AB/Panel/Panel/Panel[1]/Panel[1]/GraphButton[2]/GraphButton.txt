@@ -1,0 +1,13 @@
+ImageDisable=GI,Bm.FormAB2.1W3H
+ImageDown=GI,Bm.FormAB2.1W3GD
+ImageNormal=GI,Bm.FormAB2.1W3GN
+ImageNormalA=GI,Bm.FormAB2.1W3GA
+Kind=Disable
+KindHit=Graph
+MVUpdate=True
+MouseBlocking=True
+MouseBlockingTest=False
+Name=F3
+Pos=136,13,8
+Size=39,33
+Style=Style.GB.SoundNormal

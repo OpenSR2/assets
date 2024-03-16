@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=ToPlanet
+InFear=Any
+Priority=3
+Relations=Good,Best
+ShipBadFlyToShip=No
+ShipRace=People
+ShipStructure=Mini,Small
+ShipTurnBeforeEndOrder=4,5,6,7,8,9,Far
+ShipType=Liner
+Text=SOS! SOS! <Player>, примите сигнал бедствия! ...Это будет невероятная удача, если мне удастся дотянуть до планеты <ToPlanet>.
+Text=Говорят, как вы судно назовете, так оно и поплывет... Когда я купил этот корабль, он назывался "Титаник-2". Похоже, смена названия на <Ship> мне не очень помогла, а, <Player>?
+ToPlanetIsLastPlanet=Any

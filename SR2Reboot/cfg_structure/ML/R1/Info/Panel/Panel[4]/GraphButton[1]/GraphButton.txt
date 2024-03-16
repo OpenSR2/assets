@@ -1,0 +1,12 @@
+Help=FormInfo.HelpNews
+ImageDisable=GI,Bm.FormInfo2.1NewsF
+ImageDown=GI,Bm.FormInfo2.1NewsD
+ImageNormal=GI,Bm.FormInfo2.1NewsN
+ImageNormalA=GI,Bm.FormInfo2.1NewsA
+Kind=Disable
+KindHit=Rect
+Name=ButNews
+Pos=77,433,1
+Size=77,36
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

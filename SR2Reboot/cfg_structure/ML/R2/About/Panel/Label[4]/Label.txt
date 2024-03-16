@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Small
+Pos=451,746,40
+Size=170,20
+Text=FormAbout.snk
+TextColor=128,144,154
+WordWrap=False

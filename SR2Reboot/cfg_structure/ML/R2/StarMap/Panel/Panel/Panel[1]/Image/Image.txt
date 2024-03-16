@@ -1,0 +1,4 @@
+Image=GI,Bm.PanelMain2.2Space
+Name=PS_ImageBG
+Pos=315,12,10
+Size=187,51

@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Pos=203,33,-3
+Size=171,22
+Style=Style.Label.2Normal
+Text=FormHangar.TestSystem
+TextColor=0,0,0
+WordWrap=False

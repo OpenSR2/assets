@@ -1,0 +1,18 @@
+Active=True
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[3]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[4]\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Name=PanelSpace
+Panel=Panel\Panel.txt ^{
+}
+Pos=-216,228,ButtonNav
+Size=393,53

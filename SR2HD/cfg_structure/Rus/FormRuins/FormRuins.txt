@@ -1,0 +1,23 @@
+BK=BK\BK.txt ^{
+}
+Bridge=Bridge\Bridge.txt ^{
+}
+CB=CB\CB.txt ^{
+}
+GN=GN\GN.txt ^{
+}
+I_Continue=Далее
+I_TakeOff=Пока
+MC=MC\MC.txt ^{
+}
+NotEngine=Не установлен двигатель
+NotFuelTank=Не установлен топливный бак
+PB=PB\PB.txt ^{
+}
+RC=RC\RC.txt ^{
+}
+SB=SB\SB.txt ^{
+}
+ShipOvercharging=Корабль перегружен
+WB=WB\WB.txt ^{
+}

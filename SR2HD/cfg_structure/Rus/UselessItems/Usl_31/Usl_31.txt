@@ -1,0 +1,7 @@
+Cost=Mini
+Name=Cинодиски
+OnUseCode=OnUseCode\OnUseCode.txt ^{
+}
+Owner=Maloc
+Size=1
+Text= опи€ видеозаписи уничтожени€ человеческого города. „тобы просмотреть, следует использовать диски в окне активации.

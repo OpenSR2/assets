@@ -1,0 +1,17 @@
+Artefact=0
+Cost=90
+Def=0
+Droid=0
+Forsage=1
+Fragility=90
+Hook=0
+Name=Фервекс-лякуша
+Probability=3
+Race=Peleng
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=80
+Text=Корпус для веселых лякушей среднего достатка.
+Weapon=0
+Year=0

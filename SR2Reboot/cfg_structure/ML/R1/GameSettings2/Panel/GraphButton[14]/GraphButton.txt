@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpSkill3
+ImageDown=GI,Bm.FormGameSet2.1Skill3D
+ImageNormalA=GI,Bm.FormGameSet2.1Skill3A
+Kind=Fix
+KindHit=Graph
+Name=Skill3
+Pos=568,280,50
+Size=28,28
+Style=Style.GB.SoundNormal

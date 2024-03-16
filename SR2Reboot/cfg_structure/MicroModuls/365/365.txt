@@ -1,0 +1,14 @@
+Cost=110
+Equipments=Hull
+KindHull=ASTD
+Name=Миоплазменный корпус I
+Priority=10
+Ruins=WB
+Size=80
+Special=1
+Text=Энергетическое оружие: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+bonSlotArt=-1
+bonSlotWeapon=-2
+bonWEnergy=4
+bonWSplinter=8

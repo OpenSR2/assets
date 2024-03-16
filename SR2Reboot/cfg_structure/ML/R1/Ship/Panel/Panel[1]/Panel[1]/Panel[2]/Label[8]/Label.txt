@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=PDS_Exp
+Pos=198,33,1
+Size=51,16
+TextColor=0,0,0

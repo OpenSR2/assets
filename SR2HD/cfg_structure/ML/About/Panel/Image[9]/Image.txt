@@ -1,0 +1,4 @@
+Image=GI,Bm.FormMain3.2Katauri
+Name=LogoKatauri
+Pos=816,701,20
+Size=108,45

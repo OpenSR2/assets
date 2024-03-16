@@ -1,0 +1,4 @@
+Image=Bm.Asteroid.02
+ImageI=GI,Bm.ItemsUseless.2ExampleAsteroid_s
+ImageMap=GI,Bm.Asteroid.Map
+PosZ=Asteroid

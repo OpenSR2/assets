@@ -1,0 +1,6 @@
+Frame=[60,0-99]
+Image=Bm.FormAbout2.2Ship
+Name=Ship
+Pos=100,100,19
+Size=200,200
+Sme=100,100

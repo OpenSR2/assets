@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormMenu2.1ExitH
+ImageDown=GI,Bm.FormMenu2.1ExitD
+ImageNormal=GI,Bm.FormMenu2.1ExitN
+ImageNormalA=GI,Bm.FormMenu2.1ExitA
+Kind=Normal
+KindHit=Rect
+Name=Exit
+Pos=158,249,-3
+Size=37,40
+Style=Style.GB.SoundNormal

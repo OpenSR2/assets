@@ -1,0 +1,26 @@
+Dematerial=Dematerial\Dematerial.txt ^{
+}
+Disconnection=Disconnection\Disconnection.txt ^{
+}
+Energotron=Energotron\Energotron.txt ^{
+}
+Insanity=Insanity\Insanity.txt ^{
+}
+Intercom=Intercom\Intercom.txt ^{
+}
+LogicalNegation=LogicalNegation\LogicalNegation.txt ^{
+}
+Reprogramming ^{
+}
+SabCrack=SabCrack\SabCrack.txt ^{
+}
+SelfDestruction=SelfDestruction\SelfDestruction.txt ^{
+}
+Shipwreck=Shipwreck\Shipwreck.txt ^{
+}
+Shock=Shock\Shock.txt ^{
+}
+WeaponBlocking=WeaponBlocking\WeaponBlocking.txt ^{
+}
+Ñamouflage ^{
+}

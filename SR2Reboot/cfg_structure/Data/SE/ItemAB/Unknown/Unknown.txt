@@ -1,0 +1,4 @@
+1Image=Bm.ABItem.1_Unknown
+2Image=Bm.ABItem.2_Unknown
+ImageMap=Bm.Container.Map0
+PosZ=Item

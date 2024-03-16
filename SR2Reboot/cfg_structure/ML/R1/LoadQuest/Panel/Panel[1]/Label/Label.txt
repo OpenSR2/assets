@@ -1,0 +1,7 @@
+AlignX=Center
+Font=Font.1Ranger
+Name=Caption
+Pos=296,40,2
+Size=164,20
+Text=FormLoadQuest.Caption
+TextColor=50,240,252

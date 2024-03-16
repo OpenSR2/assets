@@ -1,0 +1,10 @@
+Cost=140
+Equipments=Hull
+KindHull=ASTA
+Name=Быстрый корпус IV
+Priority=70
+Ruins=SB
+Size=110
+Special=1
+Text=Двигатель: <bonSpeed> скорости.
+bonSpeed=150

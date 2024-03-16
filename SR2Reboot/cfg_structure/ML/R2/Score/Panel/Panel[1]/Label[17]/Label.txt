@@ -1,0 +1,6 @@
+AlignX=Left
+Font=Font.2Normal
+Name=ILiberationSystem
+Pos=642,316,2
+Size=252,20
+TextColor=212,212,212

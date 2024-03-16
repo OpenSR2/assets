@@ -1,0 +1,11 @@
+ImageDisable=GI,Bm.FormCount2.1AddH
+ImageDown=GI,Bm.FormCount2.1AddD
+ImageNormal=GI,Bm.FormCount2.1AddN
+ImageNormalA=GI,Bm.FormCount2.1AddA
+Kind=Disable
+KindHit=Graph
+Name=Add
+Pos=135,460,1
+Size=18,18
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

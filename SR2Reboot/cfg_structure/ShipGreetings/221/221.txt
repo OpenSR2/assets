@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=ToStar
+Goods=Alcohol
+LastPlanetGoodsSale=Mini,Small,Average
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerHaveGoods=No
+Priority=50
+Relations=Normal,Good,Best
+ShipGoodsCnt=Average,Big,Huge
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=Привет, дружище <Player>! Ну и затарился я этим вином, понимаешь... По самое нехочу!
+Text=Купил я это добро на планете <LastPlanet>. Брать не хотел, но уговорили. Говорят, раз летишь в систему <ToStar>, то надо купить. Там, дескать, цены повыше. Может, оно и так?

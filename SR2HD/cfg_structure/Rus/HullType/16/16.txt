@@ -1,0 +1,17 @@
+Artefact=0
+Cost=40
+Def=-1
+Droid=0
+Forsage=0
+Fragility=120
+Hook=0
+Name=Мирта
+Probability=30
+Race=Gaal
+Radar=0
+Scaner=0
+ShipType=Liner,Diplomat
+Size=100
+Text=Корабль, изготовленный по всем канонам пацифистской идеологии. Бюджетная модель.
+Weapon=-2
+Year=40

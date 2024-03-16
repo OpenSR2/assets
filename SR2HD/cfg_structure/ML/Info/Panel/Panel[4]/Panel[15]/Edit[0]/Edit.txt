@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.2Normal
+MaxLen=30
+Name=M15Const
+Pos=276,235,0
+Size=108,17
+TextColor=0,0,0

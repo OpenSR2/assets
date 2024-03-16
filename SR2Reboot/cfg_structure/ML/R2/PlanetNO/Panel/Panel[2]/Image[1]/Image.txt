@@ -1,0 +1,4 @@
+Image=GI,Bm.FormUnknown2.2Glow
+Name=Glow
+Pos=54,117,9
+Size=511,258

@@ -1,0 +1,11 @@
+Cost=120
+Equipments=Scaner
+KindGraph=10
+Name=Миоплазменный сканер II
+Priority=50
+Ruins=Any
+Special=1
+Text=Энергетическое оружие: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+bonWEnergy=3
+bonWSplinter=4

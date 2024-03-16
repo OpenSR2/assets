@@ -1,0 +1,6 @@
+AlignX=Left
+Font=Font.2Normal
+Name=IPirate
+Pos=641,584,2
+Size=245,20
+TextColor=212,212,212

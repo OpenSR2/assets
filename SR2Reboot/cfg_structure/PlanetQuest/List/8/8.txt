@@ -1,0 +1,7 @@
+Access=11
+Dif=52
+Genre=бродилка с логическими головоломками
+Group=0
+Image=Bm.PQI.Drugs_00
+Length=4
+Name=Наркотики

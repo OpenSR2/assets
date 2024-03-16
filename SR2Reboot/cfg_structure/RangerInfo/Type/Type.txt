@@ -1,0 +1,3 @@
+Pirate=Пират
+Trader=Торговец
+Warrior=Воин

@@ -1,0 +1,9 @@
+Help=FormPQuest.HelpExit
+ImageDown=GI,Bm.FormPQuest2.1CloseD
+ImageNormal=GI,Bm.FormPQuest2.1CloseN
+ImageNormalA=GI,Bm.FormPQuest2.1CloseA
+Kind=Disable
+KindHit=Rect
+Name=ButtonExit
+Pos=745,566,2
+Size=49,26

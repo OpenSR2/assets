@@ -1,0 +1,10 @@
+ActiveBarY=True
+ExternalSB=True
+MoveWorld=True
+Name=ActionListWindow
+Pos=38,468,3
+PosAutoBarY=False
+RectBarY=594,487,611,702
+Size=553,244
+StyleBarY=Style.ScrollBar.2PQS1
+UnlimitedWorld=False

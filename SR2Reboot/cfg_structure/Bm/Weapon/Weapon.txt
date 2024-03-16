@@ -1,0 +1,12 @@
+Bomb=data\Weapon\Bomb.gai
+Expl0=data\Weapon\Expl0.gai
+Expl1=data\Weapon\Expl1.gai
+ExplC=data\Weapon\ExplC.gai
+ExplM=data\Weapon\ExplM.gai
+W02=data\Weapon\w02.gai
+W04=data\Weapon\w04.gai
+W06=data\Weapon\w06.gai
+W09=data\Weapon\w09.gai
+W10=data\Weapon\w10.gai
+W13=data\Weapon\w13.gai
+W14=data\Weapon\w14.gai

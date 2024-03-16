@@ -1,0 +1,5 @@
+Cost=Mini
+Name=Капсула
+Owner=None
+Size=1
+Text=Спасательная капсула пирата-стукача.

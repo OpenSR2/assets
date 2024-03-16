@@ -1,0 +1,11 @@
+ImageDown=GI,Bm.FormInfo3.2BRacePeopleD
+ImageDownA=GI,Bm.FormInfo3.2BRacePeopleC
+ImageNormal=GI,Bm.FormInfo3.2BRacePeopleN
+ImageNormalA=GI,Bm.FormInfo3.2BRacePeopleA
+Kind=Fix
+KindHit=Graph
+Name=M09People
+Pos=86,322,1
+Size=38,35
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

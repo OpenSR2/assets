@@ -1,0 +1,9 @@
+Auto=Pos,Size
+ImageDown=GI,Bm.FormLoadRobot.2LoadRobotD
+ImageNormal=GI,Bm.FormLoadRobot.2LoadRobotN
+ImageNormalA=GI,Bm.FormLoadRobot.2LoadRobotA
+Kind=Normal
+KindHit=Rect
+Name=LoadRobot
+PosZ=20
+Style=Style.GB.SoundNormal

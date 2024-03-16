@@ -1,0 +1,7 @@
+CoalitionAlreadyDefeated=No
+DominatorsAlreadyDefeated=Yes
+InFear=No
+Relations=Normal,Good,Best
+ShipRace=Peleng,Maloc,Gaal,People
+ShipType=Warrior
+Text=Доминаторы повержены, <Player>, победа за нами. Скоро можно будет оставить службу и вернуться домой, к жене и детишкам. Жду не дождусь этого дня.

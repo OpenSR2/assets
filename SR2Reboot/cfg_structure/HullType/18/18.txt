@@ -1,0 +1,16 @@
+Artefact=0
+Cost=160
+Def=1
+Droid=0
+Forsage=0
+Hook=0
+Name=Глобал-союз
+Probability=20
+Race=Maloc,Peleng,People,Fei,Gaal
+Radar=0
+Scaner=0
+ShipType=Liner,Diplomat
+Size=200
+Text=Большой корпус для безопасных перевозок. Безупречный выбор.
+Weapon=0
+Year=30

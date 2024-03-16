@@ -1,0 +1,2 @@
+In=Data\Teleport\TeleportIn.gai
+Out=Data\Teleport\TeleportOut.gai

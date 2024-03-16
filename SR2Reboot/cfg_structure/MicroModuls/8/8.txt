@@ -1,0 +1,6 @@
+Equipments=WEnergy,WSplinter,WMissile
+Name=Дальномет
+Priority=100
+Text=Микромодуль третьего уровня. Снижает инерционность корректирующих систем орудия, повышая дальность стрельбы.
+Text=Дальность: <bonWRadius> ед.
+bonWRadius=25

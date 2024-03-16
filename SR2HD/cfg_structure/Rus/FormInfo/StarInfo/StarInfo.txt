@@ -1,0 +1,10 @@
+BattleInSystem=В системе идет сражение
+ControlledByCoalition=Контролируется коалицией
+ControlledByDominators=Контролируется доминаторами
+ControlledByPirates=Контролируется пиратами
+RelativeLocation=Относительное расположение:
+RelativeLocationAngle0=- направление на гала-карте - на <Angle> час
+RelativeLocationAngle1=- направление на гала-карте - на <Angle> часа
+RelativeLocationAngle2=- направление на гала-карте - на <Angle> часов
+RelativeLocationDist=- расстояние - <Dist> пс
+StarName=Система <StarName>

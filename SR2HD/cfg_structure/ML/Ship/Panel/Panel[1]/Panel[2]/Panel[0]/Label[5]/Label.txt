@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Small
+Name=IDestrEnergyIn
+Pos=49,320,0
+Size=50,33
+Style=Style.Label.2Normal
+TextColor=0,0,0
+WordWrap=True

@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.2Normal
+MaxLen=500
+Name=TextRecord
+Pos=89,17,2
+Size=168,19
+TextColor=0,0,0

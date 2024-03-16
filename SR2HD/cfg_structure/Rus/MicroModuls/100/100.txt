@@ -1,0 +1,12 @@
+Equipments=WEnergy,WSplinter,WMissile
+Name=Интегратор
+Priority=50
+Size=125
+Text=Микромодуль второго уровня. Повышает поражающий коэффициент оружия путем сингулярного усиления начального импульса.
+Text=Сила энергетического оружия: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+Text=Сила ракетного оружия: <bonWMissile> ед.
+Text=Размер: <clr>+25%<clrEnd>
+bonWEnergy=5
+bonWMissile=10
+bonWSplinter=15

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.1DSGlow
+Name=PDS_Skill5g
+Pos=127,22,7
+Size=27,27

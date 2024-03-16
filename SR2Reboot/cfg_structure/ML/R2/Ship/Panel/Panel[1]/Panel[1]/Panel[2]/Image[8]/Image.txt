@@ -1,0 +1,3 @@
+Name=PDS_Skill1i
+Pos=70,55,8
+Size=21,16

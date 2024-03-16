@@ -1,0 +1,5 @@
+CurPlanetPirateClan=No
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Bad
+Priority=1
+Text=Какого черта тебе нужно на нашей планете, иноземец <Player>? Тебе здесь совсем не рады.

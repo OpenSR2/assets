@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Medicine
+InFear=Any
+Priority=100
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Ranger,Pirate
+ShipGoodsCnt=Small,Average,Big,Huge
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=Я мирно вез партию медикаментов, и тут этот мерзавец, <FullShipBad>, сел мне на хвост с требованием выкинуть груз! А я не могу так поступить, я везу редкие лекарства бедным детишкам.
+Text=Ты, <Player>, еще новичок, и законов совсем не знаешь, но должен понимать, что мне ты помочь обязан. Если расправишься с наглецом, то сможешь сам медикаменты на <ToPlanet> возить. А это тебе не наркотой промышлять, бизнес самый законный и очень доходный.
+ToPlanetGoodsBuy=Big,Huge

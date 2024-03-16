@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormGov2.1CloseD
+ImageNormal=GI,Bm.FormGov2.1CloseN
+ImageNormalA=GI,Bm.FormGov2.1CloseA
+Kind=Normal
+KindHit=Rect
+Name=ButFormClose
+Pos=230,446,1
+Size=62,30
+Style=Style.GB.SoundNormal

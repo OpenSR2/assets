@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Pos=353,6,-3
+Size=200,22
+Text=FormRating.Caption
+TextColor=50,240,252
+WordWrap=False

@@ -1,0 +1,11 @@
+Help=Help.ButScaner
+ImageDisable=GI,Bm.PanelMain2.1ScanerH
+ImageDown=GI,Bm.PanelMain2.1ScanerD
+ImageNormal=GI,Bm.PanelMain2.1ScanerN
+ImageNormalA=GI,Bm.PanelMain2.1ScanerA
+Kind=Disable
+KindHit=Graph
+Name=PS_Scaner
+Pos=281,13,8
+Size=37,26
+Style=Style.GB.SoundNormal

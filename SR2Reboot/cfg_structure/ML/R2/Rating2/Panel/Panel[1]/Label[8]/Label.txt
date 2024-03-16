@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Pos=22,229,-3
+Size=184,22
+Text=FormRating.BestTrader
+TextColor=0,204,117
+WordWrap=False

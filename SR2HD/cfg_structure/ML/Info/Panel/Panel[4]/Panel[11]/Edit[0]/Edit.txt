@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.2Normal
+MaxLen=30
+Name=M11Size
+Pos=291,224,0
+Size=99,17
+TextColor=0,0,0

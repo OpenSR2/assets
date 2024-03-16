@@ -1,0 +1,14 @@
+AutoTalk=No
+FlyType=ToShip
+InFear=No
+Priority=10
+Relations=Normal,Good,Best
+ShipBadFlyToShip=No
+ShipStatus=Pirate
+ShipStructure=Average,Big,Huge
+ShipTurnBeforeEndOrder=1,2,3
+ShipType=Ranger,Pirate
+Text=“ы только не подумай плохого, <Player>, € просто сопровождаю корабль <ToShip>, охран€€ его от негод€ев. Ћети своим путем, пока!
+ToShipBad=Yes
+ToShipInPlanet=No
+ToShipType=Transport,Liner,Diplomat

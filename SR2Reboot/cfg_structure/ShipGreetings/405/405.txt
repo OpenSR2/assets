@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=ToShip
+InFear=Any
+Priority=100
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Pirate
+ShipType=Transport,Liner,Diplomat
+Text=SOS! На меня напали пираты! Прошу помочь!
+Text=Хотя бы ты, <Player>, помоги мне разделаться с пиратским кораблем <ShipBad>!
+ToShipBad=Yes

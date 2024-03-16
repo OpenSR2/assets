@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormRating2.2PirateN
+ImageDown=GI,Bm.FormRating2.2PirateN
+ImageNormal=GI,Bm.FormRating2.2PirateN
+ImageNormalA=GI,Bm.FormRating2.2PirateA
+Kind=Disable
+KindHit=Rect
+Name=ButPirate
+Pos=28,402,4
+Size=158,172
+Style=Style.GB.SoundNormal

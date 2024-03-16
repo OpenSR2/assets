@@ -1,0 +1,3 @@
+Name=PanelInfo_Race
+Pos=34,20,7
+Size=40,40

@@ -1,0 +1,9 @@
+Help=FormGameEnd.Load
+ImageDown=GI,Bm.FormEnd2.1OpenD
+ImageNormal=GI,Bm.FormEnd2.1OpenN
+ImageNormalA=GI,Bm.FormEnd2.1OpenA
+Kind=Normal
+KindHit=Rect
+Name=Load
+Pos=683,547,2
+Size=38,40

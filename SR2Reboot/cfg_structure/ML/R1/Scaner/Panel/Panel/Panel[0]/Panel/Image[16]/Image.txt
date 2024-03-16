@@ -1,0 +1,3 @@
+Name=S_FuelTanks_0i
+Pos=34,247,0
+Size=78,61

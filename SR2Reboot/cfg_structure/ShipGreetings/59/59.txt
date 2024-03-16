@@ -1,0 +1,14 @@
+FlyType=Any
+Priority=2
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Kling
+ShipRace=Maloc
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=Как думаешь, <Player>, вышибем мы доминаторов из <CurStar>? Уверен, что да, столько вояк кругом, что жестянкам здесь ничего не светит. Я про это даже стихи сочинил:
+Text=Красные звезды пылают в ночи,
+Text=Драгги, увидев врага,
+Text=Желтые зубы вонзили в него,
+Text=Враг мимо них не пройдет!
+Text=Правда, красиво? И кто сказал, что малокам чужда антидоминаторская поэзия?
+WarriorInCurStar=4,5,6,7,8,9,Many

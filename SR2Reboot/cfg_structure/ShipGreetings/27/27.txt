@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=Any
+LastPlanetInCurStar=No
+LastPlanetIsHomePlanet=Yes
+LastPlanetRace=Gaal
+Priority=2
+Relations=Normal,Good,Best
+ShipGoodsTypeCnt=2,3,4,5,6,7,8
+ShipRace=Gaal
+ShipRaceIsPlayerRace=No
+ShipType=Transport,Liner
+Text=Я был маленьким гаальским пацаном, когда папа в первый раз взял меня в космос. Мы взлетели с <HomePlanet> и я, очарованный красотой космоса, решил пойти по стопам отца и стать пилотом корабля <Ship>.
+Text=Теперь я уже десяток лет вожу еду, медикаменты и другие товары народного потребления. И мне уже надоело летать по чужим системам. Я хочу вернуться в свою родную систему <LastPlanetStar>. Эх, тяжела гаальская доля, ты, <Player>, меня никогда не поймешь!

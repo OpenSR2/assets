@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Pos=17,43,-3
+Size=144,17
+Text=FormRating.BestWarrior
+TextColor=63,214,255
+WordWrap=False

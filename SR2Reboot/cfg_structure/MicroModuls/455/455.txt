@@ -1,0 +1,9 @@
+Cost=130
+Equipments=Hook
+KindGraph=11
+Name=Пигамарный захват III
+Priority=70
+Ruins=Any
+Special=1
+Text=Сила ракет: <bonWMissile> ед.
+bonWMissile=4

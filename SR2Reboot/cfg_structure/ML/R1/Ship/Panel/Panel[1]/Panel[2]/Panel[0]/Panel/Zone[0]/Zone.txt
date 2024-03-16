@@ -1,0 +1,4 @@
+Kind=Rect
+Name=Skill0z
+Pos=74,155,0
+Size=45,51

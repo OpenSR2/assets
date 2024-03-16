@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Name=Caption
+Pos=138,3,8
+Size=208,12
+TextColor=0,255,255
+WordWrap=True

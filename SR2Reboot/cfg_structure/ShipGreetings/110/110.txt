@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=ToPlanet
+LastPlanetInCurStar=No
+LastPlanetRace=Maloc
+LastPlanetRaceIsPlayerRace=No
+Priority=40
+Relations=Normal,Good,Best
+ShipRace=Peleng,People,Fei,Gaal
+ShipRaceIsPlayerRace=Yes
+ShipType=Liner
+Text=Ќаш лайнер <Ship> недавно совершал посадку на планету <LastPlanet> в системе <LastPlanetStar>. Ќадо сказать, что природа у них там очень даже ничего. Ќо аскетизм малоков нас искренне потр€с!  ак можно в наши-то дни ходить в дерев€нные сортиры?
+Text=¬ы мен€ простите, <Player>, но ведь на наших планетах этого уже нигде не найдешь. ћечтаю поскорее вернутьс€ домой, на планету <HomePlanet>, и отделатьс€ от этих мерзопакостных впечатлений.
+ToPlanetIsHomePlanet=Yes

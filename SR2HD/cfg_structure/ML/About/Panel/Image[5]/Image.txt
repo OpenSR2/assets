@@ -1,0 +1,4 @@
+Image=GI,Bm.FormMain3.2Caption
+Name=Caption
+Pos=198,10,20
+Size=627,166

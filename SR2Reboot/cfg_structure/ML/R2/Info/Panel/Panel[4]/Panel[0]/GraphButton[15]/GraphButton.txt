@@ -1,0 +1,15 @@
+Caption=FormInfo.MM15
+CaptionColorDown=0,0,0
+CaptionColorDownA=0,0,0
+CaptionColorNormal=0,0,0
+CaptionColorNormalA=0,0,0
+CaptionSme=0,15,0,16
+Font=Font.2SmallBold
+ImageNormalA=GI,Bm.FormInfo3.2MM_15
+Kind=Normal
+KindHit=Rect
+Name=ButMM_15
+Pos=319,341,1
+Size=94,62
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

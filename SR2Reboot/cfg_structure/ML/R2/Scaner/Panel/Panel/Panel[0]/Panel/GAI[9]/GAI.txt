@@ -1,0 +1,3 @@
+Name=S_Scaner_0anim
+Pos=317,209,-1
+Size=99,77

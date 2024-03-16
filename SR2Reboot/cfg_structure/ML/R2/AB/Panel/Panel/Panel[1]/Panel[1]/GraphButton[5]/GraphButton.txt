@@ -1,0 +1,10 @@
+Help=Help.ButAI
+ImageDown=GI,Bm.FormAB2.2AutoD
+ImageNormal=GI,Bm.FormAB2.2AutoN
+ImageNormalA=GI,Bm.FormAB2.2AutoA
+Kind=Normal
+KindHit=Graph
+Name=ButAuto
+Pos=345,20,-7
+Size=46,33
+Style=Style.GB.SoundNormal

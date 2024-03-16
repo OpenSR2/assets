@@ -1,0 +1,16 @@
+Artefact=2
+Cost=90
+Def=0
+Droid=0
+Forsage=1
+Hook=0
+Name=Новый Ксвиру
+Probability=70
+Race=Fei
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=90
+Text=Модифицированный фэянский корпус серии "Ксвиру". Увеличен размер.
+Weapon=1
+Year=40

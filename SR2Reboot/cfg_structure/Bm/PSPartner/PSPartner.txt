@@ -1,0 +1,15 @@
+FeiA=data\PanelSpace\partner\FeiA.gi
+FeiD=data\PanelSpace\partner\FeiD.gi
+FeiN=data\PanelSpace\partner\FeiN.gi
+GaalA=data\PanelSpace\partner\GaalA.gi
+GaalD=data\PanelSpace\partner\GaalD.gi
+GaalN=data\PanelSpace\partner\GaalN.gi
+MalocA=data\PanelSpace\partner\MalocA.gi
+MalocD=data\PanelSpace\partner\MalocD.gi
+MalocN=data\PanelSpace\partner\MalocN.gi
+PelengA=data\PanelSpace\partner\PelengA.gi
+PelengD=data\PanelSpace\partner\PelengD.gi
+PelengN=data\PanelSpace\partner\PelengN.gi
+PeopleA=data\PanelSpace\partner\PeopleA.gi
+PeopleD=data\PanelSpace\partner\PeopleD.gi
+PeopleN=data\PanelSpace\partner\PeopleN.gi

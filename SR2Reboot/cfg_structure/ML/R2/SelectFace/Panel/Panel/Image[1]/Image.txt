@@ -1,0 +1,3 @@
+Image=GI,Bm.FormMessageBox.2OkN
+Pos=200,710,0
+Size=48,21

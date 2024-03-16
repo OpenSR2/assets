@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormMenu2.1CloseH
+ImageDown=GI,Bm.FormMenu2.1CloseD
+ImageNormal=GI,Bm.FormMenu2.1CloseN
+ImageNormalA=GI,Bm.FormMenu2.1CloseA
+Kind=Normal
+KindHit=Rect
+Name=Close
+Pos=269,296,-3
+Size=46,39
+Style=Style.GB.SoundNormal

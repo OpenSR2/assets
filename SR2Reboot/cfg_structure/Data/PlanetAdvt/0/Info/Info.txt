@@ -1,0 +1,3 @@
+Image1=GI,Bm.PlanetAdvt.1border
+Image2=GI,Bm.PlanetAdvt.2border
+Pos=66,34

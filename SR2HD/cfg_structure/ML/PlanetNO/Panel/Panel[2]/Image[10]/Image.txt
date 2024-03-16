@@ -1,0 +1,3 @@
+Name=Slot_5i
+Pos=397,408,0
+Size=39,39

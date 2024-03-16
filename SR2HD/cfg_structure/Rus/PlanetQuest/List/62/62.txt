@@ -1,0 +1,7 @@
+Access=9
+Dif=55
+Genre=бродилка с элементами ужасов
+Group=1
+Image=Bm.PQI.Kiberrazum_06
+Length=4
+Name=Киберразум

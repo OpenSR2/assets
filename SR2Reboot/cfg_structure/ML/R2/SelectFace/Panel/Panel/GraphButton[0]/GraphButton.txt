@@ -1,0 +1,8 @@
+ImageDown=GI,Bm.FormGameSet2.2PortLD
+ImageNormalA=GI,Bm.FormGameSet2.2PortLA
+Kind=Normal
+KindHit=Graph
+Name=FaceLeft
+Pos=189,254,50
+Size=39,94
+Style=Style.GB.SoundNormal

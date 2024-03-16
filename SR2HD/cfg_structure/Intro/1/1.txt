@@ -1,0 +1,4 @@
+Frames=250
+Image=data\1c.vdo
+Sound=1C
+Time=10000

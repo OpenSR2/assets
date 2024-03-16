@@ -1,0 +1,12 @@
+Help=FormInfo.HelpJournal
+ImageDisable=GI,Bm.FormInfo2.2ModeFindF
+ImageDown=GI,Bm.FormInfo2.2ModeFindD
+ImageNormal=GI,Bm.FormInfo2.2ModeFindN
+ImageNormalA=GI,Bm.FormInfo2.2ModeFindA
+Kind=Disable
+KindHit=Rect
+Name=ButJournal
+Pos=19,457,1
+Size=92,42
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

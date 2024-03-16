@@ -1,0 +1,8 @@
+CurPlanetGoodsCnt=Average,Big,Huge
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Normal,Good,Best
+Goods=Medicine
+PlayerRank=Rookie,Cadet
+Priority=2
+Text=<Player>, ваш рейнджерский рейтинг неуклонно растет! Немедленно прекратите прокачивать его, или наши с вами отношения будут безвозвратно испорчены. Лучше займитесь пиратской деятельностью.
+Text=Да, кстати, пройдите в наш магазин. Там залежалась партия медикаментов, специально для вас. Аж <CurPlanetGoodsCnt> единиц отличного товара.

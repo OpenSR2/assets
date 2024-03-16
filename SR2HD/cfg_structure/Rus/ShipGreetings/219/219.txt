@@ -1,0 +1,16 @@
+AutoTalk=Any
+FlyType=ToStar
+Goods=Luxury
+HomePlanetInToStar=Yes
+LastPlanetGoodsSale=Mini,Small,Average
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+LastPlanetRaceIsShipRace=No
+PlayerHaveGoods=No
+Priority=50
+Relations=Normal,Good,Best
+ShipGoodsCnt=Small,Average,Big,Huge
+ShipRace=Peleng,People,Fei,Gaal
+ShipType=Transport,Liner,Diplomat
+Text=ѕривет, <Player>!  ак жизнь? я тут собираюсь предметы роскоши свозить домой, в систему <ToStar>.
+Text=Ќа наших планетах они должны стоить немало, в отличие от этой планеты <LastPlanet>, где € их купил. ћежду прочим, там еще пор€дком осталось, так что спеши затаритьс€. Ќу, а где все это сбыть можно, € уже говорил.

@@ -1,0 +1,4 @@
+Auto=Size
+Image=GI,Bm.FormMain3.MicroText
+Name=MicroText
+Pos=71,50,51

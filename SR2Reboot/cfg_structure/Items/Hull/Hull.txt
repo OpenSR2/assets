@@ -1,0 +1,7 @@
+Name=<Type> корпус <ShipType>
+ShipType=ShipType\ShipType.txt ^{
+}
+ShortName=Корпус
+Text=Стойкость корпуса: <Size> (<MaxSize>) единиц, обшивка блокирует до <HitProtect> единиц ущерба.
+Type=Type\Type.txt ^{
+}

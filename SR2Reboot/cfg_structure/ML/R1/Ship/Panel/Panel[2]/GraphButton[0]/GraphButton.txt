@@ -1,0 +1,8 @@
+ImageDown=GI,Bm.FormShip2.1SC_Slot1N
+ImageNormal=GI,Bm.FormShip2.1SC_Slot1N
+ImageNormalA=GI,Bm.FormShip2.1SC_Slot1A
+Kind=Normal
+KindHit=Rect
+Name=SC_Slot1_But
+Pos=7,120,8
+Size=115,34

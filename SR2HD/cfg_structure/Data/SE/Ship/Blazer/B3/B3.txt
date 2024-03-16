@@ -1,0 +1,15 @@
+1ImageP=GI,Bm.ShipP.1Blazer3
+2ImageP=GI,Bm.ShipP.2Blazer3
+Anim=Anim\Anim.txt ^{
+}
+AnimS=AnimS\AnimS.txt ^{
+}
+Image=Bm.Ship.Blazer3
+ImageMap=Bm.Ship.DominatorMap
+ImageS=Bm.Ship.Blazer3s
+PosZ=Ship
+SizeImage=128,128
+SmeCenterImage=64,64
+SmeImage=64,64
+SmeImageMap=2,2
+StateTime=2000

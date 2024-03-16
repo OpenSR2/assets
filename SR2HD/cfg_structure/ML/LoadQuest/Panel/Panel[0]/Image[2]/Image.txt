@@ -1,0 +1,5 @@
+Active=True
+Image=GI,Bm.FormLoad2.LoadAnimText
+Name=LoadAnimText
+Pos=262,504,7
+Size=543,241

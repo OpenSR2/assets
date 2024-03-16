@@ -1,0 +1,11 @@
+Help=FormGalaxy.HelpButCreate
+ImageDown=GI,Bm.FormGalaxy2.CreateD
+ImageNormal=GI,Bm.FormGalaxy2.CreateN
+ImageNormalA=GI,Bm.FormGalaxy2.CreateA
+Kind=Normal
+KindHit=Rect
+MouseBlocking=True
+Name=ButCreate
+Pos=282,567,-2
+Size=37,37
+Style=Style.GB.SoundNormal

@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormGoods2.2Tov7N
+ImageDown=GI,Bm.FormGoods2.2Tov7N
+ImageNormal=GI,Bm.FormGoods2.2Tov7N
+ImageNormalA=GI,Bm.FormGoods2.2Tov7A
+Kind=Disable
+KindHit=Graph
+Name=Tov16
+Pos=418,365,7
+Size=207,46
+Style=Style.GB.SoundNormal

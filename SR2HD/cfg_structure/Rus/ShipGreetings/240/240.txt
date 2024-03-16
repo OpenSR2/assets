@@ -1,0 +1,12 @@
+AutoTalk=Yes
+DominatorsAlreadyDefeated=No
+FlyType=ToStar
+KlingInToStar=3,4,5,6,7,8,9,Many
+Priority=10
+Relations=Normal,Good,Best
+ShipRace=People
+ShipRaceIsPlayerRace=No
+ShipType=Ranger,Warrior
+Text=–ейнджер <Player>, какого хрена ты здесь торчишь, когда в системе <ToStar> идет схватка с доминаторами? я всегда считал, что только люди способны быть насто€щими воинами! ≈сли ты хочешь попробовать переубедить мен€ в этом, то летим со мной, а там посмотрим, кто из нас больше желез€к насшибает, и у кого медаль круглее будет...
+ToStarControlByKling=Any
+ToStarInBattle=Yes

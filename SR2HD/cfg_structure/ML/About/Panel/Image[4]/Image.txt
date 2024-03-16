@@ -1,0 +1,4 @@
+Image=GI,Bm.FormAbout2.Panel
+Name=PanelImage
+Pos=175,0,200
+Size=680,1200

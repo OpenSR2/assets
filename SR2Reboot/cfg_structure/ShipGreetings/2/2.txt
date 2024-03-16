@@ -1,0 +1,6 @@
+FlyType=Any
+PlayerIsShipBad=No
+Relations=War,Bad
+ShipBadFlyToShip=Yes
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=С тобой я разделаюсь позже, <Player>. Сейчас у меня другой враг имеется.

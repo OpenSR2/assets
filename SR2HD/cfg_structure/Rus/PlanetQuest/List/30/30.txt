@@ -1,0 +1,7 @@
+Access=3
+Dif=13
+Genre=экономический симулятор
+Group=0
+Image=Bm.PQI.Ski_01
+Length=2
+Name=Лыжный курорт

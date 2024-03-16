@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormMenu2.2OptionsH
+ImageDown=GI,Bm.FormMenu2.2OptionsD
+ImageNormal=GI,Bm.FormMenu2.2OptionsN
+ImageNormalA=GI,Bm.FormMenu2.2OptionsA
+Kind=Normal
+KindHit=Rect
+Name=Settings
+Pos=75,121,-3
+Size=48,50
+Style=Style.GB.SoundNormal

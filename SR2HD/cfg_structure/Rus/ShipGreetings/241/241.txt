@@ -1,0 +1,12 @@
+AutoTalk=Any
+CoalitionAlreadyDefeated=No
+DominatorsAlreadyDefeated=No
+FlyType=ToStar
+KlingInToStar=3,4,5,6,7,8,9,Many
+Priority=10
+Relations=Normal,Good,Best
+ShipRace=Gaal
+ShipType=Ranger,Warrior
+Text=О, <Player>... Неужели идеи гуманизма настолько чужды вам, что вы не отправитесь вместе со мной в систему <ToStar>, где истинные защитники разумной органической жизни, бравые воины и борцы за свободу, ведут неравные бои с превосходящими силами кибернетических захватчиков?
+ToStarControlByKling=Any
+ToStarInBattle=Yes

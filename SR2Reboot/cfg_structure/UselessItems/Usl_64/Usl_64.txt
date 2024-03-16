@@ -1,0 +1,5 @@
+Cost=Small
+Name=Малокский табурет
+Owner=Maloc
+Size=1
+Text=Малокский табурет на экспертизу

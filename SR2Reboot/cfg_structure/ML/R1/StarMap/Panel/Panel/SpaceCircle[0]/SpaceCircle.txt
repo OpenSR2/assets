@@ -1,0 +1,4 @@
+Active=False
+Name=CircleActionColor
+Pos=-400,-300,CircleActionColor
+Size=800,600

@@ -1,0 +1,10 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Pos=80,15,-1
+Size=195,16
+Text=FormGameMenu.Resume
+TextColor=0,26,49
+TextShadow=1
+TextShadowColor=0,135,192
+WordWrap=True

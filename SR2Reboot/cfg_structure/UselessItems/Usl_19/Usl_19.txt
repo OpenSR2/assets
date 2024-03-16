@@ -1,0 +1,5 @@
+Cost=Small
+Name=Упаковка сигарет
+Owner=People
+Size=7
+Text=Коробка сигарет всевозможных марок.

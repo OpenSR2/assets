@@ -1,0 +1,31 @@
+Frame=Frame\Frame.txt ^{
+}
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[3]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[4]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[5]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[6]\GraphButton.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+Name=MainPanel
+Panel=Panel\Panel.txt ^{
+}
+Pos=0,0
+Size=1024,768
+Window=Window\Window.txt ^{
+}

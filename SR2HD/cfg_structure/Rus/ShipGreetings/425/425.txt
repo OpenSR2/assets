@@ -1,0 +1,6 @@
+FlyType=ToShip
+InFear=No
+Relations=Bad,Normal,Good,Best
+ShipBadType=Kling
+ShipType=Pirat
+Text=Сейчас ты познаешь мощь пиратского братства! Понеслась!

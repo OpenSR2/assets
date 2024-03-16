@@ -1,0 +1,6 @@
+AlignX=Left
+AlignY=CenterEx
+Pos=155,366,-3
+Size=200,15
+Style=Style.Label.1Normal
+TextColor=255,255,230

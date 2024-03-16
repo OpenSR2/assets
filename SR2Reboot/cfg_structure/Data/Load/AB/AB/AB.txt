@@ -1,0 +1,9 @@
+GAI=Bm.AB.expl0_f
+GAI=Bm.AB.expl0_s
+GAI=Bm.AB.hit00_f
+GAI=Bm.AB.hit00_s
+GAI=Bm.Weapon.ExplM
+GAI=Bm.Ruins.Keller_P1
+GAI=Bm.Ruins.Keller_P2
+GAI=Bm.Ruins.Keller_P3
+GAI=Bm.Ruins.Keller_P4

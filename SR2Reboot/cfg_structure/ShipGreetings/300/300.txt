@@ -1,0 +1,6 @@
+FlyType=ToItem
+ItemType=FuelTanks,Engine,Radar,Scaner,RepairRobot,CargoHook,DefGenerator,Weapon,Artefact
+Priority=2
+Relations=Normal,Good,Best
+ShipType=Ranger
+Text=Ты немного погоди с разговорами, <Player>, я сейчас подберу одну вещь, тогда и поговорим. Вроде как захват на моем корабле вполне ее вытянет.

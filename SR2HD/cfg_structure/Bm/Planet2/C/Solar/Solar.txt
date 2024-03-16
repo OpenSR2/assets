@@ -1,0 +1,7 @@
+c02=data\Planet2\Solar\cloud\c02.psd
+c04=data\Planet2\Solar\cloud\c04.psd
+c05=data\Planet2\Solar\cloud\c05.psd
+c07=data\Planet2\Solar\cloud\c07.psd
+c08=data\Planet2\Solar\cloud\c08.psd
+c10=data\Planet2\Solar\cloud\c10.psd
+r02=data\Planet2\Solar\cloud\r02.psd

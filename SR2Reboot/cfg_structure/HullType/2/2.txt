@@ -1,0 +1,16 @@
+Artefact=1
+Cost=300
+Def=1
+Droid=1
+Forsage=1
+Hook=1
+Name=Эльдорадо
+Probability=50
+Race=Peleng,People,Gaal
+Radar=1
+Scaner=1
+ShipType=Liner,Diplomat,Ranger
+Size=140
+Text=Роскошный корпус, внутренние отсеки отделаны кожей пакряков и золотом. Полный комплект оборудования.
+Weapon=0
+Year=0

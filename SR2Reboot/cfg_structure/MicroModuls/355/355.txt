@@ -1,0 +1,11 @@
+Cost=130
+Equipments=Hull
+KindHull=ASTA
+Name=Быстрый корпус III
+Priority=50
+Ruins=SB
+Size=100
+Special=1
+Text=Двигатель: <bonSpeed> скорости.
+bonSlotDef=-1
+bonSpeed=200

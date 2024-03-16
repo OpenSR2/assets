@@ -1,0 +1,9 @@
+Active=True
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Ranger
+Name=MCW2
+Pos=341,684,2
+Size=183,15
+Text=FormIntroduction.MCW2
+TextColor=27,68,98

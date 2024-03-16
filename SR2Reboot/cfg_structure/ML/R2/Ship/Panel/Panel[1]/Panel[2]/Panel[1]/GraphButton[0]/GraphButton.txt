@@ -1,0 +1,10 @@
+Help=FormShip.CloseHold
+ImageDown=GI,Bm.FormShip2.2RHCloseD
+ImageNormal=GI,Bm.FormShip2.2RHCloseN
+ImageNormalA=GI,Bm.FormShip2.2RHCloseA
+Kind=Normal
+KindHit=Rect
+Name=FromRH
+Pos=125,561,-1
+Size=69,37
+Style=Style.GB.SoundNormal

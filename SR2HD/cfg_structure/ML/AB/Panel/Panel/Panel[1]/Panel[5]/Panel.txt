@@ -1,0 +1,7 @@
+Active=False
+MVUpdate=True
+Name=PanelMenuLose
+Panel=Panel\Panel.txt ^{
+}
+Pos=0,500,-11
+Size=1024,200

@@ -1,0 +1,11 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-97]
+Image=Bm.GovHD.MalocAnim0a
+ImageFirst=Bm.GovHD.MalocAnim0i
+Name=GovHD_Anim0
+PBuf=True
+Pos=0,-56,-2
+Size=492,792
+SkipImageUpdateRect=True

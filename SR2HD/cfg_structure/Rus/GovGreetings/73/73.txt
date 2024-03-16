@@ -1,0 +1,4 @@
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Best
+Priority=1
+Text=Всегда рады вас видеть, <Player>! Хотите пару стопочек втыкиллы или секретное задание? А может быть и то и другое, ха-ха?

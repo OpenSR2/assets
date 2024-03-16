@@ -1,0 +1,7 @@
+Access=7
+Dif=49
+Genre=бродилка с приключениями
+Group=1
+Image=Bm.PQI.domoclan_01
+Length=4
+Name=Община свидетелей доминатора

@@ -1,0 +1,26 @@
+Fei=Fei\Fei.txt ^{
+}
+FeiPirate=FeiPirate\FeiPirate.txt ^{
+}
+Gaal=Gaal\Gaal.txt ^{
+}
+GaalPirate=GaalPirate\GaalPirate.txt ^{
+}
+Kling=Kling\Kling.txt ^{
+}
+Maloc=Maloc\Maloc.txt ^{
+}
+MalocPirate=MalocPirate\MalocPirate.txt ^{
+}
+None=None\None.txt ^{
+}
+Peleng=Peleng\Peleng.txt ^{
+}
+PelengPirate=PelengPirate\PelengPirate.txt ^{
+}
+People=People\People.txt ^{
+}
+PeoplePirate=PeoplePirate\PeoplePirate.txt ^{
+}
+PiratePlanetMain=PiratePlanetMain\PiratePlanetMain.txt ^{
+}

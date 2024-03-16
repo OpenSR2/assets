@@ -1,0 +1,9 @@
+Cost=110
+Equipments=Radar
+KindGraph=11
+Name=Пигамарный радар I
+Priority=10
+Ruins=Any
+Special=1
+Text=Сила ракет: <bonWMissile> ед.
+bonWMissile=2

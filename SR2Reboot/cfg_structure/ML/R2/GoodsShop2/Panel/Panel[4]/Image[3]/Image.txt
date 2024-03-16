@@ -1,0 +1,4 @@
+Image=GI,Bm.FormGoods2.2DownRight
+Name=DownRight
+Pos=402,17,8
+Size=356,501

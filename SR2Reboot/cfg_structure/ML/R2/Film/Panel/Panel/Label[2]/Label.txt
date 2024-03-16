@@ -1,0 +1,6 @@
+Active=False
+Font=Font.2Normal
+MVUpdate=True
+Pos=-512,295,ButtonNav
+Size=100,20
+Text=Frame

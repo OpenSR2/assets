@@ -1,0 +1,3 @@
+Name=PLLeftImage
+Pos=0,110
+Size=282,658

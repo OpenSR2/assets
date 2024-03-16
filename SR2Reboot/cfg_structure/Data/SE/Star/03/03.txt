@@ -1,0 +1,6 @@
+Anim=Bm.Star.03a
+Image=GI,Bm.Star.03
+ImageMap=Bm.Star.MapStar1
+PosZ=Star
+SmeImage=250,250
+SmeImageMap=8,8

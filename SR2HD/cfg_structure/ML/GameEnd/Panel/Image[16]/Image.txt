@@ -1,0 +1,4 @@
+Image=GI,Bm.FormEnd2.Final3Maloc
+Name=PirateWin3Maloc
+Pos=0,59,9
+Size=414,629

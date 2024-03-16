@@ -1,0 +1,16 @@
+Artefact=3
+Cost=90
+Def=1
+Droid=0
+Forsage=1
+Hook=0
+Name=Мириада
+Probability=10
+Race=Maloc,Peleng
+Radar=0
+Scaner=0
+ShipType=Diplomat
+Size=70
+Text=Серия корпусов правительственного заказа, для дипломатических миссий пеленгов и малоков.
+Weapon=1
+Year=0

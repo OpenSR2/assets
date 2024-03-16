@@ -1,0 +1,5 @@
+1=Music\special\hymn.dat
+1=Music\fly\longway.dat
+1=Music\fly\Beyond_reach.dat
+1=Music\REV\theo_running_away.dat
+1=Music\REV\theo_waiting_for_you.dat

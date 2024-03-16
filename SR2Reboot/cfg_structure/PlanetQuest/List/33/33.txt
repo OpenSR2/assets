@@ -1,0 +1,7 @@
+Access=5
+Dif=17
+Genre=логическая головоломка
+Group=0
+Image=Bm.PQI.Xenopark_00
+Length=0
+Name=Ксенопарк

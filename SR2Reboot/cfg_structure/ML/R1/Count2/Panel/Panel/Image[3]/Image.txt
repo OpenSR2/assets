@@ -1,0 +1,4 @@
+Image=GI,Bm.FormCount2.1Kind1
+Name=Kind1
+Pos=24,93,11
+Size=171,25

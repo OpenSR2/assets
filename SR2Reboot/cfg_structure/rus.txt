@@ -1,0 +1,132 @@
+Artefacts=Artefacts\Artefacts.txt ^{
+}
+Asteroid=Asteroid\Asteroid.txt ^{
+}
+BV=BV\BV.txt ^{
+}
+CaseConv=CaseConv\CaseConv.txt ^{
+}
+Cheat=Cheat\Cheat.txt ^{
+}
+Constellations=Constellations\Constellations.txt ^{
+}
+Economy=Economy\Economy.txt ^{
+}
+FormAB=FormAB\FormAB.txt ^{
+}
+FormAbout=FormAbout\FormAbout.txt ~{
+}
+FormCfgSettings=FormCfgSettings\FormCfgSettings.txt ^{
+}
+FormGS=FormGS\FormGS.txt ^{
+}
+FormGalaxy=FormGalaxy\FormGalaxy.txt ^{
+}
+FormGameEnd=FormGameEnd\FormGameEnd.txt ^{
+}
+FormGameMenu=FormGameMenu\FormGameMenu.txt ^{
+}
+FormGameSet2=FormGameSet2\FormGameSet2.txt ^{
+}
+FormGov=FormGov\FormGov.txt ^{
+}
+FormHangar=FormHangar\FormHangar.txt ^{
+}
+FormInfo=FormInfo\FormInfo.txt ^{
+}
+FormIntroduction=FormIntroduction\FormIntroduction.txt ^{
+}
+FormLoadQuest=FormLoadQuest\FormLoadQuest.txt ^{
+}
+FormLoadRobot=FormLoadRobot\FormLoadRobot.txt ^{
+}
+FormMain=FormMain\FormMain.txt ^{
+}
+FormPQuest=FormPQuest\FormPQuest.txt ^{
+}
+FormPlanetNO=FormPlanetNO\FormPlanetNO.txt ^{
+}
+FormRating=FormRating\FormRating.txt ^{
+}
+FormRuins=FormRuins\FormRuins.txt ^{
+}
+FormRuinsRC=FormRuinsRC\FormRuinsRC.txt ^{
+}
+FormRuinsSB=FormRuinsSB\FormRuinsSB.txt ^{
+}
+FormSaveManager=FormSaveManager\FormSaveManager.txt ^{
+}
+FormScore=FormScore\FormScore.txt ^{
+}
+FormShip=FormShip\FormShip.txt ^{
+}
+FormShop=FormShop\FormShop.txt ^{
+}
+GalaxyNews=GalaxyNews\GalaxyNews.txt ^{
+}
+GovGreetings=GovGreetings\GovGreetings.txt ^{
+}
+Goverment=Goverment\Goverment.txt ^{
+}
+Help=Help\Help.txt ^{
+}
+HullType=HullType\HullType.txt ^{
+}
+Illness=Illness\Illness.txt ^{
+}
+Investment=Investment\Investment.txt ^{
+}
+Items=Items\Items.txt ^{
+}
+MicroModuls=MicroModuls\MicroModuls.txt ^{
+}
+Month=Month\Month.txt ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+PlanetCongratulations=PlanetCongratulations\PlanetCongratulations.txt ^{
+}
+PlanetName=PlanetName\PlanetName.txt ^{
+}
+PlanetQuest=PlanetQuest\PlanetQuest.txt ^{
+}
+Programms=Programms\Programms.txt ^{
+}
+Quest=Quest\Quest.txt ^{
+}
+Race=Race\Race.txt ^{
+}
+RangerInfo=RangerInfo\RangerInfo.txt ^{
+}
+Rank=Rank\Rank.txt ^{
+}
+Relations=Relations\Relations.txt ^{
+}
+Reward=Reward\Reward.txt ^{
+}
+RobotsMap=RobotsMap\RobotsMap.txt ^{
+}
+RuinName=RuinName\RuinName.txt ^{
+}
+Script=Script\Script.txt ^{
+}
+ShipCharacter=ShipCharacter\ShipCharacter.txt ^{
+}
+ShipGreetings=ShipGreetings\ShipGreetings.txt ^{
+}
+ShipInfo=ShipInfo\ShipInfo.txt ^{
+}
+ShipName=ShipName\ShipName.txt ^{
+}
+ShipType=ShipType\ShipType.txt ^{
+}
+Skills=Skills\Skills.txt ^{
+}
+Star=Star\Star.txt ^{
+}
+Talk=Talk\Talk.txt ^{
+}
+Tips=Tips\Tips.txt ^{
+}
+UselessItems=UselessItems\UselessItems.txt ^{
+}

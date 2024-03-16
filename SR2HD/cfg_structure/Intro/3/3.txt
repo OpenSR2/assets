@@ -1,0 +1,4 @@
+Frames=321
+Image=data\snk.vdo
+Sound=SNK
+Time=13375

@@ -1,0 +1,14 @@
+Fei=Fei\Fei.txt ^{
+}
+Gaal=Gaal\Gaal.txt ^{
+}
+Maloc=Maloc\Maloc.txt ^{
+}
+None=None\None.txt ^{
+}
+Peleng=Peleng\Peleng.txt ^{
+}
+People=People\People.txt ^{
+}
+Solar=Solar\Solar.txt ^{
+}

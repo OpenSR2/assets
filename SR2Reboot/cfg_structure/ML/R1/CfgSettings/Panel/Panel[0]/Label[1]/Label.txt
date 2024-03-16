@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=Top
+Font=Font.1Small
+Name=WarningMod
+Pos=38,247,-3
+Size=132,156
+TextColor=255,0,0
+WordWrap=True

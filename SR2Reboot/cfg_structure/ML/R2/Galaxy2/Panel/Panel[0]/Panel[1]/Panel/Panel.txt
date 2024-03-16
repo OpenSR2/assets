@@ -1,0 +1,9 @@
+Image=Image\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Name=PM_PanelDate
+Pos=738,55,7
+Size=130,22

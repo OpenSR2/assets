@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=RewardCount
+Pos=105,460,5
+Size=30,18
+TextColor=0,0,0

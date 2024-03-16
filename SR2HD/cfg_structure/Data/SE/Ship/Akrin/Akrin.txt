@@ -1,0 +1,30 @@
+1=1\1.txt ^{
+}
+2=2\2.txt ^{
+}
+3=3\3.txt ^{
+}
+A=A\A.txt ^{
+}
+B=B\B.txt ^{
+}
+C=C\C.txt ^{
+}
+D=D\D.txt ^{
+}
+E=E\E.txt ^{
+}
+F=F\F.txt ^{
+}
+G=G\G.txt ^{
+}
+H=H\H.txt ^{
+}
+I=I\I.txt ^{
+}
+J=J\J.txt ^{
+}
+K=K\K.txt ^{
+}
+L=L\L.txt ^{
+}

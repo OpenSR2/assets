@@ -1,0 +1,36 @@
+1Hull=1Hull\1Hull.txt ^{
+}
+1Info=1Info\1Info.txt ^{
+}
+1Item=1Item\1Item.txt ^{
+}
+1MessageBox=1MessageBox\1MessageBox.txt ^{
+}
+1Normal=1Normal\1Normal.txt ^{
+}
+1Normal2=1Normal2\1Normal2.txt ^{
+}
+1PQuestPar=1PQuestPar\1PQuestPar.txt ^{
+}
+1Simple=1Simple\1Simple.txt ^{
+}
+1Tips=1Tips\1Tips.txt ^{
+}
+2Hull=2Hull\2Hull.txt ^{
+}
+2Info=2Info\2Info.txt ^{
+}
+2Item=2Item\2Item.txt ^{
+}
+2MessageBox=2MessageBox\2MessageBox.txt ^{
+}
+2Normal=2Normal\2Normal.txt ^{
+}
+2Normal2=2Normal2\2Normal2.txt ^{
+}
+2PQuestPar=2PQuestPar\2PQuestPar.txt ^{
+}
+2Simple=2Simple\2Simple.txt ^{
+}
+2Tips=2Tips\2Tips.txt ^{
+}

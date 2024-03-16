@@ -1,0 +1,6 @@
+AlignX=Center
+Font=Font.2Normal
+Name=IExp
+Pos=641,511,2
+Size=245,22
+TextColor=212,212,212

@@ -1,0 +1,3 @@
+Name=PirateCaptainI
+Pos=60,338,1
+Size=77,86

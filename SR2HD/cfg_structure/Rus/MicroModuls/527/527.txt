@@ -1,0 +1,17 @@
+Cost=120
+Equipments=W09
+KindGraph=block
+Name="Армолок"
+OnPlanets=1
+Owner=Maloc,Peleng,People,Fei,Gaal
+Priority=10
+Ruins=Any
+ShotVisual=2
+Size=110
+Special=1
+Text=<color=248,252,248>Оружие модификации "Армолок" может высокоточными выстрелами выводить из строя концентратор каналов управления вооружением цели, на некоторое время отнимая у противника способность вести ответный огонь.</color><br> <br>
+Text=Шанс блокировки <clr>вооружения<clrEnd> обратно пропорционален размеру корпуса цели
+Text=Мощность сканера: <bonScan> ед.
+Text=(необходимо превышение мощности сканера над защитой цели)
+WeaponMods=BlockWeapon
+bonScan=-1

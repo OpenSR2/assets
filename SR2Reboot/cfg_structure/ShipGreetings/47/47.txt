@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=Any
+LastPlanetInCurStar=Yes
+LastPlanetIsHomePlanet=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+LastPlanetRelations=War
+Relations=War
+ShipBadFlyToShip=Any
+ShipRaceIsPlayerRace=No
+ShipType=Warrior
+Text=Вы, <Player>, должны немедленно совершить посадку на планету <LastPlanet>. Диалог в космосе для нас более неприемлем. Вас будут судить за все злодеяния, как чужеземца, регулярно нарушавшего наши законы!

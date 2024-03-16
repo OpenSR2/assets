@@ -1,0 +1,16 @@
+Artefact=0
+Cost=110
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Визор
+Probability=3
+Race=Maloc,Peleng
+Radar=1
+Scaner=1
+ShipType=Transport,Liner
+Size=100
+Text=Стандартная серия корпусов с радаром и сканером.
+Weapon=0
+Year=0

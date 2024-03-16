@@ -1,0 +1,3 @@
+Image=GI,Bm.FormLoad2.1Top
+Pos=0,0,-1
+Size=600,368

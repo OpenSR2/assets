@@ -1,0 +1,3 @@
+Name=Ship3DBuf
+Pos=111,166,1
+Size=137,138

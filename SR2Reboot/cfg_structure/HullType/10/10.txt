@@ -1,0 +1,16 @@
+Artefact=0
+Cost=120
+Def=1
+Droid=0
+Forsage=0
+Hook=0
+Name=Индиго
+Probability=3
+Race=People,Fei,Gaal
+Radar=0
+Scaner=0
+ShipType=Diplomat,Liner
+Size=100
+Text=Корпус для безопасной перевозки пассажиров. Имеет защитное поле и дополнительное вооружение.
+Weapon=1
+Year=0

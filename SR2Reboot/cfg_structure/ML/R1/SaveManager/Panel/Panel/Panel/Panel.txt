@@ -1,0 +1,3 @@
+Name=PanelAutoSave
+Pos=44,414,2
+Size=10,10

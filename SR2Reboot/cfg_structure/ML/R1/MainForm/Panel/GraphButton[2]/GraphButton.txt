@@ -1,0 +1,9 @@
+Auto=Size
+ImageDown=GI,Bm.FormMain2.1ButLoadD
+ImageNormal=GI,Bm.FormMain2.1ButLoadN
+ImageNormalA=GI,Bm.FormMain2.1ButLoadA
+Kind=Normal
+KindHit=Rect
+Name=Load
+Pos=477,269,20
+Style=Style.GB.SoundNormal

@@ -1,0 +1,9 @@
+FlyType=ToPlanet
+Goods=Food
+Priority=20
+Relations=Normal,Good,Best
+ShipGoodsCnt=Average,Big,Huge
+ShipGoodsTypeCnt=1
+ShipHaveGoods=Yes
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=Я везу большую партию еды на <ToPlanet>. Заказ срочный, прошу меня не задерживать, иначе товар испортится.

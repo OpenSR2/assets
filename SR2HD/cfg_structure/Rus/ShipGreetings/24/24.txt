@@ -1,0 +1,13 @@
+DominatorsAlreadyDefeated=No
+FlyType=Any
+Goods=Arms
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+Relations=Good,Best
+ShipGoodsTypeCnt=1,2,3
+ShipHaveGoods=Yes
+ShipRace=People
+ShipRaceIsPlayerRace=Yes
+ShipType=Transport,Liner
+Text=я совершаю рейс согласно графику. ѕоследн€€ посадка была совершена на планете <LastPlanet>, где € вз€л сопутствующий груз ручного оружи€.
+Text=¬ы, <Player>, как и €, человек! », конечно, понимаете, что только люди, как высша€ раса, смогут справитьс€ с доминаторами. —начала они, а потом настанет очередь и других рас. «ачистим космос от всех иноземных тварей!

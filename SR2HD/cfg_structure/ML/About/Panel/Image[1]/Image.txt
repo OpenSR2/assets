@@ -1,0 +1,4 @@
+Image=GI,Bm.FormAbout2.LogoPanel
+Name=LogoPanel
+Pos=0,690,999
+Size=1920,102

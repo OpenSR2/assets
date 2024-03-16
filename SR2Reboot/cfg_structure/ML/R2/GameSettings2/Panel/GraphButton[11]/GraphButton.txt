@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpFaceChange
+ImageDown=GI,Bm.FormGameSet2.2PortRD
+ImageNormalA=GI,Bm.FormGameSet2.2PortRA
+Kind=Normal
+KindHit=Graph
+Name=FaceRight
+Pos=334,254,50
+Size=39,94
+Style=Style.GB.SoundNormal

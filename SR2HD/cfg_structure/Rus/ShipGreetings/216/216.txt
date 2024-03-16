@@ -1,0 +1,14 @@
+CoalitionAlreadyDefeated=No
+DominatorsAlreadyDefeated=No
+FlyType=ToStar
+HomePlanetInToStar=No
+PlayerRating=Mini
+PlayerStatus=Trader,Warrior
+Relations=Normal,Good,Best
+ShipRace=Gaal
+ShipRaceIsPlayerRace=No
+ShipStatus=Trader,Warrior
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=Приветствую тебя, рейнджер <Player>!
+Text=Знаю, что ты не прославил пока свое имя, но как представитель гаальского народа я восхищаюсь стремлением представителя другого народа спасти нашу галактику от гнета машин. Пусть удача всегда сопутствует всем твоим начинаниям.
+Text=Я же устремлюсь навстречу своей судьбе в систему <ToStar>.

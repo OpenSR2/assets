@@ -1,0 +1,11 @@
+Cost=110
+Equipments=DefGenerator
+KindGraph=10
+Name=Миоплазменный генератор защиты I
+Priority=10
+Ruins=Any
+Special=1
+Text=Энергетическое оружие: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+bonWEnergy=2
+bonWSplinter=3

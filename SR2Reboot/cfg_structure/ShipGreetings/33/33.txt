@@ -1,0 +1,14 @@
+AutoTalk=Any
+FlyType=Any
+Goods=Medicine
+LastPlanetGoodsSale=Mini,Small
+LastPlanetInCurStar=No
+LastPlanetIsHomePlanet=No
+LastPlanetRace=People,Fei,Gaal
+Priority=20
+Relations=Best
+ShipRace=People,Fei,Gaal
+ShipStatus=Trader
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=Привет, <Player>! Надеюсь, чувствуешь себя хорошо, не болеешь? Коммерческая информация нужна?
+Text=Я только что прибыл из системы <LastPlanetStar>. Так вот, залетаю я на планету <LastPlanet>, а там... прикинь, медицина бесплатная для всего населения! Медикаменты по самым бросовым ценам! Ящики со шприцами, бинтами и прочее всего по <LastPlanetGoodsSale> кредиток! На планетах малоков и пеленгов все это стоит на порядок дороже!

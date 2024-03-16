@@ -1,0 +1,11 @@
+Help=FormInfo.HelpAddRecord
+ImageDown=GI,Bm.FormInfo2.2FindD
+ImageNormal=GI,Bm.FormInfo2.2FindN
+ImageNormalA=GI,Bm.FormInfo2.2FindA
+Kind=Normal
+KindHit=Rect
+Name=AddRecord
+Pos=267,17,1
+Size=67,21
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

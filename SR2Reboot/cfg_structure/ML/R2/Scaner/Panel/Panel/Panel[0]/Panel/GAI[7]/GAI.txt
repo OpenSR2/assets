@@ -1,0 +1,3 @@
+Name=S_DefGenerator_0anim
+Pos=276,420,-1
+Size=100,77

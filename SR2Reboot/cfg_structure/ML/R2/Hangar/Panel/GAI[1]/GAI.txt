@@ -1,0 +1,7 @@
+Active=False
+Active=True
+Frame=[80,0-23]
+Image=Bm.FormHangar2.2Rnd
+Name=AnimRnd
+Pos=196,239,0
+Size=624,323

@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Small
+Name=Label1C
+Pos=124,746,40
+Size=85,20
+Text=FormAbout.1C
+TextColor=255,255,255
+WordWrap=False

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormGoods2.1DownLeft
+Name=DownLeft
+Pos=24,13,8
+Size=279,393

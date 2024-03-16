@@ -1,0 +1,10 @@
+ActiveBarY=True
+ExternalSB=True
+MoveWorld=True
+Name=PanelSlot
+Pos=43,200,2
+PosAutoBarY=False
+RectBarY=573,200,590,657
+Size=519,457
+StyleBarY=Style.ScrollBar.2V3
+UnlimitedWorld=False

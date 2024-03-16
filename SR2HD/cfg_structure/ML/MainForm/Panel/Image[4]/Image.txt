@@ -1,0 +1,4 @@
+Auto=Size
+Image=GI,Bm.FormMain3.Circle
+Name=Circle
+Pos=652,227,51

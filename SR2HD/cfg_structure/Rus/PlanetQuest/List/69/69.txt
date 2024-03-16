@@ -1,0 +1,7 @@
+Access=12
+Dif=53
+Genre=бродилка с приключениями
+Group=1
+Image=Bm.PQI.Election_05
+Length=3
+Name=Живым или мертвым

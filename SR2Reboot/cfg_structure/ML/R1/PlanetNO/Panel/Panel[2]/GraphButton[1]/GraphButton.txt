@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormUnknown2.1LeftH
+ImageDown=GI,Bm.FormUnknown2.1LeftD
+ImageNormal=GI,Bm.FormUnknown2.1LeftN
+ImageNormalA=GI,Bm.FormUnknown2.1LeftA
+Kind=Disable
+KindHit=Graph
+Name=ButLeft
+Pos=121,320,8
+Size=18,29
+Style=Style.GB.SoundNormal

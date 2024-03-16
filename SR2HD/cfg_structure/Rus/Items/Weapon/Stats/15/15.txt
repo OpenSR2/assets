@@ -1,0 +1,16 @@
+AverageRadius=0800
+AverageSize=060
+DamageSet=Missile
+MaxDamage=030
+MinDamage=025
+MiningFactor=6
+MissileChanceToBeHit=33
+MissileMaxSpeed=1000
+MissileMinSpeed=600
+MissileRadius=1200
+SecondaryDamageRadius=100
+ShotType=Torpedo
+Speed=005
+TechLevel=08
+kCost=52.5
+mWeaponDamage=1.00,1.20,1.40,1.70,2.00,2.40,2.80,3.20

@@ -1,0 +1,3 @@
+Name=Slot_2i
+Pos=268,408,0
+Size=39,39

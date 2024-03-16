@@ -1,0 +1,33 @@
+Ace=Ace\Ace.txt ^{
+}
+Admiral=Admiral\Admiral.txt ^{
+}
+Cadet=Cadet\Cadet.txt ^{
+}
+Commander=Commander\Commander.txt ^{
+}
+FlyToEnemy=FlyToEnemy\FlyToEnemy.txt ^{
+}
+HyperJumpVideo=data\hyper.vdo,Hyper
+Leader=Leader\Leader.txt ^{
+}
+Modern=Modern\Modern.txt ^{
+}
+NextRank=NextRank\NextRank.txt ^{
+}
+Pilot=Pilot\Pilot.txt ^{
+}
+Programms=Programms\Programms.txt ^{
+}
+Repair=Repair\Repair.txt ^{
+}
+Rookie=Rookie\Rookie.txt ^{
+}
+SpecialShip=SpecialShip\SpecialShip.txt ^{
+}
+WarOperation=WarOperation\WarOperation.txt ^{
+}
+WarWithKlingAndPirates=WarWithKlingAndPirates\WarWithKlingAndPirates.txt ^{
+}
+Wingman=Wingman\Wingman.txt ^{
+}

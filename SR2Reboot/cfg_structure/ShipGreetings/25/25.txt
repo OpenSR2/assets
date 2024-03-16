@@ -1,0 +1,13 @@
+FlyType=Any
+Goods=Food
+LastPlanetDistToShipInTurn=1,2,3,4
+LastPlanetGoodsBuy=Big,Huge
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerHaveGoods=Yes
+Relations=Best
+ShipHaveGoods=No
+ShipRace=Maloc,People,Fei,Gaal
+ShipType=Transport
+Text=Транспортное судно <Ship> информирует вас, <Player>:
+Text=Только что мы совершали посадку на <LastPlanet> и загружались всякими товарами народного потребления. При этом мы заметили, что на этой планете крайне высокая цена на продовольствие. Если у вас на борту есть продовольствие, то скорей совершайте посадку и все продавайте!

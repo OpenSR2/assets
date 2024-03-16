@@ -1,0 +1,17 @@
+Artefact=0
+Cost=320
+Def=0
+Droid=0
+Forsage=-1
+Fragility=135
+Hook=0
+Name=Одинокий странник
+Probability=90
+Race=People
+Radar=0
+Scaner=0
+ShipType=Ranger
+Size=180
+Text=Человеческий корпус для неторопливых странствий пилота-рейнджера. Салон украшен картинами пейзажей древней планеты Земля.
+Weapon=1
+Year=40

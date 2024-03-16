@@ -1,0 +1,10 @@
+Cursor=Cursor\Cursor.txt ^{
+}
+Item ^{
+}
+Path=Path\Path.txt ^{
+}
+SWeapon=SWeapon\SWeapon.txt ^{
+}
+bgo=bgo\bgo.txt ^{
+}

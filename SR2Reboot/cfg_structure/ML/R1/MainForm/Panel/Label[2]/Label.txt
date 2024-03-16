@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Name=LoadQuestCnt
+Pos=288,555,-20
+Size=78,16
+TextColor=86,214,14
+WordWrap=False

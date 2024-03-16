@@ -1,0 +1,7 @@
+Diplomat=дипломата
+Kling=доминатора
+Liner=лайнера
+Pirate=пирата
+Ranger=рейнджера
+Transport=транспорта
+Warrior=воина

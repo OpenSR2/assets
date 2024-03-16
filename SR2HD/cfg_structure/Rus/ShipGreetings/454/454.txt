@@ -1,0 +1,6 @@
+CoalitionAlreadyDefeated=No
+DominatorsAlreadyDefeated=Yes
+InFear=No
+Relations=Normal,Good,Best
+ShipType=Warrior
+Text=—лушаю теб€ внимательно, <Player>. ѕосле победы над доминаторами мы вас, рейнджеров, больше зауважали, так что говори смело, чего хотел.

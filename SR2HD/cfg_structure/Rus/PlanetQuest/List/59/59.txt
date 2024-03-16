@@ -1,0 +1,7 @@
+Access=8
+Dif=31
+Genre=симулятор таксиста
+Group=1
+Image=Bm.PQI.Taxist_00
+Length=2
+Name=Таксист

@@ -1,0 +1,7 @@
+Access=5
+Dif=38
+Genre=стратегия с элементами файтинга
+Group=1
+Image=Bm.PQI.van_13
+Length=4
+Name=Злой гений

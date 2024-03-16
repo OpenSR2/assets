@@ -1,0 +1,5 @@
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Bad,Normal
+PlayerRace=Peleng
+Priority=10
+Text=Привет тебе, четырехрукий <Player>! Что надо на нашей планете представителю столь низкого народа? Вы, пеленги, умеете только нападать из-за угла, да возить контрабанду.

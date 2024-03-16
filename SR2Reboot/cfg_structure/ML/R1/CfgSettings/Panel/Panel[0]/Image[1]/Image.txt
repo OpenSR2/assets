@@ -1,0 +1,4 @@
+Image=GI,Bm.FormOptions2.1Right
+Name=ModeRight
+Pos=4,0,-2
+Size=582,519

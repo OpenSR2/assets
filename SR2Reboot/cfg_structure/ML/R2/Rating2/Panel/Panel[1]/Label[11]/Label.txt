@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Name=BestTrader
+Pos=30,367,-3
+Size=184,22
+TextColor=101,171,137
+WordWrap=True

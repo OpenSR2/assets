@@ -1,0 +1,9 @@
+CurPlanetGoodsBuy=Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetPirateClan=No
+CurPlanetRelations=Bad,Normal,Good,Best
+CurStarInBattle=Yes
+Goods=Arms
+Priority=30
+Text=Военное положение в нашей системе, <Player>, сподвигло всех жителей нашей планеты вооружаться. Даже мирные жители готовятся дать отпор агрессорам!
+Text=Сегодня мы покупаем оружие по баснословным ценам. Если вам есть, что продать, то сделайте это, вы только выиграете. А потом сразу в бой. Будем вместе противостоять доминаторам!

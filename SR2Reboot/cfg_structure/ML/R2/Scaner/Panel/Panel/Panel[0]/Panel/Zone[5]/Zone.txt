@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_CargoHook_0z
+Pos=182,420,0
+Size=95,77

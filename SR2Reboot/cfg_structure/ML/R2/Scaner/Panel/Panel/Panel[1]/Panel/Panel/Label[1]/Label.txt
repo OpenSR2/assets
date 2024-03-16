@@ -1,0 +1,8 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.2Ranger
+Pos=85,343,0
+Size=92,15
+Text=FormShip.Points
+TextColor=45,105,124
+WordWrap=True

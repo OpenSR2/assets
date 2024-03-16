@@ -1,0 +1,9 @@
+AutoTalk=Any
+FlyType=ToItem
+ItemType=Food,Medicine,Technics,Luxury,Alcohol,Arms,Narcotics
+Priority=10
+Relations=Normal,Good,Best
+ShipGoodsTypeCnt=2,3,4,5,6,7,8,Any
+ShipTurnBeforeEndOrder=2,3,4,5
+ShipType=Ranger,Pirate
+Text=Еще немного, и я расширю свой ассортимент товаров. <Item> нынче можно выгодно продать, тем более, что мне этот товар нахаляву достанется.

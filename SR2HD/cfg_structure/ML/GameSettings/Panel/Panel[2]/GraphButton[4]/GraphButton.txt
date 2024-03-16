@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpSkill5
+ImageDown=GI,Bm.FormGameSet2.2Skill5D
+ImageNormalA=GI,Bm.FormGameSet2.2Skill5A
+Kind=Fix
+KindHit=Graph
+Name=Skill5
+Pos=291,112,50
+Size=36,36
+Style=Style.GB.SoundNormal

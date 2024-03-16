@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Luxury
+LastPlanetGoodsCnt=Average,Big,Huge
+LastPlanetGoodsSale=Mini,Small,Average
+LastPlanetRace=Peleng,People,Fei,Gaal
+PlayerStatus=Trader
+Priority=30
+Relations=Good,Best
+ShipGoodsCnt=Small,Average,Big,Huge
+ShipType=Transport
+Text=Привет, собрат по ремеслу, как торговля нынче? Лично я, <Player>, предпочитаю делать бизнес на роскоши. Покупаю крупную партию на планете <LastPlanet> по бросовым ценам - всего <LastPlanetGoodsSale> cr за контейнер, а потом сбываю этот товар на планете <ToPlanet> по <ToPlanetGoodsBuy>. Это очень выгодно, присоединяйся!
+ToPlanetGoodsBuy=Big,Huge

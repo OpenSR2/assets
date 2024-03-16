@@ -1,0 +1,7 @@
+CurPlanetPirateClan=Any
+CurPlanetRace=Peleng
+CurPlanetRelations=Normal,Good,Best
+PlayerStatus=Pirate,Warrior
+Priority=5
+Text=ћы, пеленги, всегда рады видеть прославленных воинов на своей планете. „то скажете насчет провоза контрабанды на планеты других рас?
+Text=” нас все разрешено!

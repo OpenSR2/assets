@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=ToStar
+InFear=Yes
+PlayerIsShipBad=Yes
+PlayerStatus=Pirate
+Priority=50
+Relations=War
+ShipBadFlyToShip=Any
+ShipStatus=Trader,Warrior
+ShipType=Transport,Liner,Diplomat,Ranger
+StrengthShipWithPlayer=Mini,Small,Average
+Text=Лети своей дорогой, <Player>, и не вздумай меня преследовать. Если сунешься на расстояние выстрела, то сильно пожалеешь, пиратская морда.

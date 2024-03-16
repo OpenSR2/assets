@@ -1,0 +1,4 @@
+Cost=Починить корпус - <Money> cr
+NeedRepair=Корпус - Поврежден
+NotMoney=Стоимость починки корпуса <Money> cr
+Ok=Корпус - Ок

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormPlanetNO.2bg
+Name=CockpitImage
+Pos=-524,-302,100
+Size=2048,1536

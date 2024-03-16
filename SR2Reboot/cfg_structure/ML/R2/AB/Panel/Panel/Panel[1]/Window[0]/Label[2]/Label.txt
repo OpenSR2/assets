@@ -1,0 +1,8 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.2Normal
+Pos=0,85,8
+Size=135,20
+Text=FormAB.InfoExit
+TextColor=255,255,230
+WordWrap=False

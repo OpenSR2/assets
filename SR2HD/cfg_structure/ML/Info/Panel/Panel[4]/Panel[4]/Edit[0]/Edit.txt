@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.2Normal
+MaxLen=30
+Name=M04Power
+Pos=285,263,0
+Size=99,17
+TextColor=0,0,0

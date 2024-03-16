@@ -1,0 +1,10 @@
+ImageBottom=GI,Bm.FormNote.2ItemBottom
+ImageBottomLeft=GI,Bm.FormNote.2ItemBottomLeft
+ImageBottomRight=GI,Bm.FormNote.2ItemBottomRight
+ImageLeft=GI,Bm.FormNote.2ItemLeft
+ImageRight=GI,Bm.FormNote.2ItemRight
+ImageTexture=GI,Bm.FormNote.2ItemTexture
+ImageTop=GI,Bm.FormNote.2ItemTop
+ImageTopLeft=GI,Bm.FormNote.2ItemTopLeft
+ImageTopRight=GI,Bm.FormNote.2ItemTopRight
+WorkSubRect=16,63,12,45

@@ -1,0 +1,17 @@
+Artefact=0
+Cost=130
+Def=0
+Droid=0
+Forsage=-1
+Fragility=120
+Hook=0
+Name=Факрай
+Probability=20
+Race=Fei
+Radar=0
+Scaner=0
+ShipType=Ranger
+Size=130
+Text=Вместительное рейнджерское судно, подходит для неспешной перевозки опасных и хрупких грузов. Только для отважных фэян.
+Weapon=1
+Year=10

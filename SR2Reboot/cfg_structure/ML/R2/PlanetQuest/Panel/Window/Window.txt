@@ -1,0 +1,6 @@
+Name=ParamsShowWindowParent
+Panel=Panel\Panel.txt ^{
+}
+Pos=643,457,5
+Size=320,176
+Style=Style.Window.2PQuestPar

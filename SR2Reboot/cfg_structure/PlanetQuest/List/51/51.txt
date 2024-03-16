@@ -1,0 +1,7 @@
+Access=4
+Dif=30
+Genre=бродилка с приключениями
+Group=1
+Image=Bm.PQI.van_65
+Length=2
+Name=Вулканический остров

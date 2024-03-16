@@ -1,0 +1,5 @@
+Active=False
+Image=GI,Bm.FormHangar2.2OpenImage
+Name=OpenImage
+Pos=196,239,0
+Size=624,323

@@ -1,0 +1,2 @@
+Create=GalaxyNews.Group.PirateInvader.Create
+CreateKling=GalaxyNews.Group.PirateInvader.CreateKling

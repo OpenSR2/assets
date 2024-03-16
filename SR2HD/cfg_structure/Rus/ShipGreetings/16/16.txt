@@ -1,0 +1,13 @@
+CoalitionAlreadyDefeated=No
+FlyType=Any
+LastPlanetDistToShipInTurn=1,2,3,4
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+LastPlanetRaceIsShipRace=No
+PlayerRank=Rookie,Cadet
+PlayerRating=Mini
+Priority=1
+Relations=Normal,Good,Best
+ShipRace=People,Fei,Gaal
+ShipType=Diplomat
+Text=Привет, <Player>! Как успехи? Знаю, что ты слабоват в рейтинге, но зато у тебя есть куда расти, к чему стремиться. Это хорошо, когда есть цель в жизни.
+Text=Я вот только что побывал на <LastPlanet> c дипломатической миссией и, надо сказать, я добился определенных успехов! Наши народы теперь будут более дружны. Ну да ладно, тебя это вряд ли интересует.

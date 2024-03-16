@@ -1,0 +1,9 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.1Small
+Name=ISSpeed
+Pos=0,67,8
+Size=100,12
+Text=FormInfo.ISSpeed
+TextColor=140,140,140
+WordWrap=False

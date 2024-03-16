@@ -1,0 +1,16 @@
+AutoTalk=Any
+CoalitionAlreadyDefeated=No
+FlyType=Any
+Goods=Technics
+LastPlanetEconomy=Industrial
+LastPlanetGoodsSale=Mini,Small
+LastPlanetInCurStar=No
+LastPlanetIsHomePlanet=No
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerRating=Big,Huge
+Priority=20
+Relations=Best
+ShipRace=People,Fei,Gaal
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=я всегда рад видеть теб€, <Player>, одного из лучших рейнджеров нашей галактики!
+Text=’отелось бы помочь, посодействовать, так сказать... «наешь, € только что прибыл из системы <LastPlanetStar>. “ам на известной техногенной планете <LastPlanet> все технические товары сто€т просто копейки. ”ж и не знаю, интересует ли теб€ бизнес, но очень советую в любом случае.

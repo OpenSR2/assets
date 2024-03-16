@@ -1,0 +1,11 @@
+Help=FormInfo.HelpSearch
+ImageDown=GI,Bm.FormInfo2.1FindD
+ImageNormal=GI,Bm.FormInfo2.1FindN
+ImageNormalA=GI,Bm.FormInfo2.1FindA
+Kind=Normal
+KindHit=Rect
+Name=OkSearch
+Pos=224,51,1
+Size=54,17
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

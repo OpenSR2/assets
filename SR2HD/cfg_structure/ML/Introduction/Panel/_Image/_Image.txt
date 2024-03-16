@@ -1,0 +1,4 @@
+Image=GI,Bm.FormIntro2.Planet
+Name=ImagePlanet
+Pos=730,390,999
+Size=275,246

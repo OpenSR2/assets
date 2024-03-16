@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.1Normal
+MaxLen=30
+Name=M11Cost
+Pos=236,263,0
+Size=73,15
+TextColor=0,0,0

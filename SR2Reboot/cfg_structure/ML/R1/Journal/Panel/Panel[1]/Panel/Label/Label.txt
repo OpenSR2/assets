@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Pos=209,12,0
+Size=52,16
+Text=FormInfo.AddRecord
+TextColor=255,255,230

@@ -1,0 +1,10 @@
+Frame=Frame\Frame.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+PanelScrollBar=PanelScrollBar\PanelScrollBar.txt ^{
+}
+Pos=30,30,5
+Size=400,425

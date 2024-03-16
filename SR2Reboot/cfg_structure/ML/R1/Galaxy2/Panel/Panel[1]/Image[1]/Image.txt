@@ -1,0 +1,4 @@
+Image=GI,Bm.FormGalaxy2.1Light1
+Name=Light1
+Pos=121,444,-2
+Size=14,15

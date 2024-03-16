@@ -1,0 +1,3 @@
+Auto=Size
+Image=GI,Bm.FormMain3.1Sub
+Pos=395,158,47

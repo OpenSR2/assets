@@ -1,0 +1,224 @@
+AB=AB\AB.txt ^{
+}
+ABClot=ABClot\ABClot.txt ^{
+}
+ABItem=ABItem\ABItem.txt ^{
+}
+ABWall=ABWall\ABWall.txt ^{
+}
+Asteroid=Asteroid\Asteroid.txt ^{
+}
+Atm=Atm\Atm.txt ^{
+}
+BGO=BGO\BGO.txt ^{
+}
+BGO_HS=BGO_HS\BGO_HS.txt ^{
+}
+Captain=Captain\Captain.txt ^{
+}
+City=City\City.txt ^{
+}
+Comet=Comet\Comet.txt ^{
+}
+Container=Container\Container.txt ^{
+}
+Cursor=Cursor\Cursor.txt ^{
+}
+Developers=Developers\Developers.txt ^{
+}
+FormAB=FormAB\FormAB.txt ^{
+}
+FormAB2=FormAB2\FormAB2.txt ^{
+}
+FormAbout=FormAbout\FormAbout.txt ^{
+}
+FormAbout2=FormAbout2\FormAbout2.txt ^{
+}
+FormAchievements=FormAchievements\FormAchievements.txt ^{
+}
+FormCount2=FormCount2\FormCount2.txt ^{
+}
+FormEnd2=FormEnd2\FormEnd2.txt ^{
+}
+FormGalaxy=FormGalaxy\FormGalaxy.txt ^{
+}
+FormGalaxy2=FormGalaxy2\FormGalaxy2.txt ^{
+}
+FormGameSet2=FormGameSet2\FormGameSet2.txt ^{
+}
+FormGameSet_=FormGameSet_\FormGameSet_.txt ^{
+}
+FormGoods2=FormGoods2\FormGoods2.txt ^{
+}
+FormGoods_=FormGoods_\FormGoods_.txt ^{
+}
+FormGov2=FormGov2\FormGov2.txt ^{
+}
+FormHangar2=FormHangar2\FormHangar2.txt ^{
+}
+FormInfo2=FormInfo2\FormInfo2.txt ^{
+}
+FormInfo3=FormInfo3\FormInfo3.txt ^{
+}
+FormInfo_=FormInfo_\FormInfo_.txt ^{
+}
+FormIntro2=FormIntro2\FormIntro2.txt ^{
+}
+FormIntro_=FormIntro_\FormIntro_.txt ^{
+}
+FormLoad2=FormLoad2\FormLoad2.txt ^{
+}
+FormLoadAB=FormLoadAB\FormLoadAB.txt ^{
+}
+FormLoadQuest=FormLoadQuest\FormLoadQuest.txt ^{
+}
+FormLoadRobot=FormLoadRobot\FormLoadRobot.txt ^{
+}
+FormLoad_=FormLoad_\FormLoad_.txt ^{
+}
+FormMain2=FormMain2\FormMain2.txt ^{
+}
+FormMain3=FormMain3\FormMain3.txt ^{
+}
+FormMain_=FormMain_\FormMain_.txt ^{
+}
+FormMenu2=FormMenu2\FormMenu2.txt ^{
+}
+FormMenu_=FormMenu_\FormMenu_.txt ^{
+}
+FormMessageBox=FormMessageBox\FormMessageBox.txt ^{
+}
+FormMods=FormMods\FormMods.txt ^{
+}
+FormNote=FormNote\FormNote.txt ^{
+}
+FormOptions2=FormOptions2\FormOptions2.txt ^{
+}
+FormOptions_=FormOptions_\FormOptions_.txt ^{
+}
+FormPQuest2=FormPQuest2\FormPQuest2.txt ^{
+}
+FormPQuest_=FormPQuest_\FormPQuest_.txt ^{
+}
+FormPlanet=FormPlanet\FormPlanet.txt ^{
+}
+FormPlanetNO=FormPlanetNO\FormPlanetNO.txt ^{
+}
+FormRating2=FormRating2\FormRating2.txt ^{
+}
+FormRating_=FormRating_\FormRating_.txt ^{
+}
+FormRewards=FormRewards\FormRewards.txt ^{
+}
+FormRuins=FormRuins\FormRuins.txt ^{
+}
+FormSave2=FormSave2\FormSave2.txt ^{
+}
+FormSave_=FormSave_\FormSave_.txt ^{
+}
+FormScore2=FormScore2\FormScore2.txt ^{
+}
+FormScore_=FormScore_\FormScore_.txt ^{
+}
+FormShip=FormShip\FormShip.txt ^{
+}
+FormShip2=FormShip2\FormShip2.txt ^{
+}
+FormShop2=FormShop2\FormShop2.txt ^{
+}
+FormShop_=FormShop_\FormShop_.txt ^{
+}
+FormTalk2=FormTalk2\FormTalk2.txt ^{
+}
+FormTalk_=FormTalk_\FormTalk_.txt ^{
+}
+FormUnknown2=FormUnknown2\FormUnknown2.txt ^{
+}
+Garbage=Garbage\Garbage.txt ^{
+}
+Gate=Gate\Gate.txt ^{
+}
+Gate2=Gate2\Gate2.txt ^{
+}
+Gov=Gov\Gov.txt ^{
+}
+GovHD=GovHD\GovHD.txt ^{
+}
+Hangar=Hangar\Hangar.txt ^{
+}
+Hits=Hits\Hits.txt ^{
+}
+Hole=Hole\Hole.txt ^{
+}
+Items=Items\Items.txt ^{
+}
+ItemsUseless=ItemsUseless\ItemsUseless.txt ^{
+}
+Micromoduls=Micromoduls\Micromoduls.txt ^{
+}
+Mineral=Mineral\Mineral.txt ^{
+}
+Missile=Missile\Missile.txt ^{
+}
+MsgPlayer=MsgPlayer\MsgPlayer.txt ^{
+}
+News=News\News.txt ^{
+}
+Node=Node\Node.txt ^{
+}
+PI=PI\PI.txt ^{
+}
+PQI=PQI\PQI.txt ^{
+}
+PSPartner=PSPartner\PSPartner.txt ^{
+}
+PUMaps=PUMaps\PUMaps.txt ^{
+}
+PanelFilm2=PanelFilm2\PanelFilm2.txt ^{
+}
+PanelFilm_=PanelFilm_\PanelFilm_.txt ^{
+}
+PanelMain2=PanelMain2\PanelMain2.txt ^{
+}
+PanelMain_=PanelMain_\PanelMain_.txt ^{
+}
+PanelPlanet=PanelPlanet\PanelPlanet.txt ^{
+}
+PanelSpace2=PanelSpace2\PanelSpace2.txt ^{
+}
+PanelSpace_=PanelSpace_\PanelSpace_.txt ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+Planet2=Planet2\Planet2.txt ^{
+}
+PlanetAdvt=PlanetAdvt\PlanetAdvt.txt ^{
+}
+PlanetBG=PlanetBG\PlanetBG.txt ^{
+}
+PlanetRing=PlanetRing\PlanetRing.txt ^{
+}
+Protoplasm=Protoplasm\Protoplasm.txt ^{
+}
+Race=Race\Race.txt ^{
+}
+Ruins=Ruins\Ruins.txt ^{
+}
+SB=SB\SB.txt ^{
+}
+SBNormal=SBNormal\SBNormal.txt ^{
+}
+SI=SI\SI.txt ^{
+}
+Ship=Ship\Ship.txt ^{
+}
+ShipP=ShipP\ShipP.txt ^{
+}
+Star=Star\Star.txt ^{
+}
+Tail=Tail\Tail.txt ^{
+}
+Teleport=Teleport\Teleport.txt ^{
+}
+Weapon=Weapon\Weapon.txt ^{
+}

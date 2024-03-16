@@ -1,0 +1,3 @@
+Name=Skill0
+Pos=701,344,0
+Size=30,43

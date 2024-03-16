@@ -1,0 +1,14 @@
+AutoTalk=Any
+DominatorsAlreadyDefeated=No
+FlyType=Any
+Goods=Alcohol
+LastPlanetGoodsSale=Mini,Small
+LastPlanetInCurStar=No
+LastPlanetIsHomePlanet=No
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerRating=Average,Big,Huge
+Priority=20
+Relations=Best
+ShipType=Transport,Liner,Diplomat
+Text=¬сегда рад приветствовать борца с машинами! «наю, что ты, <Player>, активный рейнджер, и скоро победишь доминаторов!
+Text= стати, € только что прилетел из системы <LastPlanetStar> и заметил, что там на планете <LastPlanet> крайне дешевое спиртное. ÷ена одного €щика составл€ет всего <LastPlanetGoodsSale> cr, склады просто забиты!

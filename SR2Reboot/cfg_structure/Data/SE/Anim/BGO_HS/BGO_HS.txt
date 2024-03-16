@@ -1,0 +1,6 @@
+Angel=Angel\Angel.txt ^{
+}
+Comet=Comet\Comet.txt ^{
+}
+Objects=Objects\Objects.txt ^{
+}

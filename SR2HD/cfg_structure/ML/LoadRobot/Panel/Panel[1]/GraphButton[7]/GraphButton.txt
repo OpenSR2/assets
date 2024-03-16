@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormOptions2.2SwitchH
+ImageDown=GI,Bm.FormOptions2.2SwitchD
+ImageNormal=GI,Bm.FormOptions2.2SwitchN
+ImageNormalA=GI,Bm.FormOptions2.2SwitchA
+Kind=FixDisable
+KindHit=Rect
+Name=Dif2
+Pos=790,188,-3
+Size=17,17
+Style=Style.GB.SoundNormal

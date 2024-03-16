@@ -1,0 +1,3 @@
+Name=ItemI6
+Pos=346,213,40
+Size=36,36

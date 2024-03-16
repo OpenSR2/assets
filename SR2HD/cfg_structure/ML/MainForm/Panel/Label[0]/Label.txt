@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Name=LoadRobotCnt
+Pos=129,710,-20
+Size=100,20
+TextColor=86,214,14
+WordWrap=False

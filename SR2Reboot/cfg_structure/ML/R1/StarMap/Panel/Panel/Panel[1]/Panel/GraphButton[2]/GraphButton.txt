@@ -1,0 +1,11 @@
+Help=Help.ButW2
+ImageDisable=GI,Bm.PanelMain2.1W3Disabled
+ImageDown=GI,Bm.PanelMain2.1W3Down
+ImageNormal=GI,Bm.PanelMain2.1W3Normal
+ImageNormalA=GI,Bm.PanelMain2.1W3Active
+Kind=Disable
+KindHit=Graph
+Name=PS_W2
+Pos=98,0,8
+Size=39,33
+Style=Style.GB.SoundNormal

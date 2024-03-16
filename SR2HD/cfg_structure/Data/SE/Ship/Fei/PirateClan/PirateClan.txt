@@ -1,0 +1,15 @@
+2ImageP=GI,Bm.ShipP.FeiPC
+Anim=Anim\Anim.txt ^{
+}
+AnimS=AnimS\AnimS.txt ^{
+}
+Image=Bm.Ship.FeiPC
+ImageMap=Bm.Ship.SpecialMap
+ImageS=Bm.Ship.FeiPCs
+PosZ=Ship
+SizeImage=128,128
+SmeCenterImage=64,64
+SmeImage=64,64
+SmeImageMap=2,2
+StateTime=2000
+Tail1=64,96

@@ -1,0 +1,16 @@
+Artefact=0
+Cost=160
+Def=1
+Droid=0
+Forsage=1
+Hook=0
+Name=Кость страха
+Probability=5
+Race=Maloc,Peleng,People
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=100
+Text=Корпус бывалого пирата, перед которым трепещут даже малокские вояки.
+Weapon=2
+Year=0

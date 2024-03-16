@@ -1,0 +1,4 @@
+Image=GI,Bm.FormNote.2HP_Forsage
+Name=InfoHull_Forsage
+Pos=0,32
+Size=14,15

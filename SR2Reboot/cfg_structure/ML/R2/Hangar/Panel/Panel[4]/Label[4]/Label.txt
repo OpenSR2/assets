@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Name=Text4
+Pos=203,126,-3
+Size=232,15
+Style=Style.Label.2Normal
+TextColor=0,0,0
+WordWrap=False

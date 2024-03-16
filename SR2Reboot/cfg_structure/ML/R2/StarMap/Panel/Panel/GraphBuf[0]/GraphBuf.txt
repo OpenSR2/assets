@@ -1,0 +1,3 @@
+Name=LargeHelp
+Pos=-180,-324,InfoPanel
+Size=330,40

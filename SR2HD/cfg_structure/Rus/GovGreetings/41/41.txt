@@ -1,0 +1,13 @@
+CurPlanetGoodsCnt=Mini,Small,Average,Big,Huge
+CurPlanetGoodsPermit=No
+CurPlanetPirateClan=No
+CurPlanetRace=Peleng,People,Fei,Gaal
+CurPlanetRelations=Normal,Good,Best
+Goods=Narcotics
+Priority=3
+Text=”важаемый <Player>! ћы рады вас приветствовать на нашей планете. »скренне надеемс€, что предметы наркотического содержани€ вас не интересуют, и вы будете вести на нашей планете исключительно легальную де€тельность.
+Text=≈сли все же вы помешаны на наркотиках, то летите в систему <ToStar> на планету <ToPlanet>. “ам этого добра можно набрать легально, всего по <ToPlanetGoodsSale> cr за условную единицу.
+ToPlanetGoodsPermit=Yes
+ToPlanetGoodsSale=Mini,Small,Average
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal
