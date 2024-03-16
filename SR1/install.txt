@@ -1,0 +1,42 @@
+Version=1.00
+
+Resolution_R1=Yes
+Resolution_R2=Yes
+
+AnimCaptain=Yes
+AnimItem=Yes
+BGImage=Yes
+AnimShipFull=Yes
+AnimShipSmall=Yes
+AnimStar=Yes
+SpaceImage=Yes
+AnimGov=Yes
+AnimHangar=Yes
+SputnikShow=Yes
+
+Sound=Yes
+SoundInSpace=Yes
+Music=Yes
+MusicInSpace=Yes
+
+Lang ^{
+    Rus=Russian,Rus
+}
+
+Packages ^{
+    Package=data\1captain.pkg
+    Package=data\2captain.pkg
+    Package=data\1gov.pkg
+    Package=data\2gov.pkg
+    Package=data\1Hangar.pkg
+    Package=data\2Hangar.pkg
+    Package=data\1Items.pkg
+    Package=data\2Items.pkg
+    Package=data\1main.pkg
+    Package=data\2main.pkg
+    Package=data\common.pkg
+    Package=data\ShipSmall.pkg
+    Package=data\ShipFull.pkg
+    Package=data\Star.pkg
+    Package=data\sound.pkg
+}
