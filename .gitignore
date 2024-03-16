@@ -9,6 +9,7 @@
 *.le.config
 *.dmp
 *.vdo
+*.wav
 /.idea/
 /Rangers_2000_03_04/Screenshots/
 /Rangers_2000_03_04/ddraw.ini
@@ -17,3 +18,4 @@
 /SR1/music/
 /SR1/Sound/
 /SR2Dominators/data_unpacked/Sound/
+/SR2Reboot/data_unpacked/Sound/
