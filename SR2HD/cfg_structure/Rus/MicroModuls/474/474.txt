@@ -1,0 +1,17 @@
+Cost=400
+Equipments=Hull
+Fragility=120
+KindGraph=I
+Name=Корпус "Молния" III
+Priority=50
+Ruins=SB,BK
+Size=130
+Special=1
+Text=<color=248,252,248>Агрессивный внешне спецкорпус для тех, кто любит путешествовать по галактике, предпочитая торговые операции и правительственные приключения кровопролитным сражениям.</color>
+Text=Дальность радара: <bonRadar> ед.
+Text=Дальность прыжка: <bonJump> ед.
+Text=Генератор поля: <bonDef> ед.
+bonDef=-6
+bonJump=12
+bonRadar=200
+bonSlotWeapon=-2

@@ -1,0 +1,8 @@
+CurPlanetEconomy=Industrial
+CurPlanetGoodsCnt=Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small,Average
+CurPlanetRelations=Good,Best
+Goods=Technics
+Priority=10
+Text=Приветствуем тебя, <Player>, как дела?<br>Мы готовы предложить большую партию предметов техники. Нет желания сделать хороший бизнес? Контейнер стоит всего <CurPlanetGoodsSale> cr. Сейчас на складе имеется <CurPlanetGoodsCnt> единиц товара. У соседей нет такого выбора!

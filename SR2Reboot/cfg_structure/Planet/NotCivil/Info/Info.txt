@@ -1,0 +1,4 @@
+TextAboutPlanet=Развитые формы жизни не зарегистрированы.
+TextAboutPlanet=Космодром отсутствует, посадка нежелательна.
+TextAboutPlanet=Неисследованные территории
+TextAboutPlanet=Вода: <Water> / Равнина: <Land> / Горы: <Hill>

@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=ToPlanet
+InFear=Yes
+Priority=50
+Relations=Good,Best
+ShipBadFlyToShip=Any
+ShipRace=Peleng,People,Fei,Gaal
+ShipStructure=Mini,Small,Average,Big
+ShipTurnBeforeEndOrder=1,2,3,4
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=Опасность, враги повсюду! Что делать? Надо срочно совершить посадку на ближайшую планету <ToPlanet>.
+Text=И тебе, <Player>, советую последовать моему примеру! Тут не до разговоров. Я же не малок, у меня самообладание не железное!

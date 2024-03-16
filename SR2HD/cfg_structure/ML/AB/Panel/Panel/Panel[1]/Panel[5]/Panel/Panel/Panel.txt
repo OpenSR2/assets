@@ -1,0 +1,3 @@
+Name=LoseKeyPress
+Pos=0,50,8
+Size=1020,1

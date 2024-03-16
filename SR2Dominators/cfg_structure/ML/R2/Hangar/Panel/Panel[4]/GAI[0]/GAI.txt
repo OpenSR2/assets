@@ -1,0 +1,7 @@
+KindX=Center
+KindY=Center
+Name=FaceA
+PBuf=True
+Pos=60,33,0
+Size=99,110
+TransColor=255,0,255

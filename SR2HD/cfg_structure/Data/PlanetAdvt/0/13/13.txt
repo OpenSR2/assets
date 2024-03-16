@@ -1,0 +1,2 @@
+Image2=GAI,Bm.PlanetAdvt.2_0_13
+War=-1

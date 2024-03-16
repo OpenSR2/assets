@@ -1,0 +1,10 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-100]
+Image=Bm.GovHD.Fei2Anim1a
+ImageFirst=Bm.GovHD.Fei2Anim1i
+Name=PanelHD_Anim1
+PBuf=True
+Pos=0,-140,-2
+Size=522,900

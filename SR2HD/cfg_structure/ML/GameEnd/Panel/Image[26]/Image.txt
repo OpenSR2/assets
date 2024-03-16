@@ -1,0 +1,4 @@
+Image=GI,Bm.FormEnd2.Final5Maloc
+Name=PirateWin5Maloc
+Pos=0,59,9
+Size=414,629

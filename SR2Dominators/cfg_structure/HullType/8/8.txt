@@ -1,0 +1,16 @@
+Artefact=0
+Cost=90
+Def=0
+Droid=-1
+Forsage=1
+Hook=0
+Name=Благодать
+Probability=20
+Race=Fei,Gaal
+Radar=0
+Scaner=0
+ShipType=Diplomat
+Size=80
+Text=Небольшой корпус для эффективной работы дипломата, рассчитан на новое оборудование средних размеров.
+Weapon=0
+Year=10

@@ -1,0 +1,12 @@
+16_0=data\Items\mineral\16_0.gai
+16_1=data\Items\mineral\16_1.gai
+16_2=data\Items\mineral\16_2.gai
+20_0=data\Items\mineral\20_0.gai
+20_1=data\Items\mineral\20_1.gai
+20_2=data\Items\mineral\20_2.gai
+25_0=data\Items\mineral\25_0.gai
+25_1=data\Items\mineral\25_1.gai
+25_2=data\Items\mineral\25_2.gai
+32_0=data\Items\mineral\32_0.gai
+32_1=data\Items\mineral\32_1.gai
+32_2=data\Items\mineral\32_2.gai

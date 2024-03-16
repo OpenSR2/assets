@@ -1,0 +1,11 @@
+Equipments=WEnergy,WSplinter,WMissile
+Name=Жжения
+Owner=Gaal,Peleng
+Priority=10
+Text=Микромодуль первого уровня. Добавляет дополнительные поражающие элементы к снарядам, используя частицы антивещества. Значительно увеличивает мощность оружия, особенно осколочного типа. Совместим с <clr>гаальским и пеленгским<clrEnd> типами вооружения.
+Text=Сила энергетического оружия: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+Text=Сила ракетного оружия: <bonWMissile> ед.
+bonWEnergy=20
+bonWMissile=45
+bonWSplinter=40

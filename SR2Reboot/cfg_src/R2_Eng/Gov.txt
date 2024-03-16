@@ -1,0 +1,382 @@
+Border=0,0,1024,768
+
+Sound {
+    Group {
+        Section=1
+        NextTime=5000-15000
+        5=Sound.FormGovMaloc0
+        5=Sound.FormGovMaloc1
+        1=Sound.FormGovMaloc2
+    }
+    Group {
+        Section=2
+        NextTime=5000-15000
+        1=Sound.FormGovPeleng0
+        1=Sound.FormGovPeleng1
+        1=Sound.FormGovPeleng2
+        1=Sound.FormGovPeleng3
+        1=Sound.FormGovPeleng4
+    }
+    Group {
+        Section=3
+        NextTime=5000-15000
+        1=Sound.FormGovPeople0
+        1=Sound.FormGovPeople1
+        1=Sound.FormGovPeople2
+        1=Sound.FormGovPeople3
+    }
+    Group {
+        Section=4
+        NextTime=5000-15000
+        1=Sound.FormGovFei0
+        1=Sound.FormGovFei1
+        1=Sound.FormGovFei2
+        1=Sound.FormGovFei3
+        1=Sound.FormGovFei4
+        1=Sound.FormGovFei5
+    }
+    Group {
+        Section=5
+        NextTime=5000-15000
+        1=Sound.FormGovGaal0
+        1=Sound.FormGovGaal1
+        1=Sound.FormGovGaal2
+    }
+}
+
+Panel {
+    Pos=0,0
+    Size=1024,768
+    Name=MainPanel
+
+    Panel=cfg\R2\PanelMain.txt {
+        Pos=0,0,1 //694
+    }
+    Panel=cfg\R2\PanelPlanet.txt {
+        Pos=441,693,1
+    }
+    Panel=cfg\R2\PanelLoad.txt {
+        Pos=0,0,-1000
+    }
+
+//////////////////////////////////
+    Panel {
+        Name=GovMaloc
+        Pos=0,0,999
+        Size=1024,768
+        Active=False
+
+        Image {
+            Image=GI,Bm.Gov.2MalocBGi
+            Pos=0,0,10
+            Size=1024,768
+        }
+
+        GAI {
+            Name=GovMalocAnim0
+            Pos=551,134,-2 //546,127,-2 // 464,143,-2
+            Size=394,634 //406,641 // 486,576
+            PBuf=True
+            ImageFirst=Bm.Gov.2MalocAnim0i // Bm.Gov.2Maloc2Anim0i // Bm.Gov.2MalocAnim0i
+            Image=Bm.Gov.2MalocAnim0a // Bm.Gov.2Maloc2Anim0a // Bm.Gov.2MalocAnim0a
+            Frame=[75,0-100] // [75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+            SkipImageUpdateRect=True
+        }
+        GAI {
+            Name=GovMalocAnim1
+            Pos=550,132,-2 // 491,114,-2 // 332,143,-2
+            Size=394,636 // 467,654 // 673,575
+            PBuf=True
+            ImageFirst=Bm.Gov.2MalocAnim1i //Bm.Gov.2Maloc2Anim1i // Bm.Gov.2MalocAnim1i
+            Image=Bm.Gov.2MalocAnim1a // Bm.Gov.2Maloc2Anim1a // Bm.Gov.2MalocAnim1a
+            Frame=[75,0-100] // [75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+            SkipImageUpdateRect=True
+        }
+    }
+
+//////////////////////////////////
+    Panel {
+        Name=GovPeleng
+        Pos=0,0,999
+        Size=1024,768
+        Active=False
+
+        Image {
+            Image=GI,Bm.Gov.2PelengBGi
+            Pos=0,0,10
+            Size=1024,768
+        }
+
+        GAI {
+            Name=GovPelengAnim0
+            Pos=598,78,-2 // 561,130,-2 
+            Size=304,690 // 443,652
+            PBuf=True
+            ImageFirst=Bm.Gov.2PelengAnim0i
+            Image=Bm.Gov.2PelengAnim0a
+            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+            SkipImageUpdateRect=True
+        }
+        GAI {
+            Name=GovPelengAnim1
+            Pos=545,45,-2 //495,130,-2 
+            Size=384,723 // 510,652
+            PBuf=True
+            ImageFirst=Bm.Gov.2PelengAnim1i
+            Image=Bm.Gov.2PelengAnim1a
+            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+            SkipImageUpdateRect=True
+        }
+    }
+//////////////////////////////////
+    Panel {
+        Name=GovPeople
+        Pos=0,0,999
+        Size=1024,768
+        Active=False
+
+        Image {
+            Image=GI,Bm.Gov.2PeopleBGi
+            Pos=0,0,10
+            Size=1024,768
+        }
+
+        GAI {
+            Name=GovPeopleAnim0
+            Pos=563,97,-2
+            Size=345,671
+            PBuf=True
+            ImageFirst=Bm.Gov.2PeopleAnim0i
+            Image=Bm.Gov.2PeopleAnim0a
+            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+        GAI {
+            Name=GovPeopleAnim1
+            Pos=514,91,-2
+            Size=412,677
+            PBuf=True
+            ImageFirst=Bm.Gov.2PeopleAnim1i
+            Image=Bm.Gov.2PeopleAnim1a
+            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+    }
+//////////////////////////////////
+    Panel {
+        Name=GovFei
+        Pos=0,0,999
+        Size=1024,768
+        Active=False
+
+        Image {
+            Image=GI,Bm.Gov.2FeiBGi
+            Pos=0,0,10
+            Size=1024,768
+        }
+
+        GAI {
+            Name=GovFeiAnim0
+            Pos=611,74,-2 // 603,112,-2 //719,128,-2
+            Size=289,694 // 308,656 // 256,640
+            PBuf=True
+            ImageFirst=Bm.Gov.2FeiAnim0i
+            Image=Bm.Gov.2FeiAnim0a
+            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+        GAI {
+            Name=GovFeiAnim1
+            Pos=541,67,-2 // 528,102,-2 // 541,126,-2
+            Size=418,701 // 450,666 // 450,642
+            PBuf=True
+            ImageFirst=Bm.Gov.2FeiAnim1i
+            Image=Bm.Gov.2FeiAnim1a
+            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+    }
+//////////////////////////////////
+    Panel {
+        Name=GovGaal
+        Pos=0,0,999
+        Size=1024,768
+        Active=False
+
+        Image {
+            Image=GI,Bm.Gov.2GaalBGi
+            Pos=0,0,10
+            Size=1024,768
+        }
+
+        GAI {
+            Name=GovGaalAnim0
+            Pos=574,115,-2 // 530,134,-2
+            Size=346,653 // 403,596
+            PBuf=True
+            ImageFirst=Bm.Gov.2Gaal2Anim0i // Bm.Gov.2GaalAnim0i
+            Image=Bm.Gov.2Gaal2Anim0a // Bm.Gov.2GaalAnim0a
+            Frame=[75,0-80] // [75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+        GAI {
+            Name=GovGaalAnim1
+            Pos=509,114,-2 // 530,134,-2
+            Size=436,654 // 403,596
+            PBuf=True
+            ImageFirst=Bm.Gov.2Gaal2Anim1i // Bm.Gov.2GaalAnim1i
+            Image=Bm.Gov.2Gaal2Anim1a // Bm.Gov.2GaalAnim1a
+            Frame=[75,0-80] // [75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+    }
+
+//////////////////////////////////
+    Panel {
+        Pos=59,75,9
+        Size=411,620
+        
+        Image {
+            Pos=10,424,10
+            Size=368,156
+            Image=GI,Bm.FormGov2.2TWinB
+        }
+        Image {
+            Pos=0,0,6
+            Size=411,620
+            Image=GI,Bm.FormGov2.2TWin
+        }
+
+        Image {
+            Pos=380,70,5
+            Size=17,22
+            Image=GI,Bm.SB.2V1_UpH
+        }
+        Image {
+            Pos=380,363,5
+            Size=17,22
+            Image=GI,Bm.SB.2V1_DownH
+        }
+        Image {
+            Pos=380,440,5
+            Size=17,22
+            Image=GI,Bm.SB.2V1_UpH
+        }
+        Image {
+            Pos=380,526,5
+            Size=17,22
+            Image=GI,Bm.SB.2V1_DownH
+        }
+
+        PanelScrollBar {
+            Name=TextScroll
+            Pos=25,67,4 //29,67,4
+            Size=345,338 //333,338
+            StyleBarY=Style.ScrollBar.2V1
+            ActiveBarY=True
+            PosAutoBarY=False
+            RectBarY=380,70,397,385
+            MoveWorld=True
+            UnlimitedWorld=False
+            ExternalSB=True
+
+            Label {
+                Name=TalkText
+                Style=Style.Label.2Normal
+                Pos=0,0,0,w
+                Size=345,338 //333,338
+                AlignX=Auto
+                AlignY=Auto
+                WordWrap=True
+                TextColor=0,0,0
+            }
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=UserMsgAdd
+            Pos=370,396,1
+            Auto=Size
+
+            Kind=Disable
+            KindHit=Rect
+        
+            ImageNormal=GI,Bm.FormGov2.2MemN
+            ImageNormalA=GI,Bm.FormGov2.2MemA
+            ImageDown=GI,Bm.FormGov2.2MemD
+            ImageDisable=GI,Bm.FormGov2.2MemH
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButFormClose
+            Pos=295,570,1
+            Size=78,37
+
+            Kind=Normal
+            KindHit=Rect
+        
+            ImageNormal=GI,Bm.FormGov2.2CloseN
+            ImageNormalA=GI,Bm.FormGov2.2CloseA
+            ImageDown=GI,Bm.FormGov2.2CloseD
+        }
+        PanelScrollBar {
+            Name=TalkPA
+            Pos=12,440,9
+            Size=365,120
+
+            StyleBarY=Style.ScrollBar.2V1
+            ActiveBarY=True
+            PosAutoBarY=False
+            RectBarY=380,440,397,548
+            MoveWorld=True
+            UnlimitedWorld=False
+            ExternalSB=True
+        }
+    }
+    
+    Label {
+        Style=Style.Label.2Normal
+        Pos=824,10,8
+        Size=100,20
+        AlignX=Left
+        AlignY=Center
+        TextColor=0,0,255
+        Text=FormGov.Relation
+        Active=False
+    }
+    Label {
+        Style=Style.Label.2Normal
+        Pos=924,10,8
+        Size=100,20
+        AlignX=Left
+        AlignY=Center
+        TextColor=255,0,0
+        Name=Relation
+        Active=False
+    }
+}

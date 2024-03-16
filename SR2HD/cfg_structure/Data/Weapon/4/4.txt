@@ -1,0 +1,12 @@
+AnimTakt=5
+D=D[0]\D.txt ^{
+}
+D=D[1]\D.txt ^{
+}
+D=D[2]\D.txt ^{
+}
+D=D[3]\D.txt ^{
+}
+LeftTime=50
+S=S\S.txt ^{
+}

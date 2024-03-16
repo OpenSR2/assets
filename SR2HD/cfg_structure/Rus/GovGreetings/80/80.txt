@@ -1,0 +1,10 @@
+CoalitionAlreadyDefeated=No
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Good,Best
+DominatorsAlreadyDefeated=No
+PlayerRank=Leader,Ace,Commander, Admiral
+Priority=10
+Text=ѕрославленный рейнджер <Player> собственной персоной. ћы здесь не любим таких как ты, имей это в виду. –азумеетс€, мы не можем вышвыривать всех рейнджеров с планеты, потому что это будет вредно дл€ торговли, но ход€ по улицам почаще огл€дывайс€, чтобы какой-нибудь молодой и резвый пиратик не проломил тебе голову. ѕоверь, в суде его оправдают. Ћети-ка ты лучше в звездную систему <ToStar>, пострел€й вместе с военными доминаторов. “ы же это любишь.
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal
+ToStarControlByKling=Yes

@@ -1,0 +1,2 @@
+2Arrow=data\FormTalk\2Arrow.gi
+2bg=data\FormTalk\2bg.gi

@@ -1,0 +1,7 @@
+Equipments=FuelTank,Engine,Radar,Scaner,Droid,Hook,DefGenerator,WEnergy,WSplinter,WMissile
+Name=Сжим
+Owner=Fei
+Priority=65
+Size=60
+Text=Микромодуль второго уровня. Заменяет наиболее крупные платы их меньшими современными аналогами. Уменьшает размер любого оборудования и оружия, кроме корпуса. Совместим только с <clr>фэянскими<clrEnd> типами оборудования.
+Text=Размер: <clr>-40%<clrEnd>

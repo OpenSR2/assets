@@ -1,0 +1,6 @@
+Diplomat=Лянчер
+Liner=Пачрямба
+Pirate=Лякуша
+Ranger=Рейнджер
+Transport=Ческа
+Warrior=Шаракеш

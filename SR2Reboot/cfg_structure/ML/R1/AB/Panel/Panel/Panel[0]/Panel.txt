@@ -1,0 +1,12 @@
+GAI=GAI[0]\GAI.txt ^{
+}
+GAI=GAI[1]\GAI.txt ^{
+}
+GAI=GAI[2]\GAI.txt ^{
+}
+MultiImage=MultiImage\MultiImage.txt ^{
+}
+Name=SE
+Pos=400,300,10
+Size=800,600
+Sme=400,300

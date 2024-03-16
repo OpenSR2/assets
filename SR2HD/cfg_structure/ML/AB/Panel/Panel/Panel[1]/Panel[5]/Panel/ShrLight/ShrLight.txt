@@ -1,0 +1,4 @@
+Name=LoseShr
+Pos=0,0,10
+ShrLight=2
+Size=1024,200

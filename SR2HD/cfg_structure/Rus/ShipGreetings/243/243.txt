@@ -1,0 +1,11 @@
+AutoTalk=Any
+DominatorsAlreadyDefeated=No
+FlyType=ToStar
+InFear=Any
+KlingInCurStar=1,2,3
+Priority=10
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Kling
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=Осторожнее, <Player>, хоть доминаторов и не так много, но не стоит недооценивать противника. Лично я лечу в систему <ToStar>. Только не подумай, что я струсил - я за подмогой...

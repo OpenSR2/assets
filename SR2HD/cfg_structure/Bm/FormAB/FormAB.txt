@@ -1,0 +1,17 @@
+2AI_A=data\FormAB\2AI_A.gi
+2AI_N=data\FormAB\2AI_N.gi
+2Key_A=data\FormAB\2Key_A.gi
+2Key_N=data\FormAB\2Key_N.gi
+2Left=data\FormAB\2Left.gi
+2LeftA=data\FormAB\2LeftA.gi
+2PauseA=data\FormAB\2PauseA.gi
+2PauseD=data\FormAB\2PauseD.gi
+2PauseN=data\FormAB\2PauseN.gi
+2PlayA=data\FormAB\2PlayA.gi
+2PlayD=data\FormAB\2PlayD.gi
+2Right=data\FormAB\2Right.gi
+2WA=data\FormAB\2WA.gi
+2WF=data\FormAB\2WF.gi
+2WF2=data\FormAB\2WF2.gi
+2WF3=data\FormAB\2WF3.gi
+2WN=data\FormAB\2WN.gi

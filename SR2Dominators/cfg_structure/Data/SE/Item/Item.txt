@@ -1,0 +1,188 @@
+Bomb=Bomb\Bomb.txt ^{
+}
+Cistern=Cistern\Cistern.txt ^{
+}
+ExampleAsteroid=ExampleAsteroid\ExampleAsteroid.txt ^{
+}
+NodB=NodB\NodB.txt ^{
+}
+NodE=NodE\NodE.txt ^{
+}
+NodG=NodG\NodG.txt ^{
+}
+OperatedProbe=OperatedProbe\OperatedProbe.txt ^{
+}
+RadioBeacon=RadioBeacon\RadioBeacon.txt ^{
+}
+c0_0=c0_0\c0_0.txt ^{
+}
+c0_1=c0_1\c0_1.txt ^{
+}
+c0_2=c0_2\c0_2.txt ^{
+}
+c0_3=c0_3\c0_3.txt ^{
+}
+c0_4=c0_4\c0_4.txt ^{
+}
+c0_5=c0_5\c0_5.txt ^{
+}
+c0_6=c0_6\c0_6.txt ^{
+}
+c0_7=c0_7\c0_7.txt ^{
+}
+c1_0=c1_0\c1_0.txt ^{
+}
+c1_1=c1_1\c1_1.txt ^{
+}
+c1_2=c1_2\c1_2.txt ^{
+}
+c1_3=c1_3\c1_3.txt ^{
+}
+c1_4=c1_4\c1_4.txt ^{
+}
+c1_5=c1_5\c1_5.txt ^{
+}
+c1_6=c1_6\c1_6.txt ^{
+}
+c1_7=c1_7\c1_7.txt ^{
+}
+c2_0=c2_0\c2_0.txt ^{
+}
+c2_1=c2_1\c2_1.txt ^{
+}
+c2_2=c2_2\c2_2.txt ^{
+}
+c2_3=c2_3\c2_3.txt ^{
+}
+c2_4=c2_4\c2_4.txt ^{
+}
+c2_5=c2_5\c2_5.txt ^{
+}
+c2_6=c2_6\c2_6.txt ^{
+}
+c2_7=c2_7\c2_7.txt ^{
+}
+c3_0=c3_0\c3_0.txt ^{
+}
+c3_1=c3_1\c3_1.txt ^{
+}
+c3_2=c3_2\c3_2.txt ^{
+}
+c3_3=c3_3\c3_3.txt ^{
+}
+c3_4=c3_4\c3_4.txt ^{
+}
+c3_5=c3_5\c3_5.txt ^{
+}
+c3_6=c3_6\c3_6.txt ^{
+}
+c3_7=c3_7\c3_7.txt ^{
+}
+db0=db0\db0.txt ^{
+}
+db1=db1\db1.txt ^{
+}
+db2=db2\db2.txt ^{
+}
+db3=db3\db3.txt ^{
+}
+dk0=dk0\dk0.txt ^{
+}
+dk1=dk1\dk1.txt ^{
+}
+dk2=dk2\dk2.txt ^{
+}
+dk3=dk3\dk3.txt ^{
+}
+dt0=dt0\dt0.txt ^{
+}
+dt1=dt1\dt1.txt ^{
+}
+dt2=dt2\dt2.txt ^{
+}
+dt3=dt3\dt3.txt ^{
+}
+k0=k0\k0.txt ^{
+}
+k1=k1\k1.txt ^{
+}
+k2=k2\k2.txt ^{
+}
+k3=k3\k3.txt ^{
+}
+m0_0=m0_0\m0_0.txt ^{
+}
+m0_1=m0_1\m0_1.txt ^{
+}
+m0_2=m0_2\m0_2.txt ^{
+}
+m1_0=m1_0\m1_0.txt ^{
+}
+m1_1=m1_1\m1_1.txt ^{
+}
+m1_2=m1_2\m1_2.txt ^{
+}
+m2_0=m2_0\m2_0.txt ^{
+}
+m2_1=m2_1\m2_1.txt ^{
+}
+m2_2=m2_2\m2_2.txt ^{
+}
+n0_0=n0_0\n0_0.txt ^{
+}
+n0_1=n0_1\n0_1.txt ^{
+}
+n0_2=n0_2\n0_2.txt ^{
+}
+n0_3=n0_3\n0_3.txt ^{
+}
+n0_4=n0_4\n0_4.txt ^{
+}
+n1_0=n1_0\n1_0.txt ^{
+}
+n1_1=n1_1\n1_1.txt ^{
+}
+n1_2=n1_2\n1_2.txt ^{
+}
+n1_3=n1_3\n1_3.txt ^{
+}
+n1_4=n1_4\n1_4.txt ^{
+}
+n2_0=n2_0\n2_0.txt ^{
+}
+n2_1=n2_1\n2_1.txt ^{
+}
+n2_2=n2_2\n2_2.txt ^{
+}
+n2_3=n2_3\n2_3.txt ^{
+}
+n2_4=n2_4\n2_4.txt ^{
+}
+n3_0=n3_0\n3_0.txt ^{
+}
+n3_1=n3_1\n3_1.txt ^{
+}
+n3_2=n3_2\n3_2.txt ^{
+}
+n3_3=n3_3\n3_3.txt ^{
+}
+n3_4=n3_4\n3_4.txt ^{
+}
+p0_0=p0_0\p0_0.txt ^{
+}
+p0_1=p0_1\p0_1.txt ^{
+}
+p0_2=p0_2\p0_2.txt ^{
+}
+p1_0=p1_0\p1_0.txt ^{
+}
+p1_1=p1_1\p1_1.txt ^{
+}
+p1_2=p1_2\p1_2.txt ^{
+}
+p2_0=p2_0\p2_0.txt ^{
+}
+p2_1=p2_1\p2_1.txt ^{
+}
+p2_2=p2_2\p2_2.txt ^{
+}

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormEnd2.Final4People
+Name=PirateWin4People
+Pos=0,59,9
+Size=414,629

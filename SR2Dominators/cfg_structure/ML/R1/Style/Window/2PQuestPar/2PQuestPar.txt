@@ -1,0 +1,11 @@
+ImageBottom=GI,Bm.FormPQuest2.2WinBottom
+ImageBottomLeft=GI,Bm.FormPQuest2.2WinBottomLeft
+ImageBottomRight=GI,Bm.FormPQuest2.2WinBottomRight
+ImageLeft=GI,Bm.FormPQuest2.2WinLeft
+ImageRight=GI,Bm.FormPQuest2.2WinRight
+ImageTexture=GI,Bm.FormPQuest2.2WinTexture
+ImageTop=GI,Bm.FormPQuest2.2WinTop
+ImageTopLeft=GI,Bm.FormPQuest2.2WinTopLeft
+ImageTopRight=GI,Bm.FormPQuest2.2WinTopRight
+MinSize=320,176
+WorkSubRect=25,27,30,40

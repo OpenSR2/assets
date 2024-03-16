@@ -1,0 +1,5 @@
+1=Music\quests\gladiator.dat
+1=Music\special\SilentFlower.dat
+15=Music\special\SpaceIsCalling.dat
+5=Music\fly\starflight.dat
+8=Music\special\outroden.dat

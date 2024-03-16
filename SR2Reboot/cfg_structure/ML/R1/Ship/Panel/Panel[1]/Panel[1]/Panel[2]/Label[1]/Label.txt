@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Bottom
+Font=Font.1Mini
+Help=Skills.sMobility.Name
+Name=PDS_Skill1v
+Pos=54,28,1
+Size=16,26
+TextColor=0,0,0

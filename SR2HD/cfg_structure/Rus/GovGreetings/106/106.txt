@@ -1,0 +1,5 @@
+CoalitionAlreadyDefeated=Yes
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Bad
+DominatorsAlreadyDefeated=Yes
+Text=Что тебе нужно, <Player>? Хоть ты и пират, но мы-то отчетливо видим твою гнусную рейнджерскую суть. Так что говори, чего хотел и проваливай на все триста шестьдесят градусов!

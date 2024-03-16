@@ -1,0 +1,3 @@
+Image=GI,Bm.FormNote.2BarBack
+Pos=16,5,3
+Size=51,4

@@ -1,0 +1,3 @@
+Image=Bm.Star.s01a
+Name=StarEnd
+PosZ=30

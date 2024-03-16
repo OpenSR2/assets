@@ -1,0 +1,4 @@
+Palettes=Palettes\Palettes.txt ^{
+}
+PosZ=Hex
+SoundExpl=Sound.expl0

@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpGroup1Normal
+ImageDown=GI,Bm.FormGameSet2.2LevelD
+ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+Kind=Fix
+KindHit=Graph
+Name=Level2_0
+Pos=146,58,5
+Size=88,23
+Style=Style.GB.SoundNormal

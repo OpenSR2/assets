@@ -1,0 +1,1 @@
+0=StartVideo('data\record.vdo','Record');

@@ -1,0 +1,8 @@
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Good,Best
+Priority=50
+Text=Ага, рейнджер <Player>, вот и вы! Имейте в виду, что наши соседи с планеты <ToPlanet> требуют немедленной вашей выдачи. Мы вас выгораживать не будем, так что разбирайтесь с ними сами, как хотите.
+Text=Кстати, они собираются встретить вас на орбите, так что советуем прикупить в нашем магазине парочку пушек помощнее, чтобы деньги не пропали зазря после вашей смерти.
+ToPlanetInCurStar=Yes
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal
+ToPlanetRelations=War

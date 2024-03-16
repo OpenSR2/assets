@@ -1,0 +1,229 @@
+Name=PanelMain
+Size=800,600
+
+Window {
+	Style=Style.Window.1Tips
+	Name=PM_WinMsg
+	Active=False
+	Pos=30,550,1
+	Size=390,20
+
+	Label {
+		Name=PM_LabelMsg
+		Active=True
+		Pos=0,0,1
+		Size=390,20
+		Font=Font.1Normal
+		WordWrap=True
+		AlignX=Auto
+		AlignY=Auto
+		TextColor=255,255,230
+	}
+}
+Panel {
+	Name=PM_PanelMsg
+	Active=False
+	Pos=87,579,2
+	Size=283,20
+	MouseBlocking=True
+	MVUpdate=True
+}
+
+Panel {
+	Pos=0,536,3
+	Size=800,64
+	//MouseBlocking=True
+
+	Image {
+		Name=PM_ImageBG
+//		PosZ=9
+//		Auto=Pos,Size
+		Pos=0,0,9
+		Size=800,64
+		Image=GI,Bm.PanelMain2.1BG
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=PM_Ship
+//		PosZ=8
+//		Auto=Pos,Size
+		Pos=589,6,8
+		Size=40,26
+		Help=Help.ButShip
+
+		KindHit=Graph
+		Kind=Disable
+
+		ImageNormal=GI,Bm.PanelMain2.1ShipN
+		ImageNormalA=GI,Bm.PanelMain2.1ShipA
+		ImageDown=GI,Bm.PanelMain2.1ShipD
+		ImageDisable=GI,Bm.PanelMain2.1ShipH
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=PM_Gal
+//		PosZ=8
+//		Auto=Pos,Size
+		Pos=658,6,8
+		Size=42,26
+		Help=Help.ButGalaxy
+
+		KindHit=Graph
+		Kind=Disable
+
+		ImageNormal=GI,Bm.PanelMain2.1GalN
+		ImageNormalA=GI,Bm.PanelMain2.1GalA
+		ImageDown=GI,Bm.PanelMain2.1GalD
+		ImageDisable=GI,Bm.PanelMain2.1GalH
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=PM_Quest
+//		PosZ=8
+//		Auto=Pos,Size
+		Pos=624,6,8
+		Size=40,26
+		Help=Help.ButRating
+
+		KindHit=Graph
+		Kind=Disable
+
+		ImageNormal=GI,Bm.PanelMain2.1RatingN
+		ImageNormalA=GI,Bm.PanelMain2.1RatingA
+		ImageDown=GI,Bm.PanelMain2.1RatingD
+		ImageDisable=GI,Bm.PanelMain2.1RatingH
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=PM_EndTurn
+		PosZ=8
+		Auto=Pos,Size
+//		Pos=715,7,8
+//		Size=83,49
+		Help=Help.ButTurn
+
+		Kind=Disable
+		KindHit=Rect
+
+		ImageNormal=GI,Bm.PanelMain2.1TurnN
+		ImageNormalA=GI,Bm.PanelMain2.1TurnA
+		ImageDown=GI,Bm.PanelMain2.1TurnD
+		ImageDisable=GI,Bm.PanelMain2.1TurnD
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=PM_Break
+		PosZ=8
+		Auto=Pos,Size
+//		Help=Help.ButTurn
+		Active=True
+
+		KindHit=Rect
+		Kind=Disable
+
+		ImageNormal=GI,Bm.PanelMain2.1StopN
+		ImageNormalA=GI,Bm.PanelMain2.1StopA
+		ImageDown=GI,Bm.PanelMain2.1StopD
+		ImageDisable=GI,Bm.PanelMain2.1StopD
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=PM_Logo
+		PosZ=8
+		Auto=Pos,Size
+//		Pos=3,28,8
+//		Size=39,28
+		Help=Help.ButLogo
+
+		KindHit=Graph
+		Kind=Disable
+
+		ImageNormal=GI,Bm.PanelMain2.1MenuN
+		ImageNormalA=GI,Bm.PanelMain2.1MenuA
+		ImageDown=GI,Bm.PanelMain2.1MenuD
+		ImageDisable=GI,Bm.PanelMain2.1MenuN
+	}
+
+	Image {
+		Name=PM_WarningSpace
+		Pos=389,41,8
+		Size=70,20
+		Image=GI,Bm.PanelMain2.1WarningSpace
+	}
+	Image {
+		Name=PM_WarningMoney
+		Pos=485,41,8
+		Size=78,20
+		Image=GI,Bm.PanelMain2.1WarningMoney
+	}
+
+	Panel {
+		Name=PM_PanelDate
+		Pos=577,43,7
+		Size=102,17
+
+		Label {
+			Name=PM_Date
+			Pos=0,0,8
+			Size=102,17
+			Font=Font.1SmallBold //Ranger
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=200,240,255 //55,230,255
+			Help=Help.LabelDate
+		}
+		Image {
+			Name=PM_DateNextImage
+			Pos=0,4,8
+			Size=7,15
+			Image=GI,Bm.PanelMain2.1DateNext
+		}
+		Label {
+			Name=PM_DateNew
+			Pos=0,0,8
+			Size=102,17
+			Font=Font.1SmallBold //Ranger
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=200,240,255 //55,230,255
+			Help=Help.LabelDate
+		}
+	}
+	Label {
+		Name=PM_Money
+		Pos=488,43,7
+		Size=74,17
+		Font=Font.1SmallBold //Ranger
+		AlignX=Center
+		AlignY=CenterEx
+		TextColor=200,240,255 //55,230,255
+		Help=Help.LabelMoney
+	}
+	Label {
+		Name=PM_FreeSpace
+		Pos=396,43,7
+		Size=55,17
+		Font=Font.1SmallBold //Ranger
+		AlignX=Center
+		AlignY=CenterEx
+		TextColor=200,240,255 //55,230,255
+		Help=Help.LabelFreeSpace
+	}
+
+	Label {
+		Name=PM_Help
+		Pos=78,43,8
+		Size=281,17
+		Font=Font.1SmallBold //Ranger
+		AlignX=Center
+		AlignY=CenterEx
+		TextColor=55,230,255
+		Active=False
+	}
+}

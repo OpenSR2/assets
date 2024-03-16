@@ -1,0 +1,15 @@
+ImageBottomA=GI,Bm.PanelFilm2.1BottomA
+ImageBottomD=GI,Bm.PanelFilm2.1BottomD
+ImageBottomN=GI,Bm.PanelFilm2.1BottomN
+ImageCenterA=GI,Bm.PanelFilm2.1CenterA
+ImageCenterD=GI,Bm.PanelFilm2.1CenterD
+ImageCenterN=GI,Bm.PanelFilm2.1CenterN
+ImageDownA=GI,Bm.PanelFilm2.1RightA
+ImageDownD=GI,Bm.PanelFilm2.1RightD
+ImageDownN=GI,Bm.PanelFilm2.1RightN
+ImageTopA=GI,Bm.PanelFilm2.1TopA
+ImageTopD=GI,Bm.PanelFilm2.1TopD
+ImageTopN=GI,Bm.PanelFilm2.1TopN
+ImageUpA=GI,Bm.PanelFilm2.1LeftA
+ImageUpD=GI,Bm.PanelFilm2.1LeftD
+ImageUpN=GI,Bm.PanelFilm2.1LeftN

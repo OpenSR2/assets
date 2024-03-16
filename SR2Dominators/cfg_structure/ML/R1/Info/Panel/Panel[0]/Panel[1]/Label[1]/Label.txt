@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1SmallBold
+Help=Help.LabelFreeSpace
+Name=PM_FreeSpace
+Pos=396,43,7
+Size=55,17
+TextColor=200,240,255

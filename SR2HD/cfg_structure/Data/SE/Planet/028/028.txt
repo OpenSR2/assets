@@ -1,0 +1,12 @@
+AtmColor=189,163,150
+BG=307
+Cloud0=1.00,Bm.Planet2.C.120.c03
+Image=Bm.Planet2.T.120.29x120
+ImageMap=Bm.Planet.M.0
+PosZ=Planet
+Quest=0
+Radius=60
+SmeImage=60,60
+SmeImageMap=4,4
+Space=0,50,180
+Style=2

@@ -1,0 +1,3 @@
+Name=TovImgCnt7
+Pos=226,425,6
+Size=207,49

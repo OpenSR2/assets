@@ -1,0 +1,6 @@
+1Normal=1Normal\1Normal.txt ^{
+}
+2Normal=2Normal\2Normal.txt ^{
+}
+Ex ^{
+}

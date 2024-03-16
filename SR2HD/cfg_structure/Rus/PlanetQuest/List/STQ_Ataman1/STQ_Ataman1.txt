@@ -1,0 +1,7 @@
+Access=10
+Dif=0
+Genre=сюжетный квест
+Group=-1
+Image=Bm.PQI.STQ_Ataman1_00
+Length=4
+Name=Диалог с атаманом

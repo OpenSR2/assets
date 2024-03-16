@@ -1,0 +1,14 @@
+AutoTalk=Any
+FlyType=ToShip
+PlayerFlyToShip=No
+PlayerRace=Maloc,Peleng
+Priority=10
+Relations=Normal,Good,Best
+ShipRace=Maloc
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=Здорова, <Player>. Видал этого умника, <ShipBad>? Вздумал дразнить меня мохнатой обезьяной, урод большеголовый. А у меня нежная, ранимая эта... как ее... душа, во! Разворачиваю я турели в его сторону, и начинаю объяснять, что нехорошо обзываться.
+Text=Ты просто обязан помочь мне! Сколько можно терпеть унижение от этих нтиликтуалов? Пора показать яйцеголовым, кто в космосе хозяин!
+ToShipInPlanet=No
+ToShipRace=Fei,Gaal
+ToShipRelations=War
+ToShipType=Transport,Liner,Diplomat,Ranger,Pirate

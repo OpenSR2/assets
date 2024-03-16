@@ -1,0 +1,5 @@
+Cost=Mini
+Name=Диск
+Owner=None
+Size=1
+Text=Диск с важной информацией.

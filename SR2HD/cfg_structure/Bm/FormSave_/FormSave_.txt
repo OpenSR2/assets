@@ -1,0 +1,4 @@
+2A=data\FormSave\2A.gi
+2E=data\FormSave\2E.gi
+2N=data\FormSave\2N.gi
+2bg=data\FormSave\2bg.gi

@@ -1,0 +1,7 @@
+Access=11
+Dif=53
+Genre=логическая головоломка
+Group=0
+Image=Bm.PQI.Gaidnet_03
+Length=4
+Name=Гайднет

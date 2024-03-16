@@ -1,0 +1,4 @@
+Illness=Illness\Illness.txt ^{
+}
+Stimulant=Stimulant\Stimulant.txt ^{
+}

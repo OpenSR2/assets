@@ -1,0 +1,16 @@
+2anim0=data\FormMain\2anim0.gai
+2bar=data\FormMain\2bar.gi
+2bg=data\FormMain\2bg.gi
+2but0a=data\FormMain\2but0a.gi
+2but0n=data\FormMain\2but0n.gi
+2but1a=data\FormMain\2but1a.gi
+2but1n=data\FormMain\2but1n.gi
+2but2a=data\FormMain\2but2a.gi
+2but2n=data\FormMain\2but2n.gi
+2but3a=data\FormMain\2but3a.gi
+2but3n=data\FormMain\2but3n.gi
+2but4a=data\FormMain\2but4a.gi
+2but4n=data\FormMain\2but4n.gi
+2but5a=data\FormMain\2but5a.gi
+2but5n=data\FormMain\2but5n.gi
+2fon=data\FormMain\2fon.gi

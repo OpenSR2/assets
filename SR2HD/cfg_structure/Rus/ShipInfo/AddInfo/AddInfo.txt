@@ -1,0 +1,12 @@
+Chameleon=Chameleon\Chameleon.txt ^{
+}
+CustomInfos ^{
+}
+DebtInfo=DebtInfo\DebtInfo.txt ^{
+}
+DepositInfo=DepositInfo\DepositInfo.txt ^{
+}
+MedPolicy=MedPolicy\MedPolicy.txt ^{
+}
+PirateLicenseInfo=PirateLicenseInfo\PirateLicenseInfo.txt ^{
+}

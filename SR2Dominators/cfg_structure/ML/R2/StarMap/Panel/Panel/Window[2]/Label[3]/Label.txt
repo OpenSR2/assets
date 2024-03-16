@@ -1,0 +1,9 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.2Small
+Name=ISSize
+Pos=0,95,8
+Size=125,15
+Text=FormInfo.ISSize
+TextColor=140,140,140
+WordWrap=False

@@ -1,0 +1,6 @@
+M=M\M.txt ^{
+}
+S=S\S.txt ^{
+}
+T=T\T.txt ^{
+}

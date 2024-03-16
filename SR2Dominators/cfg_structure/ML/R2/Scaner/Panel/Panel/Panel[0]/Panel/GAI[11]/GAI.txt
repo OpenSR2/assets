@@ -1,0 +1,3 @@
+Name=S_Weapon_1anim
+Pos=182,107,-1
+Size=95,77

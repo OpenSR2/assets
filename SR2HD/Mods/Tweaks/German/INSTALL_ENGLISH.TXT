@@ -1,0 +1,4 @@
+Packages {
+	Package=Mods\Tweaks\German\data\german.pkg
+	Package=Mods\Tweaks\German\data\questsGer.pkg
+}

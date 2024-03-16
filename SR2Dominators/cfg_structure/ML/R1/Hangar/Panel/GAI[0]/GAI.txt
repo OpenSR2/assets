@@ -1,0 +1,7 @@
+Active=False
+Active=True
+Frame=[50,0-39]
+Image=Bm.FormHangar2.1Open
+Name=AnimOpen
+Pos=153,186,0
+Size=489,254

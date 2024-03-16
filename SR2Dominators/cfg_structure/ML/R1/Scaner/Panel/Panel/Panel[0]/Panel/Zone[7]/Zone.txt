@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_Radar_0z
+Pos=247,247,0
+Size=79,61

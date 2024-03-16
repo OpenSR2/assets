@@ -1,0 +1,4 @@
+CoalitionAlreadyDefeated=Yes
+Relations=Normal,Good,Best
+ShipType=Pirate
+Text=Вот и нет больше вашей Коалиции, <Player>. Была, да вся сплыла, хе-хе. Ну да не парься, ты пацан конкретный, не пропадешь.

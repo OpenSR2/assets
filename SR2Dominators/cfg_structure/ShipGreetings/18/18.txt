@@ -1,0 +1,9 @@
+FlyType=Any
+Goods=Narcotics
+PlayerStatus=Trader,Warrior
+Relations=Bad,Normal
+ShipGoodsTypeCnt=2,3,4,5,6,7,8
+ShipHaveGoods=Yes
+ShipRace=Peleng,People
+ShipType=Diplomat
+Text=Вы связались с дипломатическим кораблем <Ship>. Если вас интересует мой груз, то сообщаю, что наркотиков у меня на борту нет и не было. Я везу груз сильнодействующих медикаментов, и все документы на провозимые товары имеются. Будут еще вопросы, или мне можно лететь?

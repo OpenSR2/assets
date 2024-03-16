@@ -1,0 +1,16 @@
+Caption=FormLoadRobot.Group2
+CaptionColorDown=0,0,0
+CaptionColorDownA=0,0,0
+CaptionColorNormal=88,229,255
+CaptionColorNormalA=88,229,255
+CaptionSme=0,-2,0,-2
+Font=Font.2Ranger
+ImageDown=GI,Bm.FormOptions2.2PageD
+ImageNormal=GI,Bm.FormOptions2.2PageN
+ImageNormalA=GI,Bm.FormOptions2.2PageA
+Kind=Fix
+KindHit=Rect
+Name=ButGroup2
+Pos=423,109,-3
+Size=124,25
+Style=Style.GB.SoundNormal

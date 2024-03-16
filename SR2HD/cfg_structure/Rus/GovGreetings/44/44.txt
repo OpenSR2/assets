@@ -1,0 +1,6 @@
+CurPlanetPirateClan=Any
+CurPlanetRace=Peleng,Fei
+CurPlanetRelations=Bad,Normal
+PlayerRace=Maloc
+Priority=5
+Text=Рейнджер <Player>, вам было назначено или вы явились без приглашения? Эти толстомордые малоки шляются где попало и просят, просят... Ну что вам еще надо?

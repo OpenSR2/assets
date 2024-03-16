@@ -1,0 +1,3 @@
+Name=ItemI9
+Pos=568,408,40
+Size=28,28

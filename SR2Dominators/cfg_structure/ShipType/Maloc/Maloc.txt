@@ -1,0 +1,6 @@
+Diplomat=Рарт
+Liner=Аралита
+Pirate=Бамбай
+Ranger=Рейнджер
+Transport=Каргас
+Warrior=Дракар

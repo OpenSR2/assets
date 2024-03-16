@@ -1,0 +1,10 @@
+CurPlanetGoodsCnt=Mini,Small,Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small,Average
+CurPlanetRace=Peleng,Fei,Gaal
+CurPlanetRelations=Normal,Good,Best
+Goods=Alcohol
+PlayerRace=People
+Priority=10
+Text=”важаемый человек <Player>! ћы рады видеть, как человеческа€ раса идет по пути прогресса.
+Text=”слуги нашего космопорта всегда открыты дл€ вас. ¬ас, наверное, интересует алкоголь?  онечно, не стесн€йтесь, мы знаем потребности ваших соотечественников. “овар абсолютно легален, стоимость <CurPlanetGoodsSale> cr за единицу. ѕри€тных покупок!

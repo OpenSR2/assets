@@ -1,0 +1,3 @@
+Name=ItemI4
+Pos=611,360,40
+Size=28,28

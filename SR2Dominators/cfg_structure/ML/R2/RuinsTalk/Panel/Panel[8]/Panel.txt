@@ -1,0 +1,8 @@
+Active=False
+GAI=GAI[0]\GAI.txt ^{
+}
+GAI=GAI[1]\GAI.txt ^{
+}
+Name=PanelGaal
+Pos=0,0,800
+Size=1024,768

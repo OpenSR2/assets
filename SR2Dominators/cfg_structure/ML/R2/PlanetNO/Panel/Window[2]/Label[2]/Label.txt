@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Normal
+Name=InfoSize
+Pos=49,118,8
+Size=45,33
+TextColor=255,255,255

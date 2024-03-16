@@ -1,0 +1,8 @@
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small,Average
+CurPlanetRelations=Bad,Normal,Good,Best
+CurStarInBattle=Yes
+Goods=Luxury
+Priority=10
+Text=Как вас сюда занесло, <Player>? У нас идут ожесточенные бои с силами доминаторов. Мирные жители бегут из системы, продают все, что можно. Цены на предметы роскоши просто невероятно упали!
+Text=Помогите нам отстоять систему <CurStar>!

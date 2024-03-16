@@ -1,0 +1,17 @@
+Artefact=0
+Cost=90
+Def=0
+Droid=0
+Forsage=1
+Fragility=85
+Hook=0
+Name=Омаха
+Probability=5
+Race=Gaal
+Radar=0
+Scaner=0
+ShipType=Diplomat,Ranger,Pirate
+Size=70
+Text=Легкий гаальский корпус для наслаждения скоростью и выполнения сложных маневров.
+Weapon=-1
+Year=0

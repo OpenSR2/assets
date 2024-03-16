@@ -1,0 +1,4 @@
+Image=GI,Bm.FormRuins.2CBtable
+Name=Table
+Pos=0,-100,-3
+Size=660,610

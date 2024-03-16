@@ -1,0 +1,11 @@
+CurPlanetPirateClan=No
+CurPlanetRelations=Good,Best
+KlingInToStar=4,5,6,7,8,9,Many
+Priority=50
+RangerInToStar=3,4,5,6,7,8,9,Many
+Text=ќ, <Player>, почему вы здесь, а не в системе <ToStar>? Ёта система была захвачена доминаторами, но сегодн€ лучшие рейнджеры пытаютс€ ее освободить! ¬едь там, на планете <ToPlanet> живут наши соотечественники.  ак вы можете оставатьс€ в стороне?
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal
+ToPlanetRaceIsCurPlanetRace=Yes
+ToStarControlByKling=Yes
+ToStarInBattle=Yes

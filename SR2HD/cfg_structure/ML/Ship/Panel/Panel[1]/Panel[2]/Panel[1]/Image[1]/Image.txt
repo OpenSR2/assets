@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.PRankForm
+Name=PRankForm
+Pos=90,19,2
+Size=201,35

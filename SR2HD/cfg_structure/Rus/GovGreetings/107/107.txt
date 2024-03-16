@@ -1,0 +1,5 @@
+CoalitionAlreadyDefeated=Yes
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Normal
+DominatorsAlreadyDefeated=Yes
+Text=Вот так посмотришь на тебя, <Player> и вроде бы видишь перед собой нормального, толкового пирата. Но при этом есть в тебе какая-то гнильца, какой-то грешок. Не вызываешь ты доверия, <Player>.

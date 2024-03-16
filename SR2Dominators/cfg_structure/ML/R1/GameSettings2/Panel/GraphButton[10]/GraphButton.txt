@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpFaceChange
+ImageDown=GI,Bm.FormGameSet2.1PortLD
+ImageNormalA=GI,Bm.FormGameSet2.1PortLA
+Kind=Normal
+KindHit=Graph
+Name=FaceLeft
+Pos=146,198,50
+Size=33,75
+Style=Style.GB.SoundNormal

@@ -1,0 +1,476 @@
+MainForm {
+    Border=0,0,1024,768
+    Panel {
+        Pos=0,0
+        Size=1024,768
+        Name=MainPanel
+
+        Panel=cfg\R2\PanelLoad.txt {
+            Pos=0,0,-1000
+        }
+
+        _GAI {
+            Name=TempGAI0
+            Pos=0,0,-2
+            Size=1024,768
+            PBuf=True
+            ImageFirst=Bm.AnimI
+            Image=Bm.AnimA
+//          FrameLoad=0
+            Frame=[90,0-30]
+            AlignX=Left
+            AlignY=Top
+        }
+
+//      Image {
+//          Pos=0,0,51
+//          Size=1024,768
+//          Image=GI,Bm.FormMain2.2Main
+//      }
+
+        Image {
+            Name=ImageFon
+            Image=GI,Bm.FormMain3.2BG
+            Pos=0,0,1000
+            Size=2700,768
+        }
+        Image {
+            Name=ImageFon2
+            Image=GI,Bm.FormMain3.2BG
+            Pos=2700,0,1001
+            Size=2700,768
+        }
+//        Image {
+//            Name=ImageFon3
+//            Image=GI,Bm.FormIntro2.2bg
+//            Pos=1952,1952,1002
+//            Size=2000,1744
+//        }
+
+        GAI {
+            Name=AnimMain
+//          Auto=Pos,Size
+            Pos=0,0,50
+            Size=1024,768
+            TransColor=255,0,255
+            PBuf=True
+            Frame=[120,0-24]
+            ImageFirst=Bm.FormMain2.2AnimMain
+            Image=Bm.FormMain2.2AnimMainA
+        }
+        GAI {
+            Name=AnimLine
+//          Auto=Pos,Size
+            Pos=0,0,49
+            Size=1024,308
+            PBuf=True
+            Frame=[80,0-124]
+            ImageFirst=Bm.FormMain2.2AnimLine
+            Image=Bm.FormMain2.2AnimLineA
+        }
+//        GAI {
+//            Name=AnimCaption
+////          Auto=Pos,Size
+//            Pos=397,22,48
+//            Size=623,174
+//            PBuf=True
+//            Frame=[80,0-59]
+//            ImageFirst=Bm.FormMain2.2AnimCaption
+//            Image=Bm.FormMain2.2AnimCaptionA
+//        }
+        Image {
+			Auto=Size
+            Pos=437,20,48
+            Image=GI,Bm.FormMain3.2Caption
+        }
+        Image {
+			Name=CaptionOld
+			Auto=Size
+            Pos=711,171,48
+            Image=GI,Bm.FormMain3.2CaptionOld
+        }
+        Image {
+			Auto=Pos,Size
+            PosZ=999
+            Image=GI,Bm.FormMain3.2Planet
+        }
+//		Label {
+//            Font=Font.2Ranger
+//            TextColor=2,0,99
+//            TextShadowColor=186,236,234
+//            TextShadow=1
+//            Pos=583,202,0
+//            Size=250,20
+//            AlignX=Center
+//            AlignY=CenterEx
+//            WordWrap=True
+//			Text=FormMain.SubName
+//		}
+//        Image {
+//            Image=GI,Bm.FormMain3.2Sub
+//			Auto=Size
+//			Pos=526,197,47
+//        }
+//        GAI {
+//            Name=AnimStar
+////          Auto=Pos,Size
+//            Pos=532,169,47
+//            Size=492,599
+//            Frame=[50,0-24]
+//            Image=Bm.FormMain2.2AnimStar
+//        }
+//        GAI {
+//            Name=AnimShip
+////          Auto=Pos,Size
+//            Pos=24,348,47
+//            Size=1000,372
+//            Frame=[50,0-29]
+//            Image=Bm.FormMain2.2AnimShip
+//        }
+        
+//      GAI {
+//          Name=CurAnim
+//          Pos=0,0,49
+//          Auto=Pos,Size
+//          TransColor=255,0,255
+//      }
+
+        GAI {
+            Name=LogoElemental
+            Pos=708,679,48
+            Auto=Size
+            Frame=[60,0-33]
+            Image=Bm.FormMain2.logo_elemental
+        }
+        GAI {
+            Name=Logo1C
+            Pos=770,689,48
+            Auto=Size
+            Image=Bm.FormMain2.logo_1c
+        }
+		Image {
+			Pos=835,687
+			Auto=Size
+			Image=GI,Bm.FormMain3.2Katauri
+		}
+		Image {
+			Pos=943,681
+			Auto=Size
+			Image=GI,Bm.FormMain3.2snk
+		}
+//		Image {
+//			Pos=626,688
+//			Auto=Size
+//			Image=GI,Bm.FormMain2.logo_cinemaware
+//		}
+
+//        GAI {
+//            Name=AnimRobot
+//            Pos=0,0,40
+//            Auto=Pos,Size
+//            PBuf=True
+//            SkipImageUpdateRect=True
+//        }
+
+        GAI {
+            Name=AnimAddonShip
+            Pos=0,0,29
+            Auto=Pos,Size
+            PBuf=True
+            SkipImageUpdateRect=True
+        }
+
+        GraphButton {
+            Style=Style.GB.SoundNormal
+            Name=New
+            PosZ=20
+            Auto=Pos,Size
+
+            Kind=Normal
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormMain2.2ButNewN
+            ImageNormalA=GI,Bm.FormMain2.2ButNewA
+            ImageDown=GI,Bm.FormMain2.2ButNewD
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+            Name=Score
+            PosZ=20
+            Auto=Pos,Size
+
+            Kind=Normal
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormMain2.2ButRecordsN
+            ImageNormalA=GI,Bm.FormMain2.2ButRecordsA
+            ImageDown=GI,Bm.FormMain2.2ButRecordsD
+        }
+        GraphButton {
+            Name=Load
+            Style=Style.GB.SoundNormal
+            PosZ=20
+            Auto=Pos,Size
+
+            Kind=Normal
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormMain2.2ButLoadN
+            ImageNormalA=GI,Bm.FormMain2.2ButLoadA
+            ImageDown=GI,Bm.FormMain2.2ButLoadD
+        }
+        GraphButton {
+            Name=Settings
+            Style=Style.GB.SoundNormal
+            PosZ=20
+            Auto=Pos,Size
+
+            Kind=Normal
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormMain2.2ButSettingsN
+            ImageNormalA=GI,Bm.FormMain2.2ButSettingsA
+            ImageDown=GI,Bm.FormMain2.2ButSettingsD
+        }
+        GraphButton {
+            Name=About
+            Style=Style.GB.SoundNormal
+            PosZ=20
+            Auto=Pos,Size
+
+            Kind=Normal
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormMain2.2ButAboutN
+            ImageNormalA=GI,Bm.FormMain2.2ButAboutA
+            ImageDown=GI,Bm.FormMain2.2ButAboutD
+        }
+        GraphButton {
+            Name=Exit
+            Style=Style.GB.SoundNormal
+            PosZ=20
+            Auto=Pos,Size
+
+            Kind=Normal
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormMain2.2ButExitN
+            ImageNormalA=GI,Bm.FormMain2.2ButExitA
+            ImageDown=GI,Bm.FormMain2.2ButExitD
+        }
+
+        GraphButton {
+            Name=LoadRobot
+            Style=Style.GB.SoundNormal
+            PosZ=20
+            Auto=Pos,Size
+
+            Kind=Normal
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormLoadRobot.2LoadRobotN
+            ImageNormalA=GI,Bm.FormLoadRobot.2LoadRobotA
+            ImageDown=GI,Bm.FormLoadRobot.2LoadRobotD
+        }
+        GraphButton {
+            Name=LoadQuest
+            Style=Style.GB.SoundNormal
+            PosZ=20
+            Auto=Pos,Size
+
+            Kind=Normal
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormLoadRobot.2LoadQuestN
+            ImageNormalA=GI,Bm.FormLoadRobot.2LoadQuestA
+            ImageDown=GI,Bm.FormLoadRobot.2LoadQuestD
+        }
+
+        Label {
+            Font=Font.2Ranger
+            Pos=229,710,-20
+            Size=100,20
+            AlignX=Center
+            AlignY=CenterEx
+            WordWrap=False
+            TextColor=86,214,14
+            Name=LoadRobotCnt
+        }
+        Label {
+            Font=Font.2Ranger
+            Pos=356,710,-20
+            Size=100,20
+            AlignX=Center
+            AlignY=CenterEx
+            WordWrap=False
+            TextColor=86,214,14
+            Name=LoadQuestCnt
+        }
+        Label {
+            Font=Font.2Ranger
+            Pos=144,736,-20
+            Size=200,20
+            AlignX=Center
+            AlignY=CenterEx
+            WordWrap=False
+            TextColor=255,202,21
+			Text=FormMain.LRobot
+        }
+        Label {
+            Font=Font.2Ranger
+            Pos=270,736,-20
+            Size=200,20
+            AlignX=Center
+            AlignY=CenterEx
+            WordWrap=False
+            TextColor=255,202,21
+			Text=FormMain.LQuest
+        }
+
+        Label {
+            Font=Font.2Small
+            Pos=306,729,-20
+            Size=700,40
+            AlignX=Right
+            AlignY=CenterEx
+            WordWrap=False
+            TextColor=129,170,188
+            Name=LVersion
+        }
+
+//      Label {
+//          Font=Font.2Fix
+//          Pos=100,600,-20
+//          Size=200,100
+//          AlignX=Auto
+//          AlignY=Top
+//          WordWrap=True
+//          TextColor=255,255,255
+//          Name=TestText
+//      }
+
+//      Image {
+//          Pos=320,198,31
+//          Size=380,570
+//          Image=GI,Bm.Developers.2face0
+//          Name=Dev0
+//      }
+//      Image {
+//          Pos=683,241,31
+//          Size=319,527
+//          Image=GI,Bm.Developers.2face1
+//          Name=Dev1
+//      }
+//      Image {
+//          Pos=30,221,31
+//          Size=322,547
+//          Image=GI,Bm.Developers.2face2
+//          Name=Dev2
+//      }
+    }
+}
+
+GameSettings2=cfg\R2\GameSettings2.txt {
+}
+
+Introduction=cfg\R2\Introduction.txt {
+}
+
+Hangar=cfg\R2\Hangar.txt {
+}
+
+Planet=cfg\R2\Planet.txt {
+}
+
+PlanetNO=cfg\R2\PlanetNO.txt {
+}
+
+PlanetQuest=cfg\R2\PlanetQuest.txt {
+}
+
+RuinsTalk=cfg\R2\RuinsTalk.txt {
+}
+
+AB=cfg\R2\AB.txt {
+}
+
+EquipmentShop=cfg\R2\EquipmentShop.txt {
+}
+
+GoodsShop2=cfg\R2\GoodsShop2.txt {
+}
+
+Gov=cfg\R2\Gov.txt {
+}
+
+Info=cfg\R2\Info.txt {
+}
+
+Rating2=cfg\R2\Rating2.txt {
+}
+
+Rewards=cfg\R2\Rewards.txt {
+}
+
+Ship=cfg\R2\Ship.txt {
+}
+
+Talk=cfg\R2\Talk.txt {
+}
+
+Scaner=cfg\R2\Scaner.txt {
+}
+
+Quest=cfg\R2\Quest.txt {
+}
+
+StarMap=cfg\R2\StarMap.txt {
+}
+
+Film=cfg\R2\Film.txt {
+}
+
+Galaxy2=cfg\R2\Galaxy2.txt {
+}
+
+Jump=cfg\R2\Jump.txt {
+}
+
+Load=cfg\R2\Load.txt {
+}
+
+SaveManager=cfg\R2\SaveManager.txt {
+}
+
+GameLoad=cfg\R2\GameLoad.txt {
+}
+
+GameMenu=cfg\R2\GameMenu.txt {
+}
+
+CfgSettings=cfg\R2\CfgSettings.txt {
+}
+
+GameEnd=cfg\R2\GameEnd.txt {
+}
+
+About=cfg\R2\About.txt {
+}
+
+Score=cfg\R2\Score.txt {
+}
+
+Count2=cfg\R2\Count2.txt {
+}
+
+SelectFace=cfg\R2\SelectFace.txt {
+}
+
+Journal=cfg\R2\Journal.txt {
+}
+
+LoadRobot=cfg\R2\LoadRobot.txt {
+}
+
+LoadQuest=cfg\R2\LoadQuest.txt {
+}

@@ -1,0 +1,15 @@
+Common=Common\Common.txt ^{
+}
+Extended=Extended\Extended.txt ^{
+}
+Fei=Fei\Fei.txt ^{
+}
+Gaal=Gaal\Gaal.txt ^{
+}
+IronWillText=Вы играете в режиме <clr>Железная воля<clrEnd>. Сохраняться запрещено. Работает только автосейв при взлете с планеты или базы!
+Maloc=Maloc\Maloc.txt ^{
+}
+Peleng=Peleng\Peleng.txt ^{
+}
+People=People\People.txt ^{
+}

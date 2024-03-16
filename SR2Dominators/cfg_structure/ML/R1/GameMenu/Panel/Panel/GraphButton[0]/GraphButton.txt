@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormMenu2.1ContinueH
+ImageDown=GI,Bm.FormMenu2.1ContinueD
+ImageNormal=GI,Bm.FormMenu2.1ContinueN
+ImageNormalA=GI,Bm.FormMenu2.1ContinueA
+Kind=Normal
+KindHit=Rect
+Name=Resume
+Pos=158,33,-3
+Size=37,40
+Style=Style.GB.SoundNormal

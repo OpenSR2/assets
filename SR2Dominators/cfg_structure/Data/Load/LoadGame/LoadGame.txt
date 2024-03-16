@@ -1,0 +1,4 @@
+Cursor=Cursor\Cursor.txt ^{
+}
+Item ^{
+}

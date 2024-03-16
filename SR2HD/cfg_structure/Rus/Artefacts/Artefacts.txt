@@ -1,0 +1,70 @@
+ArtAnalyzer=ArtAnalyzer\ArtAnalyzer.txt ^{
+}
+ArtAntigrav=ArtAntigrav\ArtAntigrav.txt ^{
+}
+ArtArtefactor=ArtArtefactor\ArtArtefactor.txt ^{
+}
+ArtBio=ArtBio\ArtBio.txt ^{
+}
+ArtBlackHole=ArtBlackHole\ArtBlackHole.txt ^{
+}
+ArtBomb=ArtBomb\ArtBomb.txt ^{
+}
+ArtDecelerate=ArtDecelerate\ArtDecelerate.txt ^{
+}
+ArtDef=ArtDef\ArtDef.txt ^{
+}
+ArtDefToArms1=ArtDefToArms1\ArtDefToArms1.txt ^{
+}
+ArtDefToArms2=ArtDefToArms2\ArtDefToArms2.txt ^{
+}
+ArtDefToEnergy=ArtDefToEnergy\ArtDefToEnergy.txt ^{
+}
+ArtDroid=ArtDroid\ArtDroid.txt ^{
+}
+ArtEnergyDef=ArtEnergyDef\ArtEnergyDef.txt ^{
+}
+ArtEnergyPulse=ArtEnergyPulse\ArtEnergyPulse.txt ^{
+}
+ArtFastRacks=ArtFastRacks\ArtFastRacks.txt ^{
+}
+ArtForsage=ArtForsage\ArtForsage.txt ^{
+}
+ArtFuel=ArtFuel\ArtFuel.txt ^{
+}
+ArtGiperJump=ArtGiperJump\ArtGiperJump.txt ^{
+}
+ArtHook=ArtHook\ArtHook.txt ^{
+}
+ArtHull=ArtHull\ArtHull.txt ^{
+}
+ArtMiniExpl=ArtMiniExpl\ArtMiniExpl.txt ^{
+}
+ArtMissileDef=ArtMissileDef\ArtMissileDef.txt ^{
+}
+ArtNano=ArtNano\ArtNano.txt ^{
+}
+ArtPDTurret=ArtPDTurret\ArtPDTurret.txt ^{
+}
+ArtPower=ArtPower\ArtPower.txt ^{
+}
+ArtRadar=ArtRadar\ArtRadar.txt ^{
+}
+ArtScaner=ArtScaner\ArtScaner.txt ^{
+}
+ArtSpeed=ArtSpeed\ArtSpeed.txt ^{
+}
+ArtSplinter=ArtSplinter\ArtSplinter.txt ^{
+}
+ArtTranclucator=ArtTranclucator\ArtTranclucator.txt ^{
+}
+ArtTransmitter=ArtTransmitter\ArtTransmitter.txt ^{
+}
+ArtWeaponToSpeed=ArtWeaponToSpeed\ArtWeaponToSpeed.txt ^{
+}
+CustomArtefacts ^{
+}
+NumericValues=NumericValues\NumericValues.txt ^{
+}
+TextArtCanGetBoost=На борту имеется оборудование, при совместном использовании с которым данный артефакт способен работать с повышенной эффективностью.
+TextArtGettingBoost=Артефакт получает бонус к эффективности, благодаря хорошей совместимости с установленным на корабле оборудованием.

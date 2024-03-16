@@ -1,0 +1,11 @@
+EngineStatus=EngineStatus\EngineStatus.txt ^{
+}
+FuelTankStatus=FuelTankStatus\FuelTankStatus.txt ^{
+}
+HullStatus=HullStatus\HullStatus.txt ^{
+}
+Prison=(арестован)
+TakeOff=Взлететь с планеты <CurPlanet>
+TestSystem=Тестирование системы:
+TotalStatus=TotalStatus\TotalStatus.txt ^{
+}

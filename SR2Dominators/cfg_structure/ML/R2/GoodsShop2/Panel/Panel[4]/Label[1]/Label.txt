@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Center
+Font=Font.2Ranger
+Name=CharFace
+Pos=29,378,6
+Size=96,24
+TextColor=88,229,255
+WordWrap=True

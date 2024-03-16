@@ -1,0 +1,776 @@
+
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+	MoveWorld=False
+	Name=MainPanel
+
+    Panel {
+        Name=Map
+		Pos=0,0,1
+    	Size=800,600
+
+		StarField {
+			Name=StarField
+			Pos=400,300,999
+			Size=800,600
+			Sme=400,300
+//			Image=Bm.AB.2bg00
+		}
+		Panel {
+			Name=SE
+			Pos=400,300,10
+			Size=800,600
+			Sme=400,300
+
+			GAI {
+				Name=StarStart
+				Image=Bm.Star.s01a
+				PosZ=30
+			}
+			GAI {
+				Name=StarEnd
+				Image=Bm.Star.s01a
+				PosZ=30
+			}
+
+			MultiImage {
+				Name=ShipPath
+				Pos=0,0,24,w
+				Size=200000000,200000000
+				Sme=100000000,100000000
+			}
+			GAI {
+				Name=ShipPathEnd
+				Active=False
+				PosZ=23
+				Auto=Size
+				FrameLoad=0
+				Image=Bm.PI.PathEndMove
+			}
+		}
+
+
+	    Panel {
+    	    Name=UpdateObj
+			Pos=0,0,2
+    		Size=800,600
+
+			Panel=cfg\R1\PanelLoad.txt {
+				Pos=0,0,-1000
+			}
+
+			Label {
+				Name=FPS
+				Pos=361,0,-2
+				Size=130,20
+				Font=Font.1Normal
+				WordWrap=False
+				AlignX=Left
+				AlignY=Center
+				MVUpdate=True
+			}
+
+			Label {
+				Style=Style.Label.1Normal
+				Pos=0,562,-3
+				Size=800,20
+				AlignX=Left
+				AlignY=Center
+				Name=LInfo
+				MVUpdate=True
+			}
+
+			Label {
+				Font=Font.1Normal
+				Pos=0,525,-3
+				Size=790,20
+				AlignX=Center
+				AlignY=Center
+				Name=LHelp
+				MVUpdate=True
+			}
+
+			Panel {
+				Pos=202,551
+				Size=402,49
+				Name=PanelWeapon
+				
+				Image {
+					Pos=0,0,9
+					Size=402,49
+					Image=GI,Bm.FormAB2.1BG
+				}
+
+				GraphButton {
+		            Style=Style.GB.SoundNormal
+
+					Name=F1
+					MVUpdate=True
+					MouseBlocking=True
+					MouseBlockingTest=False
+			
+					Pos=64,13,8
+					Size=41,33
+			
+					Kind=Disable
+					KindHit=Graph
+
+					ImageNormal=GI,Bm.FormAB2.1W1GN
+					ImageNormalA=GI,Bm.FormAB2.1W1GA
+					ImageDown=GI,Bm.FormAB2.1W1GD
+					ImageDisable=GI,Bm.FormAB2.1W1H
+				}
+				GraphButton {
+		            Style=Style.GB.SoundNormal
+
+					Name=F2
+					MVUpdate=True
+					MouseBlocking=True
+					MouseBlockingTest=False
+			
+					Pos=100,13,8
+					Size=41,33
+			
+					Kind=Disable
+					KindHit=Graph
+
+					ImageNormal=GI,Bm.FormAB2.1W2GN
+					ImageNormalA=GI,Bm.FormAB2.1W2GA
+					ImageDown=GI,Bm.FormAB2.1W2GD
+					ImageDisable=GI,Bm.FormAB2.1W2H
+				}
+				GraphButton {
+		            Style=Style.GB.SoundNormal
+
+					Name=F3
+					MVUpdate=True
+					MouseBlocking=True
+					MouseBlockingTest=False
+			
+					Pos=136,13,8
+					Size=39,33
+			
+					Kind=Disable
+					KindHit=Graph
+
+					ImageNormal=GI,Bm.FormAB2.1W3GN
+					ImageNormalA=GI,Bm.FormAB2.1W3GA
+					ImageDown=GI,Bm.FormAB2.1W3GD
+					ImageDisable=GI,Bm.FormAB2.1W3H
+				}
+				GraphButton {
+		            Style=Style.GB.SoundNormal
+
+					Name=F4
+					MVUpdate=True
+					MouseBlocking=True
+					MouseBlockingTest=False
+			
+					Pos=172,13,8
+					Size=37,33
+			
+					Kind=Disable
+					KindHit=Graph
+
+					ImageNormal=GI,Bm.FormAB2.1W4GN
+					ImageNormalA=GI,Bm.FormAB2.1W4GA
+					ImageDown=GI,Bm.FormAB2.1W4GD
+					ImageDisable=GI,Bm.FormAB2.1W4H
+				}
+				GraphButton {
+		            Style=Style.GB.SoundNormal
+
+					Name=F5
+					MVUpdate=True
+					MouseBlocking=True
+					MouseBlockingTest=False
+			
+					Pos=209,13,8
+					Size=36,33
+			
+					Kind=Disable
+					KindHit=Graph
+
+					ImageNormal=GI,Bm.FormAB2.1W5GN
+					ImageNormalA=GI,Bm.FormAB2.1W5GA
+					ImageDown=GI,Bm.FormAB2.1W5GD
+					ImageDisable=GI,Bm.FormAB2.1W5H
+				}
+				Image {
+					Name=W1I
+					Pos=67,9,7
+					Size=34,34
+					Sme=0,0
+				}
+				Image {
+					Name=W2I
+					Pos=102,9,7
+					Size=34,34
+					Sme=0,0
+				}
+				Image {
+					Name=W3I
+					Pos=137,9,7
+					Size=34,34
+					Sme=0,0
+				}
+				Image {
+					Name=W4I
+					Pos=174,9,7
+					Size=34,34
+					Sme=0,0
+				}
+				Image {
+					Name=W5I
+					Pos=209,9,7
+					Size=34,34
+					Sme=0,0
+				}
+				Image {
+					Name=W1C
+					Pos=87,6,7
+					Size=9,5
+				}
+				Image {
+					Name=W2C
+					Pos=121,6,7
+					Size=9,5
+				}
+				Image {
+					Name=W3C
+					Pos=155,6,7
+					Size=9,5
+				}
+				Image {
+					Name=W4C
+					Pos=189,6,7
+					Size=9,5
+				}
+				Image {
+					Name=W5C
+					Pos=223,6,7
+					Size=9,5
+				}
+				Image {
+					Name=W1P
+					Pos=70,34,6
+					Size=9,11
+					Image=GI,Bm.FormAB2.2NoPower
+				}
+				Image {
+					Name=W2P
+					Pos=106,34,6
+					Size=9,11
+					Image=GI,Bm.FormAB2.2NoPower
+				}
+				Image {
+					Name=W3P
+					Pos=143,34,6
+					Size=9,11
+					Image=GI,Bm.FormAB2.2NoPower
+				}
+				Image {
+					Name=W4P
+					Pos=179,34,6
+					Size=9,11
+					Image=GI,Bm.FormAB2.2NoPower
+				}
+				Image {
+					Name=W5P
+					Pos=215,34,6
+					Size=9,11
+					Image=GI,Bm.FormAB2.2NoPower
+				}
+				Image {
+					Name=W1P2
+					Pos=70,34,6
+					Size=9,11
+					Image=GI,Bm.FormAB2.2NoPower2
+				}
+				Image {
+					Name=W2P2
+					Pos=106,34,6
+					Size=9,11
+					Image=GI,Bm.FormAB2.2NoPower2
+				}
+				Image {
+					Name=W3P2
+					Pos=143,34,6
+					Size=9,11
+					Image=GI,Bm.FormAB2.2NoPower2
+				}
+				Image {
+					Name=W4P2
+					Pos=179,34,6
+					Size=9,11
+					Image=GI,Bm.FormAB2.2NoPower2
+				}
+				Image {
+					Name=W5P2
+					Pos=215,34,6
+					Size=9,11
+					Image=GI,Bm.FormAB2.2NoPower2
+				}
+
+				GraphButton {
+					Style=Style.GB.SoundNormal
+					Name=ButAuto
+					Pos=270,16,-7
+					Size=46,33
+//					MouseBlocking=True
+					Help=Help.ButAI
+
+					KindHit=Graph
+					Kind=Normal
+
+					ImageNormal=GI,Bm.FormAB2.1AutoN
+					ImageNormalA=GI,Bm.FormAB2.1AutoA
+					ImageDown=GI,Bm.FormAB2.1AutoD
+				}
+				GraphButton {
+					Style=Style.GB.SoundNormal
+					Name=ButManual
+					Pos=270,16,-7
+					Size=46,33
+//					MouseBlocking=True
+					Help=Help.ButAI
+
+					KindHit=Graph
+					Kind=Normal
+
+					ImageNormal=GI,Bm.FormAB2.1ManualN
+					ImageNormalA=GI,Bm.FormAB2.1ManualA
+					ImageDown=GI,Bm.FormAB2.1ManualD
+				}
+				GraphButton {
+					Style=Style.GB.SoundNormal
+					Name=ButShip
+					Pos=304,16,-7
+					Size=46,33
+//					MouseBlocking=True
+					Help=Help.ButShip
+
+					KindHit=Graph
+					Kind=Normal
+
+					ImageNormal=GI,Bm.FormAB2.1ShipN
+					ImageNormalA=GI,Bm.FormAB2.1ShipA
+					ImageDown=GI,Bm.FormAB2.1ShipD
+				}
+			}
+
+//			GraphButton {
+//				Name=ButAutopilot
+//				MVUpdate=True
+//				MouseBlocking=True
+			
+//				Pos=500,555,-3
+//				Size=170,45
+
+//				Kind=Fix
+//				KindHit=Graph
+
+//				ImageNormal=GI,Bm.SI.2ButN
+//				ImageNormalA=GI,Bm.SI.2ButA
+//				ImageDown=GI,Bm.SI.2ButD
+
+//				Font=Font.2Normal
+//				Caption=Autopilot
+//				CaptionColor=234,220,45
+//				CaptionSme=0,-3,1,-1
+//			}
+
+//			GraphButton {
+//				Name=ButExit
+//				MVUpdate=True
+//				MouseBlocking=True
+			
+//				Pos=737,560,-3
+//				Auto=Size
+
+//				Kind=Normal
+//				KindHit=Rect
+
+//				ImageNormal=GI,Bm.SI.2But2CancelN
+//        		ImageNormalA=GI,Bm.SI.2But2CancelA
+//		        ImageDown=GI,Bm.SI.2But2CancelD
+//			}
+
+///////////////////////////////////////////////////////////////
+			Panel {
+				Name=PRight
+				Pos=642,507,-4
+				Size=151,84
+				
+				Image {
+					Image=GI,Bm.FormAB.1Right
+					Pos=0,0,9
+					Size=151,84
+					MVUpdate=True
+					MouseBlocking=True
+				}
+				GraphButton {
+		            Style=Style.GB.SoundNormal
+
+					Name=ButPlay
+					Help=Help.ButABPlay
+
+					Pos=25,4,2
+					Size=94,53
+
+					Kind=Normal
+					KindHit=Graph
+
+       				ImageNormalA=GI,Bm.FormAB.1PlayA
+			        ImageDown=GI,Bm.FormAB.1PlayD
+				}
+				GraphButton {
+		            Style=Style.GB.SoundNormal
+
+					Name=ButPause
+					Help=Help.ButABPause
+
+					Pos=25,4,1
+					Size=94,53
+
+					Kind=Normal
+					KindHit=Graph
+
+       				ImageNormal=GI,Bm.FormAB.1PauseN
+       				ImageNormalA=GI,Bm.FormAB.1PauseA
+			        ImageDown=GI,Bm.FormAB.1PauseD
+				}
+				Label {
+					Name=Turn
+					Help=Help.LabelDate
+					Style=Style.Label.1Normal
+					Pos=19,56,-3
+					Size=120,15
+					AlignX=Center
+					AlignY=Center
+					Name=LInfo
+				}
+			}
+
+			Panel {
+				Name=PItem
+				Pos=5,283,-4
+				Size=50,312
+			}
+
+///////////////////////////////////////////////////////////////
+			Window {
+				Style=Style.Window.1Simple
+				Name=InfoPanel
+				Active=False
+				Pos=5,5,-11
+				Size=225,137
+				MouseBlocking=False
+				MVUpdate=True
+
+				Label {
+					Pos=50,10,8
+					Size=160,34
+					Name=InfoName
+					Font=Font.1Normal
+					WordWrap=True
+					AlignX=Center
+					AlignY=CenterEx
+					TextColor=255,255,230//39,65,162
+				}
+	
+//				Image {
+//					Pos=170,100,8
+//					Size=27,27
+//					Name=InfoPlanetEmRace
+//				}
+			
+				GraphBuf {
+					Pos=12,10,8
+					Size=34,34
+					Name=InfoPlanetImage
+				}
+
+				Label {
+					Pos=0,56,8
+					Size=110,16
+					Font=Font.1Normal
+					WordWrap=False
+					AlignX=Right
+					AlignY=CenterEx
+					TextColor=255,255,230
+					Text=FormAB.InfoSize
+				}
+				Label {
+					Pos=0,71,8
+					Size=110,16
+					Font=Font.1Normal
+					WordWrap=False
+					AlignX=Right
+					AlignY=CenterEx
+					TextColor=255,255,230
+					Text=FormAB.InfoExit
+				}
+				Label {
+					Pos=0,87,8
+					Size=110,16
+					Font=Font.1Normal
+					WordWrap=False
+					AlignX=Right
+					AlignY=CenterEx
+					TextColor=255,255,230
+					Text=FormAB.InfoDanger
+				}
+				Label {
+					Pos=0,103,8
+					Size=110,16
+					Font=Font.1Normal
+					WordWrap=False
+					AlignX=Right
+					AlignY=CenterEx
+					TextColor=255,255,230
+					Text=FormAB.InfoPirate
+				}
+//				Label {
+//					Pos=0,98,8
+//					Size=100,12
+//					Font=Font.1Normal
+//					WordWrap=False
+//					AlignX=Right
+//					AlignY=CenterEx
+//					TextColor=255,255,230
+//					Text=FormInfo.IPRel
+//				}
+				Label {
+					Pos=115,56,8
+					Size=100,16
+					Font=Font.1Normal
+					WordWrap=False
+					AlignX=Left
+					AlignY=CenterEx
+					TextColor=255,255,0
+					Name=InfoSize
+				}
+				Label {
+					Pos=115,71,8
+					Size=100,16
+					Font=Font.1Normal
+					WordWrap=False
+					AlignX=Left
+					AlignY=CenterEx
+					TextColor=255,255,0
+					Name=InfoExit
+				}
+				Label {
+					Pos=115,87,8
+					Size=100,16
+					Font=Font.1Normal
+					WordWrap=False
+					AlignX=Left
+					AlignY=CenterEx
+					TextColor=255,255,0
+					Name=InfoDanger
+				}
+				Label {
+					Pos=115,103,8
+					Size=100,16
+					Font=Font.1Normal
+					WordWrap=False
+					AlignX=Left
+					AlignY=CenterEx
+					TextColor=255,255,0
+					Name=InfoPirate
+				}
+//				Label {
+//					Pos=105,98,8
+//					Size=100,12
+//					Font=Font.1Normal
+//					WordWrap=False
+//					AlignX=Left
+//					AlignY=CenterEx
+//					TextColor=255,255,0
+//					Name=InfoPlanetRel
+//				}
+
+			}
+///////////////////////////////////////////////////////////////
+		Window {
+			Style=Style.Window.1Item
+			Pos=7,7,-11
+			Size=205,125
+			Name=InfoItem
+			Active=False
+
+			Image {
+				Pos=161,95,8
+				Size=27,27
+				Name=InfoItemEmRace
+			}
+
+			Image {
+				Pos=12,10,8
+				Size=34,34
+				Name=InfoItemImage
+			}
+
+			Panel {
+				Pos=50,2,11
+				Size=78,12
+
+				Image {
+					Image=GI,Bm.FormNote.1BarBack
+					Pos=16,4,3
+					Size=45,3
+				}
+				Panel {
+					Pos=16,4,2
+					Size=45,3
+				
+					Image {
+						Name=InfoItemDurable
+						Pos=0,0
+						Size=48,3
+						Image=GI,Bm.FormNote.1BarLine
+					}
+				}
+				Image {
+					Image=GI,Bm.FormNote.1BarTop
+					Pos=0,0,1
+					Size=78,12
+				}
+			}
+
+			Label {
+				Pos=50,10,8
+				Size=145,34
+				Name=InfoItemName
+				Font=Font.1SmallBold //1Normal
+				WordWrap=True
+				AlignX=Center
+				AlignY=CenterEx
+				TextColor=255,255,255 //255,255,230//39,65,162
+			}
+			Label {
+				Pos=8,47,8
+				Size=188,65
+				Name=InfoItemText
+				Font=Font.1Small //1Normal
+				WordWrap=True
+				AlignX=Center
+				AlignY=CenterEx
+				TextColor=255,255,255 //255,255,230//39,65,162
+			}
+			Label {
+				Pos=48,96,8
+				Size=39,26
+				Name=InfoItemSize
+				Font=Font.1Normal
+				AlignX=Left
+				AlignY=CenterEx
+				TextColor=255,255,255 //255,255,230//39,65,162
+			}
+			Label {
+				Pos=108,96,8
+				Size=75,26
+				Name=InfoItemPrice
+				Font=Font.1Normal
+				AlignX=Left
+				AlignY=CenterEx
+				TextColor=255,255,255 //255,255,230//39,65,162
+			}
+		}
+///////////////////////////////////////////////////////////////
+		Window {
+			Style=Style.Window.1Simple
+			Name=InfoStar
+			Active=False
+			Pos=7,7,-11
+			Size=220,137
+			MouseBlocking=False
+			MVUpdate=True
+
+			Label {
+				Pos=50,10,8
+				Size=145,34
+				Name=InfoStarName
+				Font=Font.1Normal
+				WordWrap=True
+				AlignX=Center
+				AlignY=CenterEx
+				TextColor=255,255,230//39,65,162
+			}
+
+			GraphBuf {
+				Pos=12,10,8
+				Size=34,34
+				Name=InfoStarImage
+			}
+
+			Panel {
+				Pos=0,55,8
+				Size=220,10
+				Name=InfoStarPanel
+			}
+
+		}
+///////////////////////////////////////////////////////////////
+//			Image {
+//				Name=PBmin
+//				Pos=0,440,-11
+//				Size=800,123
+//				Image=GI,Bm.FormLoad.1min
+//				KindX=Right
+//			}
+//			Image {
+//				Name=PBmax
+//				Pos=0,440,-12
+//				Size=800,123
+//				Image=GI,Bm.FormLoad.1max
+//				KindX=Left
+//			}
+///////////////////////////////////////////////////////////////
+			Panel {
+				Name=PanelWin
+				Pos=0,390,-11
+				Size=800,200
+				Active=False
+				MVUpdate=True
+
+				Panel {
+					Name=PanelWinHide
+					Pos=0,0,0
+					Size=800,200
+
+					ShrLight {
+						Name=WinShr
+						Pos=0,0,10
+						Size=800,200
+						ShrLight=2
+					}
+					Label {
+						Pos=0,10,8
+						Size=800,40
+						Name=WinText
+						Font=Font.1Intro
+						AlignX=Center
+						AlignY=CenterEx
+						Text=FormAB.Win
+						TextColor=255,255,230//255,255,230//39,65,162
+						TextBorder=0
+						TextBorderColor=150,150,50
+						TextShadow=1
+						TextShadowColor=0,0,255
+					}
+					Panel {
+						Name=WinItem
+						Pos=0,50,8
+						Size=796,1
+					}
+				}
+			}
+
+		}
+	}
+}

@@ -1,0 +1,8 @@
+AlignX=Auto
+AlignY=Auto
+Font=Font.1Normal
+Name=InfoText
+Pos=10,10,-1
+Size=180,180
+Text=Test
+WordWrap=False

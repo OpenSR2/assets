@@ -1,0 +1,9 @@
+AtmColor=137,181,197
+Cloud0=1.00,Bm.Planet2.C.Solar.c07
+Image=Bm.Planet2.T.Solar.Venus
+ImageMap=Bm.Planet.M.0
+PosZ=Planet
+Radius=70
+SmeImage=70,70
+SmeImageMap=4,4
+Style=1,2

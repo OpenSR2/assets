@@ -1,0 +1,5 @@
+FrameLoad=0
+Image=Bm.FormShip2.2SC_Slot1
+Name=SC_Slot1_Anim
+Pos=10,154,6
+Size=145,42

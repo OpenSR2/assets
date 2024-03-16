@@ -1,0 +1,11 @@
+ImageBottom=GI,Bm.FormNote.1SimpleBottom
+ImageBottomLeft=GI,Bm.FormNote.1SimpleBottomLeft
+ImageBottomRight=GI,Bm.FormNote.1SimpleBottomRight
+ImageLeft=GI,Bm.FormNote.1SimpleLeft
+ImageRight=GI,Bm.FormNote.1SimpleRight
+ImageTexture=GI,Bm.FormNote.1SimpleTexture
+ImageTop=GI,Bm.FormNote.1SimpleTop
+ImageTopLeft=GI,Bm.FormNote.1SimpleTopLeft
+ImageTopRight=GI,Bm.FormNote.1SimpleTopRight
+MinSize=195,0
+WorkSubRect=12,55,9,18

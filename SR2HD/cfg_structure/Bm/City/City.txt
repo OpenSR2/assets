@@ -1,0 +1,10 @@
+Fei=data\CityBG\2Fei.gi
+FeiPirate=data\CityBG\FeiPirate.gi
+Gaal=data\CityBG\2Gaal.gi
+GaalPirate=data\CityBG\GaalPirate.gi
+Maloc=data\CityBG\2Maloc.gi
+MalocPirate=data\CityBG\MalocPirate.gi
+Peleng=data\CityBG\2Peleng.gi
+PelengPirate=data\CityBG\PelengPirate.gi
+People=data\CityBG\2People.gi
+PeoplePirate=data\CityBG\PeoplePirate.gi

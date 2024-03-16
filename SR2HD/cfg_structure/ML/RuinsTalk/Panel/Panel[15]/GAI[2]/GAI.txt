@@ -1,0 +1,10 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-99]
+Image=Bm.GovHD.PeopleHoloAnim0a
+ImageFirst=Bm.GovHD.PeopleHoloAnim0i
+Name=PanelHD_Anim0
+PBuf=True
+Pos=0,-81,-2
+Size=497,817

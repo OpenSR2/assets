@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Small
+Name=LabelElemental
+Pos=1,746,40
+Size=123,20
+Text=FormAbout.Elemental
+TextColor=255,255,255
+WordWrap=False

@@ -1,0 +1,14 @@
+GraphBuf=GraphBuf[0]\GraphBuf.txt ^{
+}
+GraphBuf=GraphBuf[1]\GraphBuf.txt ^{
+}
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+MoveWorld=False
+Name=MainPanel
+Panel=Panel\Panel.txt ^{
+}
+Pos=0,0
+Size=1024,768

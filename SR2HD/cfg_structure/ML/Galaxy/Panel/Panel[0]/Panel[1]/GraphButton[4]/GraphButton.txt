@@ -1,0 +1,12 @@
+Active=True
+Auto=Pos,Size
+Help=Help.ButBreakMove
+ImageDisable=GI,Bm.PanelMain2.2StopD
+ImageDown=GI,Bm.PanelMain2.2StopD
+ImageNormal=GI,Bm.PanelMain2.2StopN
+ImageNormalA=GI,Bm.PanelMain2.2StopA
+Kind=Disable
+KindHit=Rect
+Name=PM_Break
+PosZ=8
+Style=Style.GB.SoundNormal

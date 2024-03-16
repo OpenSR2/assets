@@ -1,0 +1,13 @@
+Active=True
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Name=PanelInfo
+Pos=720,10,2
+Size=300,200
+Style=Style.Window.1Simple

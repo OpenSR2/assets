@@ -1,0 +1,5 @@
+AllExplore=исследована
+Info=Info\Info.txt ^{
+}
+QuestPlay=QuestPlay\QuestPlay.txt ^{
+}

@@ -1,0 +1,14 @@
+LiberationAwardNormals=LiberationAwardNormals\LiberationAwardNormals.txt ^{
+}
+LiberationAwardPirateClan=LiberationAwardPirateClan\LiberationAwardPirateClan.txt ^{
+}
+LiberationStarNormalsFromKling=LiberationStarNormalsFromKling\LiberationStarNormalsFromKling.txt ^{
+}
+LiberationStarNormalsFromPirateClan=LiberationStarNormalsFromPirateClan\LiberationStarNormalsFromPirateClan.txt ^{
+}
+LiberationStarPirateClanFromKling=LiberationStarPirateClanFromKling\LiberationStarPirateClanFromKling.txt ^{
+}
+LiberationStarPirateClanFromNormals=LiberationStarPirateClanFromNormals\LiberationStarPirateClanFromNormals.txt ^{
+}
+Quest=Quest\Quest.txt ^{
+}

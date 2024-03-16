@@ -1,0 +1,3 @@
+Name=IRankImage
+Pos=579,145,2
+Size=94,30

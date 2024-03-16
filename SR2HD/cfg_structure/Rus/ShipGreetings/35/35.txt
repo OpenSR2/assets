@@ -1,0 +1,16 @@
+AutoTalk=Any
+FlyType=Any
+Goods=Luxury
+LastPlanetGoodsSale=Mini,Small
+LastPlanetInCurStar=Yes
+LastPlanetIsHomePlanet=No
+LastPlanetRace=Maloc
+PlayerRace=Peleng,People,Fei,Gaal
+Priority=20
+Relations=Good,Best
+ShipHaveGoods=Yes
+ShipRace=Peleng,People,Gaal
+ShipStatus=Trader
+ShipType=Transport
+Text=Слушай, друг, ты куда летишь? Я вот только что взлетел с малокской планеты <LastPlanet>.
+Text=Хотел там партию компьютеров закупить, но оказалось, что они такого не выпускают! :-) Конкретно тупая раса! Зато предметы роскоши у них копейки стоят. У меня дома эти малокские табуретки за тройную цену пойдут!

@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=ToShip
+InFear=Yes
+Priority=20
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Kling
+ShipRaceIsPlayerRace=Yes
+ShipStructure=Mini,Small
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Выручай, <Player>! Еще немного, и этот <FullShipBad> отправит меня на тот свет. Мы ведь с тобой одной расы, и должны держаться друг друга.
+ToShipBad=Yes

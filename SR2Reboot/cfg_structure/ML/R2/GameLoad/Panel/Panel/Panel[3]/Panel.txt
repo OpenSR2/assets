@@ -1,0 +1,11 @@
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+Name=PLBottom
+Panel=Panel\Panel.txt ^{
+}
+Pos=123,467
+Size=778,301

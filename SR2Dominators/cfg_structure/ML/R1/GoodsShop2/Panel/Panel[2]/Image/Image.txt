@@ -1,0 +1,3 @@
+Image=GI,Bm.PanelMain2.1Planet
+Pos=344,541,10
+Size=233,34

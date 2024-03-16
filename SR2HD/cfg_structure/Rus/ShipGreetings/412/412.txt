@@ -1,0 +1,12 @@
+AutoTalk=Any
+DominatorsAlreadyDefeated=No
+FlyType=ToShip
+Priority=20
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Any
+ShipBadType=Kling
+ShipType=Diplomat,Ranger,Pirate,Warrior
+Text=Эй, <Player>, может, давай поспорим - кто первый замочит доминатора?
+Text=Предлагаю в качестве цели корабль <ShipBad>!
+ToShipBad=Yes
+ToShipType=Kling

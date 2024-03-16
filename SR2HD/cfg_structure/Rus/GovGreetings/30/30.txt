@@ -1,0 +1,9 @@
+CurPlanetEconomy=Mixed,Industrial
+CurPlanetGoodsBuy=Average,Big,Huge
+CurPlanetGoodsCnt=Zero,Mini,Small
+CurPlanetPirateClan=No
+CurPlanetRelations=Good,Best
+Goods=Minerals
+Priority=20
+Text=ƒл€ нас честь видеть вас здесь, <Player>!<br>’отим сообщить, если вы еще не в курсе, что на нашей планете ощущаетс€ остра€ нехватка руд дл€ промышленности. ≈сли хотите заработать денег, можете привезти сюда на <CurPlanet> партию полезных ископаемых.
+Text=” вас есть захват? “огда вы можете расстрел€ть астероид и собрать ценные части. ћы оплатим каждую тонну в размере <CurPlanetGoodsBuy> cr! Ќеплохо?

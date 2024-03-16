@@ -1,0 +1,16 @@
+Artefact=0
+Cost=40
+Def=-1
+Droid=-1
+Forsage=1
+Hook=0
+Name=Экстрим-фул
+Probability=70
+Race=Gaal
+Radar=0
+Scaner=0
+ShipType=Transport
+Size=80
+Text=Большой гаальский корпус без возможности подключения защитных и части боевых устройств. Для экстремального выживания в космосе.
+Weapon=-2
+Year=0

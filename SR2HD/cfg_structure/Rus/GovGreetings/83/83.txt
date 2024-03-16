@@ -1,0 +1,13 @@
+CoalitionAlreadyDefeated=No
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Good,Best
+DominatorsAlreadyDefeated=No
+KlingInToStar=4,5,6,7,8,9,Many
+Priority=50
+RangerInToStar=3,4,5,6,7,8,9,Many
+Text=<Player>, все лучшие рейнджеры сейчас собрались в системе <ToStar>, сражаются вместе с вашими соотечественниками пытаясь отбить ее у доминаторов, и гибнут пачками в кровопролитной битве. А все лучшие пираты сейчас живут припеваючи, считают денежки и их жизни ничто не угрожает. Вот и скажите, кто умнее?
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal
+ToPlanetRaceIsCurPlanetRace=Yes
+ToStarControlByKling=Yes
+ToStarInBattle=Yes

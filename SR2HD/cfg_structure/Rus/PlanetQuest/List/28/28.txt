@@ -1,0 +1,7 @@
+Access=6
+Dif=27
+Genre=менеджер военкомата
+Group=0
+Image=Bm.PQI.Rvk_03
+Length=2
+Name=Военкомат

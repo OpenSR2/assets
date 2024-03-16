@@ -1,0 +1,10 @@
+ImageBottom=GI,Bm.SI.2Win3Bottom
+ImageBottomLeft=GI,Bm.SI.2Win3BottomLeft
+ImageBottomRight=GI,Bm.SI.2Win3BottomRight
+ImageLeft=GI,Bm.SI.2Win3Left
+ImageRight=GI,Bm.SI.2Win3Right
+ImageTexture=GI,Bm.SI.2Win3Texture
+ImageTop=GI,Bm.SI.2Win3Top
+ImageTopLeft=GI,Bm.SI.2Win3TopLeft
+ImageTopRight=GI,Bm.SI.2Win3TopRight
+WorkSubRect=10,63,10,39

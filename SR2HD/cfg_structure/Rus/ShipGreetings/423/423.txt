@@ -1,0 +1,5 @@
+FlyType=ToPlanet
+Relations=Bad,Normal,Good,Best
+ShipStructure=Mini
+ShipType=Pirat
+Text= огда р€дом нет корешей, даже верному пилоту картел€ приходитс€ несладко. ’орошо бы братишки на подмогу прилетели, пока мой корабль чин€т в ангаре.

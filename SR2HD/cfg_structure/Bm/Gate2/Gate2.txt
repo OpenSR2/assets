@@ -1,0 +1,2 @@
+00=data\Gate2\00.gai
+GateEffect=data\Gate2\GateEffect.gai

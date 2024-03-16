@@ -1,0 +1,16 @@
+AutoTalk=Any
+CoalitionAlreadyDefeated=No
+FlyType=Any
+Goods=Arms
+LastPlanetDistToShipInTurn=1,2,3,4
+LastPlanetGoodsSale=Mini,Small
+LastPlanetInCurStar=Yes
+LastPlanetRace=Peleng,People,Fei,Gaal
+PlayerRace=Peleng,People,Fei,Gaal
+PlayerRank=Rookie,Cadet,Pilot
+PlayerRating=Mini,Small,Average
+Relations=Good,Best
+ShipRace=Peleng,People,Fei,Gaal
+ShipType=Liner
+Text=Ёкипаж и пассажиры лайнера <Ship> приветствуют теб€, <Player>! ћы знаем, что ты еще начинающий рейнджер, и пока всего лишь <PlayerRank>, но тем не менее весь наш экипаж надеетс€, что ты еще всем покажешь и заберешьс€ на вершину хит-парада рейнджеров! ¬ыше нос, все еще впереди!
+Text= стати, если нужна парти€ оружи€, то рекомендую планету <LastPlanet>. я только что оттуда, цены на оружие там просто замечательные! ѕродашь потом этот товар малокам втридорога!

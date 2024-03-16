@@ -1,0 +1,7 @@
+FlyType=Any
+PlayerRating=Mini
+PlayerStrength=Mini,Small,Average
+Priority=1
+Relations=Best
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=ѕривет, друг! «наю, что ты в таблице рейнджеров в самом отстойнике, и выражаю по этому поводу свои соболезновани€. “ы главное напр€гись, купи крутую пушку и лети мочить доминаторов. ” теб€, <Player>, все получитс€!

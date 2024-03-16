@@ -1,0 +1,15 @@
+ImageBottomA=GI,Bm.SB.2V3_BottomA
+ImageBottomD=GI,Bm.SB.2V3_BottomD
+ImageBottomN=GI,Bm.SB.2V3_BottomN
+ImageCenterA=GI,Bm.SB.2V3_CenterA
+ImageCenterD=GI,Bm.SB.2V3_CenterD
+ImageCenterN=GI,Bm.SB.2V3_CenterN
+ImageDownA=GI,Bm.SB.2V3_DownA
+ImageDownD=GI,Bm.SB.2V3_DownD
+ImageDownN=GI,Bm.SB.2V3_DownN
+ImageTopA=GI,Bm.SB.2V3_TopA
+ImageTopD=GI,Bm.SB.2V3_TopD
+ImageTopN=GI,Bm.SB.2V3_TopN
+ImageUpA=GI,Bm.SB.2V3_UpA
+ImageUpD=GI,Bm.SB.2V3_UpD
+ImageUpN=GI,Bm.SB.2V3_UpN

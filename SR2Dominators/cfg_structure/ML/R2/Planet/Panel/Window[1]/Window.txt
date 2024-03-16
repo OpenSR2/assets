@@ -1,0 +1,13 @@
+Active=True
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Name=QuestInfo
+Pos=720,500,8
+Size=260,174
+Style=Style.Window.2Simple

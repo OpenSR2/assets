@@ -1,0 +1,16 @@
+Artefact=2
+Cost=180
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Арривал толосум
+Probability=10
+Race=Maloc
+Radar=0
+Scaner=0
+ShipType=Diplomat,Ranger,Pirate,Warrior
+Size=130
+Text=Знаменитая малокская серия, названная в честь Аррива Толосума, воителя и исследователя.
+Weapon=1
+Year=0

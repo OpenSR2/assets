@@ -1,0 +1,10 @@
+Help=FormInfo.HelpClear
+ImageDown=GI,Bm.FormInfo3.ClearButD
+ImageNormal=GI,Bm.FormInfo3.ClearButN
+ImageNormalA=GI,Bm.FormInfo3.ClearButA
+Kind=Normal
+KindHit=Rect
+Name=ButClear
+Pos=281,66,1
+Size=21,21
+Style=Style.GB.SoundNormal

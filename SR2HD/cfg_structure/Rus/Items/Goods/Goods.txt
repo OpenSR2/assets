@@ -1,0 +1,10 @@
+Name=Name\Name.txt ^{
+}
+NameBuy=NameBuy\NameBuy.txt ^{
+}
+Text=Text\Text.txt ^{
+}
+kInflationMax=4.0
+kInflationMin=1.0
+kStockMax=3.0
+kStockMin=1.0

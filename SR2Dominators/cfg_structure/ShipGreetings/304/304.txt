@@ -1,0 +1,6 @@
+FlyType=ToItem
+ItemType=Minerals
+Relations=Normal,Good,Best
+ShipType=Ranger,Pirate
+Text=Привет, дружище <Player>! Я смотрю, минеральчики вона лежат бесхозные.
+Text=Надо этот беспорядок оперативно устранить.

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormOptions2.2SpaceD
+Name=ModeRightButtonD
+Pos=28,10,-3
+Size=203,51

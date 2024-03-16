@@ -1,0 +1,10 @@
+Help=FormShip.HelpDestrInto
+ImageDown=GI,Bm.FormShip2.IntoD
+ImageNormal=GI,Bm.FormShip2.IntoN
+ImageNormalA=GI,Bm.FormShip2.IntoA
+Kind=Normal
+KindHit=Rect
+Name=DestrInto
+Pos=29,363,-1
+Size=61,35
+Style=Style.GB.SoundNormal

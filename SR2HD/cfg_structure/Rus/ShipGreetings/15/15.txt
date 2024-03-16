@@ -1,0 +1,13 @@
+CoalitionAlreadyDefeated=No
+FlyType=Any
+LastPlanetDistToShipInTurn=1,2,3,4
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+LastPlanetRaceIsShipRace=No
+PlayerRank=Rookie,Cadet
+PlayerRating=Mini
+Priority=1
+Relations=Normal,Good,Best
+ShipRace=Maloc,Peleng
+ShipType=Diplomat
+Text=ѕривет, <Player>!  ак там жизнь? «наю, что ты пока никудышный рейнджер, но считаю, что все у теб€ еще впереди.
+Text=я вот только что побывал на <LastPlanet> c важной дипломатической миссией и могу заметить, что переговоры прошли не очень удачно. Ќу да ладно.

@@ -1,0 +1,8 @@
+AlignX=Left
+Font=Font.2Normal
+MaxLen=30
+Name=M01Range
+Pos=285,256,0
+ReturnFocusLeave=False
+Size=99,17
+TextColor=0,0,0

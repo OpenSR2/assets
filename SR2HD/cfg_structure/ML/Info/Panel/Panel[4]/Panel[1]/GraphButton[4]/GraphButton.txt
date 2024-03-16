@@ -1,0 +1,11 @@
+ImageDown=GI,Bm.FormInfo3.2BRaceGaalD
+ImageDownA=GI,Bm.FormInfo3.2BRaceGaalC
+ImageNormal=GI,Bm.FormInfo3.2BRaceGaalN
+ImageNormalA=GI,Bm.FormInfo3.2BRaceGaalA
+Kind=Fix
+KindHit=Graph
+Name=M01Gaal
+Pos=140,223,1
+Size=30,30
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

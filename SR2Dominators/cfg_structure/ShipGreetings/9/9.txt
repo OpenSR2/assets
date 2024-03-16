@@ -1,0 +1,7 @@
+FlyType=Any
+Relations=War,Bad
+ShipBadFlyToShip=Yes
+ShipBadType=Kling
+ShipStructure=Mini,Small
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Хоть мы и враги, рейнджер <Player>, но дела мои так плачевны, что я вынужден взывать к твоему милосердию! Еще немного, и эти доминаторы меня прикончат, выручай, а?

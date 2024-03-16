@@ -1,0 +1,16 @@
+Artefact=0
+Cost=130
+Def=1
+Droid=0
+Forsage=0
+Hook=0
+Name=Лужа Чваха
+Probability=30
+Race=Peleng
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=120
+Text=Корпус пеленгских пиратов ордена Чваха. Имеет большую грязевую ванну, для расслабления после удачных боев.
+Weapon=-1
+Year=30

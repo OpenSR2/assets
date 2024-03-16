@@ -1,0 +1,5 @@
+Auto=Pos,Size
+Name=AnimRobot
+PBuf=True
+Pos=0,0,40
+SkipImageUpdateRect=True

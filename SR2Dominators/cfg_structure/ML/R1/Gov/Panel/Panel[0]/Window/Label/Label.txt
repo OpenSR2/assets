@@ -1,0 +1,9 @@
+Active=True
+AlignX=Auto
+AlignY=Auto
+Font=Font.1Normal
+Name=PM_LabelMsg
+Pos=0,0,1
+Size=390,20
+TextColor=255,255,230
+WordWrap=True

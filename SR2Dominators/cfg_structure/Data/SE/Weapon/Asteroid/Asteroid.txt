@@ -1,0 +1,2 @@
+PosZ=Weapon
+SoundExpl=Sound.expl0

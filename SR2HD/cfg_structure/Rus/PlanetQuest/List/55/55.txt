@@ -1,0 +1,7 @@
+Access=4
+Dif=56
+Genre=детектив
+Group=1
+Image=Bm.PQI.Cybersport_04
+Length=4
+Name=Комплекс

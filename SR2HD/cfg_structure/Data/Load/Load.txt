@@ -1,0 +1,10 @@
+AB=AB\AB.txt ^{
+}
+LoadGame=LoadGame\LoadGame.txt ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+Space=Space\Space.txt ^{
+}
+SpaceSound=SpaceSound\SpaceSound.txt ^{
+}

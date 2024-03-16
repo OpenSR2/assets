@@ -1,0 +1,11 @@
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+Name=ModeRightPanel
+Pos=-2,0,-1
+Size=318,95

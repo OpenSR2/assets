@@ -1,0 +1,10 @@
+FlyType=Any
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+Priority=2
+Relations=Bad,Normal
+ShipRaceIsPlayerRace=No
+ShipStrength=Average,Big,Huge
+ShipStructure=Huge
+ShipType=Pirate
+Text=Я старый пират и много повидал на своем веку. И морды иноземцев типа твоей, <Player>, я видел. О чем пойдет разговор? Я сразу предупреждаю, что недавно починил свой корабль на <LastPlanet> и готов к бою.

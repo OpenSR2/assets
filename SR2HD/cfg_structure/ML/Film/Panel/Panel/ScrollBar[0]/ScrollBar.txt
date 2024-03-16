@@ -1,0 +1,14 @@
+Active=False
+Kind=x
+KindCalc=0
+LargeChange=1
+MVUpdate=True
+Max=60
+Min=10
+Name=SBSpeed
+PageSize=1
+Pos=170,295,ButtonNav
+Position=20
+Size=300,20
+SmallChange=1
+Style=Style.ScrollBar.H

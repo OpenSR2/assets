@@ -1,0 +1,4 @@
+Image=GI,Bm.FormNote.2HP_Radar
+Name=InfoHull_Radar
+Pos=55,52
+Size=17,14

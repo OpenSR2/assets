@@ -1,0 +1,5 @@
+Cost=Average
+Name=Оранжевая коробка
+Owner=None
+Size=1
+Text=Черный ящик с записями

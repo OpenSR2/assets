@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2SmallBold
+Help=Help.LabelDate
+Name=PM_Date
+Pos=0,0,8
+Size=130,22
+TextColor=200,240,255

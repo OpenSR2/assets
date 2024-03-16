@@ -1,0 +1,7 @@
+CoalitionOnly=CoalitionOnly\CoalitionOnly.txt ~{
+}
+KlingAndCoalition=KlingAndCoalition\KlingAndCoalition.txt ~{
+}
+KlingOnly=KlingOnly\KlingOnly.txt ~{
+}
+ExtraTextAboutRanks=“олько не забывай, браток, что не каждый встречный может отдавать приказы нашей базе - ¬ерховными Ћ€кушами давно разработана <clr>шкала –ачехана<clrEnd>, в которой строго прописано, что решают обладатели разных званий.

@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Bottom
+Font=Font.2Mini
+Help=Skills.sTrader.Name
+Name=PDS_Skill3v
+Pos=119,33,1
+Size=20,35
+TextColor=0,0,0

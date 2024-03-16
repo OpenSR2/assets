@@ -1,0 +1,4 @@
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Good
+Priority=1
+Text=«амечательно, что вы зашли, <Player>! я очень рад нашей встрече! √оворите, чего хотели, € внимательно внимаю.

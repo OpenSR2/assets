@@ -1,0 +1,15 @@
+Cost=600
+Equipments=Hull
+Fragility=110
+KindGraph=F
+Name=Корпус "Добрейший лякуша"
+Priority=50
+Size=110
+Special=1
+Text=<color=248,252,248>Данный корпус эксклюзивно прокачан известным пеленгским мастером Ицзибитом. Система управления настроена на максимальную атакующую мощь. Точно не подойдет любителям поторговать.</color>
+Text=Сила энергетического оружия: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+Text=Сила ракетного оружия: <bonWMissile> ед.
+bonWEnergy=14
+bonWMissile=20
+bonWSplinter=12

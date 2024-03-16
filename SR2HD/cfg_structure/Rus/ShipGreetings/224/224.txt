@@ -1,0 +1,9 @@
+AutoTalk=Any
+DominatorsAlreadyDefeated=No
+FlyType=ToStar
+Priority=50
+Relations=Normal,Good,Best
+ShipType=Ranger
+Text=Привет, <Player>! Давай вместе мочить доминаторов?! Летим в систему <ToStar>. Там быстренько сбиваем половину этих тварей и прыгаем назад, в систему <CurStar>. Присоединяйся скорей!
+ToStarControlByKling=Yes
+ToStarInBattle=Any

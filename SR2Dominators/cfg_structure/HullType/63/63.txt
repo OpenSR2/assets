@@ -1,0 +1,16 @@
+Artefact=0
+Cost=140
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Каракатица
+Probability=20
+Race=Maloc,People,Fei,Gaal
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=100
+Text=Легендарная пиратская серия с возможностью поддержки всех типов оружия.
+Weapon=4
+Year=0

@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Name=TalkShip
+Pos=128,59,4
+Size=115,47
+TextColor=88,229,255
+WordWrap=True

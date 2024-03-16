@@ -1,0 +1,10 @@
+Help=FormCfgSettings.HelpButMiddle
+ImageDown=GI,Bm.FormOptions2.2MediumD
+ImageNormal=GI,Bm.FormOptions2.2MediumN
+ImageNormalA=GI,Bm.FormOptions2.2MediumA
+Kind=Normal
+KindHit=Graph
+Name=ButAMiddle
+Pos=170,31,-3
+Size=55,25
+Style=Style.GB.SoundNormal

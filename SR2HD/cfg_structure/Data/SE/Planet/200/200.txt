@@ -1,0 +1,9 @@
+AtmColor=151,191,227
+Cloud0=1.00,Bm.Planet2.C.Solar.c04
+Image=Bm.Planet2.T.Solar.Earth
+ImageMap=Bm.Planet.M.0
+PosZ=Planet
+Radius=80
+SmeImage=80,80
+SmeImageMap=4,4
+Style=1,3

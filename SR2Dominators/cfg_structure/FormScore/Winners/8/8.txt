@@ -1,0 +1,2 @@
+Name=Зверожабер
+Race=Peleng

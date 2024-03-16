@@ -1,0 +1,9 @@
+Active=False
+Label=Label\Label.txt ^{
+}
+MVUpdate=True
+MouseBlocking=False
+Name=Info
+Pos=-502,-374,InfoPanel
+Size=200,200
+Style=Style.Window.2Normal2

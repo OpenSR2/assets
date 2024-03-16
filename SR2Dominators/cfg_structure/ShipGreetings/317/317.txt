@@ -1,0 +1,6 @@
+FlyType=ToItem
+ItemType=Artefact
+Priority=10
+Relations=Bad,Normal,Good,Best
+ShipType=Ranger,Pirate
+Text=Ќаконец-то мне удастс€ заполучить один из артефактов дл€ изучени€! ј вы, <Player>, не вздумайте встать на пути технического прогресса. Ќаука требует жертв, и вы вполне можете оказатьс€ одной из них.

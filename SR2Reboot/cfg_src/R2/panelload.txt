@@ -1,0 +1,196 @@
+Name=PanelLoad
+Size=1024,768
+MVUpdate=True
+
+Panel {
+	Name=PLRight
+	Pos=726,0
+	Size=298,768
+
+	Image {
+		Name=PLRightImage
+		Pos=16,110
+		Size=282,658
+	}	
+
+	Image {
+		Pos=0,0,-1
+		Size=298,768
+		Image=GI,Bm.FormLoad2.2Right
+	}
+}
+
+Panel {
+	Name=PLLeft
+	Pos=0,0
+	Size=299,768
+
+	Image {
+		Name=PLLeftImage
+		Pos=0,110
+		Size=282,658
+	}	
+
+	Image {
+		Pos=0,0,-1
+		Size=299,768
+		Image=GI,Bm.FormLoad2.2Left
+	}
+}
+
+Panel {
+	Name=PLTop
+	Pos=129,0
+	Size=766,470
+
+	Image {
+		Name=PLTopImage
+		Pos=27,0
+		Size=714,450
+	}	
+
+	Image {
+		Pos=0,0,-1
+		Size=766,470
+		Image=GI,Bm.FormLoad2.2Top
+	}
+}
+
+Panel {
+	Name=PLBottom
+	Pos=123,467
+	Size=778,301
+
+	Image {
+		Name=PLBottomImage
+		Pos=32,83
+		Size=718,218
+	}
+
+	Image {
+		Pos=0,0,-1
+		Size=778,301
+		Image=GI,Bm.FormLoad2.2Bottom
+	}
+
+	Label {
+		Pos=229,60,-2
+		Size=321,17
+		Font=Font.2Ranger
+		Text=FormSaveManager.Loading
+		AlignX=Center
+		AlignY=CenterEx
+		TextColor=0,27,50
+		TextShadowColor=8,136,181
+		TextShadow=1
+	}
+
+	Panel {
+		Name=PLBar
+		Pos=229,25,-2
+		Size=321,37
+
+		Image {
+			Name=PLB1
+			Pos=0,0
+			Size=31,37
+			Image=GI,Bm.FormLoad2.2BarLeft
+		}
+		Image {
+			Name=PLB2
+			Pos=20,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB3
+			Pos=38,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB4
+			Pos=56,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB5
+			Pos=74,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB6
+			Pos=92,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB7
+			Pos=110,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB8
+			Pos=128,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB9
+			Pos=146,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB10
+			Pos=164,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB11
+			Pos=182,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB12
+			Pos=200,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB13
+			Pos=218,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB14
+			Pos=236,0
+			Size=29,37
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB15
+			Pos=254,0
+			Size=29,37	
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB16
+			Pos=272,0
+			Size=29,37	
+			Image=GI,Bm.FormLoad2.2BarCenter
+		}
+		Image {
+			Name=PLB17
+			Pos=290,0
+			Size=31,37
+			Image=GI,Bm.FormLoad2.2BarRight
+		}
+	}
+}

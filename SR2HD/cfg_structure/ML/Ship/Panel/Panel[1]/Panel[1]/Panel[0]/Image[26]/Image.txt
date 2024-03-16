@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.2DroidEx
+Name=S_RepairRobot_0Ex
+Pos=83,420,1
+Size=97,77

@@ -1,0 +1,11 @@
+ActiveBarY=True
+ExternalSB=True
+MoveWorld=True
+Name=MessageWindow
+Pos=46,43,4
+PosAutoBarY=False
+RectBarY=464,39,479,322
+Size=402,285
+StyleBarY=Style.ScrollBar.1PQS1
+TextColor=255,255,230
+UnlimitedWorld=False

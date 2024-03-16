@@ -1,0 +1,7 @@
+KindX=Center
+KindY=Center
+Name=CaptainA
+PBuf=True
+Pos=68,31,3
+Size=77,86
+TransColor=255,0,255

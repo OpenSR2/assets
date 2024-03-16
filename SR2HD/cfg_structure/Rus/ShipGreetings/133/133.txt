@@ -1,0 +1,9 @@
+FlyType=ToPlanet
+InFear=Any
+Priority=20
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Ranger,Pirate
+ShipStructure=Mini,Small,Average,Big
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Пытаюсь уйти от пирата <ShipBad> на планету <ToPlanet>. Извини меня, <Player>, но на разговоры у меня совсем нет времени. Вот починю свое корыто, поставлю крутую пушку - тогда и поговорим.

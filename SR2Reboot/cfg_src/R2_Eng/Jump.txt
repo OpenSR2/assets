@@ -1,0 +1,44 @@
+
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+	MoveWorld=False
+
+	Panel=cfg\R2\PanelLoad.txt {
+		Pos=0,0,3
+	}
+
+	XviD {
+		Name=Film
+		Pos=0,0,-1000
+		Size=1024,768
+	}
+
+//    Image {
+//		Name=ImageBG
+//		Pos=0,0,3
+//		Size=1024,768
+//	}
+//	Label {
+//		Font=Font.2Normal
+//	    Name=CurTurn
+//		Pos=0,738,1
+//		Size=100,20
+//	}
+
+//	Image {
+//		Name=PBmin
+//		Pos=0,560,-11
+//		Size=1024,157
+//		Image=GI,Bm.FormLoad.2min
+//		KindX=Right
+//	}
+//	Image {
+//		Name=PBmax
+//		Pos=0,560,-12
+//		Size=1024,157
+//		Image=GI,Bm.FormLoad.2max
+//		KindX=Left
+//	}
+}

@@ -1,0 +1,27 @@
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Label=Label[3]\Label.txt ^{
+}
+Name=UpdateObj
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Panel=Panel[2]\Panel.txt ^{
+}
+Panel=Panel[3]\Panel.txt ^{
+}
+Panel=Panel[4]\Panel.txt ^{
+}
+Pos=0,0,2
+Size=1024,768
+Window=Window[0]\Window.txt ^{
+}
+Window=Window[1]\Window.txt ^{
+}
+Window=Window[2]\Window.txt ^{
+}

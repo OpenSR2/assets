@@ -1,0 +1,6 @@
+wall00_32=data\AB\2wall00.gai
+wall01_32=data\AB\2wall01.gai
+wall02_32=data\AB\2wall02.gai
+wall03_32=data\AB\2wall03.gai
+wall04_32=data\AB\2wall04.gai
+wall05_32=data\AB\2wall05.gai

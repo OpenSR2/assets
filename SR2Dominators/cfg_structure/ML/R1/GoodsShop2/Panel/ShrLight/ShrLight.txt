@@ -1,0 +1,4 @@
+Name=BGShrLight
+Pos=0,0,98
+ShrLight=-2
+Size=800,600

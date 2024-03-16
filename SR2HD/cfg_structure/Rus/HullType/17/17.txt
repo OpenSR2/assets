@@ -1,0 +1,17 @@
+Artefact=0
+Cost=220
+Def=1
+Droid=0
+Forsage=0
+Fragility=140
+Hook=0
+Name=Тортило
+Probability=10
+Race=Maloc
+Radar=0
+Scaner=0
+ShipType=Transport,Liner
+Size=180
+Text=Вместительный корпус для безопасной перевозки арестованных грузов и пленников.
+Weapon=0
+Year=60

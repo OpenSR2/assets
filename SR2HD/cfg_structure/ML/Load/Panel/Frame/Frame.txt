@@ -1,0 +1,7 @@
+Color=0,0,0
+ColorFill=0,0,0
+Fill=True
+Kind=Rect
+Name=IntroRect
+Pos=0,0,3
+Size=1024,768

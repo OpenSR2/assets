@@ -1,0 +1,14 @@
+BK=BK\BK.txt ^{
+}
+CB=CB\CB.txt ^{
+}
+MC=MC\MC.txt ^{
+}
+PB=PB\PB.txt ^{
+}
+RC=RC\RC.txt ^{
+}
+SB=SB\SB.txt ^{
+}
+WB=WB\WB.txt ^{
+}

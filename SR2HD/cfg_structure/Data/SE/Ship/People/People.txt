@@ -1,0 +1,18 @@
+Diplomat=Diplomat\Diplomat.txt ^{
+}
+Liner=Liner\Liner.txt ^{
+}
+Pirate=Pirate\Pirate.txt ^{
+}
+PirateClan=PirateClan\PirateClan.txt ^{
+}
+Ranger=Ranger\Ranger.txt ^{
+}
+RangerOldFag=RangerOldFag\RangerOldFag.txt ^{
+}
+Transport=Transport\Transport.txt ^{
+}
+Warrior=Warrior\Warrior.txt ^{
+}
+WarriorBig=WarriorBig\WarriorBig.txt ^{
+}

@@ -1,0 +1,9 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.1Small
+Name=IPOwner
+Pos=0,56,8
+Size=100,12
+Text=FormInfo.IPOwner
+TextColor=140,140,140
+WordWrap=False

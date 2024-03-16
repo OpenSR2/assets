@@ -1,0 +1,10 @@
+Help=Help.ButShip
+ImageDown=GI,Bm.FormAB2.2ShipD
+ImageNormal=GI,Bm.FormAB2.2ShipN
+ImageNormalA=GI,Bm.FormAB2.2ShipA
+Kind=Normal
+KindHit=Graph
+Name=ButShip
+Pos=389,20,-7
+Size=46,33
+Style=Style.GB.SoundNormal

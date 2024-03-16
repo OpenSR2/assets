@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpCancel
+ImageDown=GI,Bm.FormGameSet2.2FooterLD
+ImageNormalA=GI,Bm.FormGameSet2.2FooterLA
+Kind=Normal
+KindHit=Graph
+Name=Cancel
+Pos=18,686,40
+Size=39,70
+Style=Style.GB.SoundNormal

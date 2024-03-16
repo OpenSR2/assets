@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.NextPirateRank
+Name=RankAdd2
+Pos=193,27,0
+Size=20,20

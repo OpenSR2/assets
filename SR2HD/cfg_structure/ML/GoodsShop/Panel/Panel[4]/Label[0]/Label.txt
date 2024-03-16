@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Center
+Font=Font.2Ranger
+Name=NameFace
+Pos=29,340,6
+Size=96,38
+TextColor=88,229,255
+WordWrap=True

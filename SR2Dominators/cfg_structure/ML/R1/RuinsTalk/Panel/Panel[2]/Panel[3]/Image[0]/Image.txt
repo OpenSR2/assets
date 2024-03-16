@@ -1,0 +1,3 @@
+Name=PLBottomImage
+Pos=25,65
+Size=562,171

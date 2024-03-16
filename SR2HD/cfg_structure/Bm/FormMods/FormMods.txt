@@ -1,0 +1,6 @@
+2ConfirmA=data\FormMods\2ConfirmA.gi
+2ConfirmD=data\FormMods\2ConfirmD.gi
+2ConfirmN=data\FormMods\2ConfirmN.gi
+ModsA=data\FormMods\2ModsA.gi
+ModsD=data\FormMods\2ModsD.gi
+ModsN=data\FormMods\2ModsN.gi

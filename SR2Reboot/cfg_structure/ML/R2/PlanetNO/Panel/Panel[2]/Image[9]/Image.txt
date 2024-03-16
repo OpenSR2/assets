@@ -1,0 +1,3 @@
+Name=Slot_4i
+Pos=354,408,0
+Size=39,39

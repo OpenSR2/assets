@@ -1,0 +1,13 @@
+AutoTalk=Any
+DominatorsAlreadyDefeated=No
+FlyType=ToStar
+PlayerRank=Leader,Ace,Commander, Admiral
+Priority=30
+Relations=Normal,Good,Best
+ShipRace=Maloc
+ShipRaceIsPlayerRace=No
+ShipType=Ranger,Pirate,Warrior
+Text=Арргх! <Player>! Как насчет немного пострелять? Я обещал своей самке привезти ей пару деталей от доминаторов. Так что лечу в систему <ToStar>, за подарком...
+Text=Летим со мной. Ты крутой воин, пусть и из расы хлюпиков. О, зарделся, теперь морда у тебя что надо!
+ToStarControlByKling=Yes
+ToStarInBattle=Any

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormEnd2.Final5Gaal
+Name=PirateWin5Gaal
+Pos=0,59,9
+Size=414,629

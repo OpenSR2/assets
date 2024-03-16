@@ -1,0 +1,11 @@
+ImageDisable=GI,Bm.FormCount2.1MaxH
+ImageDown=GI,Bm.FormCount2.1MaxD
+ImageNormal=GI,Bm.FormCount2.1MaxN
+ImageNormalA=GI,Bm.FormCount2.1MaxA
+Kind=Disable
+KindHit=Graph
+Name=Max
+Pos=164,56,5
+Size=28,11
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

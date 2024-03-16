@@ -1,0 +1,7 @@
+Lang=Rus
+LangName=Русский
+Packages {
+	Package=data\russian.pkg
+	Package=data\questsRus.pkg
+	Package=data\voicesRus.pkg
+}

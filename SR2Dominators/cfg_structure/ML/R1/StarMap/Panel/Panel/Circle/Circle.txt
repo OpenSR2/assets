@@ -1,0 +1,7 @@
+Active=False
+Kind=ShrLight
+Name=CircleActionShr
+Pos=-400,-300,CircleActionShr
+ShrLightInner=0
+ShrLightOuter=1
+Size=800,600

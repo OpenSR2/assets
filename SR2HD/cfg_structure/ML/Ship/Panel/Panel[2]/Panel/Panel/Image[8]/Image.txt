@@ -1,0 +1,3 @@
+Name=Storage_7i
+Pos=59,146,0
+Size=39,39

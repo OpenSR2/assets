@@ -1,0 +1,16 @@
+Artefact=2
+Cost=120
+Def=0
+Droid=0
+Forsage=1
+Hook=0
+Name=Стальная чмыса
+Probability=5
+Race=Peleng
+Radar=0
+Scaner=0
+ShipType=Ranger
+Size=100
+Text=Скоростной корпус для пеленгских рейнджеров, предпочитающих тактическое отступление бесславной гибели.
+Weapon=0
+Year=30

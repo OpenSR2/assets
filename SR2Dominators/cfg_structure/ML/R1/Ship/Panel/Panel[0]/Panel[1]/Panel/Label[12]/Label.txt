@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Pos=275,17,0
+Size=70,14
+Text=FormShip.ISpeed
+TextColor=45,105,124

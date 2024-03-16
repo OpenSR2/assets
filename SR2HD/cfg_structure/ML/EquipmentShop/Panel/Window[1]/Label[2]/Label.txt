@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Normal
+Name=InfoHullSize
+Pos=167,134,8
+Size=58,31
+TextColor=255,255,255

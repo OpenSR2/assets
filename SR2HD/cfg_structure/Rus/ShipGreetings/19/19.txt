@@ -1,0 +1,13 @@
+FlyType=Any
+Goods=Narcotics
+LastPlanetGoodsSale=Mini,Small,Average
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerStatus=Pirate
+Relations=Bad,Normal,Good,Best
+ShipGoodsTypeCnt=2,3,4,5,6,7,8
+ShipHaveGoods=Yes
+ShipRace=Peleng,People
+ShipType=Diplomat
+Text=Вы связались с дипломатическим кораблем <Ship>. Если вас интересует наш груз, то сообщаю, что наркотиков у нас на борту нет и не было. Все документы на провозимые товары имеются. Будут еще вопросы, или мне можно лететь?
+Text=Да ты, <Player>, не контрабандист ли случайно? Тогда другой разговор. Могу порекомендовать планету <LastPlanet> как наилучшее место для покупки травки. Так что лети, отоваривайся, брат!

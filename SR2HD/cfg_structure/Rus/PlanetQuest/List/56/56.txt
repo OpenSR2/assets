@@ -1,0 +1,7 @@
+Access=5
+Dif=48
+Genre=гоночный симулятор с элементами менеджмента
+Group=1
+Image=Bm.PQI.Rush_04
+Length=2
+Name=Ралли

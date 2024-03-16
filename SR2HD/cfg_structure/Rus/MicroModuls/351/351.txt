@@ -1,0 +1,11 @@
+Cost=130
+CustomTag=SuperHullWB
+Equipments=Hull
+KindGraph=2
+Name=—кала
+Size=120
+Special=1
+Text=Ѕрон€ корпуса: <bonHull> ед.
+Text=Ёффективность дроида: <bonDroid> ед.
+bonDroid=20
+bonHull=5

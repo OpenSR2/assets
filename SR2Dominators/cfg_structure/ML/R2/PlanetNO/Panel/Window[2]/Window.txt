@@ -1,0 +1,19 @@
+Active=False
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Label=Label[3]\Label.txt ^{
+}
+Name=PII
+Panel=Panel\Panel.txt ^{
+}
+Pos=10,10,5
+Size=243,155
+Style=Style.Window.2Item

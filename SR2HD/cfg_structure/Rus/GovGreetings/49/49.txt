@@ -1,0 +1,14 @@
+CurPlanetGoodsCnt=Mini,Small,Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetPirateClan=No
+CurPlanetRace=Peleng
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Good,Best
+DominatorsAlreadyDefeated=No
+Goods=Narcotics
+Priority=10
+Text=–ейнджер <Player>!  –ад, что вы залетели к нам. ¬ы, наверное, давно скитаетесь по системам, и слышали, как там дела в системе <ToStar>? ѕо глазам вижу, не знаете. ј мы, пеленги, давно следим за событи€ми в захваченной системе, но пока ничего не предпринимали, чтобы нас не пон€ли неправильно. Ќу, вы, конечно, пон€ли, что € имел в виду?
+Text=“ак вот, очень замечательный препарат из высушенной выжимки болотных растений делали на одной из планет системы <ToStar>. –аньше мы устраивали туда нарко... простите, бизнес-туры, но сейчас из-за доминаторов мы лишились этого, можно сказать, св€того места. “еперь нам остаетс€ лишь ждать, когда вы, рейнджеры, сломите натиск этих тупых желез€к.
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,People,Fei,Gaal
+ToStarControlByKling=Yes

@@ -1,0 +1,2 @@
+Image=GAI,Bm.Cursor.InterceptorsFull
+Sme=1,1

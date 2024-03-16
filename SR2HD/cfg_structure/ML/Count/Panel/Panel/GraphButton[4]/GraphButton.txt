@@ -1,0 +1,10 @@
+ImageDown=GI,Bm.FormCount2.2CloseD
+ImageNormal=GI,Bm.FormCount2.2CloseN
+ImageNormalA=GI,Bm.FormCount2.2CloseA
+Kind=Normal
+KindHit=Graph
+Name=Close
+Pos=150,158,5
+Size=48,21
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

@@ -1,0 +1,10 @@
+AutoTalk=Any
+FlyType=ToShip
+InFear=Any
+Priority=20
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Any
+ShipBadType=Ranger
+ShipType=Transport,Liner,Diplomat
+Text=Приветствую, <Player>! Прошу помочь мне в нападении на рейнджера <ShipBad>. Это очень опасный субъект, уж поверь мне. Он разбойник.
+ToShipRelations=War

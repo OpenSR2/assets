@@ -1,0 +1,10 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-99]
+Image=Bm.Gov.1PeopleAnim0a
+ImageFirst=Bm.Gov.1PeopleAnim0i
+Name=PanelPeopleBK_Anim0
+PBuf=True
+Pos=440,74,-2
+Size=270,526

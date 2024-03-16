@@ -1,0 +1,16 @@
+GNPi=data\PI\GNPi.gai
+GNPo=data\PI\GNPo.gai
+ItemTake=data\PI\ItemTake.gi
+ItemTakeAnim=data\PI\ItemTake.gai
+Path1=data\PI\UnitPath1.gi
+Path2=data\PI\UnitPath2.gi
+Path3=data\PI\UnitPath3.gi
+Path4=data\PI\UnitPath4.gi
+PathEndAutoBattle=data\PI\PathEndAutoBattle.gai
+PathEndFollowMax=data\PI\PathEndFollowMax.gai
+PathEndFollowMin=data\PI\PathEndFollowMin.gai
+PathEndFollowNear=data\PI\PathEndFollowNear.gai
+PathEndJumpHole=data\PI\PathEndJumpHole.gai
+PathEndKamikaze=data\PI\PathEndKamikaze.gai
+PathEndLanding=data\PI\PathEndLanding.gai
+PathEndMove=data\PI\PathEndMove.gai

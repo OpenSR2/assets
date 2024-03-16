@@ -1,0 +1,232 @@
+Name=PanelSpace
+Size=502,63
+//MouseBlocking=True
+
+Panel {
+    Name=PS_Up
+    Pos=0,10
+    Size=327,53
+
+    Image {
+        Name=PS_ImageWeaponBG
+//      PosZ=9
+        Pos=0,2,9
+        Size=327,51
+        Image=GI,Bm.PanelMain2.2Weapon
+    }
+    GraphButton {
+        Name=PS_W0
+        Pos=33,0,8
+        Size=53,41
+        Help=Help.ButW0
+
+        KindHit=Graph
+        Kind=Disable
+
+        ImageNormal=GI,Bm.PanelMain2.2W1Normal
+        ImageNormalA=GI,Bm.PanelMain2.2W1Active
+        ImageDown=GI,Bm.PanelMain2.2W1Down
+        ImageDisable=GI,Bm.PanelMain2.2W1Disabled
+
+        Style=Style.GB.SoundNormal
+    }
+    Image {
+        Name=PS_W0I
+        Pos=33,0,7
+        Size=53,41
+        Sme=0,0
+    }
+    GraphButton {
+        Name=PS_W1
+        Pos=79,0,8
+        Size=53,41
+        Help=Help.ButW1
+
+        KindHit=Graph
+        Kind=Disable
+
+        ImageNormal=GI,Bm.PanelMain2.2W2Normal
+        ImageNormalA=GI,Bm.PanelMain2.2W2Active
+        ImageDown=GI,Bm.PanelMain2.2W2Down
+        ImageDisable=GI,Bm.PanelMain2.2W2Disabled
+
+        Style=Style.GB.SoundNormal
+    }
+    Image {
+        Name=PS_W1I
+        Pos=79,0,7
+        Size=53,41
+        Sme=0,0
+    }
+    GraphButton {
+        Name=PS_W2
+        Pos=125,0,8
+        Size=50,41
+        Help=Help.ButW2
+
+        KindHit=Graph
+        Kind=Disable
+
+        ImageNormal=GI,Bm.PanelMain2.2W3Normal
+        ImageNormalA=GI,Bm.PanelMain2.2W3Active
+        ImageDown=GI,Bm.PanelMain2.2W3Down
+        ImageDisable=GI,Bm.PanelMain2.2W3Disabled
+
+        Style=Style.GB.SoundNormal
+    }
+    Image {
+        Name=PS_W2I
+        Pos=125,0,7
+        Size=50,41
+        Sme=0,0
+    }
+    GraphButton {
+        Name=PS_W3
+        Pos=171,0,8
+        Size=48,41
+        Help=Help.ButW3
+
+        KindHit=Graph
+        Kind=Disable
+
+        ImageNormal=GI,Bm.PanelMain2.2W4Normal
+        ImageNormalA=GI,Bm.PanelMain2.2W4Active
+        ImageDown=GI,Bm.PanelMain2.2W4Down
+        ImageDisable=GI,Bm.PanelMain2.2W4Disabled
+
+        Style=Style.GB.SoundNormal
+    }
+    Image {
+        Name=PS_W3I
+        Pos=171,0,7
+        Size=48,41
+        Sme=0,0
+    }
+    GraphButton {
+        Name=PS_W4
+        Pos=218,0,8
+        Size=46,41
+        Help=Help.ButW4
+
+        KindHit=Graph
+        Kind=Disable
+
+        ImageNormal=GI,Bm.PanelMain2.2W5Normal
+        ImageNormalA=GI,Bm.PanelMain2.2W5Active
+        ImageDown=GI,Bm.PanelMain2.2W5Down
+        ImageDisable=GI,Bm.PanelMain2.2W5Disabled
+
+        Style=Style.GB.SoundNormal
+    }
+    Image {
+        Name=PS_W4I
+        Pos=218,0,7
+        Size=46,41
+        Sme=0,0
+    }
+    GraphButton {
+        Name=PS_WA
+        Pos=268,7,5
+        Size=28,23
+        Help=Help.ButSelAllWeapon
+
+        KindHit=Graph
+        Kind=Disable
+
+        ImageNormal=GI,Bm.PanelMain2.2WAllN
+        ImageNormalA=GI,Bm.PanelMain2.2WAllA
+        ImageDown=GI,Bm.PanelMain2.2WAllD
+        ImageDisable=GI,Bm.PanelMain2.2WAllH
+
+        Style=Style.GB.SoundNormal
+    }
+}
+
+Image {
+    Name=PS_ImageBG
+    Image=GI,Bm.PanelMain2.2Space
+    Pos=315,12,10
+    Size=187,51
+}
+
+GraphButton {
+    Name=PS_Show
+    Pos=330,16,8
+    Size=28,30
+    Help=Help.ButShowWeapon
+
+    KindHit=Graph
+    Kind=Normal
+
+    ImageNormal=GI,Bm.PanelMain2.2WOpenN
+    ImageNormalA=GI,Bm.PanelMain2.2WOpenA
+    ImageDown=GI,Bm.PanelMain2.2WOpenD
+
+    Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+    Name=PS_Hide
+    Pos=330,16,8
+    Size=28,30
+    Help=Help.ButShowWeapon
+
+    KindHit=Graph
+    Kind=Normal
+
+    ImageNormal=GI,Bm.PanelMain2.2WCloseN
+    ImageNormalA=GI,Bm.PanelMain2.2WCloseA
+    ImageDown=GI,Bm.PanelMain2.2WCloseD
+
+    Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+    Name=PS_Scaner
+    Pos=360,14,8
+    Size=46,31
+    Help=Help.ButScaner
+
+    KindHit=Graph
+    Kind=Disable
+
+    ImageNormal=GI,Bm.PanelMain2.2ScanerN
+    ImageNormalA=GI,Bm.PanelMain2.2ScanerA
+    ImageDown=GI,Bm.PanelMain2.2ScanerD
+    ImageDisable=GI,Bm.PanelMain2.2ScanerH
+
+    Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+    Name=PS_Talk
+    Pos=404,14,8
+    Size=46,33
+    Help=Help.ButTalk
+
+    KindHit=Graph
+    Kind=Disable
+
+    ImageNormal=GI,Bm.PanelMain2.2TalkN
+    ImageNormalA=GI,Bm.PanelMain2.2TalkA
+    ImageDown=GI,Bm.PanelMain2.2TalkD
+    ImageDisable=GI,Bm.PanelMain2.2TalkH
+
+    Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+    Name=PS_Film
+    Pos=448,14,8
+    Size=48,33
+    Help=Help.ButFilm
+
+    KindHit=Graph
+    Kind=Normal
+
+    ImageNormal=GI,Bm.PanelMain2.2FilmN
+    ImageNormalA=GI,Bm.PanelMain2.2FilmA
+    ImageDown=GI,Bm.PanelMain2.2FilmD
+
+    Style=Style.GB.SoundNormal
+}

@@ -1,0 +1,219 @@
+Border=0,0,800,600
+Sound {
+	Open=Sound.FormShipOpen
+	Close=Sound.FormShipClose
+}
+Panel {
+	Pos=0,0
+    Size=800,600
+	MoveWorld=False
+	Name=MainPanel
+
+	GraphBuf {
+		Name=BGBuf
+		Pos=0,0,9
+		Size=800,600
+	}
+//	ShrLight {
+//		Pos=0,0,8
+//		Size=1024,768
+//		ShrLight=1
+//	}
+
+	Panel {
+		Pos=223,126,6
+		Size=353,339
+
+		Image {
+			Name=ImageBG
+			Pos=0,0,9
+			Size=353,339
+			Image=GI,Bm.FormMenu2.1Bg
+		}
+
+		GraphButton {
+			Style=Style.GB.SoundNormal
+			Name=Resume
+			
+			Pos=158,33,-3
+			Size=37,40
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormMenu2.1ContinueN
+			ImageNormalA=GI,Bm.FormMenu2.1ContinueA
+			ImageDown=GI,Bm.FormMenu2.1ContinueD
+			ImageDisable=GI,Bm.FormMenu2.1ContinueH
+		}
+		GraphButton {
+			Style=Style.GB.SoundNormal
+			Name=Save
+			
+			Pos=257,95,-3
+			Size=38,40
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormMenu2.1SaveN
+			ImageNormalA=GI,Bm.FormMenu2.1SaveA
+			ImageDown=GI,Bm.FormMenu2.1SaveD
+			ImageDisable=GI,Bm.FormMenu2.1SaveH
+		}
+		GraphButton {
+			Style=Style.GB.SoundNormal
+			Name=Load
+			
+			Pos=253,210,-3
+			Size=37,40
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormMenu2.1LoadN
+			ImageNormalA=GI,Bm.FormMenu2.1LoadA
+			ImageDown=GI,Bm.FormMenu2.1LoadD
+			ImageDisable=GI,Bm.FormMenu2.1LoadH
+		}
+		GraphButton {
+			Style=Style.GB.SoundNormal
+			Name=Settings
+			
+			Pos=60,95,-3
+			Size=37,40
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormMenu2.1OptionsN
+			ImageNormalA=GI,Bm.FormMenu2.1OptionsA
+			ImageDown=GI,Bm.FormMenu2.1OptionsD
+			ImageDisable=GI,Bm.FormMenu2.1OptionsH
+		}
+		GraphButton {
+			Style=Style.GB.SoundNormal
+			Name=Exit
+			
+			Pos=158,249,-3
+			Size=37,40
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormMenu2.1ExitN
+			ImageNormalA=GI,Bm.FormMenu2.1ExitA
+			ImageDown=GI,Bm.FormMenu2.1ExitD
+			ImageDisable=GI,Bm.FormMenu2.1ExitH
+		}
+		GraphButton {
+			Style=Style.GB.SoundNormal
+			Name=Help
+			
+			Pos=61,210,-3
+			Size=38,40
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormMenu2.1HelpN
+			ImageNormalA=GI,Bm.FormMenu2.1HelpA
+			ImageDown=GI,Bm.FormMenu2.1HelpD
+			ImageDisable=GI,Bm.FormMenu2.1HelpH
+		}
+		GraphButton {
+			Style=Style.GB.SoundNormal
+			Name=Close
+			
+			Pos=269,296,-3
+			Size=46,39
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormMenu2.1CloseN
+			ImageNormalA=GI,Bm.FormMenu2.1CloseA
+			ImageDown=GI,Bm.FormMenu2.1CloseD
+			ImageDisable=GI,Bm.FormMenu2.1CloseH
+		}
+
+		Label {
+			Font=Font.1Ranger
+			TextColor=0,26,49
+			TextShadowColor=0,135,192
+			TextShadow=1
+			Pos=80,15,-1
+			Size=195,16
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			Text=FormGameMenu.Resume
+		}
+
+		Label {
+			Font=Font.1Ranger
+			TextColor=0,26,49
+			TextShadowColor=0,135,192
+			TextShadow=1
+			Pos=175,79,-1
+			Size=195,16
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			Text=FormGameMenu.Save
+		}
+
+		Label {
+			Font=Font.1Ranger
+			TextColor=0,26,49
+			TextShadowColor=0,135,192
+			TextShadow=1
+			Pos=183,191,-1
+			Size=195,16
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			Text=FormGameMenu.Load
+		}
+
+		Label {
+			Font=Font.1Ranger
+			TextColor=0,26,49
+			TextShadowColor=0,135,192
+			TextShadow=1
+			Pos=-15,79,-1
+			Size=195,16
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			Text=FormGameMenu.Settings
+		}
+
+		Label {
+			Font=Font.1Ranger
+			TextColor=0,26,49
+			TextShadowColor=0,135,192
+			TextShadow=1
+			Pos=80,290,-1
+			Size=195,16
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			Text=FormGameMenu.Exit
+		}
+
+		Label {
+			Font=Font.1Ranger
+			TextColor=0,26,49
+			TextShadowColor=0,135,192
+			TextShadow=1
+			Pos=-23,191,-1
+			Size=195,16
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			Text=FormGameMenu.Help
+		}
+	}
+}
+

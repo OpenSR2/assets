@@ -1,0 +1,12 @@
+AtmColor=193,161,180
+BG=201
+Cloud0=1.00,Bm.Planet2.C.Solar.r02
+Image=Bm.Planet2.T.Solar.Mercur
+ImageMap=Bm.Planet.M.0
+PosZ=Planet
+Quest=0
+Radius=60
+SmeImage=60,60
+SmeImageMap=4,4
+Space=0,180,30
+Style=1,1

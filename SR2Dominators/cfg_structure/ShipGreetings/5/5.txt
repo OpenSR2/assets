@@ -1,0 +1,8 @@
+FlyType=Any
+PlayerFlyToShip=Yes
+PlayerRating=Mini,Small,Average
+Priority=5
+Relations=Bad,Normal,Good
+ShipFlyToPlayer=No
+ShipType=Ranger,Pirate,Warrior
+Text=“ы чего за мной летишь, дупель? я маслом вроде не намазан. ј ну, сворачивай, пока по рогам не получил!

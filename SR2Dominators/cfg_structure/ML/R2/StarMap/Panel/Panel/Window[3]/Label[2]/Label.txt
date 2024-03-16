@@ -1,0 +1,9 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.2Small
+Name=IPPop
+Pos=0,80,8
+Size=125,15
+Text=FormInfo.IPPop
+TextColor=140,140,140
+WordWrap=False

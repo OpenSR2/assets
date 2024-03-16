@@ -1,0 +1,4 @@
+CurPlanetPirateClan=No
+CurPlanetRelations=Good
+Priority=1
+Text=Для нас честь видеть вас здесь, <Player>!

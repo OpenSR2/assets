@@ -1,0 +1,3 @@
+Name=Slot_3i
+Pos=311,408,0
+Size=39,39

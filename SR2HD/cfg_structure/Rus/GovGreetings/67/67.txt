@@ -1,0 +1,13 @@
+CurPlanetGoodsPermit=Yes
+CurPlanetPirateClan=Any
+CurPlanetRace=Peleng
+CurPlanetRelations=Normal,Good,Best
+Goods=Narcotics
+PlayerRace=Maloc,People,Gaal
+Priority=10
+Text=А, <Player>, прекрасно. Тут фэяне нам объявили эмбарго, да. На поставки безвредной травки. Эм-м... Нам не хотелось бы нарушать закон, поэтому, как существу другой расы, вам не составит труда сделать нам небольшой, но скромный подарок. Итак, хотите заработать? Слушайте!
+Text=На фэянской планете <ToPlanet> нужна она самая. У нас все легально - берете, везете, продаете. Цена закупки <CurPlanetGoodsSale>, а цена продажи <ToPlanetGoodsBuy> cr! Улавливаете разницу? Лучше предложения вам просто не найти!
+ToPlanetGoodsBuy=Big,Huge
+ToPlanetGoodsPermit=No
+ToPlanetInCurStar=No
+ToPlanetRace=Fei

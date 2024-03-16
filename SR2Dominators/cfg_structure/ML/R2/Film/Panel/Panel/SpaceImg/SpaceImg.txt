@@ -1,0 +1,4 @@
+Name=SpaceImg
+Pos=0,0,SpaceImg
+Size=1024,768
+Sme=512,384

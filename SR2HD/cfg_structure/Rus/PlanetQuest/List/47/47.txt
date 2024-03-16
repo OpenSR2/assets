@@ -1,0 +1,7 @@
+Access=5
+Dif=39
+Genre=бродилка с логическими головоломками
+Group=1
+Image=Bm.PQI.stealth_10
+Length=3
+Name=Гнездо пиратов

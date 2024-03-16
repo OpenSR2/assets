@@ -1,0 +1,5 @@
+Name=Торпеда
+Text=Самонаводящаяся торпеда
+TextFrom=Выпустил: <Name>
+TextNoTarget=Цель потеряна
+TextTarget=Цель: <Name>

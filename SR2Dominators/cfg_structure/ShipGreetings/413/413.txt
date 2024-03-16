@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=ToShip
+InFear=Any
+KlingInCurStar=5,6,7,8,9,Many
+Priority=20
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Any
+ShipBadType=Kling
+ShipType=Warrior
+Text=Нас слишком мало здесь, <Player>, чтобы справиться с доминаторами! <FullShipBad> висит у меня на хвосте - предлагаю начать с него.
+ToShipBad=Yes
+WarriorInCurStar=1,2,3

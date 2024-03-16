@@ -1,0 +1,3 @@
+Image2=GAI,Bm.PlanetAdvt.2_4_10
+Owner=Maloc
+War=-1

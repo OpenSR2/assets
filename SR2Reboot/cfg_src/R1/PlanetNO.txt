@@ -1,0 +1,616 @@
+Border=0,0,800,600
+
+Sound { 
+    Group {
+        NextTime=5000-10000
+        1=Sound.FormPlanetNone1
+        1=Sound.FormPlanetNone2
+        1=Sound.FormPlanetNone3
+        1=Sound.FormPlanetNone4
+    }
+   Group_1 {
+        NextTime=2000-4000
+	    1=Sound.FormPlanetNoneLP
+    }
+}
+
+Panel {
+    Pos=0,0
+    Size=800,600
+    Name=MainPanel
+
+    Panel=cfg\R1\PanelMain.txt {
+        Pos=0,0,1
+    }
+    Panel=cfg\R1\PanelLoad.txt {
+        Pos=0,0,-1000
+    }
+
+    Image {
+		Name=PlanetBG
+        Image=GI,Bm.FormPlanetNO.1bg
+        Pos=0,0,99
+        Size=800,600
+    }
+
+	Window {
+		Style=Style.Window.1Simple
+		Name=PanelInfo
+		Active=True
+		Pos=720,10,20
+		Size=205,137//300,200
+
+		GraphBuf {
+			Name=PanelInfo_Image
+			Pos=29,27,8
+			Size=34,34
+			Sme=17,17
+		}
+
+		Label {
+			Name=PanelInfo_Name
+			Font=Font.1SmallBold
+			Pos=50,10,8
+			Size=145,34
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=57,239,255
+		}
+		Label {
+			Name=PanelInfo_Text
+			Font=Font.1Small
+			Pos=4,50,8
+			Size=202,75
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			//AlignX=Auto
+			//AlignY=Auto
+			//WordWrap=False
+			TextColor=255,255,255
+		}
+	}
+
+    Panel {
+        Name=PanelResearch
+        Pos=159,115,10
+        Size=482,365
+
+        GraphBuf {
+            Name=PlanetImage
+//            Image=GI,Bm.FormUnknown2.1Example
+            Pos=43,94,100
+            Size=394,197
+        }
+
+        GAI {
+            Name=Scan
+            Pos=23,82,99
+            Image=Bm.FormUnknown2.1Scan
+        }
+
+        Panel {
+            Name=PanelPath
+            Pos=44,95,90
+            Size=393,196
+
+            Panel {
+                Pos=0,0,-1
+                Size=393,196
+                Name=PanelSatellite
+            }
+            Panel {
+                Pos=0,0,0
+                Size=393,196
+                Name=PanelItems
+            }
+
+            Image {
+                Name=W0
+                Pos=0,33,1
+                Size=394,65
+                Image=GI,Bm.FormUnknown2.1W1
+            }
+            Image {
+                Name=W1
+                Pos=43,114,2
+                Size=310,82
+                Image=GI,Bm.FormUnknown2.1W2
+            }
+            Image {
+                Name=W2
+                Pos=0,122,3
+                Size=394,65
+                Image=GI,Bm.FormUnknown2.1W3
+            }
+            Image {
+                Name=W3
+                Pos=43,-1,4
+                Size=309,83
+                Image=GI,Bm.FormUnknown2.1W4
+            }
+            Image {
+                Name=W4
+                Pos=0,82,5
+                Size=395,37
+                Image=GI,Bm.FormUnknown2.1W5
+            }
+            Image {
+                Name=W5
+                Pos=0,15,6
+                Size=395,21
+                Image=GI,Bm.FormUnknown2.1W6
+            }
+        }
+
+        Image {
+            Image=GI,Bm.FormUnknown2.1BG
+            Pos=0,0,10
+            Size=482,365
+        }
+        Image {
+            Name=Glow
+            Image=GI,Bm.FormUnknown2.1Glow
+            Pos=41,92,9
+            Size=399,202
+        }
+        Image {
+            Name=Light1
+            Image=GI,Bm.FormUnknown2.1Light1
+            Pos=49,316,9
+            Size=10,10
+        }
+        Image {
+            Name=Light2
+            Image=GI,Bm.FormUnknown2.1Light2
+            Pos=59,316,9
+            Size=11,10
+        }
+        Image {
+            Name=Light3
+            Image=GI,Bm.FormUnknown2.1Light3
+            Pos=70,316,9
+            Size=11,10
+        }
+
+        Image {
+            Pos=142,320,0
+            Size=29,29
+            Name=Slot_0i
+        }
+        Image {
+            Pos=176,320,0
+            Size=29,29
+            Name=Slot_1i
+        }
+        Image {
+            Pos=210,320,0
+            Size=29,29
+            Name=Slot_2i
+        }
+        Image {
+            Pos=243,320,0
+            Size=29,29
+            Name=Slot_3i
+        }
+        Image {
+            Pos=277,320,0
+            Size=29,29
+            Name=Slot_4i
+        }
+        Image {
+            Pos=311,320,0
+            Size=29,29
+            Name=Slot_5i
+        }
+
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButClose
+            Pos=393,307,8
+            Size=54,28
+
+            KindHit=Graph
+            Kind=Disable
+
+            ImageNormal=GI,Bm.FormUnknown2.1CloseN
+            ImageNormalA=GI,Bm.FormUnknown2.1CloseA
+            ImageDown=GI,Bm.FormUnknown2.1CloseD
+            ImageDisable=GI,Bm.FormUnknown2.1CloseH
+        }
+
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButLeft
+            Pos=121,320,8
+            Size=18,29
+
+            KindHit=Graph
+            Kind=Disable
+
+            ImageNormal=GI,Bm.FormUnknown2.1LeftN
+            ImageNormalA=GI,Bm.FormUnknown2.1LeftA
+            ImageDown=GI,Bm.FormUnknown2.1LeftD
+            ImageDisable=GI,Bm.FormUnknown2.1LeftH
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButRight
+            Pos=343,320,8
+            Size=17,29
+
+            KindHit=Graph
+            Kind=Disable
+
+            ImageNormal=GI,Bm.FormUnknown2.1RightN
+            ImageNormalA=GI,Bm.FormUnknown2.1RightA
+            ImageDown=GI,Bm.FormUnknown2.1RightD
+            ImageDisable=GI,Bm.FormUnknown2.1RightH
+        }
+
+        Label {
+            Pos=70,34,8
+            Size=92,13
+            
+            Font=Font.1Ranger
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Text=FormPlanetNO.Water
+            TextColor=0,0,0
+        }
+        Label {
+            Pos=215,34,8
+            Size=92,13
+            
+            Font=Font.1Ranger
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Text=FormPlanetNO.Land
+            TextColor=0,0,0
+        }
+        Label {
+            Pos=358,34,8
+            Size=92,13
+            
+            Font=Font.1Ranger
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Text=FormPlanetNO.Hill
+            TextColor=0,0,0
+        }
+        Label {
+            Pos=67,49,8
+            Size=107,13
+            
+            Font=Font.1Small
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Name=WaterSpace
+            TextColor=0,0,0
+        }
+        Label {
+            Pos=212,49,8
+            Size=107,13
+            
+            Font=Font.1Small
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Name=LandSpace
+            TextColor=0,0,0
+        }
+        Label {
+            Pos=355,49,8
+            Size=107,13
+            
+            Font=Font.1Small
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Name=HillSpace
+            TextColor=0,0,0
+        }
+        Label {
+            Pos=67,61,8
+            Size=107,13
+            
+            Font=Font.1Small
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Name=WaterComplate
+            TextColor=0,0,0
+        }
+        Label {
+            Pos=212,61,8
+            Size=107,13
+            
+            Font=Font.1Small
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Name=LandComplate
+            TextColor=0,0,0
+        }
+        Label {
+            Pos=355,61,8
+            Size=107,13
+                    
+            Font=Font.1Small
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Name=HillComplate
+            TextColor=0,0,0
+        }
+        Label {
+            Pos=67,73,8
+            Size=107,13
+            
+            Font=Font.1Small
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Name=WaterTimeLeft
+            TextColor=0,0,0
+        }
+        Label {
+            Pos=212,73,8
+            Size=107,13
+            
+            Font=Font.1Small
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Name=LandTimeLeft
+            TextColor=0,0,0
+        }
+        Label {
+            Pos=355,73,8
+            Size=107,13
+            
+            Font=Font.1Small
+            WordWrap=False
+            AlignX=Left
+            AlignY=CenterEx
+            Name=HillTimeLeft
+            TextColor=0,0,0
+        }
+
+        Label {
+            Pos=138,3,8
+            Size=208,12
+            
+            Font=Font.1Ranger
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            Name=Caption
+            TextColor=0,255,255
+        }
+        Label {
+            Pos=138,350,8
+            Size=208,12
+            
+            Font=Font.1Ranger
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            Text=FormPlanetNO.Satellite
+            TextColor=0,26,49
+            TextShadowColor=0,135,192
+            TextShadow=1
+        }
+    }
+
+    Panel {
+        Pos=435,541,2
+        Size=141,34
+        
+        Image {
+            Image=GI,Bm.FormUnknown2.1Panel
+            Pos=0,0,100
+            Size=141,34
+        }
+
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButResearch
+            Pos=64,1,8
+            Size=37,26
+
+            KindHit=Graph
+            Kind=Disable
+
+            ImageNormal=GI,Bm.FormUnknown2.1ResearchN
+            ImageNormalA=GI,Bm.FormUnknown2.1ResearchA
+            ImageDown=GI,Bm.FormUnknown2.1ResearchD
+            ImageDisable=GI,Bm.FormUnknown2.1ResearchH
+        }
+
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButTakeoff
+            Pos=98,1,8
+            Size=39,26
+            Help=Help.ButTakeoff
+    
+            KindHit=Graph
+            Kind=Disable
+
+            ImageNormal=GI,Bm.FormUnknown2.1TakeOffN
+            ImageNormalA=GI,Bm.FormUnknown2.1TakeOffA
+            ImageDown=GI,Bm.FormUnknown2.1TakeOffD
+            ImageDisable=GI,Bm.FormUnknown2.1TakeOffH
+        }
+    }
+
+//    GAI {
+//        Name=SearchArtefact
+//        Pos=712,422,2
+//        Size=75,75
+//        Help=Help.ButSearchArtefact
+//    }
+	Window {
+		Style=Style.Window.1Simple
+		Name=QuestInfo
+		Active=True
+		Pos=720,10,20
+		Size=205,137//300,200
+
+		Image {
+	        Image=GI,Bm.FormPlanet.1QuestIcon
+			Pos=29,27,8
+			Size=34,34
+			Sme=17,17
+		}
+
+		Label {
+			Name=QuestInfo_Name
+			//Style=Style.Label.1SmallBold //Normal
+			Font=Font.1SmallBold
+			Pos=50,10,8
+			Size=145,34
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=57,239,255
+		}
+		Label {
+			Name=QuestInfo_Text
+			//Style=Style.Label.1Small //Normal
+			Font=Font.1Small
+			Pos=4,50,8
+			Size=196,75
+			AlignX=Auto
+			AlignY=Auto
+			WordWrap=False
+			TextColor=255,255,255
+		}
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=QuestInfo_Run
+            Pos=0,0,8
+            Size=91,17
+
+            KindHit=Rect
+            Kind=Normal
+
+            ImageNormal=GI,Bm.FormPlanet.1QuestButN
+            ImageNormalA=GI,Bm.FormPlanet.1QuestButA
+            ImageDown=GI,Bm.FormPlanet.1QuestButD
+
+            Font=Font.1Ranger
+            Caption=PlanetQuest.StartText.QuestBegin
+            CaptionColorNormal=0,0,0
+            CaptionColorNormalA=0,0,0
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionShadowColorNormal=151,225,238
+            CaptionShadowColorNormalA=151,225,238
+            CaptionShadowColorDown=151,225,238
+            CaptionShadowColorDownA=151,225,238
+			CaptionShadow=1
+            CaptionSme=0,-2,1,-1
+
+            Help=Help.ButSearchArtefact
+        }
+	}
+
+    Window {
+        Style=Style.Window.1Item
+        Pos=7,7,5
+        Size=205,125
+        Name=PII
+        Active=False
+
+        Image {
+            Pos=161,95,8
+            Size=27,27
+            Name=EmRace
+        }
+
+        Image {
+            Pos=12,10,8
+            Size=34,34
+            Name=InfoImage
+        }
+
+        Panel {
+            Pos=50,2,11
+            Size=78,12
+
+            Image {
+                Image=GI,Bm.FormNote.1BarBack
+                Pos=16,4,3
+                Size=45,3
+            }
+            Panel {
+                Pos=16,4,2
+                Size=45,3
+
+                Image {
+                    Name=InfoDurable
+                    Pos=0,0
+                    Size=48,3
+                    Image=GI,Bm.FormNote.1BarLine
+                }
+            }
+            Image {
+                Image=GI,Bm.FormNote.1BarTop
+                Pos=0,0,1
+                Size=78,12
+            }
+        }
+
+        Label {
+            Pos=50,10,8
+            Size=145,34
+            Name=InfoName
+            Font=Font.1SmallBold //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+        Label {
+            Pos=8,47,8
+            Size=188,65
+            Name=InfoText
+            Font=Font.1Small //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+        Label {
+            Pos=48,96,8
+            Size=39,26
+            Name=InfoSize
+            Font=Font.1Normal
+            AlignX=Left
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+        Label {
+            Pos=108,96,8
+            Size=75,26
+            Name=InfoPrice
+            Font=Font.1Normal
+            AlignX=Left
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+    }
+}

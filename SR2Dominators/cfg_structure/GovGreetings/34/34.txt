@@ -1,0 +1,11 @@
+CurPlanetRaceIsPlayerRace=Yes
+CurPlanetRelations=Good,Best
+PlayerRank=Cadet,Pilot,Wingman,Leader,Ace,Commander
+PlayerRating=Average,Big,Huge
+Priority=20
+Text=Приветствуем, наш прославленный соотечественник, рейнджер <Player>! Знаем, что вы хороший рейнджер, и гордимся вами.
+Text=Тут пришла бумага из системы <ToStar>, что дескать вас там разыскивают и хотят посадить в тюрьму. Мы заступались как могли, но они не желают с нами говорить. У этой расы странные представления о законе. Мы рекомендуем вам туда более не летать, а то вас немедленно арестуют и посадят в тамошнюю тюрьму.
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal
+ToPlanetRaceIsPlayerRace=No
+ToPlanetRelations=War

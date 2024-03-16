@@ -1,0 +1,12 @@
+Help=FormInfo.HelpFind
+ImageDisable=GI,Bm.FormInfo2.1ModeFindF
+ImageDown=GI,Bm.FormInfo2.1ModeFindD
+ImageNormal=GI,Bm.FormInfo2.1ModeFindN
+ImageNormalA=GI,Bm.FormInfo2.1ModeFindA
+Kind=Disable
+KindHit=Rect
+Name=ButSearch
+Pos=15,358,1
+Size=72,33
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormUnknown2.2Light3
+Name=Light3
+Pos=89,402,9
+Size=15,15

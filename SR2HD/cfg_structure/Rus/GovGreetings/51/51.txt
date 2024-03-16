@@ -1,0 +1,14 @@
+CurPlanetGoodsPermit=Yes
+CurPlanetGoverment=Democracy
+CurPlanetPirateClan=No
+CurPlanetRelations=Normal,Good,Best
+Goods=Technics
+Priority=10
+Text=”важаемый <Player>! —лышали новость? Ќа соседней планете <ToPlanet>, как всем известно, форма правлени€ - монархи€. ћы, конечно, сочувствуем народу, лишенному права голоса на демократических выборах.
+Text=»х монарх не приемлет технического прогресса, он считает, что технический прогресс убивает душу. ѕоэтому цены там взвинчены на такого рода продукцию, чем не преминули воспользоватьс€ некоторые деловые личности.
+ToPlanetGoodsBuy=Big,Huge
+ToPlanetGoodsCnt=Zero,Mini,Small,Average
+ToPlanetGoodsPermit=Any
+ToPlanetGoverment=Monarchy
+ToPlanetInCurStar=Yes
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal

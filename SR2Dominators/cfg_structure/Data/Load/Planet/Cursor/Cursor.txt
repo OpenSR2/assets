@@ -1,0 +1,10 @@
+GAI=Bm.Cursor.Main
+GAI=Bm.Cursor.Scroll
+GAI=Bm.Cursor.Enter
+GAI=Bm.Cursor.Take
+GAI=Bm.Cursor.FireFull
+GAI=Bm.Cursor.FireSmall
+GAI=Bm.Cursor.ScanFull
+GAI=Bm.Cursor.ScanSmall
+GAI=Bm.Cursor.TalkFull
+GAI=Bm.Cursor.TalkSmall

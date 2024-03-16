@@ -1,0 +1,17 @@
+CurPlanetGoodsCnt=Small,Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small
+CurPlanetGoverment=Republic,Democracy
+CurPlanetPirateClan=No
+CurPlanetRace=Peleng,People,Fei,Gaal
+CurPlanetRelations=Normal,Good,Best
+Goods=Luxury
+Priority=50
+Text=Расцвет культуры на такой цивилизованной планете, как наша, привел к полной гармонии. Мы давно являемся экспортерами различных произведений искусства. Сегодня предметы роскоши можно купить по цене всего <CurPlanetGoodsSale> cr за условную единицу.
+Text=Возможно, вы, <Player>, заинтересованы в легальном бизнесе и готовы отвезти партию товара, скажем, в систему <ToStar> на планету <ToPlanet>. Тамошнее монархическое правительство всегда платит хорошие деньги за него.
+ToPlanetGoodsBuy=Big,Huge
+ToPlanetGoodsCnt=Zero,Mini,Small,Average
+ToPlanetGoodsPermit=Yes
+ToPlanetGoverment=Monarchy
+ToPlanetInCurStar=No
+ToPlanetRace=Peleng,People,Fei,Gaal

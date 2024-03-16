@@ -1,0 +1,4 @@
+Auto=Pos,Size
+Image=GI,Bm.PanelMain2.2BG
+Name=PM_ImageBG
+PosZ=9

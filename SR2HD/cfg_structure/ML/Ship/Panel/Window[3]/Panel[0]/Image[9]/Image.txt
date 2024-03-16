@@ -1,0 +1,4 @@
+Image=GI,Bm.FormNote.2HP_A3
+Name=InfoHull_A3
+Pos=4,25
+Size=13,7

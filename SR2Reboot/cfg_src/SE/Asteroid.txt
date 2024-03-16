@@ -1,0 +1,389 @@
+0 {
+	Image=Bm.Asteroid.00
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet00
+//	SoundGroup=1001
+}
+1 {
+	Image=Bm.Asteroid.01
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet01
+//	SoundGroup=1002
+}
+2 {
+	Image=Bm.Asteroid.02
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet00
+//	SoundGroup=1001
+}
+3 {
+	Image=Bm.Asteroid.03
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet01
+//	SoundGroup=1002
+}
+4 {
+	Image=Bm.Asteroid.04
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet00
+//	SoundGroup=1001
+}
+5 {
+	Image=Bm.Asteroid.05
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet01
+//	SoundGroup=1002
+}
+6 {
+	Image=Bm.Asteroid.06
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet00
+//	SoundGroup=1001
+}
+7 {
+	Image=Bm.Asteroid.07
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet01
+//	SoundGroup=1002
+}
+8 {
+	Image=Bm.Asteroid.08
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet00
+//	SoundGroup=1001
+}
+9 {
+	Image=Bm.Asteroid.09
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet01
+//	SoundGroup=1002
+}
+10 {
+	Image=Bm.Asteroid.10
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet00
+//	SoundGroup=1001
+}
+11 {
+	Image=Bm.Asteroid.11
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet01
+//	SoundGroup=1002
+}
+12 {
+	Image=Bm.Asteroid.12
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet00
+//	SoundGroup=1001
+}
+13 {
+	Image=Bm.Asteroid.13
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet01
+//	SoundGroup=1002
+}
+14 {
+	Image=Bm.Asteroid.14
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+//	SoundLoop=Sound.Comet00
+//	SoundGroup=1001
+}
+
+Blue00 {
+	Image=Bm.Asteroid.Blue00
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue01 {
+	Image=Bm.Asteroid.Blue01
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue02 {
+	Image=Bm.Asteroid.Blue02
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue03 {
+	Image=Bm.Asteroid.Blue03
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue04 {
+	Image=Bm.Asteroid.Blue04
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue05 {
+	Image=Bm.Asteroid.Blue05
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue06 {
+	Image=Bm.Asteroid.Blue06
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue07 {
+	Image=Bm.Asteroid.Blue07
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue08 {
+	Image=Bm.Asteroid.Blue08
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue09 {
+	Image=Bm.Asteroid.Blue09
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue10 {
+	Image=Bm.Asteroid.Blue10
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue11 {
+	Image=Bm.Asteroid.Blue11
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue12 {
+	Image=Bm.Asteroid.Blue12
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue13 {
+	Image=Bm.Asteroid.Blue13
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue14 {
+	Image=Bm.Asteroid.Blue14
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue15 {
+	Image=Bm.Asteroid.Blue15
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue16 {
+	Image=Bm.Asteroid.Blue16
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue17 {
+	Image=Bm.Asteroid.Blue17
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Blue18 {
+	Image=Bm.Asteroid.Blue18
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+
+Green00 {
+	Image=Bm.Asteroid.Green00
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green01 {
+	Image=Bm.Asteroid.Green01
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green02 {
+	Image=Bm.Asteroid.Green02
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green03 {
+	Image=Bm.Asteroid.Green03
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green04 {
+	Image=Bm.Asteroid.Green04
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green05 {
+	Image=Bm.Asteroid.Green05
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green06 {
+	Image=Bm.Asteroid.Green06
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green07 {
+	Image=Bm.Asteroid.Green07
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green08 {
+	Image=Bm.Asteroid.Green08
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green09 {
+	Image=Bm.Asteroid.Green09
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green10 {
+	Image=Bm.Asteroid.Green10
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green11 {
+	Image=Bm.Asteroid.Green11
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green12 {
+	Image=Bm.Asteroid.Green12
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green13 {
+	Image=Bm.Asteroid.Green13
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Green14 {
+	Image=Bm.Asteroid.Green14
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+
+Red00 {
+	Image=Bm.Asteroid.Red00
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red01 {
+	Image=Bm.Asteroid.Red01
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red02 {
+	Image=Bm.Asteroid.Red02
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red03 {
+	Image=Bm.Asteroid.Red03
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red04 {
+	Image=Bm.Asteroid.Red04
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red05 {
+	Image=Bm.Asteroid.Red05
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red06 {
+	Image=Bm.Asteroid.Red06
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red07 {
+	Image=Bm.Asteroid.Red07
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red08 {
+	Image=Bm.Asteroid.Red08
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red09 {
+	Image=Bm.Asteroid.Red09
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red10 {
+	Image=Bm.Asteroid.Red10
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red11 {
+	Image=Bm.Asteroid.Red11
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red12 {
+	Image=Bm.Asteroid.Red12
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Red13 {
+	Image=Bm.Asteroid.Red13
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+
+Yellow00 {
+	Image=Bm.Asteroid.Yellow00
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Yellow01 {
+	Image=Bm.Asteroid.Yellow01
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Yellow02 {
+	Image=Bm.Asteroid.Yellow02
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Yellow03 {
+	Image=Bm.Asteroid.Yellow03
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Yellow04 {
+	Image=Bm.Asteroid.Yellow04
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Yellow05 {
+	Image=Bm.Asteroid.Yellow05
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Yellow06 {
+	Image=Bm.Asteroid.Yellow06
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}
+Yellow07 {
+	Image=Bm.Asteroid.Yellow07
+	ImageMap=Alpha,Bm.Asteroid.Map
+	PosZ=Asteroid
+}

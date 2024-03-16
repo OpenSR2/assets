@@ -1,0 +1,5 @@
+Frame=[50,0-24]
+Image=Bm.FormMain2.2AnimStar
+Name=AnimStar
+Pos=532,169,47
+Size=492,599

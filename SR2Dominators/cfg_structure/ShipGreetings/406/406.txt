@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=ToShip
+InFear=Any
+Priority=100
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Any
+ShipType=Warrior
+Text=Рейнджер <Player>! Присоединяйся к военной операции. Наша цель - <FullShipBad>. Либо он совершает посадку на планету <HomePlanet>, либо мы его уничтожаем.
+ToShipInPlanet=No
+ToShipRelations=War
+ToShipType=Ranger,Pirate

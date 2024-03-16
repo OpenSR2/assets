@@ -1,0 +1,7 @@
+Access=3
+Dif=11
+Genre=тактическая игра
+Group=0
+Image=Bm.PQI.Svarokok_00
+Length=2
+Name=Сварокок

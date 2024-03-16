@@ -1,0 +1,5 @@
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Name=PanelText
+Pos=450,23,5
+Size=550,661

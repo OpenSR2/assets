@@ -1,0 +1,4 @@
+Active=True
+Name=BGCity2
+Pos=0,0,12
+Size=800,600

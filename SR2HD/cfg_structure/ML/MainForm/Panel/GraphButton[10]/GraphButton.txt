@@ -1,0 +1,9 @@
+Auto=Size
+ImageDown=GI,Bm.FormMods.ModsD
+ImageNormal=GI,Bm.FormMods.ModsN
+ImageNormalA=GI,Bm.FormMods.ModsA
+Kind=Normal
+KindHit=Rect
+Name=Mods
+Pos=524,636,20
+Style=Style.GB.SoundNormal

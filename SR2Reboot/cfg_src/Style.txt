@@ -1,0 +1,805 @@
+GB {
+    SoundNormal {
+        SoundEnter=Sound.ButtonEnter
+        SoundLeave=Sound.ButtonLeave
+        SoundClick=Sound.ButtonClick
+    }
+}
+ScrollBar {
+    FormMsg {
+        ImageUpN=GI,Bm.FormMsg.1TBUpN
+        ImageUpA=GI,Bm.FormMsg.1TBUpA
+        ImageUpD=GI,Bm.FormMsg.1TBUpD
+
+//      ImageBarN=
+//      ImageBarA=
+//      ImageBarD=
+
+        ImageTopN=GI,Bm.FormMsg.1TBTopN
+        ImageTopA=GI,Bm.FormMsg.1TBTopA
+        ImageTopD=GI,Bm.FormMsg.1TBTopD
+        ImageCenterN=GI,Bm.FormMsg.1TBCenterN
+        ImageCenterA=GI,Bm.FormMsg.1TBCenterA
+        ImageCenterD=GI,Bm.FormMsg.1TBCenterD
+        ImageBottomN=GI,Bm.FormMsg.1TBBottomN
+        ImageBottomA=GI,Bm.FormMsg.1TBBottomA
+        ImageBottomD=GI,Bm.FormMsg.1TBBottomD
+
+        ImageDownN=GI,Bm.FormMsg.1TBDownN
+        ImageDownA=GI,Bm.FormMsg.1TBDownA
+        ImageDownD=GI,Bm.FormMsg.1TBDownD
+    }
+    H {
+        ImageUpN=GI,Bm.SBNormal.1HTBUpN
+        ImageUpA=GI,Bm.SBNormal.1HTBUpA
+        ImageUpD=GI,Bm.SBNormal.1HTBUpD
+
+        ImageBarN=GI,Bm.SBNormal.1HTBbarN
+        ImageBarA=GI,Bm.SBNormal.1HTBbarN
+        ImageBarD=GI,Bm.SBNormal.1HTBbarN
+
+        ImageTopN=GI,Bm.SBNormal.1HTBTopN
+        ImageTopA=GI,Bm.SBNormal.1HTBTopA
+        ImageTopD=GI,Bm.SBNormal.1HTBTopD
+        ImageCenterN=GI,Bm.SBNormal.1HTBCenterN
+        ImageCenterA=GI,Bm.SBNormal.1HTBCenterA
+        ImageCenterD=GI,Bm.SBNormal.1HTBCenterD
+        ImageBottomN=GI,Bm.SBNormal.1HTBBottomN
+        ImageBottomA=GI,Bm.SBNormal.1HTBBottomA
+        ImageBottomD=GI,Bm.SBNormal.1HTBBottomD
+
+        ImageDownN=GI,Bm.SBNormal.1HTBDownN
+        ImageDownA=GI,Bm.SBNormal.1HTBDownA
+        ImageDownD=GI,Bm.SBNormal.1HTBDownD
+    }
+
+    1V0 {
+        ImageUpN=GI,Bm.SB.1V0_UpN
+        ImageUpA=GI,Bm.SB.1V0_UpA
+        ImageUpD=GI,Bm.SB.1V0_UpD
+
+        ImageTopN=GI,Bm.SB.1V0_TopN
+        ImageTopA=GI,Bm.SB.1V0_TopA
+        ImageTopD=GI,Bm.SB.1V0_TopD
+        ImageCenterN=GI,Bm.SB.1V0_CenterN
+        ImageCenterA=GI,Bm.SB.1V0_CenterA
+        ImageCenterD=GI,Bm.SB.1V0_CenterD
+        ImageBottomN=GI,Bm.SB.1V0_BottomN
+        ImageBottomA=GI,Bm.SB.1V0_BottomA
+        ImageBottomD=GI,Bm.SB.1V0_BottomD
+
+        ImageDownN=GI,Bm.SB.1V0_DownN
+        ImageDownA=GI,Bm.SB.1V0_DownA
+        ImageDownD=GI,Bm.SB.1V0_DownD
+    }
+
+    2V0 {
+        ImageUpN=GI,Bm.SB.2V0_UpN
+        ImageUpA=GI,Bm.SB.2V0_UpA
+        ImageUpD=GI,Bm.SB.2V0_UpD
+
+        ImageTopN=GI,Bm.SB.2V0_TopN
+        ImageTopA=GI,Bm.SB.2V0_TopA
+        ImageTopD=GI,Bm.SB.2V0_TopD
+        ImageCenterN=GI,Bm.SB.2V0_CenterN
+        ImageCenterA=GI,Bm.SB.2V0_CenterA
+        ImageCenterD=GI,Bm.SB.2V0_CenterD
+        ImageBottomN=GI,Bm.SB.2V0_BottomN
+        ImageBottomA=GI,Bm.SB.2V0_BottomA
+        ImageBottomD=GI,Bm.SB.2V0_BottomD
+
+        ImageDownN=GI,Bm.SB.2V0_DownN
+        ImageDownA=GI,Bm.SB.2V0_DownA
+        ImageDownD=GI,Bm.SB.2V0_DownD
+    }
+
+    1V1 {
+        ImageUpN=GI,Bm.SB.1V1_UpN
+        ImageUpA=GI,Bm.SB.1V1_UpA
+        ImageUpD=GI,Bm.SB.1V1_UpD
+
+        ImageTopN=GI,Bm.SB.1V1_TopN
+        ImageTopA=GI,Bm.SB.1V1_TopA
+        ImageTopD=GI,Bm.SB.1V1_TopD
+        ImageCenterN=GI,Bm.SB.1V1_CenterN
+        ImageCenterA=GI,Bm.SB.1V1_CenterA
+        ImageCenterD=GI,Bm.SB.1V1_CenterD
+        ImageBottomN=GI,Bm.SB.1V1_BottomN
+        ImageBottomA=GI,Bm.SB.1V1_BottomA
+        ImageBottomD=GI,Bm.SB.1V1_BottomD
+
+        ImageDownN=GI,Bm.SB.1V1_DownN
+        ImageDownA=GI,Bm.SB.1V1_DownA
+        ImageDownD=GI,Bm.SB.1V1_DownD
+    }
+
+    2V1 {
+        ImageUpN=GI,Bm.SB.2V1_UpN
+        ImageUpA=GI,Bm.SB.2V1_UpA
+        ImageUpD=GI,Bm.SB.2V1_UpD
+
+        ImageTopN=GI,Bm.SB.2V1_TopN
+        ImageTopA=GI,Bm.SB.2V1_TopA
+        ImageTopD=GI,Bm.SB.2V1_TopD
+        ImageCenterN=GI,Bm.SB.2V1_CenterN
+        ImageCenterA=GI,Bm.SB.2V1_CenterA
+        ImageCenterD=GI,Bm.SB.2V1_CenterD
+        ImageBottomN=GI,Bm.SB.2V1_BottomN
+        ImageBottomA=GI,Bm.SB.2V1_BottomA
+        ImageBottomD=GI,Bm.SB.2V1_BottomD
+
+        ImageDownN=GI,Bm.SB.2V1_DownN
+        ImageDownA=GI,Bm.SB.2V1_DownA
+        ImageDownD=GI,Bm.SB.2V1_DownD
+    }
+
+    1V2 {
+        ImageUpN=GI,Bm.SB.1V2_UpN
+        ImageUpA=GI,Bm.SB.1V2_UpA
+        ImageUpD=GI,Bm.SB.1V2_UpD
+
+        ImageTopN=GI,Bm.SB.1V2_TopN
+        ImageTopA=GI,Bm.SB.1V2_TopA
+        ImageTopD=GI,Bm.SB.1V2_TopD
+        ImageCenterN=GI,Bm.SB.1V2_CenterN
+        ImageCenterA=GI,Bm.SB.1V2_CenterA
+        ImageCenterD=GI,Bm.SB.1V2_CenterD
+        ImageBottomN=GI,Bm.SB.1V2_BottomN
+        ImageBottomA=GI,Bm.SB.1V2_BottomA
+        ImageBottomD=GI,Bm.SB.1V2_BottomD
+
+        ImageDownN=GI,Bm.SB.1V2_DownN
+        ImageDownA=GI,Bm.SB.1V2_DownA
+        ImageDownD=GI,Bm.SB.1V2_DownD
+    }
+
+    2V2 {
+        ImageUpN=GI,Bm.SB.2V2_UpN
+        ImageUpA=GI,Bm.SB.2V2_UpA
+        ImageUpD=GI,Bm.SB.2V2_UpD
+
+        ImageTopN=GI,Bm.SB.2V2_TopN
+        ImageTopA=GI,Bm.SB.2V2_TopA
+        ImageTopD=GI,Bm.SB.2V2_TopD
+        ImageCenterN=GI,Bm.SB.2V2_CenterN
+        ImageCenterA=GI,Bm.SB.2V2_CenterA
+        ImageCenterD=GI,Bm.SB.2V2_CenterD
+        ImageBottomN=GI,Bm.SB.2V2_BottomN
+        ImageBottomA=GI,Bm.SB.2V2_BottomA
+        ImageBottomD=GI,Bm.SB.2V2_BottomD
+
+        ImageDownN=GI,Bm.SB.2V2_DownN
+        ImageDownA=GI,Bm.SB.2V2_DownA
+        ImageDownD=GI,Bm.SB.2V2_DownD
+    }
+
+    1Film {
+        ImageUpN=GI,Bm.PanelFilm.1TB_UpN
+        ImageUpA=GI,Bm.PanelFilm.1TB_UpA
+        ImageUpD=GI,Bm.PanelFilm.1TB_UpD
+
+        ImageTopN=GI,Bm.PanelFilm.1TB_TopN
+        ImageTopA=GI,Bm.PanelFilm.1TB_TopA
+        ImageTopD=GI,Bm.PanelFilm.1TB_TopD
+        ImageCenterN=GI,Bm.PanelFilm.1TB_CenterN
+        ImageCenterA=GI,Bm.PanelFilm.1TB_CenterA
+        ImageCenterD=GI,Bm.PanelFilm.1TB_CenterD
+        ImageBottomN=GI,Bm.PanelFilm.1TB_BottomN
+        ImageBottomA=GI,Bm.PanelFilm.1TB_BottomA
+        ImageBottomD=GI,Bm.PanelFilm.1TB_BottomD
+
+        ImageDownN=GI,Bm.PanelFilm.1TB_DownN
+        ImageDownA=GI,Bm.PanelFilm.1TB_DownA
+        ImageDownD=GI,Bm.PanelFilm.1TB_DownD
+    }
+    2Film {
+        ImageUpN=GI,Bm.PanelFilm.2TB_UpN
+        ImageUpA=GI,Bm.PanelFilm.2TB_UpA
+        ImageUpD=GI,Bm.PanelFilm.2TB_UpD
+
+        ImageTopN=GI,Bm.PanelFilm.2TB_TopN
+        ImageTopA=GI,Bm.PanelFilm.2TB_TopA
+        ImageTopD=GI,Bm.PanelFilm.2TB_TopD
+        ImageCenterN=GI,Bm.PanelFilm.2TB_CenterN
+        ImageCenterA=GI,Bm.PanelFilm.2TB_CenterA
+        ImageCenterD=GI,Bm.PanelFilm.2TB_CenterD
+        ImageBottomN=GI,Bm.PanelFilm.2TB_BottomN
+        ImageBottomA=GI,Bm.PanelFilm.2TB_BottomA
+        ImageBottomD=GI,Bm.PanelFilm.2TB_BottomD
+
+        ImageDownN=GI,Bm.PanelFilm.2TB_DownN
+        ImageDownA=GI,Bm.PanelFilm.2TB_DownA
+        ImageDownD=GI,Bm.PanelFilm.2TB_DownD
+    }
+    1Film2 {
+        ImageUpN=GI,Bm.PanelFilm2.1LeftN
+        ImageUpA=GI,Bm.PanelFilm2.1LeftA
+        ImageUpD=GI,Bm.PanelFilm2.1LeftD
+
+        ImageTopN=GI,Bm.PanelFilm2.1TopN
+        ImageTopA=GI,Bm.PanelFilm2.1TopA
+        ImageTopD=GI,Bm.PanelFilm2.1TopD
+        ImageCenterN=GI,Bm.PanelFilm2.1CenterN
+        ImageCenterA=GI,Bm.PanelFilm2.1CenterA
+        ImageCenterD=GI,Bm.PanelFilm2.1CenterD
+        ImageBottomN=GI,Bm.PanelFilm2.1BottomN
+        ImageBottomA=GI,Bm.PanelFilm2.1BottomA
+        ImageBottomD=GI,Bm.PanelFilm2.1BottomD
+
+        ImageDownN=GI,Bm.PanelFilm2.1RightN
+        ImageDownA=GI,Bm.PanelFilm2.1RightA
+        ImageDownD=GI,Bm.PanelFilm2.1RightD
+    }
+    2Film2 {
+        ImageUpN=GI,Bm.PanelFilm2.2LeftN
+        ImageUpA=GI,Bm.PanelFilm2.2LeftA
+        ImageUpD=GI,Bm.PanelFilm2.2LeftD
+
+        ImageTopN=GI,Bm.PanelFilm2.2TopN
+        ImageTopA=GI,Bm.PanelFilm2.2TopA
+        ImageTopD=GI,Bm.PanelFilm2.2TopD
+        ImageCenterN=GI,Bm.PanelFilm2.2CenterN
+        ImageCenterA=GI,Bm.PanelFilm2.2CenterA
+        ImageCenterD=GI,Bm.PanelFilm2.2CenterD
+        ImageBottomN=GI,Bm.PanelFilm2.2BottomN
+        ImageBottomA=GI,Bm.PanelFilm2.2BottomA
+        ImageBottomD=GI,Bm.PanelFilm2.2BottomD
+
+        ImageDownN=GI,Bm.PanelFilm2.2RightN
+        ImageDownA=GI,Bm.PanelFilm2.2RightA
+        ImageDownD=GI,Bm.PanelFilm2.2RightD
+    }
+
+
+    1PQS1 {
+        ImageUpN=GI,Bm.FormPQuest2.1S1BUpN
+        ImageUpA=GI,Bm.FormPQuest2.1S1BUpA
+        ImageUpD=GI,Bm.FormPQuest2.1S1BUpD
+
+        ImageTopN=GI,Bm.FormPQuest2.1S1BTopN
+        ImageTopA=GI,Bm.FormPQuest2.1S1BTopA
+        ImageTopD=GI,Bm.FormPQuest2.1S1BTopD
+        ImageCenterN=GI,Bm.FormPQuest2.1S1BCenterN
+        ImageCenterA=GI,Bm.FormPQuest2.1S1BCenterA
+        ImageCenterD=GI,Bm.FormPQuest2.1S1BCenterD
+        ImageBottomN=GI,Bm.FormPQuest2.1S1BBottomN
+        ImageBottomA=GI,Bm.FormPQuest2.1S1BBottomA
+        ImageBottomD=GI,Bm.FormPQuest2.1S1BBottomD
+
+        ImageDownN=GI,Bm.FormPQuest2.1S1BDownN
+        ImageDownA=GI,Bm.FormPQuest2.1S1BDownA
+        ImageDownD=GI,Bm.FormPQuest2.1S1BDownD
+    }
+    2PQS1 {
+        ImageUpN=GI,Bm.FormPQuest2.2S1BUpN
+        ImageUpA=GI,Bm.FormPQuest2.2S1BUpA
+        ImageUpD=GI,Bm.FormPQuest2.2S1BUpD
+
+        ImageTopN=GI,Bm.FormPQuest2.2S1BTopN
+        ImageTopA=GI,Bm.FormPQuest2.2S1BTopA
+        ImageTopD=GI,Bm.FormPQuest2.2S1BTopD
+        ImageCenterN=GI,Bm.FormPQuest2.2S1BCenterN
+        ImageCenterA=GI,Bm.FormPQuest2.2S1BCenterA
+        ImageCenterD=GI,Bm.FormPQuest2.2S1BCenterD
+        ImageBottomN=GI,Bm.FormPQuest2.2S1BBottomN
+        ImageBottomA=GI,Bm.FormPQuest2.2S1BBottomA
+        ImageBottomD=GI,Bm.FormPQuest2.2S1BBottomD
+
+        ImageDownN=GI,Bm.FormPQuest2.2S1BDownN
+        ImageDownA=GI,Bm.FormPQuest2.2S1BDownA
+        ImageDownD=GI,Bm.FormPQuest2.2S1BDownD
+    }
+    1PQS2 {
+        ImageUpN=GI,Bm.FormPQuest2.1S2BUpN
+        ImageUpA=GI,Bm.FormPQuest2.1S2BUpA
+        ImageUpD=GI,Bm.FormPQuest2.1S2BUpD
+
+        ImageTopN=GI,Bm.FormPQuest2.1S2BTopN
+        ImageTopA=GI,Bm.FormPQuest2.1S2BTopA
+        ImageTopD=GI,Bm.FormPQuest2.1S2BTopD
+        ImageCenterN=GI,Bm.FormPQuest2.1S2BCenterN
+        ImageCenterA=GI,Bm.FormPQuest2.1S2BCenterA
+        ImageCenterD=GI,Bm.FormPQuest2.1S2BCenterD
+        ImageBottomN=GI,Bm.FormPQuest2.1S2BBottomN
+        ImageBottomA=GI,Bm.FormPQuest2.1S2BBottomA
+        ImageBottomD=GI,Bm.FormPQuest2.1S2BBottomD
+
+        ImageDownN=GI,Bm.FormPQuest2.1S2BDownN
+        ImageDownA=GI,Bm.FormPQuest2.1S2BDownA
+        ImageDownD=GI,Bm.FormPQuest2.1S2BDownD
+    }
+    2PQS2 {
+        ImageUpN=GI,Bm.FormPQuest2.2S2BUpN
+        ImageUpA=GI,Bm.FormPQuest2.2S2BUpA
+        ImageUpD=GI,Bm.FormPQuest2.2S2BUpD
+
+        ImageTopN=GI,Bm.FormPQuest2.2S2BTopN
+        ImageTopA=GI,Bm.FormPQuest2.2S2BTopA
+        ImageTopD=GI,Bm.FormPQuest2.2S2BTopD
+        ImageCenterN=GI,Bm.FormPQuest2.2S2BCenterN
+        ImageCenterA=GI,Bm.FormPQuest2.2S2BCenterA
+        ImageCenterD=GI,Bm.FormPQuest2.2S2BCenterD
+        ImageBottomN=GI,Bm.FormPQuest2.2S2BBottomN
+        ImageBottomA=GI,Bm.FormPQuest2.2S2BBottomA
+        ImageBottomD=GI,Bm.FormPQuest2.2S2BBottomD
+
+        ImageDownN=GI,Bm.FormPQuest2.2S2BDownN
+        ImageDownA=GI,Bm.FormPQuest2.2S2BDownA
+        ImageDownD=GI,Bm.FormPQuest2.2S2BDownD
+    }
+    1PQS3 {
+        ImageUpN=GI,Bm.FormPQuest2.1S3BUpN
+        ImageUpA=GI,Bm.FormPQuest2.1S3BUpA
+        ImageUpD=GI,Bm.FormPQuest2.1S3BUpD
+
+        ImageTopN=GI,Bm.FormPQuest2.1S3BTopN
+        ImageTopA=GI,Bm.FormPQuest2.1S3BTopA
+        ImageTopD=GI,Bm.FormPQuest2.1S3BTopD
+        ImageCenterN=GI,Bm.FormPQuest2.1S3BCenterN
+        ImageCenterA=GI,Bm.FormPQuest2.1S3BCenterA
+        ImageCenterD=GI,Bm.FormPQuest2.1S3BCenterD
+        ImageBottomN=GI,Bm.FormPQuest2.1S3BBottomN
+        ImageBottomA=GI,Bm.FormPQuest2.1S3BBottomA
+        ImageBottomD=GI,Bm.FormPQuest2.1S3BBottomD
+
+        ImageDownN=GI,Bm.FormPQuest2.1S3BDownN
+        ImageDownA=GI,Bm.FormPQuest2.1S3BDownA
+        ImageDownD=GI,Bm.FormPQuest2.1S3BDownD
+    }
+    2PQS3 {
+        ImageUpN=GI,Bm.FormPQuest2.2S3BUpN
+        ImageUpA=GI,Bm.FormPQuest2.2S3BUpA
+        ImageUpD=GI,Bm.FormPQuest2.2S3BUpD
+
+        ImageTopN=GI,Bm.FormPQuest2.2S3BTopN
+        ImageTopA=GI,Bm.FormPQuest2.2S3BTopA
+        ImageTopD=GI,Bm.FormPQuest2.2S3BTopD
+        ImageCenterN=GI,Bm.FormPQuest2.2S3BCenterN
+        ImageCenterA=GI,Bm.FormPQuest2.2S3BCenterA
+        ImageCenterD=GI,Bm.FormPQuest2.2S3BCenterD
+        ImageBottomN=GI,Bm.FormPQuest2.2S3BBottomN
+        ImageBottomA=GI,Bm.FormPQuest2.2S3BBottomA
+        ImageBottomD=GI,Bm.FormPQuest2.2S3BBottomD
+
+        ImageDownN=GI,Bm.FormPQuest2.2S3BDownN
+        ImageDownA=GI,Bm.FormPQuest2.2S3BDownA
+        ImageDownD=GI,Bm.FormPQuest2.2S3BDownD
+    }
+    1PQS4 {
+        ImageUpN=GI,Bm.FormPQuest2.1S4BUpN
+        ImageUpA=GI,Bm.FormPQuest2.1S4BUpA
+        ImageUpD=GI,Bm.FormPQuest2.1S4BUpD
+
+        ImageTopN=GI,Bm.FormPQuest2.1S4BTopN
+        ImageTopA=GI,Bm.FormPQuest2.1S4BTopA
+        ImageTopD=GI,Bm.FormPQuest2.1S4BTopD
+        ImageCenterN=GI,Bm.FormPQuest2.1S4BCenterN
+        ImageCenterA=GI,Bm.FormPQuest2.1S4BCenterA
+        ImageCenterD=GI,Bm.FormPQuest2.1S4BCenterD
+        ImageBottomN=GI,Bm.FormPQuest2.1S4BBottomN
+        ImageBottomA=GI,Bm.FormPQuest2.1S4BBottomA
+        ImageBottomD=GI,Bm.FormPQuest2.1S4BBottomD
+
+        ImageDownN=GI,Bm.FormPQuest2.1S4BDownN
+        ImageDownA=GI,Bm.FormPQuest2.1S4BDownA
+        ImageDownD=GI,Bm.FormPQuest2.1S4BDownD
+    }
+    2PQS4 {
+        ImageUpN=GI,Bm.FormPQuest2.2S4BUpN
+        ImageUpA=GI,Bm.FormPQuest2.2S4BUpA
+        ImageUpD=GI,Bm.FormPQuest2.2S4BUpD
+
+        ImageTopN=GI,Bm.FormPQuest2.2S4BTopN
+        ImageTopA=GI,Bm.FormPQuest2.2S4BTopA
+        ImageTopD=GI,Bm.FormPQuest2.2S4BTopD
+        ImageCenterN=GI,Bm.FormPQuest2.2S4BCenterN
+        ImageCenterA=GI,Bm.FormPQuest2.2S4BCenterA
+        ImageCenterD=GI,Bm.FormPQuest2.2S4BCenterD
+        ImageBottomN=GI,Bm.FormPQuest2.2S4BBottomN
+        ImageBottomA=GI,Bm.FormPQuest2.2S4BBottomA
+        ImageBottomD=GI,Bm.FormPQuest2.2S4BBottomD
+
+        ImageDownN=GI,Bm.FormPQuest2.2S4BDownN
+        ImageDownA=GI,Bm.FormPQuest2.2S4BDownA
+        ImageDownD=GI,Bm.FormPQuest2.2S4BDownD
+    }
+}
+Label {
+    1Normal {
+        Font=Font.1Normal
+    }
+    2Normal {
+        Font=Font.2Normal
+    }
+//  1NormalPlus {
+//      Font=Font.1NormalPlus
+//  }
+//  2NormalPlus {
+//      Font=Font.2NormalPlus
+//  }
+    1NormalBold {
+        Font=Font.1NormalBold
+    }
+    2NormalBold {
+        Font=Font.2NormalBold
+    }
+    1GSTovC {
+        Font=Font.1Normal
+        AlignY=CenterEx
+        AlignX=Center
+        TextColor=7,105,158
+        Size=43,21
+    }
+    1GSTovP {
+        Font=Font.1Normal
+        AlignY=CenterEx
+        AlignX=Center
+        TextColor=7,105,158
+        Size=63,21
+    }
+    2GSTovC {
+        Font=Font.2Normal
+        AlignY=CenterEx
+        AlignX=Center
+        TextColor=7,105,158
+        Size=55,26
+    }
+    2GSTovP {
+        Font=Font.2Normal
+        AlignY=CenterEx
+        AlignX=Center
+        TextColor=7,105,158
+        Size=75,26
+    }
+    1Big {
+        Font=Font.2Big
+    }
+    2Big {
+        Font=Font.2Big
+    }
+}
+Grid {
+    Normal {
+        Font=Font.1Normal
+    }
+}
+Button {
+    1Normal {
+        Font=Font.1Normal
+        CaptionColor=0,255,0
+        Size=100,20
+    }
+    2Normal {
+        Font=Font.2Normal
+        CaptionColor=0,255,0
+        Size=100,20
+    }
+
+    Ex {
+    }
+}
+Panel {
+    ShipPlace {
+        Pos=0,0,-4
+        Size=34,34
+    }
+}
+Image {
+    ShipPlace {
+        Pos=1,1,-3
+        Size=32,32
+    }
+}
+ShrLight {
+    ShipPlace {
+        Pos=1,1,-2
+        Size=32,32
+        ShrLight=1
+    }
+}
+Frame {
+    ShipPlace {
+        Pos=0,0,-1
+        Size=34,34
+        Kind=Rect
+        Color=255,255,255
+    }
+}
+Window {
+    1Normal {
+        ImageTopLeft=GI,Bm.SI.1WinTopLeft
+        ImageTopRight=GI,Bm.SI.1WinTopRight
+        ImageBottomLeft=GI,Bm.SI.1WinBottomLeft
+        ImageBottomRight=GI,Bm.SI.1WinBottomRight
+
+        ImageLeft=GI,Bm.SI.1WinLeft
+        ImageRight=GI,Bm.SI.1WinRight
+        ImageTop=GI,Bm.SI.1WinTop
+        ImageBottom=GI,Bm.SI.1WinBottom
+
+        ImageTexture=GI,Bm.SI.1WinTexture
+
+//      WorkSubRect=22,30,26,31
+        WorkSubRect=17,30,21,31
+    }
+    2Normal {
+        ImageTopLeft=GI,Bm.SI.2WinTopLeft
+        ImageTopRight=GI,Bm.SI.2WinTopRight
+        ImageBottomLeft=GI,Bm.SI.2WinBottomLeft
+        ImageBottomRight=GI,Bm.SI.2WinBottomRight
+
+        ImageLeft=GI,Bm.SI.2WinLeft
+        ImageRight=GI,Bm.SI.2WinRight
+        ImageTop=GI,Bm.SI.2WinTop
+        ImageBottom=GI,Bm.SI.2WinBottom
+
+        ImageTexture=GI,Bm.SI.2WinTexture
+
+//      WorkSubRect=28,38,33,40
+        WorkSubRect=20,38,25,40
+    }
+    1Normal2 {
+        ImageTopLeft=GI,Bm.SI.1Win2TopLeft
+        ImageTopRight=GI,Bm.SI.1Win2TopRight
+        ImageBottomLeft=GI,Bm.SI.1Win2BottomLeft
+        ImageBottomRight=GI,Bm.SI.1Win2BottomRight
+
+        ImageLeft=GI,Bm.SI.1Win2Left
+        ImageRight=GI,Bm.SI.1Win2Right
+        ImageTop=GI,Bm.SI.1Win2Top
+        ImageBottom=GI,Bm.SI.1Win2Bottom
+
+        ImageTexture=GI,Bm.SI.1Win2Texture
+
+//      WorkSubRect=39,44,41,43
+        WorkSubRect=16,20,16,21
+    }
+    2Normal2 {
+        ImageTopLeft=GI,Bm.SI.2Win2TopLeft
+        ImageTopRight=GI,Bm.SI.2Win2TopRight
+        ImageBottomLeft=GI,Bm.SI.2Win2BottomLeft
+        ImageBottomRight=GI,Bm.SI.2Win2BottomRight
+
+        ImageLeft=GI,Bm.SI.2Win2Left
+        ImageRight=GI,Bm.SI.2Win2Right
+        ImageTop=GI,Bm.SI.2Win2Top
+        ImageBottom=GI,Bm.SI.2Win2Bottom
+
+        ImageTexture=GI,Bm.SI.2Win2Texture
+
+//      WorkSubRect=50,56,53,55
+//      WorkSubRect=20,35,20,37
+        WorkSubRect=20,25,20,27
+
+    }
+    1Info {
+        ImageTopLeft=GI,Bm.SI.1Win3TopLeft
+        ImageTopRight=GI,Bm.SI.1Win3TopRight
+        ImageBottomLeft=GI,Bm.SI.1Win3BottomLeft
+        ImageBottomRight=GI,Bm.SI.1Win3BottomRight
+
+        ImageLeft=GI,Bm.SI.1Win3Left
+        ImageRight=GI,Bm.SI.1Win3Right
+        ImageTop=GI,Bm.SI.1Win3Top
+        ImageBottom=GI,Bm.SI.1Win3Bottom
+
+        ImageTexture=GI,Bm.SI.1Win3Texture
+
+        WorkSubRect=8,49,8,30
+    }
+    2Info {
+        ImageTopLeft=GI,Bm.SI.2Win3TopLeft
+        ImageTopRight=GI,Bm.SI.2Win3TopRight
+        ImageBottomLeft=GI,Bm.SI.2Win3BottomLeft
+        ImageBottomRight=GI,Bm.SI.2Win3BottomRight
+
+        ImageLeft=GI,Bm.SI.2Win3Left
+        ImageRight=GI,Bm.SI.2Win3Right
+        ImageTop=GI,Bm.SI.2Win3Top
+        ImageBottom=GI,Bm.SI.2Win3Bottom
+
+        ImageTexture=GI,Bm.SI.2Win3Texture
+
+        WorkSubRect=10,63,10,39
+    }
+
+    1MessageBox {
+        ImageTopLeft=GI,Bm.FormMessageBox.1WinTopLeft
+        ImageTopRight=GI,Bm.FormMessageBox.1WinTopRight
+        ImageBottomLeft=GI,Bm.FormMessageBox.1WinBottomLeft
+        ImageBottomRight=GI,Bm.FormMessageBox.1WinBottomRight
+
+        ImageLeft=GI,Bm.FormMessageBox.1WinLeft
+        ImageRight=GI,Bm.FormMessageBox.1WinRight
+        ImageTop=GI,Bm.FormMessageBox.1WinTop
+        ImageBottom=GI,Bm.FormMessageBox.1WinBottom
+
+        ImageTexture=GI,Bm.FormMessageBox.1WinTexture
+
+        //WorkSubRect=15,33,18,24
+	  WorkSubRect=9,33,12,24
+    }
+
+    2MessageBox {
+        ImageTopLeft=GI,Bm.FormMessageBox.2WinTopLeft
+        ImageTopRight=GI,Bm.FormMessageBox.2WinTopRight
+        ImageBottomLeft=GI,Bm.FormMessageBox.2WinBottomLeft
+        ImageBottomRight=GI,Bm.FormMessageBox.2WinBottomRight
+
+        ImageLeft=GI,Bm.FormMessageBox.2WinLeft
+        ImageRight=GI,Bm.FormMessageBox.2WinRight
+        ImageTop=GI,Bm.FormMessageBox.2WinTop
+        ImageBottom=GI,Bm.FormMessageBox.2WinBottom
+
+        ImageTexture=GI,Bm.FormMessageBox.2WinTexture
+
+        //WorkSubRect=19,42,23,31
+	  WorkSubRect=11,42,15,31
+    }
+
+    1Simple {
+        ImageTopLeft=GI,Bm.FormNote.1SimpleTopLeft
+        ImageTopRight=GI,Bm.FormNote.1SimpleTopRight
+        ImageBottomLeft=GI,Bm.FormNote.1SimpleBottomLeft
+        ImageBottomRight=GI,Bm.FormNote.1SimpleBottomRight
+
+        ImageLeft=GI,Bm.FormNote.1SimpleLeft
+        ImageRight=GI,Bm.FormNote.1SimpleRight
+        ImageTop=GI,Bm.FormNote.1SimpleTop
+        ImageBottom=GI,Bm.FormNote.1SimpleBottom
+
+        ImageTexture=GI,Bm.FormNote.1SimpleTexture
+
+        MinSize=195,0
+        WorkSubRect=12,55,9,18
+    }
+
+    2Simple {
+        ImageTopLeft=GI,Bm.FormNote.2SimpleTopLeft
+        ImageTopRight=GI,Bm.FormNote.2SimpleTopRight
+        ImageBottomLeft=GI,Bm.FormNote.2SimpleBottomLeft
+        ImageBottomRight=GI,Bm.FormNote.2SimpleBottomRight
+
+        ImageLeft=GI,Bm.FormNote.2SimpleLeft
+        ImageRight=GI,Bm.FormNote.2SimpleRight
+        ImageTop=GI,Bm.FormNote.2SimpleTop
+        ImageBottom=GI,Bm.FormNote.2SimpleBottom
+
+        ImageTexture=GI,Bm.FormNote.2SimpleTexture
+
+        MinSize=250,0
+        WorkSubRect=16,65,12,15
+    }
+
+    1Item {
+        ImageTopLeft=GI,Bm.FormNote.1ItemTopLeft
+        ImageTopRight=GI,Bm.FormNote.1ItemTopRight
+        ImageBottomLeft=GI,Bm.FormNote.1ItemBottomLeft
+        ImageBottomRight=GI,Bm.FormNote.1ItemBottomRight
+
+        ImageLeft=GI,Bm.FormNote.1ItemLeft
+        ImageRight=GI,Bm.FormNote.1ItemRight
+        ImageTop=GI,Bm.FormNote.1ItemTop
+        ImageBottom=GI,Bm.FormNote.1ItemBottom
+
+        ImageTexture=GI,Bm.FormNote.1ItemTexture
+
+        WorkSubRect=12,55,9,37
+    }
+
+    2Item {
+        ImageTopLeft=GI,Bm.FormNote.2ItemTopLeft
+        ImageTopRight=GI,Bm.FormNote.2ItemTopRight
+        ImageBottomLeft=GI,Bm.FormNote.2ItemBottomLeft
+        ImageBottomRight=GI,Bm.FormNote.2ItemBottomRight
+
+        ImageLeft=GI,Bm.FormNote.2ItemLeft
+        ImageRight=GI,Bm.FormNote.2ItemRight
+        ImageTop=GI,Bm.FormNote.2ItemTop
+        ImageBottom=GI,Bm.FormNote.2ItemBottom
+
+        ImageTexture=GI,Bm.FormNote.2ItemTexture
+
+        WorkSubRect=16,63,12,45
+    }
+
+    1Hull {
+        ImageTopLeft=GI,Bm.FormNote.1HullTopLeft
+        ImageTopRight=GI,Bm.FormNote.1HullTopRight
+        ImageBottomLeft=GI,Bm.FormNote.1HullBottomLeft
+        ImageBottomRight=GI,Bm.FormNote.1HullBottomRight
+
+        ImageLeft=GI,Bm.FormNote.1HullLeft
+        ImageRight=GI,Bm.FormNote.1HullRight
+        ImageTop=GI,Bm.FormNote.1HullTop
+        ImageBottom=GI,Bm.FormNote.1HullBottom
+
+        ImageTexture=GI,Bm.FormNote.1HullTexture
+
+        WorkSubRect=92,55,7,37
+    }
+
+    2Hull {
+        ImageTopLeft=GI,Bm.FormNote.2HullTopLeft
+        ImageTopRight=GI,Bm.FormNote.2HullTopRight
+        ImageBottomLeft=GI,Bm.FormNote.2HullBottomLeft
+        ImageBottomRight=GI,Bm.FormNote.2HullBottomRight
+
+        ImageLeft=GI,Bm.FormNote.2HullLeft
+        ImageRight=GI,Bm.FormNote.2HullRight
+        ImageTop=GI,Bm.FormNote.2HullTop
+        ImageBottom=GI,Bm.FormNote.2HullBottom
+
+        ImageTexture=GI,Bm.FormNote.2HullTexture
+
+        WorkSubRect=106,63,12,45
+    }
+
+
+    1Tips {
+        ImageTopLeft=GI,Bm.FormNote.1TipsTopLeft
+        ImageTopRight=GI,Bm.FormNote.1TipsTopRight
+        ImageBottomLeft=GI,Bm.FormNote.1TipsBottomLeft
+        ImageBottomRight=GI,Bm.FormNote.1TipsBottomRight
+
+        ImageLeft=GI,Bm.FormNote.1TipsLeft
+        ImageRight=GI,Bm.FormNote.1TipsRight
+        ImageTop=GI,Bm.FormNote.1TipsTop
+        ImageBottom=GI,Bm.FormNote.1TipsBottom
+
+        ImageTexture=GI,Bm.FormNote.1TipsTexture
+
+        WorkSubRect=40,7,10,17
+    }
+
+    2Tips {
+        ImageTopLeft=GI,Bm.FormNote.2TipsTopLeft
+        ImageTopRight=GI,Bm.FormNote.2TipsTopRight
+        ImageBottomLeft=GI,Bm.FormNote.2TipsBottomLeft
+        ImageBottomRight=GI,Bm.FormNote.2TipsBottomRight
+
+        ImageLeft=GI,Bm.FormNote.2TipsLeft
+        ImageRight=GI,Bm.FormNote.2TipsRight
+        ImageTop=GI,Bm.FormNote.2TipsTop
+        ImageBottom=GI,Bm.FormNote.2TipsBottom
+
+        ImageTexture=GI,Bm.FormNote.2TipsTexture
+
+        WorkSubRect=50,7,10,17
+    }
+
+    1PQuestPar {
+        ImageTopLeft=GI,Bm.FormPQuest2.1WinTopLeft
+        ImageTopRight=GI,Bm.FormPQuest2.1WinTopRight
+        ImageBottomLeft=GI,Bm.FormPQuest2.1WinBottomLeft
+        ImageBottomRight=GI,Bm.FormPQuest2.1WinBottomRight
+
+        ImageLeft=GI,Bm.FormPQuest2.1WinLeft
+        ImageRight=GI,Bm.FormPQuest2.1WinRight
+        ImageTop=GI,Bm.FormPQuest2.1WinTop
+        ImageBottom=GI,Bm.FormPQuest2.1WinBottom
+
+        ImageTexture=GI,Bm.FormPQuest2.1WinTexture
+
+        MinSize=251,138
+        //WorkSubRect=26,21,30,31
+	  WorkSubRect=20,21,24,31
+    }
+    2PQuestPar {
+        ImageTopLeft=GI,Bm.FormPQuest2.2WinTopLeft
+        ImageTopRight=GI,Bm.FormPQuest2.2WinTopRight
+        ImageBottomLeft=GI,Bm.FormPQuest2.2WinBottomLeft
+        ImageBottomRight=GI,Bm.FormPQuest2.2WinBottomRight
+
+        ImageLeft=GI,Bm.FormPQuest2.2WinLeft
+        ImageRight=GI,Bm.FormPQuest2.2WinRight
+        ImageTop=GI,Bm.FormPQuest2.2WinTop
+        ImageBottom=GI,Bm.FormPQuest2.2WinBottom
+
+        ImageTexture=GI,Bm.FormPQuest2.2WinTexture
+
+        MinSize=320,176
+        //WorkSubRect=33,27,38,40
+	  WorkSubRect=25,27,30,40
+    }
+}

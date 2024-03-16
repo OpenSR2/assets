@@ -1,0 +1,16 @@
+Active=False
+GAI=GAI[0]\GAI.txt ^{
+}
+GAI=GAI[1]\GAI.txt ^{
+}
+GAI=GAI[2]\GAI.txt ^{
+}
+GAI=GAI[3]\GAI.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Name=PanelMalocWB
+Pos=0,0,800
+Size=1024,768

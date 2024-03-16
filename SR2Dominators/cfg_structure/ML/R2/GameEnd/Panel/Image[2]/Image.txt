@@ -1,0 +1,4 @@
+Image=GI,Bm.FormEnd2.2bg
+Name=ImageFon3
+Pos=1952,1952,1002
+Size=2000,1744

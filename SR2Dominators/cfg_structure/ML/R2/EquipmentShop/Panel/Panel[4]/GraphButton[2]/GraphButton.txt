@@ -1,0 +1,8 @@
+ImageDown=GI,Bm.FormShop2.2CloseD
+ImageNormal=GI,Bm.FormShop2.2CloseN
+ImageNormalA=GI,Bm.FormShop2.2CloseA
+Kind=Normal
+KindHit=Rect
+Name=ButFormClose
+Pos=700,301,8
+Size=44,70

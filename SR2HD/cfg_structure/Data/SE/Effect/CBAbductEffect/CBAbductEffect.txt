@@ -1,0 +1,2 @@
+GAI=Bm.Ruins.CBAbductEffect
+PosZ=GateEffect

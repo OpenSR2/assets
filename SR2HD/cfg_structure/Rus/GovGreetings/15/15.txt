@@ -1,0 +1,10 @@
+CurPlanetPirateClan=No
+CurPlanetRelations=Normal,Good,Best
+KlingInToStar=3,4,5,6,7,8,9,Many
+PlayerRating=Mini,Small
+Priority=10
+Text=На систему <ToStar> напали доминаторы. Помогите нашим братьям, живущим в этой системе. Мы вас очень просим, <Player>. Знаем, что вы не самый крутой рейнджер, но все же и ваша помощь не помешает.
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal
+ToPlanetRaceIsCurPlanetRace=Yes
+ToStarInBattle=Yes

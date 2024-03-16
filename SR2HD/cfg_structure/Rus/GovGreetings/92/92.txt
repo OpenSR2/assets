@@ -1,0 +1,7 @@
+CurPlanetPirateClan=Yes
+CurPlanetRace=People
+CurPlanetRelations=Bad,Normal,Good,Best
+CurStarInBattle=Yes
+Priority=5
+Text=  сожалению даже пираты не застрахованы от нападений доминаторов, <Player>. —ейчас именно такой случай.
+Text=ѕрошу вас, поторопитесь со взлетом, вы нужны нам в бою, на орбите планеты <CurPlanet>, а не здесь, на ее поверхности.

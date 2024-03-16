@@ -1,0 +1,6 @@
+Name=Name\Name.txt ^{
+}
+NameBuy=NameBuy\NameBuy.txt ^{
+}
+Text=Text\Text.txt ^{
+}

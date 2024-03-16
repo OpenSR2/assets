@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Pos=179,47,-2
+Size=251,13
+Text=FormSaveManager.Loading
+TextColor=0,27,50
+TextShadow=1
+TextShadowColor=8,136,181

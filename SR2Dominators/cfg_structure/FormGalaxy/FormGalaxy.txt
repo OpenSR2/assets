@@ -1,0 +1,6 @@
+JumpTo=Прыжок в<br><Name>
+NeedFuelOrEngine=Совершить прыжок в систему <Star> невозможно
+NeedFuelOrEngine=<ll>
+NeedFuelOrEngine=Вероятные причины отказа:
+NeedFuelOrEngine= - Не хватает топлива
+NeedFuelOrEngine= - Маломощный двигатель

@@ -1,0 +1,117 @@
+Name=PanelPlanet
+Size=233,34
+//MouseBlocking=True
+
+Image {
+	Image=GI,Bm.PanelMain2.1Planet
+	Pos=0,0,10
+	Size=233,34
+}
+
+GraphButton {
+	Name=PP_Shop
+//	PosZ=8
+//	Auto=Pos,Size
+	Pos=121,1,8
+	Size=33,26
+	Help=Help.ButShop
+
+	KindHit=Graph
+	Kind=Normal
+
+	ImageNormal=GI,Bm.PanelMain2.1ShopN
+	ImageNormalA=GI,Bm.PanelMain2.1ShopA
+	ImageDown=GI,Bm.PanelMain2.1ShopD
+
+	Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+	Name=PP_Gov
+//	PosZ=8
+//	Auto=Pos,Size
+	Pos=52,1,8
+	Size=32,26
+	Help=Help.ButGov
+
+	KindHit=Graph
+	Kind=Normal
+
+	ImageNormal=GI,Bm.PanelMain2.1GovN
+	ImageNormalA=GI,Bm.PanelMain2.1GovA
+	ImageDown=GI,Bm.PanelMain2.1GovD
+
+	Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+	Name=PP_Goods
+//	PosZ=8
+//	Auto=Pos,Size
+	Pos=87,1,8
+	Size=33,26	
+	Help=Help.ButGoods
+
+	KindHit=Graph
+	Kind=Normal
+
+	ImageNormal=GI,Bm.PanelMain2.1GoodsN
+	ImageNormalA=GI,Bm.PanelMain2.1GoodsA
+	ImageDown=GI,Bm.PanelMain2.1GoodsD
+
+	Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+	Name=PP_Hangar
+//	PosZ=8
+//	Auto=Pos,Size
+	Pos=190,1,8
+	Size=35,26
+	Help=Help.ButHangar
+
+	KindHit=Graph
+	Kind=Normal
+
+	ImageNormal=GI,Bm.PanelMain2.1HangarN
+	ImageNormalA=GI,Bm.PanelMain2.1HangarA
+	ImageDown=GI,Bm.PanelMain2.1HangarD
+
+	Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+	Name=PP_Info
+//	PosZ=8
+//	Auto=Pos,Size
+	Pos=156,1,8
+	Size=35,26
+	Help=Help.ButInfo
+
+	KindHit=Graph
+	Kind=Normal
+
+	ImageNormal=GI,Bm.PanelMain2.1InfoN
+	ImageNormalA=GI,Bm.PanelMain2.1InfoA
+	ImageDown=GI,Bm.PanelMain2.1InfoD
+
+	Style=Style.GB.SoundNormal
+}
+
+//GraphButton {
+//	Name=PP_Planet
+//	PosZ=8
+//	Auto=Pos,Size
+//	Pos=38,40,7
+//	Size=52,49
+//	Help=Help.ButPlanet
+
+//	KindHit=Graph
+//	Kind=Normal
+
+//	ImageNormal=GI,Bm.PanelPlanet.1PlanetN
+//	ImageNormalA=GI,Bm.PanelPlanet.1PlanetA
+//	ImageDown=GI,Bm.PanelPlanet.1PlanetD
+
+//	Style=Style.GB.SoundNormal
+//}

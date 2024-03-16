@@ -1,0 +1,7 @@
+Access=10
+Dif=21
+Genre=логическая игра
+Group=1
+Image=Bm.PQI.Doomino
+Length=2
+Name=Доомино

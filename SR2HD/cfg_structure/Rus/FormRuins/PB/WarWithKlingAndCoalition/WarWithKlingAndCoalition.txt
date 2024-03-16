@@ -1,0 +1,7 @@
+CoalitionOnly=CoalitionOnly\CoalitionOnly.txt ^{
+}
+KlingAndCoalition=KlingAndCoalition\KlingAndCoalition.txt ^{
+}
+KlingOnly=KlingOnly\KlingOnly.txt ^{
+}
+PlayerSend=Как вообще обстановочка на фронтах?

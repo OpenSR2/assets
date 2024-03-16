@@ -1,0 +1,95 @@
+RC {
+	Image=Bm.Ruins.RC
+	ImageI=GI,Bm.Ruins.RCi
+	ImageMap=GI,Bm.Ruins.MapRC
+	PosZ=Ruins
+//	SoundLoop=Sound.Ruins00
+//	SoundGroup=3000
+}
+PB {
+	Image=Bm.Ruins.PB
+	ImageI=GI,Bm.Ruins.PBi
+	ImageMap=GI,Bm.Ruins.MapPB
+	PosZ=Ruins
+//	SoundLoop=Sound.Ruins01
+//	SoundGroup=3000
+}
+WB {
+	Image=Bm.Ruins.WB
+	ImageI=GI,Bm.Ruins.WBi
+	ImageMap=GI,Bm.Ruins.MapWB
+	PosZ=Ruins
+//	SoundLoop=Sound.Ruins02
+//	SoundGroup=3000
+}
+SB {
+	Image=Bm.Ruins.SB
+	ImageI=GI,Bm.Ruins.SBi
+	ImageMap=GI,Bm.Ruins.MapSB
+	PosZ=Ruins
+//	SoundLoop=Sound.Ruins00
+//	SoundGroup=3000
+}
+BK {
+	Image=Bm.Ruins.BK
+	ImageI=GI,Bm.Ruins.BKi
+	ImageMap=GI,Bm.Ruins.MapBK
+	PosZ=Ruins
+}
+MC {
+	Image=Bm.Ruins.MC
+	ImageI=GI,Bm.Ruins.MCi
+	ImageMap=GI,Bm.Ruins.MapMC
+	PosZ=Ruins
+}
+
+Blazer {
+	Image=Bm.Ruins.Blazer
+	ImageI=GI,Bm.Ruins.Blazeri
+	ImageMap=GI,Bm.Ruins.MapBlazer
+	PosZ=ShipLow
+}
+
+Keller {
+	Image=Bm.Ruins.Keller
+	ImageI=GI,Bm.Ruins.Kelleri
+	ImageMap=GI,Bm.Ruins.MapKeller
+	PosZ=ShipLow
+}
+
+Keller_P1 {
+	Image=Bm.Ruins.Keller_P1
+	ImageI=GI,Bm.Ruins.Kelleri
+	ImageMap=GI,Bm.Ruins.MapKeller
+	PosZ=ShipLow
+}
+
+
+Keller_P2 {
+	Image=Bm.Ruins.Keller_P2
+	ImageI=GI,Bm.Ruins.Kelleri
+	ImageMap=GI,Bm.Ruins.MapKeller
+	PosZ=ShipLow
+}
+
+
+Keller_P3 {
+	Image=Bm.Ruins.Keller_P3
+	ImageI=GI,Bm.Ruins.Kelleri
+	ImageMap=GI,Bm.Ruins.MapKeller
+	PosZ=ShipLow
+}
+
+Keller_P4 {
+	Image=Bm.Ruins.Keller_P4
+	ImageI=GI,Bm.Ruins.Kelleri
+	ImageMap=GI,Bm.Ruins.MapKeller
+	PosZ=ShipLow
+}
+
+Terron {
+	Image=Bm.Ruins.Terron
+	ImageI=GI,Bm.Ruins.Terroni
+	ImageMap=GI,Bm.Ruins.MapTerron
+	PosZ=Ruins
+}

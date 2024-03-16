@@ -1,0 +1,15 @@
+AutoTalk=Any
+CoalitionAlreadyDefeated=No
+FlyType=Any
+Goods=Alcohol
+LastPlanetGoodsSale=Mini,Small
+LastPlanetInCurStar=No
+LastPlanetIsHomePlanet=No
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerRating=Mini,Small
+Priority=20
+Relations=Best
+ShipRaceIsPlayerRace=Yes
+ShipType=Transport,Liner,Diplomat
+Text=¬ижу, вижу соотечественника! “ы, <Player>, еще пока слабоват, и в рейтинге не ахти. Ќо у теб€ все впереди. ’очешь, ценный совет дам?
+Text=я только что прилетел из системы <LastPlanetStar> и заметил, что там на планете <LastPlanet> крайне дешевое спиртное. ÷ена €щика всего <LastPlanetGoodsSale> cr, склады ими просто забиты! Ќе будь лопухом, лети и делай бизнес.

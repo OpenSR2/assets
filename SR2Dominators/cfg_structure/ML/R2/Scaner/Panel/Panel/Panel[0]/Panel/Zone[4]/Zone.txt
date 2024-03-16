@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_RepairRobot_0z
+Pos=83,420,0
+Size=97,77

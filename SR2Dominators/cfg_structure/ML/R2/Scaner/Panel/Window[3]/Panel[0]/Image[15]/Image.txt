@@ -1,0 +1,4 @@
+Image=GI,Bm.FormNote.2HP_RepairRobot
+Name=InfoHull_RepairRobot
+Pos=15,70
+Size=17,13

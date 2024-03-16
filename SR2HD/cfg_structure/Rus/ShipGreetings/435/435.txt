@@ -1,0 +1,5 @@
+CoalitionAlreadyDefeated=Yes
+InFear=No
+Relations=Normal,Good,Best
+ShipType=Pirate
+Text=Ох, моя голова... до сих пор трещит, так классно отмечали победу над Коалицией. Хорошо, что она была всего одна на наш рукав галактики, а то я бы так спился на радостях.

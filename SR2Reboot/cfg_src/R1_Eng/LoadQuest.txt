@@ -1,0 +1,238 @@
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+	MoveWorld=False
+
+	GraphBuf {
+		Name=BGBuf
+		Pos=0,0,99
+		Size=800,600
+	}
+
+    Panel=cfg\R1\PanelLoad.txt {
+        Pos=0,0,-1000
+    }
+
+	Panel {
+		Pos=21,7,97
+		Size=761,541
+        Name=MainPanel
+
+	    Image {
+			Image=GI,Bm.FormLoadQuest.1ImageBG
+			Pos=499,12,99
+			Size=154,176
+		}
+
+	    Image {
+			Image=GI,Bm.FormLoadQuest.1BG
+			Pos=0,0,97
+			Size=761,541
+		}
+
+		GraphBuf {
+			Pos=499,12,98
+			Size=154,176
+			Name=ImageMap
+		}
+
+		Label {
+			Font=Font.1Ranger
+			Name=Caption
+		    Text=FormLoadQuest.Caption
+			TextColor=50,240,252
+			Pos=296,40,2
+			Size=164,20
+			AlignX=Center
+		}
+
+        GraphButton {
+            Name=ButGroup0
+            
+            Pos=129,77,-3
+            Size=99,21
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormLoadQuest.1PageN
+            ImageNormalA=GI,Bm.FormLoadQuest.1PageA
+            ImageDown=GI,Bm.FormLoadQuest.1PageD
+
+            Font=Font.1Ranger
+            Caption=FormLoadQuest.Group0
+            CaptionColorNormal=165,183,143
+            CaptionColorNormalA=165,183,143
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionSme=0,-2,0,-2
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=ButGroup1
+            
+            Pos=230,77,-3
+            Size=99,21
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormLoadQuest.1PageN
+            ImageNormalA=GI,Bm.FormLoadQuest.1PageA
+            ImageDown=GI,Bm.FormLoadQuest.1PageD
+
+            Font=Font.1Ranger
+            Caption=FormLoadQuest.Group1
+            CaptionColorNormal=165,183,143
+            CaptionColorNormalA=165,183,143
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionSme=0,-2,0,-2
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=ButGroup2
+            
+            Pos=330,77,-3
+            Size=99,21
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormLoadQuest.1PageN
+            ImageNormalA=GI,Bm.FormLoadQuest.1PageA
+            ImageDown=GI,Bm.FormLoadQuest.1PageD
+
+            Font=Font.1Ranger
+            Caption=FormLoadQuest.Group2
+            CaptionColorNormal=165,183,143
+            CaptionColorNormalA=165,183,143
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionSme=0,-2,0,-2
+
+            Style=Style.GB.SoundNormal
+        }
+
+		GraphButton {
+			Name=ButCancel
+			Style=Style.GB.SoundNormal
+			
+			Pos=498,490,1
+			Size=86,20
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormSave2.1CancelN
+			ImageDown=GI,Bm.FormSave2.1CancelD
+
+			Font=Font.1Ranger
+			Caption=FormLoadQuest.Cancel
+			CaptionColorNormal=0,44,70
+			CaptionColorNormalA=50,240,252
+			CaptionColorDown=0,44,70
+			CaptionColorDownA=0,44,70
+			CaptionColorDisable=0,34,54
+			CaptionColorDisableA=0,34,54
+			CaptionShadowColorNormal=37,178,189
+			CaptionShadowColorNormalA=0,0,0
+			CaptionShadowColorDown=37,178,189
+			CaptionShadowColorDownA=37,178,189
+			CaptionShadowColorDisable=0,110,176
+			CaptionShadowColorDisableA=0,110,176
+			CaptionShadow=1
+			CaptionSme=0,-2,1,0
+		}
+		GraphButton {
+			Name=ButStart
+			Style=Style.GB.SoundNormal
+			
+			Pos=498,450,1
+			Size=87,29
+
+			Kind=Disable
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormSave2.1SaveN
+			ImageDown=GI,Bm.FormSave2.1SaveD
+			ImageDisable=GI,Bm.FormSave2.1SaveH
+
+			Font=Font.1Ranger
+			Caption=FormLoadQuest.Start
+			CaptionColorNormal=0,44,70
+			CaptionColorNormalA=50,240,252
+			CaptionColorDown=0,44,70
+			CaptionColorDownA=0,44,70
+			CaptionColorDisable=0,34,54
+			CaptionColorDisableA=0,34,54
+			CaptionShadowColorNormal=37,178,189
+			CaptionShadowColorNormalA=0,0,0
+			CaptionShadowColorDown=37,178,189
+			CaptionShadowColorDownA=37,178,189
+			CaptionShadowColorDisable=0,110,176
+			CaptionShadowColorDisableA=0,110,176
+			CaptionShadow=1
+			CaptionSme=0,-2,1,0
+		}
+
+		GraphButton {
+			Name=ButClose
+			Style=Style.GB.SoundNormal
+			
+			Pos=696,470,1
+			Size=47,48
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormSave2.1CloseN
+			ImageNormalA=GI,Bm.FormSave2.1CloseA
+			ImageDown=GI,Bm.FormSave2.1CloseD
+		}
+
+		PanelScrollBar {
+			Name=PanelSlot
+			Pos=34,119,2
+			Size=406,357
+			ActiveBarY=True
+			PosAutoBarY=False
+			StyleBarY=Style.ScrollBar.1V1
+			RectBarY=449,119,462,476
+			ExternalSB=True
+			UnlimitedWorld=False
+			MoveWorld=True
+		}
+
+        PanelScrollBar {
+			Name=MessageWindow
+			Pos=492,217,2
+			Size=219,208
+			TextColor=255,255,230
+
+			StyleBarY=Style.ScrollBar.1V1
+			ActiveBarY=True
+			PosAutoBarY=False
+			RectBarY=715,220,730,401
+
+			MoveWorld=True
+			UnlimitedWorld=False
+			ExternalSB=True
+
+            Label {
+				Name=MessageText
+		        Font=Font.1Small
+				Pos=0,0,3,w
+				Size=219,208
+				AlignX=Left
+				AlignY=Auto  
+				WordWrap=True
+				TextColor=0,0,0
+			}
+
+        }
+	}
+}

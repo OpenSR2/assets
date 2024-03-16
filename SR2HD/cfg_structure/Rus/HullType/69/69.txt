@@ -1,0 +1,16 @@
+Artefact=0
+Cost=100
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Черный череп
+Probability=20
+Race=Maloc,Peleng,People
+Radar=0
+Scaner=-1
+ShipType=Pirate
+Size=120
+Text=Корпус с черным орнаментом из черепов. Его боятся даже другие пираты. Установка сканера невозможна.
+Weapon=0
+Year=30

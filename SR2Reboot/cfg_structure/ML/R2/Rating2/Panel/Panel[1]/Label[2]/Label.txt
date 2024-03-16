@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Name=SortName
+Pos=291,57,2
+Size=124,15
+Text=FormRating.Name
+TextColor=0,0,0
+WordWrap=True

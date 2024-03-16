@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=Top
+Font=Font.2Ranger
+Name=LNewExp2
+Pos=191,57,1
+Size=65,20
+Text=FormShip.LNewExp2
+TextColor=41,101,123
+WordWrap=True

@@ -1,0 +1,16 @@
+Dominator=Dominator\Dominator.txt ^{
+}
+Fei=Fei\Fei.txt ^{
+}
+Gaal=Gaal\Gaal.txt ^{
+}
+Kling=Kling\Kling.txt ^{
+}
+Maloc=Maloc\Maloc.txt ^{
+}
+Peleng=Peleng\Peleng.txt ^{
+}
+People=People\People.txt ^{
+}
+TypeName=TypeName\TypeName.txt ^{
+}

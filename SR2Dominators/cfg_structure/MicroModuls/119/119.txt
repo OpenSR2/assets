@@ -1,0 +1,14 @@
+Equipments=WEnergy,WSplinter,WMissile
+Name=Тюринг
+Priority=55
+Size=50
+Text=Микромодуль второго уровня. Заменяет массивную орудийную турель на силовую опору. Часть энергии генератора уходит на гашение отдачи, поэтому дальность и сила выстрела снижаются, но орудие занимает вдвое меньший объем.
+Text=Сила энергетического оружия: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+Text=Сила ракетного оружия: <bonWMissile> ед.
+Text=Дальность стрельбы: <bonWRadius> ед.
+Text=Размер: <clr>-50%<clrEnd>
+bonWEnergy=-5
+bonWMissile=-5
+bonWRadius=-10
+bonWSplinter=-5

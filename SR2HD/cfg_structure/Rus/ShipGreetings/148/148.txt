@@ -1,0 +1,13 @@
+AutoTalk=Any
+CoalitionAlreadyDefeated=No
+FlyType=ToPlanet
+LastPlanetInCurStar=No
+LastPlanetRace=Maloc,Peleng,People
+Priority=2
+Relations=Good,Best
+ShipRace=Peleng
+ShipType=Diplomat,Ranger,Pirate
+Text=Ох, <Player>, и дос-с-стали же меня эти с-спецслужбы! Загоняли уже совсем со своими секретными заданиями - "отвези туда, отвези сюда"... Я уже пятнадцатое посс-сланьице везу, на этот раз на планетку <ToPlanet>...
+Text=Если бы не обещанные денежки, давно бы плюнул на них, тьфу, и бросил это дело!
+Text=А вот на ковер я зря плюнул - нет у меня больше роскошного халанусского ковра ручной работы, слюной разъело... Это все от приема стимуляторов гадских!
+ToPlanetRace=Peleng

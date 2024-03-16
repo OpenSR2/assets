@@ -1,0 +1,109 @@
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+	Name=MainPanel
+
+    Image {
+		Name=ImageFon
+		Image=GI,Bm.FormEnd2.2bg
+		Pos=0,0,1000
+		Size=2000,1744
+	}
+   	Image {
+		Name=ImageFon2
+		Image=GI,Bm.FormEnd2.2bg
+		Pos=976,976,1001
+		Size=2000,1744
+	}
+    Image {
+		Name=ImageFon3
+		Image=GI,Bm.FormEnd2.2bg
+		Pos=1952,1952,1002
+		Size=2000,1744
+	}
+
+    Image {
+		Name=People
+		Image=GI,Bm.FormEnd2.2People
+		Pos=0,0,10
+		Size=1024,768
+	}
+    Image {
+		Name=Maloc
+		Image=GI,Bm.FormEnd2.2Maloc
+		Pos=0,59,9
+		Size=414,629
+	}
+    Image {
+		Name=Peleng
+		Image=GI,Bm.FormEnd2.2Peleng
+		Pos=0,59,9
+		Size=414,629
+	}
+    Image {
+		Name=Gaal
+		Image=GI,Bm.FormEnd2.2Gaal
+		Pos=0,59,9
+		Size=414,629
+	}
+    Image {
+		Name=Fei
+		Image=GI,Bm.FormEnd2.2Fei
+		Pos=0,59,9
+		Size=414,629
+	}
+
+	Panel {
+		Pos=450,22,5
+		Size=550,631
+
+		GraphBuf {
+			Name=GBText
+			Pos=0,0,5
+			Size=552,10 //593
+		}
+	}
+
+	GraphButton {
+		Name=Ok
+			
+		Pos=950,703,2
+		Size=48,49
+
+		Kind=Normal
+		KindHit=Rect
+
+		ImageNormal=GI,Bm.FormEnd2.2ExitN
+		ImageNormalA=GI,Bm.FormEnd2.2ExitA
+		ImageDown=GI,Bm.FormEnd2.2ExitD
+
+		Help=FormGameEnd.Ok
+	}
+	GraphButton {
+		Name=Load
+			
+		Pos=874,701,2
+		Size=48,50
+
+		Kind=Normal
+		KindHit=Rect
+
+		ImageNormal=GI,Bm.FormEnd2.2OpenN
+		ImageNormalA=GI,Bm.FormEnd2.2OpenA
+		ImageDown=GI,Bm.FormEnd2.2OpenD
+
+		Help=FormGameEnd.Load
+	}
+
+	Label {
+		Pos=297,717,2
+		Size=516,25
+		Name=LabelHelp
+		Font=Font.2Ranger
+		AlignX=Right
+		AlignY=CenterEx
+		WordWrap=True
+		TextColor=78,141,161
+	}
+}

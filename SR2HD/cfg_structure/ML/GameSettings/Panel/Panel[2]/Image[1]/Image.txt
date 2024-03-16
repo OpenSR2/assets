@@ -1,0 +1,4 @@
+Image=GI,Bm.FormGameSet2.2CurMove
+Name=SkillCur
+Pos=68,109,70
+Size=42,42

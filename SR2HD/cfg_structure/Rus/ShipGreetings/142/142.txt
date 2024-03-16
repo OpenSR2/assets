@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Technics
+LastPlanetGoodsCnt=Average,Big,Huge
+LastPlanetGoodsSale=Mini,Small,Average
+LastPlanetRace=Any
+Priority=30
+Relations=Good,Best
+ShipGoodsCnt=Small,Average,Big,Huge
+ShipType=Transport,Liner
+Text=Удачной торговли, <Player>! И как раз в этом я могу тебе помочь, подсказать неплохой торговый маршрут. На планете <LastPlanet> кризис перепроизводства, горы техники уходят почти за бесценок, максимум <LastPlanetGoodsSale> cr за контейнер. Ну а на планете <ToPlanet>, куда я, кстати, лечу, продать все это можно значительно дороже, и получить неплохую прибыль. А то зачем тогда столько техники у меня в трюме?
+ToPlanetGoodsBuy=Big,Huge

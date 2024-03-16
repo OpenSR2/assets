@@ -1,0 +1,2 @@
+GAI=Bm.BGO.a0
+GAI=Bm.BGO.a1

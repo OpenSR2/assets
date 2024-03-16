@@ -1,0 +1,17 @@
+Artefact=2
+Cost=130
+Def=0
+Droid=0
+Forsage=0
+Fragility=90
+Hook=1
+Name=Техноскала
+Probability=20
+Race=Fei,People
+Radar=0
+Scaner=0
+ShipType=Warrior
+Size=90
+Text=Эта серия высокотехнологичных корпусов включает полный комплект мест под оборудование. Техническое совершенство корпусной мысли.
+Weapon=0
+Year=80

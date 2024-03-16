@@ -1,0 +1,9 @@
+FlyType=ToPlanet
+Goods=Food
+Relations=Normal,Good,Best
+ShipGoodsCnt=Average,Big,Huge
+ShipGoodsTypeCnt=2,3,4,5
+ShipHaveGoods=Yes
+ShipType=Transport
+Text=Транспортное судно <Ship> приветствует вас, рейнджер <Player>!
+Text=Мы везем большую партию разных товаров на планету <ToPlanet>. Заказ срочный, очень спешим. Чем можем помочь?

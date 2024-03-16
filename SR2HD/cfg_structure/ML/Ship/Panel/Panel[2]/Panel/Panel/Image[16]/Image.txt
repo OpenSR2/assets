@@ -1,0 +1,3 @@
+Name=Storage_15i
+Pos=16,275,0
+Size=39,39

@@ -1,0 +1,7 @@
+ImageDown=GI,Bm.FormQuest.2CloseD
+ImageNormalA=GI,Bm.FormQuest.2CloseA
+Kind=Normal
+KindHit=Rect
+Name=QuestExit
+Pos=300,13,-3
+Size=25,25

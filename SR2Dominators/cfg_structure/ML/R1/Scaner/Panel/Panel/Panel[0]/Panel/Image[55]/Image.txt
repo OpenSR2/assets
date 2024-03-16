@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.1W2N
+Name=S_Weapon_1n
+Pos=142,84,1
+Size=75,61

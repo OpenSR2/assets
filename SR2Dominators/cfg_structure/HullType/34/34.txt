@@ -1,0 +1,16 @@
+Artefact=-3
+Cost=70
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Карающий луч
+Probability=3
+Race=Maloc,People,Gaal
+Radar=0
+Scaner=0
+ShipType=Warrior
+Size=100
+Text=Полнофункциональный боевой корабль низкой ценовой категории. Установка артефактов не предусмотрена.
+Weapon=0
+Year=0

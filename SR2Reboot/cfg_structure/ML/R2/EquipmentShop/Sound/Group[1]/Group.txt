@@ -1,0 +1,14 @@
+1=Sound.FormShop0
+1=Sound.FormShop1
+1=Sound.FormShop2
+1=Sound.FormShop3
+1=Sound.FormShop4
+1=Sound.FormShop5
+1=Sound.FormShop6
+1=Sound.FormShop7
+1=Sound.FormShop8
+1=Sound.FormShop9
+1=Sound.FormShop10
+1=Sound.FormShop11
+1=Sound.FormShop12
+NextTime=7000-16000

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormPQuest2.2Panel
+Name=PanelImage
+Pos=-39,0,7
+Size=1063,768

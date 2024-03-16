@@ -1,0 +1,9 @@
+Auto=Size
+ImageDown=GI,Bm.FormLoadAB.LoadHyperD
+ImageNormal=GI,Bm.FormLoadAB.LoadHyperN
+ImageNormalA=GI,Bm.FormLoadAB.LoadHyperA
+Kind=Normal
+KindHit=Rect
+Name=LoadAB
+Pos=376,636,20
+Style=Style.GB.SoundNormal

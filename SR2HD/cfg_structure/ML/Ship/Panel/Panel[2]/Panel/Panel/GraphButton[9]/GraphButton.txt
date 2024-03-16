@@ -1,0 +1,10 @@
+Help=FormShip.HelpSortMoney
+ImageDown=GI,Bm.FormShip2.SortStorageByMoneyD
+ImageNormal=GI,Bm.FormShip2.SortStorageByMoneyN
+ImageNormalA=GI,Bm.FormShip2.SortStorageByMoneyA
+Kind=Disable
+KindHit=Rect
+Name=SortStorageByMoney
+Pos=103,35,3
+Size=41,24
+Style=Style.GB.SoundNormal

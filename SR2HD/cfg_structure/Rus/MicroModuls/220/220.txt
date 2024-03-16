@@ -1,0 +1,6 @@
+Equipments=WEnergy,WSplinter,WMissile,FuelTank,Engine,Radar,Scaner,Droid,Hook,DefGenerator
+Fragility=45
+Name=Ламбалд
+Owner=Any
+Priority=10
+Text=Микромодуль первого уровня. Производит обработку частей оборудования фемтосекундными импульсами Л-поля, увеличивая надежность на <clr>120%<clrEnd>. Из-за ограничения мощности излучения, взаимодействие с <clr>корпусом<clrEnd> невозможно.

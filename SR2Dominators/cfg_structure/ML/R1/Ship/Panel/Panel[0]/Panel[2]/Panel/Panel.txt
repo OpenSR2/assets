@@ -1,0 +1,35 @@
+GAI=GAI\GAI.txt ^{
+}
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Image=Image[3]\Image.txt ^{
+}
+Image=Image[4]\Image.txt ^{
+}
+Image=Image[5]\Image.txt ^{
+}
+Image=Image[6]\Image.txt ^{
+}
+Image=Image[7]\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Name=PanelRight
+Panel=Panel\Panel.txt ^{
+}
+PanelScrollBar=PanelScrollBar\PanelScrollBar.txt ^{
+}
+Pos=320,10
+Size=255,468

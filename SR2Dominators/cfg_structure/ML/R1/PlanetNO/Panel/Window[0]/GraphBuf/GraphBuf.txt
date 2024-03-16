@@ -1,0 +1,4 @@
+Name=PanelInfo_Image
+Pos=29,27,8
+Size=34,34
+Sme=17,17

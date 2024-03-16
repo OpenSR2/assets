@@ -1,0 +1,11 @@
+Main=data\Cursor\Main.gai
+Scroll=data\Cursor\Scroll.gai
+Enter=data\Cursor\Enter.gai
+Take=data\Cursor\Take.gai
+
+FireFull=data\Cursor\FireFull.gai
+FireSmall=data\Cursor\FireSmall.gai
+ScanFull=data\Cursor\ScanFull.gai
+ScanSmall=data\Cursor\ScanSmall.gai
+TalkFull=data\Cursor\TalkFull.gai
+TalkSmall=data\Cursor\TalkSmall.gai

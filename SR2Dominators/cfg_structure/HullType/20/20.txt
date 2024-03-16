@@ -1,0 +1,16 @@
+Artefact=-2
+Cost=200
+Def=1
+Droid=1
+Forsage=1
+Hook=1
+Name=Захадум
+Probability=100
+Race=Peleng
+Radar=1
+Scaner=1
+ShipType=Liner,Diplomat,Pirate
+Size=70
+Text=Скоростная серия с полной защитой, вооружением и навигацией. Создано для спецслужб пеленгов.
+Weapon=1
+Year=20

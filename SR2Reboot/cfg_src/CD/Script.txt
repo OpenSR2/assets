@@ -1,0 +1,8 @@
+test=data\Script\test.scr
+MS_Begin=data\Script\MS_Begin.scr
+MS_SB1=data\Script\MS_SB1.scr
+MS_SB2=data\Script\MS_SB2.scr
+MS_PB=data\Script\MS_PB.scr
+MS_Blazer=data\Script\MS_Blazer.scr
+MS_Keller=data\Script\MS_Keller.scr
+MS_Terron=data\Script\MS_Terron.scr

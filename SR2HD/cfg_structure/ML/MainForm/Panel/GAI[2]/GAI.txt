@@ -1,0 +1,4 @@
+Name=AnimAddonShip
+PBuf=True
+Size=700,700
+SkipImageUpdateRect=True

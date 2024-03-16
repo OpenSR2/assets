@@ -1,0 +1,3 @@
+Name=TovCool7
+Pos=220,366,3
+Size=90,14

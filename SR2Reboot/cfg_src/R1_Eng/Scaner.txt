@@ -1,0 +1,1986 @@
+Border=0,0,800,600
+
+Sound {
+    Open=Sound.FormShipOpen
+    Close=Sound.FormShipClose
+}
+
+Panel {
+    Pos=0,0
+    Size=800,600
+    MoveWorld=False
+    Name=MainPanel
+
+    GraphBuf {
+        Name=BGBuf
+        Pos=0,0,9
+        Size=800,600
+    }
+    ShrLight {
+        Pos=0,0,8
+        Size=800,600
+        ShrLight=0//-2
+    }
+
+    Panel {
+        Pos=67,29,6
+        Size=721,617
+
+        Panel {
+            Pos=79,0,1
+            Size=360,483
+
+            Panel {
+                Pos=0,0
+                Size=360,483
+                Name=Left
+        
+                Image {
+                    Name=CenterNormalImage
+                    Pos=47,138,4
+                    Size=262,195
+                    Image=GI,Bm.FormShip2.1CenterNormalImage
+                }
+                GAI {
+                    Name=CenterNormalAnim
+                    Pos=46,139,3
+                    Size=262,195
+                    Image=Bm.FormShip2.1CenterNormalAnim
+                    FrameLoad=0
+                    PBuf=True
+                }
+                Image {
+                    Name=CenterDamageImage
+                    Pos=47,138,4
+                    Size=262,195
+                    Image=GI,Bm.FormShip2.1CenterDamageImage
+                }
+                GAI {
+                    Name=CenterDamageAnim
+                    Pos=47,139,3
+                    Size=262,195
+                    Image=Bm.FormShip2.1CenterDamageAnim
+                    FrameLoad=0
+                    PBuf=True
+                }
+
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=0,26,49
+                    TextShadowColor=0,135,192
+                    TextShadow=1
+                    Pos=81,135,0
+                    Size=195,31
+                    AlignX=Center
+                    AlignY=CenterEx
+                    WordWrap=True
+                    Text=FormShip.LWeapon
+                }
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=0,26,49
+                    TextShadowColor=0,135,192
+                    TextShadow=1
+                    Pos=-30,205,0
+                    Size=195,31
+                    AlignX=Center
+                    AlignY=Bottom
+                    WordWrap=True
+                    Text=FormShip.LMove1
+                }
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=0,26,49
+                    TextShadowColor=0,135,192
+                    TextShadow=1
+                    Pos=-30,234,0
+                    Size=195,31
+                    AlignX=Center
+                    AlignY=Top
+                    WordWrap=True
+                    Text=FormShip.LMove2
+                }
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=0,26,49
+                    TextShadowColor=0,135,192
+                    TextShadow=1
+                    Pos=199,205,0
+                    Size=195,31
+                    AlignX=Center
+                    AlignY=Bottom
+                    WordWrap=True
+                    Text=FormShip.LInfo1
+                }
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=0,26,49
+                    TextShadowColor=0,135,192
+                    TextShadow=1
+                    Pos=199,234,0
+                    Size=195,31
+                    AlignX=Center
+                    AlignY=Top
+                    WordWrap=True
+                    Text=FormShip.LInfo2
+                }
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=0,26,49
+                    TextShadowColor=0,135,192
+                    TextShadow=1
+                    Pos=85,381,0
+                    Size=195,31
+                    AlignX=Center
+                    AlignY=CenterEx
+                    WordWrap=True
+                    Text=FormShip.LAdd
+                }
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=0,26,49
+                    TextShadowColor=0,135,192
+                    TextShadow=1
+                    Pos=131,452,0
+                    Size=195,31
+                    AlignX=Center
+                    AlignY=CenterEx
+                    WordWrap=True
+                    Text=FormShip.LHold
+                }
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=0,26,49
+                    TextShadowColor=0,135,192
+                    TextShadow=1
+                    Pos=-57,402,0
+                    Size=195,31
+                    AlignX=Center
+                    AlignY=CenterEx
+                    WordWrap=True
+                    Text=FormShip.LDrop
+                }
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=0,26,49
+                    TextShadowColor=0,135,192
+                    TextShadow=1
+                    Pos=-52,456,0
+                    Size=195,31
+                    AlignX=Center
+                    AlignY=CenterEx
+                    WordWrap=True
+                    Text=FormShip.LGate
+                }
+
+                GAI {
+                    Name=GateAnim
+                    Pos=25,426,4
+                    Size=41,41
+                    Image=Bm.FormShip2.1ActivateAnim
+                    FrameLoad=0
+                }
+                Image {
+                    Name=GateLeft
+                    Pos=26,428,3
+                    Size=22,38
+                    Image=GI,Bm.FormShip2.1GateLeft
+                }
+                Image {
+                    Name=GateRight
+                    Pos=44,428,3
+                    Size=22,38
+                    Image=GI,Bm.FormShip2.1GateRight
+                }
+                Zone {
+                    Name=GateZone
+                    Pos=5,408
+                    Size=73,70
+                }
+
+                Image {
+                    Pos=0,0,2
+                    Size=360,483
+                    Image=GI,Bm.FormShip2.1Left
+                    Name=PanelLeft
+                }
+                GraphButton {
+                    Style=Style.GB.SoundNormal
+
+                    Name=S_Left
+            
+                    Pos=108,431,1
+                    Size=18,29
+
+                    Kind=Disable
+                    KindHit=Graph
+
+                    ImageNormal=GI,Bm.FormShip2.1HoldLeftN
+                    ImageNormalA=GI,Bm.FormShip2.1HoldLeftA
+                    ImageDown=GI,Bm.FormShip2.1HoldLeftD
+                    ImageDisable=GI,Bm.FormShip2.1HoldLeftH
+                }
+                GraphButton {
+                    Style=Style.GB.SoundNormal
+
+                    Name=S_Right
+            
+                    Pos=330,431,1
+                    Size=17,29
+
+                    Kind=Disable
+                    KindHit=Graph
+
+                    ImageNormal=GI,Bm.FormShip2.1HoldRightN
+                    ImageNormalA=GI,Bm.FormShip2.1HoldRightA
+                    ImageDown=GI,Bm.FormShip2.1HoldRightD
+                    ImageDisable=GI,Bm.FormShip2.1HoldRightH
+                }
+
+                // Hull
+                Zone {
+                    Pos=111,166,1
+                    Size=137,138
+                    Kind=Circle
+                    Name=S_Hull_0z
+                }
+                Image {
+                    Pos=111,166,1
+                    Size=137,138
+                    Name=Ship3D
+                }
+//              Image {
+//                  Name=HullA
+//                  Pos=111,166,0
+//                  Size=137,138
+//                  Image=GI,Bm.FormShip2.1HullA
+//              }
+                Image {
+                    Name=HullSet
+                    Pos=163,272,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+
+                // Engine
+                Image {
+                    Image=GI,Bm.FormShip2.1EngineN
+                    Pos=34,164,1
+                    Size=78,61
+                    Name=S_Engine_0n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1EngineA
+                    Pos=34,164,1
+                    Size=78,61
+                    Name=S_Engine_0a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1EngineR
+                    Pos=34,164,1
+                    Size=78,61
+                    Name=S_Engine_0b
+                }
+                Image {
+                    Pos=34,164,0
+                    Size=78,61
+                    Name=S_Engine_0i
+                }
+                GAI {
+                    Pos=34,164,-1
+                    Size=78,61
+                    Name=S_Engine_0anim
+                }
+                Zone {
+                    Pos=34,164,0
+                    Size=78,61
+                    Name=S_Engine_0z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1EngineH
+                    Pos=34,164,-1
+                    Size=78,61
+                    Name=S_Engine_0off
+                }
+                Image {
+                    Name=S_Engine_0Set
+                    Pos=38,192,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+                // FuelTanks
+                Image {
+                    Image=GI,Bm.FormShip2.1FuelN
+                    Pos=34,247,1
+                    Size=78,61
+                    Name=S_FuelTanks_0n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1FuelA
+                    Pos=34,247,1
+                    Size=78,61
+                    Name=S_FuelTanks_0a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1FuelR
+                    Pos=34,247,1
+                    Size=78,61
+                    Name=S_FuelTanks_0b
+                }
+                Image {
+                    Pos=34,247,0
+                    Size=78,61
+                    Name=S_FuelTanks_0i
+                }
+                GAI {
+                    Pos=34,247,-1
+                    Size=78,61
+                    Name=S_FuelTanks_0anim
+                }
+                Zone {
+                    Pos=34,247,0
+                    Size=78,61
+                    Name=S_FuelTanks_0z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1FuelH
+                    Pos=34,247,-1
+                    Size=78,61
+                    Name=S_FuelTanks_0off
+                }
+                Image {
+                    Name=S_FuelTanks_0Set
+                    Pos=45,277,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+                // RepairRobot
+                Image {
+                    Image=GI,Bm.FormShip2.1DroidN
+                    Pos=64,329,1
+                    Size=77,61
+                    Name=S_RepairRobot_0n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1DroidA
+                    Pos=64,329,1
+                    Size=77,61
+                    Name=S_RepairRobot_0a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1DroidR
+                    Pos=64,329,1
+                    Size=77,61
+                    Name=S_RepairRobot_0b
+                }
+                Image {
+                    Pos=64,329,0
+                    Size=77,61
+                    Name=S_RepairRobot_0i
+                }
+                GAI {
+                    Pos=64,329,-1
+                    Size=77,61
+                    Name=S_RepairRobot_0anim
+                }
+                Zone {
+                    Pos=64,329,0
+                    Size=77,61
+                    Name=S_RepairRobot_0z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1DroidH
+                    Pos=64,329,-1
+                    Size=77,61
+                    Name=S_RepairRobot_0off
+                }
+                Image {
+                    Name=S_RepairRobot_0Set
+                    Pos=70,357,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+                // CargoHook
+                Image {
+                    Image=GI,Bm.FormShip2.1HookN
+                    Pos=142,329,1
+                    Size=75,61
+                    Name=S_CargoHook_0n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1HookA
+                    Pos=142,329,1
+                    Size=75,61
+                    Name=S_CargoHook_0a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1HookR
+                    Pos=142,329,1
+                    Size=75,61
+                    Name=S_CargoHook_0b
+                }
+                Image {
+                    Pos=142,329,0
+                    Size=75,61
+                    Name=S_CargoHook_0i
+                }
+                GAI {
+                    Pos=142,329,-1
+                    Size=75,61
+                    Name=S_CargoHook_0anim
+                }
+                Zone {
+                    Pos=142,329,0
+                    Size=75,61
+                    Name=S_CargoHook_0z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1HookH
+                    Pos=142,329,-1
+                    Size=75,61
+                    Name=S_CargoHook_0off
+                }
+                Image {
+                    Name=S_CargoHook_0Set
+                    Pos=145,357,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+                // DefGenerator
+                Image {
+                    Image=GI,Bm.FormShip2.1GeneratorN
+                    Pos=215,329,1
+                    Size=79,61
+                    Name=S_DefGenerator_0n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1GeneratorA
+                    Pos=215,329,1
+                    Size=79,61
+                    Name=S_DefGenerator_0a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1GeneratorR
+                    Pos=215,329,1
+                    Size=79,61
+                    Name=S_DefGenerator_0b
+                }
+                Image {
+                    Pos=215,329,0
+                    Size=79,61
+                    Name=S_DefGenerator_0i
+                }
+                GAI {
+                    Pos=215,329,-1
+                    Size=79,61
+                    Name=S_DefGenerator_0anim
+                }
+                Zone {
+                    Pos=215,329,0
+                    Size=79,61
+                    Name=S_DefGenerator_0z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1GeneratorH
+                    Pos=215,329,-1
+                    Size=79,61
+                    Name=S_DefGenerator_0off
+                }
+                Image {
+                    Name=S_DefGenerator_0Set
+                    Pos=221,357,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+                // Radar
+                Image {
+                    Image=GI,Bm.FormShip2.1RadarN
+                    Pos=247,247,1
+                    Size=79,61
+                    Name=S_Radar_0n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1RadarA
+                    Pos=247,247,1
+                    Size=79,61
+                    Name=S_Radar_0a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1RadarR
+                    Pos=247,247,1
+                    Size=79,61
+                    Name=S_Radar_0b
+                }
+                Image {
+                    Pos=247,247,0
+                    Size=79,61
+                    Name=S_Radar_0i
+                }
+                GAI {
+                    Pos=247,247,-1
+                    Size=79,61
+                    Name=S_Radar_0anim
+                }
+                Zone {
+                    Pos=247,247,0
+                    Size=79,61
+                    Name=S_Radar_0z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1RadarH
+                    Pos=247,247,-1
+                    Size=79,61
+                    Name=S_Radar_0off
+                }
+                Image {
+                    Name=S_Radar_0Set
+                    Pos=252,277,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+                // Scaner
+                Image {
+                    Image=GI,Bm.FormShip2.1ScanerN
+                    Pos=247,164,1
+                    Size=79,61
+                    Name=S_Scaner_0n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1ScanerA
+                    Pos=247,164,1
+                    Size=79,61
+                    Name=S_Scaner_0a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1ScanerR
+                    Pos=247,164,1
+                    Size=79,61
+                    Name=S_Scaner_0b
+                }
+                Image {
+                    Pos=247,164,0
+                    Size=79,61
+                    Name=S_Scaner_0i
+                }
+                GAI {
+                    Pos=247,164,-1
+                    Size=79,61
+                    Name=S_Scaner_0anim
+                }
+                Zone {
+                    Pos=247,164,0
+                    Size=79,61
+                    Name=S_Scaner_0z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1ScanerH
+                    Pos=247,164,-1
+                    Size=79,61
+                    Name=S_Scaner_0off
+                }
+                Image {
+                    Name=S_Scaner_0Set
+                    Pos=258,192,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+
+                // Weapon 0
+                Image {
+                    Image=GI,Bm.FormShip2.1W1N
+                    Pos=64,84,1
+                    Size=77,61
+                    Name=S_Weapon_0n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W1A
+                    Pos=64,84,1
+                    Size=77,61
+                    Name=S_Weapon_0a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W1R
+                    Pos=64,84,1
+                    Size=77,61
+                    Name=S_Weapon_0b
+                }
+                Image {
+                    Pos=64,84,0
+                    Size=77,61
+                    Name=S_Weapon_0i
+                }
+                GAI {
+                    Pos=64,84,-1
+                    Size=77,61
+                    Name=S_Weapon_0anim
+                }
+                Zone {
+                    Pos=64,84,0
+                    Size=77,61
+                    Name=S_Weapon_0z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W1H
+                    Pos=64,84,-1
+                    Size=77,61
+                    Name=S_Weapon_0off
+                }
+                Image {
+                    Name=S_Weapon_0Set
+                    Pos=72,113,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+                // Weapon 1
+                Image {
+                    Image=GI,Bm.FormShip2.1W2N
+                    Pos=142,84,1
+                    Size=75,61
+                    Name=S_Weapon_1n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W2A
+                    Pos=142,84,1
+                    Size=75,61
+                    Name=S_Weapon_1a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W2R
+                    Pos=142,84,1
+                    Size=75,61
+                    Name=S_Weapon_1b
+                }
+                Image {
+                    Pos=142,84,0
+                    Size=75,61
+                    Name=S_Weapon_1i
+                }
+                GAI {
+                    Pos=142,84,-1
+                    Size=75,61
+                    Name=S_Weapon_1anim
+                }
+                Zone {
+                    Pos=142,84,0
+                    Size=75,61
+                    Name=S_Weapon_1z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W2H
+                    Pos=142,84,-1
+                    Size=75,61
+                    Name=S_Weapon_1off
+                }
+                Image {
+                    Name=S_Weapon_1Set
+                    Pos=145,113,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+                // Weapon 2
+                Image {
+                    Image=GI,Bm.FormShip2.1W3N
+                    Pos=215,84,1
+                    Size=79,61
+                    Name=S_Weapon_2n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W3A
+                    Pos=215,84,1
+                    Size=79,61
+                    Name=S_Weapon_2a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W3R
+                    Pos=215,84,1
+                    Size=79,61
+                    Name=S_Weapon_2b
+                }
+                Image {
+                    Pos=215,84,0
+                    Size=79,61
+                    Name=S_Weapon_2i
+                }
+                GAI {
+                    Pos=215,84,-1
+                    Size=79,61
+                    Name=S_Weapon_2anim
+                }
+                Zone {
+                    Pos=215,84,0
+                    Size=79,61
+                    Name=S_Weapon_2z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W3H
+                    Pos=215,84,-1
+                    Size=79,61
+                    Name=S_Weapon_2off
+                }
+                Image {
+                    Name=S_Weapon_2Set
+                    Pos=218,113,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+                // Weapon 3
+                Image {
+                    Image=GI,Bm.FormShip2.1W4N
+                    Pos=105,21,1
+                    Size=73,61
+                    Name=S_Weapon_3n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W4A
+                    Pos=105,21,1
+                    Size=73,61
+                    Name=S_Weapon_3a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W4R
+                    Pos=105,21,1
+                    Size=73,61
+                    Name=S_Weapon_3b
+                }
+                Image {
+                    Pos=105,21,0
+                    Size=73,61
+                    Name=S_Weapon_3i
+                }
+                GAI {
+                    Pos=105,21,-1
+                    Size=73,61
+                    Name=S_Weapon_3anim
+                }
+                Zone {
+                    Pos=105,21,0
+                    Size=73,61
+                    Name=S_Weapon_3z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W4H
+                    Pos=105,21,-1
+                    Size=73,61
+                    Name=S_Weapon_3off
+                }
+                Image {
+                    Name=S_Weapon_3Set
+                    Pos=108,49,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+                // Weapon 4
+                Image {
+                    Image=GI,Bm.FormShip2.1W5N
+                    Pos=181,21,1
+                    Size=73,61
+                    Name=S_Weapon_4n
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W5A
+                    Pos=181,21,1
+                    Size=73,61
+                    Name=S_Weapon_4a
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W5R
+                    Pos=181,21,1
+                    Size=73,61
+                    Name=S_Weapon_4b
+                }
+                Image {
+                    Pos=181,21,0
+                    Size=73,61
+                    Name=S_Weapon_4i
+                }
+                GAI {
+                    Pos=181,21,-1
+                    Size=73,61
+                    Name=S_Weapon_4anim
+                }
+                Zone {
+                    Pos=181,21,0
+                    Size=73,61
+                    Name=S_Weapon_4z
+                    Kind=Circle
+                }
+                Image {
+                    Image=GI,Bm.FormShip2.1W5H
+                    Pos=181,21,-1
+                    Size=73,61
+                    Name=S_Weapon_4off
+                }
+                Image {
+                    Name=S_Weapon_4Set
+                    Pos=184,49,-2
+                    Size=27,28
+                    Image=GI,Bm.Micromoduls.1MM3_Set
+                }
+
+                // Artefact 0
+                Image {
+                    Name=Art0n
+                    Image=GI,Bm.FormShip2.1Art1N
+                    Pos=12,322,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art0a
+                    Image=GI,Bm.FormShip2.1Art1A
+                    Pos=12,322,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art0b
+                    Image=GI,Bm.FormShip2.1Art1R
+                    Pos=12,322,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art0off
+                    Image=GI,Bm.FormShip2.1Art1H
+                    Pos=12,322,-1
+                    Size=42,35
+                }
+                Image {
+                    Pos=12,322,-2
+                    Size=42,35
+                    Name=Art0i
+                }
+                Zone {
+                    Pos=12,322,-2
+                    Size=42,35
+                    Name=Art0z
+                    Kind=Circle
+                }
+
+                // Artefact 1
+                Image {
+                    Name=Art1n
+                    Image=GI,Bm.FormShip2.1Art2N
+                    Pos=302,322,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art1a
+                    Image=GI,Bm.FormShip2.1Art2A
+                    Pos=302,322,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art1b
+                    Image=GI,Bm.FormShip2.1Art2R
+                    Pos=302,322,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art1off
+                    Image=GI,Bm.FormShip2.1Art2H
+                    Pos=302,322,-1
+                    Size=42,35
+                }
+                Image {
+                    Pos=302,322,-2
+                    Size=42,35
+                    Name=Art1i
+                }
+                Zone {
+                    Pos=302,322,-2
+                    Size=42,35
+                    Name=Art1z
+                    Kind=Circle
+                }
+
+                // Artefact 2
+                Image {
+                    Name=Art2n
+                    Image=GI,Bm.FormShip2.1Art3N
+                    Pos=12,114,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art2a
+                    Image=GI,Bm.FormShip2.1Art3A
+                    Pos=12,114,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art2b
+                    Image=GI,Bm.FormShip2.1Art3R
+                    Pos=12,114,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art2off
+                    Image=GI,Bm.FormShip2.1Art3H
+                    Pos=12,114,-1
+                    Size=42,35
+                }
+                Image {
+                    Pos=12,114,-2
+                    Size=42,35
+                    Name=Art2i
+                }
+                Zone {
+                    Pos=12,114,-2
+                    Size=42,35
+                    Name=Art2z
+                    Kind=Circle
+                }
+
+                // Artefact 3
+                Image {
+                    Name=Art3n
+                    Image=GI,Bm.FormShip2.1Art4N
+                    Pos=302,114,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art3a
+                    Image=GI,Bm.FormShip2.1Art4A
+                    Pos=302,114,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art3b
+                    Image=GI,Bm.FormShip2.1Art4R
+                    Pos=302,114,-1
+                    Size=42,35
+                }
+                Image {
+                    Name=Art3off
+                    Image=GI,Bm.FormShip2.1Art4H
+                    Pos=302,114,-1
+                    Size=42,35
+                }
+                Image {
+                    Pos=302,114,-2
+                    Size=42,35
+                    Name=Art3i
+                }
+                Zone {
+                    Pos=302,114,-2
+                    Size=42,35
+                    Name=Art3z
+                    Kind=Circle
+                }
+
+                // Hold 0
+                Image {
+//                  Image=GI,Bm.FormShip.2h0
+                    Pos=128,429,1
+                    Size=30,30
+                    Name=S_0f
+                }
+                Image {
+                    Pos=128,429,0
+                    Size=30,30
+                    Name=S_0i
+                }
+                Zone {
+                    Pos=128,429,0
+                    Size=30,30
+                    Name=S_0z
+                    Kind=Circle
+                }
+                // Hold 1
+                Image {
+//                  Image=GI,Bm.FormShip.2h1
+                    Pos=162,429,1
+                    Size=30,30
+                    Name=S_1f
+                }
+                Image {
+                    Pos=162,429,0
+                    Size=30,30
+                    Name=S_1i
+                }
+                Zone {
+                    Pos=162,429,0
+                    Size=30,30
+                    Name=S_1z
+                    Kind=Circle
+                }
+                // Hold 2
+                Image {
+//                  Image=GI,Bm.FormShip.2h2
+                    Pos=195,429,1
+                    Size=30,30
+                    Name=S_2f
+                }
+                Image {
+                    Pos=195,429,0
+                    Size=30,30
+                    Name=S_2i
+                }
+                Zone {
+                    Pos=195,429,0
+                    Size=30,30
+                    Name=S_2z
+                    Kind=Circle
+                }
+                // Hold 3
+                Image {
+//                  Image=GI,Bm.FormShip.2h3
+                    Pos=229,429,1
+                    Size=30,30
+                    Name=S_3f
+                }
+                Image {
+                    Pos=229,429,0
+                    Size=30,30
+                    Name=S_3i
+                }
+                Zone {
+                    Pos=229,429,0
+                    Size=30,30
+                    Name=S_3z
+                    Kind=Circle
+                }
+                // Hold 4
+                Image {
+//                  Image=GI,Bm.FormShip.2h4
+                    Pos=262,429,1
+                    Size=30,30
+                    Name=S_4f
+                }
+                Image {
+                    Pos=262,429,0
+                    Size=30,30
+                    Name=S_4i
+                }
+                Zone {
+                    Pos=262,429,0
+                    Size=30,30
+                    Name=S_4z
+                    Kind=Circle
+                }
+                // Hold 5
+                Image {
+//                  Image=GI,Bm.FormShip.2h5
+                    Pos=296,429,1
+                    Size=30,30
+                    Name=S_5f
+                }
+                Image {
+                    Pos=296,429,0
+                    Size=30,30
+                    Name=S_5i
+                }
+                Zone {
+                    Pos=296,429,0
+                    Size=30,30
+                    Name=S_5z
+                    Kind=Circle
+                }
+
+                // Info
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=45,105,124
+                    Pos=277,43,0
+                    Size=64,14
+                    AlignX=Center
+                    AlignY=CenterEx
+                    Text=FormShip.IDef //ISize
+                }
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=45,105,124
+                    Pos=16,43,0
+                    Size=70,14
+                    AlignX=Center
+                    AlignY=CenterEx
+                    Text=FormShip.IEmpty
+                }
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=45,105,124
+                    Pos=16,17,0
+                    Size=70,14
+                    AlignX=Center
+                    AlignY=CenterEx
+                    Text=FormShip.IMass
+                }
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=45,105,124
+                    Pos=275,17,0
+                    Size=70,14
+                    AlignX=Center
+                    AlignY=CenterEx
+                    Text=FormShip.ISpeed
+                }
+                Label {
+                    Style=Style.Label.1Normal
+                    TextColor=0,0,0
+                    Pos=277,57,0
+                    Size=64,14
+                    AlignX=Center
+                    AlignY=CenterEx
+                    Name=IDef //ISize
+                }
+                Label {
+                    Style=Style.Label.1Normal
+                    TextColor=0,0,0
+                    Pos=15,57,0
+                    Size=70,14
+                    AlignX=Center
+                    AlignY=CenterEx
+                    Name=IEmpty
+                }
+                Label {
+                    Style=Style.Label.1Normal
+                    TextColor=0,0,0
+                    Pos=16,31,0
+                    Size=70,14
+                    AlignX=Center
+                    AlignY=CenterEx
+                    Name=IMass
+                }
+                Label {
+                    Style=Style.Label.1Normal
+                    TextColor=0,0,0
+                    Pos=275,31,0
+                    Size=70,14
+                    AlignX=Center
+                    AlignY=CenterEx
+                    Name=ISpeed
+                }
+                Panel {
+                    Name=Forsage
+                    Pos=2,156,-1
+                    Size=43,45
+
+                    Image {
+                        Pos=0,0,5
+                        Size=43,45
+                        Image=GI,Bm.FormShip2.1Forsage
+                    }
+
+                    Image {
+                        Name=ForsageLight
+                        Pos=18,4,4
+                        Size=18,17
+                        Image=GI,Bm.FormShip2.1ForsageLight
+                    }
+
+                    GraphButton {
+                        Style=Style.GB.SoundNormal
+
+                        Name=ForsageBut
+
+                        Pos=10,7,3
+                        Size=14,15
+
+                        Kind=Disable
+                        KindHit=Rect
+
+                        ImageNormal=GI,Bm.FormShip2.1ForsageN
+                        ImageNormalA=GI,Bm.FormShip2.1ForsageA
+                        ImageDown=GI,Bm.FormShip2.1ForsageD
+                        ImageDisable=GI,Bm.FormShip2.1ForsageH
+                    }
+                }
+            }
+        }
+        Panel {
+            Pos=78,0,2
+            Size=577,482
+
+            Panel {
+                Pos=320,10
+                Size=255,468
+                Name=PanelRight
+
+                Image {
+                    Pos=0,0,2
+                    Size=255,468
+                    Image=GI,Bm.FormShip2.1Right
+                    Name=RightOpen
+                }
+                Image {
+                    Name=RankI
+                    Pos=148,41,1
+                    Size=73,23
+                }
+                Label {
+                    Style=Style.Label.1Normal
+                    TextColor=0,0,0
+                    Pos=151,56,0
+                    Size=83,35
+                    AlignX=Left
+                    AlignY=CenterEx
+                    WordWrap=True
+                    Name=ShipName
+                }
+                Label {
+                    Style=Style.Label.1Normal
+                    TextColor=0,0,0
+                    Pos=151,93,0
+                    Size=83,17
+                    AlignX=Left
+                    AlignY=CenterEx
+                    WordWrap=True
+                    Name=CharName
+                }
+                Image {
+                    Name=CaptainI
+                    Pos=68,31,4     
+                    Size=77,86
+                }       
+                GAI {
+                    Name=CaptainA
+                    Pos=68,31,3
+                    Size=77,86
+                    PBuf=True
+                    KindX=Center
+                    KindY=Center
+                    TransColor=255,0,255
+                }
+                GraphBuf {
+                    Name=RewardsImg
+                    Pos=72,117,-1
+                    Size=148,18
+                }
+                GraphButton {
+                    Style=Style.GB.SoundNormal
+
+                    Name=Exit
+
+                    Pos=161,438,1
+                    Size=54,31
+
+                    Kind=Normal
+                    KindHit=Rect
+
+                    ImageNormal=GI,Bm.FormShip2.1CloseN
+                    ImageNormalA=GI,Bm.FormShip2.1CloseA
+                    ImageDown=GI,Bm.FormShip2.1CloseD
+                }
+
+                Label {
+                    Font=Font.1Ranger
+                    TextColor=45,105,124
+                    Pos=94,299,0
+                    Size=104,23
+                    AlignX=Center
+                    AlignY=CenterEx
+                    WordWrap=True
+                    Text=FormShip.AddInfo
+                }
+                Image {
+                    Pos=207,312,1
+                    Size=15,16
+                    Image=GI,Bm.SB.1V1_UpH
+                }
+                Image {
+                    Pos=207,407,1
+                    Size=15,16
+                    Image=GI,Bm.SB.1V1_DownH
+                }
+                PanelScrollBar {
+                    Name=PanelAddInfo
+                    Pos=71,327,0
+                    Size=131,98
+
+
+                    StyleBarY=Style.ScrollBar.1V1
+                    ActiveBarY=True
+                    PosAutoBarY=False
+                    RectBarY=207,312,222,423
+                    MoveWorld=True
+                    UnlimitedWorld=False
+                    ExternalSB=True
+                }
+        
+                ////////////////
+                Panel {
+                    Pos=0,0
+                    Size=255,468
+                    Name=Skills
+
+                    Label {
+                        Font=Font.1Ranger
+                        TextColor=45,105,124
+                        Pos=92,135,0
+                        Size=105,12
+                        AlignX=Center
+                        AlignY=CenterEx
+                        WordWrap=True
+                        Text=FormShip.Skills
+                    }
+                    Label {
+                        Font=Font.1Ranger
+                        TextColor=45,105,124
+                        Pos=66,268,0
+                        Size=72,12
+                        AlignX=Right
+                        AlignY=CenterEx
+                        WordWrap=True
+                        Text=FormShip.Points
+                    }
+
+                    Image {
+                        Name=Skill0
+                        Pos=97,155,0
+                        Size=23,34
+                        Image=GI,Bm.FormShip2.1SkillNormal
+                        KindX=Left
+                    }
+                    Panel {
+                        Pos=97,155,-1
+                        Size=23,34
+                        Name=Skill0c
+
+                        Image {
+                            Name=Skill0p
+                            Pos=0,0,0
+                            Size=23,34
+                            Image=GI,Bm.FormShip2.1SkillPositive
+                            KindX=Left
+                        }
+                        Image {
+                            Name=Skill0n
+                            Pos=0,0,0
+                            Size=23,34
+                            Image=GI,Bm.FormShip2.1SkillNegative
+                            KindX=Left
+                        }
+                    }
+                    Zone {
+                        Pos=74,155,0
+                        Size=45,51
+                        Name=Skill0z
+                        Kind=Rect
+                    }
+                    Image {
+                        Name=Skill1
+                        Pos=145,155,0
+                        Size=23,34
+                        Image=GI,Bm.FormShip2.1SkillNormal
+                        KindX=Left
+                    }
+                    Panel {
+                        Pos=145,155,-1
+                        Size=23,34
+                        Name=Skill1c
+
+                        Image {
+                            Name=Skill1p
+                            Pos=0,0,0
+                            Size=23,34
+                            Image=GI,Bm.FormShip2.1SkillPositive
+                            KindX=Left
+                        }
+                        Image {
+                            Name=Skill1n
+                            Pos=0,0,0
+                            Size=23,34
+                            Image=GI,Bm.FormShip2.1SkillNegative
+                            KindX=Left
+                        }
+                    }
+                    Zone {
+                        Pos=122,155,0
+                        Size=45,51
+                        Name=Skill1z
+                        Kind=Rect
+                    }
+                    Image {
+                        Name=Skill2
+                        Pos=192,155,0
+                        Size=23,34
+                        Image=GI,Bm.FormShip2.1SkillNormal
+                        KindX=Left
+                    }
+                    Panel {
+                        Pos=192,155,-1
+                        Size=23,34
+                        Name=Skill2c
+
+                        Image {
+                            Name=Skill2p
+                            Pos=0,0,0
+                            Size=23,34
+                            Image=GI,Bm.FormShip2.1SkillPositive
+                            KindX=Left
+                        }
+                        Image {
+                            Name=Skill2n
+                            Pos=0,0,0
+                            Size=23,34
+                            Image=GI,Bm.FormShip2.1SkillNegative
+                            KindX=Left
+                        }
+                    }
+                    Zone {
+                        Pos=170,155,0
+                        Size=45,51
+                        Name=Skill2z
+                        Kind=Rect
+                    }
+                    Image {
+                        Name=Skill3
+                        Pos=97,208,0
+                        Size=23,34
+                        Image=GI,Bm.FormShip2.1SkillNormal
+                        KindX=Left
+                    }
+                    Panel {
+                        Pos=97,208,-1
+                        Size=23,34
+                        Name=Skill3c
+
+                        Image {
+                            Name=Skill3p
+                            Pos=0,0,0
+                            Size=23,34
+                            Image=GI,Bm.FormShip2.1SkillPositive
+                            KindX=Left
+                        }
+                        Image {
+                            Name=Skill3n
+                            Pos=0,0,0
+                            Size=23,34
+                            Image=GI,Bm.FormShip2.1SkillNegative
+                            KindX=Left
+                        }
+                    }
+                    Zone {
+                        Pos=74,208,0
+                        Size=45,51
+                        Name=Skill3z
+                        Kind=Rect
+                    }
+                    Image {
+                        Name=Skill4
+                        Pos=145,208,0
+                        Size=23,34
+                        Image=GI,Bm.FormShip2.1SkillNormal
+                        KindX=Left
+                    }
+                    Panel {
+                        Pos=145,208,-1
+                        Size=23,34
+                        Name=Skill4c
+
+                        Image {
+                            Name=Skill4p
+                            Pos=0,0,0
+                            Size=23,34            
+                            Image=GI,Bm.FormShip2.1SkillPositive
+                            KindX=Left
+                        }
+                        Image {
+                            Name=Skill4n
+                            Pos=0,0,0
+                            Size=23,34
+                            Image=GI,Bm.FormShip2.1SkillNegative
+                            KindX=Left
+                        }
+                    }
+                    Zone {
+                        Pos=122,208,0
+                        Size=45,51
+                        Name=Skill4z
+                        Kind=Rect
+                    }
+                    Image {
+                        Name=Skill5
+                        Pos=192,208,0
+                        Size=23,34
+                        Image=GI,Bm.FormShip2.1SkillNormal
+                        KindX=Left
+                    }
+                    Panel {
+                        Pos=192,208,-1
+                        Size=23,34
+                        Name=Skill5c
+
+                        Image {
+                            Name=Skill5p
+                            Pos=0,0,0
+                            Size=23,34
+                            Image=GI,Bm.FormShip2.1SkillPositive
+                            KindX=Left
+                        }
+                        Image {
+                            Name=Skill5n
+                            Pos=0,0,0
+                            Size=23,34
+                            Image=GI,Bm.FormShip2.1SkillNegative
+                            KindX=Left
+                        }
+                    }
+                    Zone {
+                        Pos=170,208,0
+                        Size=45,51
+                        Name=Skill5z
+                        Kind=Rect
+                    }
+                    Label {
+                        Name=SkillFreePoints
+                        Style=Style.Label.1Normal
+                        TextColor=0,0,0
+                        Pos=152,267,0
+                        Size=61,15
+                        AlignX=Center
+                        AlignY=CenterEx
+                    }
+                    GraphButton {
+Style=Style.GB.SoundNormal
+                        Name=Skill0Add
+                        Pos=87,192,-1
+                        Size=14,14
+
+                        Kind=Normal
+                        KindHit=Rect
+
+                        ImageNormal=GI,Bm.FormShip2.1SkillAddN
+                        ImageNormalA=GI,Bm.FormShip2.1SkillAddA
+                        ImageDown=GI,Bm.FormShip2.1SkillAddD
+                    }
+                    GraphButton {
+Style=Style.GB.SoundNormal
+                        Name=Skill1Add
+                        Pos=134,192,-1
+                        Size=14,14
+
+                        Kind=Normal
+                        KindHit=Rect
+
+                        ImageNormal=GI,Bm.FormShip2.1SkillAddN
+                        ImageNormalA=GI,Bm.FormShip2.1SkillAddA
+                        ImageDown=GI,Bm.FormShip2.1SkillAddD
+                    }
+                    GraphButton {
+Style=Style.GB.SoundNormal
+                        Name=Skill2Add
+                        Pos=182,192,-1
+                        Size=14,14
+
+                        Kind=Normal
+                        KindHit=Rect
+
+                        ImageNormal=GI,Bm.FormShip2.1SkillAddN
+                        ImageNormalA=GI,Bm.FormShip2.1SkillAddA
+                        ImageDown=GI,Bm.FormShip2.1SkillAddD
+                    }
+                    GraphButton {
+Style=Style.GB.SoundNormal
+                        Name=Skill3Add
+                        Pos=87,245,-1
+                        Size=14,14
+
+                        Kind=Normal
+                        KindHit=Rect
+
+                        ImageNormal=GI,Bm.FormShip2.1SkillAddN
+                        ImageNormalA=GI,Bm.FormShip2.1SkillAddA
+                        ImageDown=GI,Bm.FormShip2.1SkillAddD
+                    }
+                    GraphButton {
+Style=Style.GB.SoundNormal
+                        Name=Skill4Add
+                        Pos=134,245,-1
+                        Size=14,14
+
+                        Kind=Normal
+                        KindHit=Rect
+
+                        ImageNormal=GI,Bm.FormShip2.1SkillAddN
+                        ImageNormalA=GI,Bm.FormShip2.1SkillAddA
+                        ImageDown=GI,Bm.FormShip2.1SkillAddD
+                    }
+                    GraphButton {
+Style=Style.GB.SoundNormal
+                        Name=Skill5Add
+                        Pos=182,245,-1
+                        Size=14,14
+
+                        Kind=Normal
+                        KindHit=Rect
+
+                        ImageNormal=GI,Bm.FormShip2.1SkillAddN
+                        ImageNormalA=GI,Bm.FormShip2.1SkillAddA
+                        ImageDown=GI,Bm.FormShip2.1SkillAddD
+                    }
+                }
+            }
+        }
+    }
+
+///////////////////////////////////////////////////////////////
+    Window {
+        Style=Style.Window.1Item
+        Pos=7,7,5
+        Size=205,125
+        Name=PII
+        Active=False
+
+        Image {
+            Pos=161,95,8
+            Size=27,27
+            Name=EmRace
+        }
+
+        Image {
+            Pos=12,10,8
+            Size=34,34
+            Name=InfoImage
+        }
+
+        GraphBuf {
+            Pos=12,10,8
+            Size=34,34
+            Name=InfoImage2
+        }
+
+        Panel {
+            Pos=50,2,11
+            Size=78,12
+
+            Image {
+                Image=GI,Bm.FormNote.1BarBack
+                Pos=16,4,3
+                Size=45,3
+            }
+            Panel {
+                Pos=16,4,2
+                Size=45,3
+
+                Image {
+                    Name=InfoDurable
+                    Pos=0,0
+                    Size=48,3
+                    Image=GI,Bm.FormNote.1BarLine
+                }
+            }
+            Image {
+                Image=GI,Bm.FormNote.1BarTop
+                Pos=0,0,1
+                Size=78,12
+            }
+        }
+
+        Label {
+            Pos=50,10,8
+            Size=145,34
+            Name=InfoName
+            Font=Font.1SmallBold //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=57,239,255
+        }
+        Label {
+            Pos=8,47,8
+            Size=188,65
+            Name=InfoText
+            Font=Font.1Small //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+        Label {
+            Pos=48,96,8
+            Size=39,26
+            Name=InfoSize
+            Font=Font.1Normal
+            AlignX=Left
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+        Label {
+            Pos=108,96,8
+            Size=75,26
+            Name=InfoPrice
+            Font=Font.1Normal
+            AlignX=Left
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+    }
+
+///////////////////////////////////////////////////////////////
+    Window {
+        Style=Style.Window.1Simple
+        Name=RankWnd
+        Active=False
+        Pos=315,125,5
+        Size=205,137
+
+        GraphBuf {
+            Pos=12,10,8
+            Size=34,34
+            Name=RankImage
+        }
+        Label {
+            Pos=50,10,8
+            Size=145,34
+            Name=RankName
+            Font=Font.1SmallBold //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=57,239,255
+        }
+        Label {
+            Pos=4,50,8
+            Size=196,75
+            Name=RankText
+            Font=Font.1Small //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+    }
+///////////////////////////////////////////////////////////////
+    Window {
+        Style=Style.Window.1Simple
+        Name=RewardWnd
+        Active=False
+        Pos=400,125,4
+        Size=205,137 //281,152
+
+        GraphBuf {
+            Pos=12,10,8
+            Size=34,34
+            Name=RewardImage
+        }
+        Label {
+            Pos=50,10,8
+            Size=145,34 //185,34
+            Name=RewardName
+            Font=Font.1SmallBold //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=57,239,255
+        }
+        Label {
+            Pos=4,50,8
+            Size=196,75 //273,80
+            Name=RewardText
+            Font=Font.1Small //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+    }
+///////////////////////////////////////////////////////////////
+    Window {
+        Style=Style.Window.1Hull
+        Name=InfoHull
+        Active=False
+        Pos=7,7,5
+        Size=323,153
+
+        Image {
+            Pos=280,115,8
+            Size=35,35
+            Name=InfoHullEmRace
+        }
+
+        Image {
+            Pos=12,10,8
+            Size=34,34
+            Name=InfoHullImage
+        }
+
+        Panel {
+            Pos=11,52,7
+            Size=80,90
+
+            Image {
+                Pos=0,0,9
+                Size=80,90
+                Image=GI,Bm.FormNote.2HP_Bg
+            }
+            Image {
+                Name=InfoHull_Forsage
+                Pos=0,32
+                Size=14,15
+                Image=GI,Bm.FormNote.2HP_Forsage
+            }
+            Image {
+                Name=InfoHull_W1
+                Pos=16,19
+                Size=16,13
+                Image=GI,Bm.FormNote.2HP_W1
+            }
+            Image {
+                Name=InfoHull_W2
+                Pos=33,19
+                Size=15,13
+                Image=GI,Bm.FormNote.2HP_W2
+            }
+            Image {
+                Name=InfoHull_W3
+                Pos=48,19
+                Size=18,13
+                Image=GI,Bm.FormNote.2HP_W3
+            }
+            Image {
+                Name=InfoHull_W4
+                Pos=24,6
+                Size=16,13
+                Image=GI,Bm.FormNote.2HP_W4
+            }
+            Image {
+                Name=InfoHull_W5
+                Pos=41,6
+                Size=15,13
+                Image=GI,Bm.FormNote.2HP_W5
+            }
+            Image {
+                Name=InfoHull_A1
+                Pos=4,70
+                Size=13,8
+                Image=GI,Bm.FormNote.2HP_A1
+            }
+            Image {
+                Name=InfoHull_A2
+                Pos=65,70
+                Size=11,8
+                Image=GI,Bm.FormNote.2HP_A2
+            }
+            Image {
+                Name=InfoHull_A3
+                Pos=4,25
+                Size=13,7
+                Image=GI,Bm.FormNote.2HP_A3
+            }
+            Image {
+                Name=InfoHull_A4
+                Pos=64,25
+                Size=12,7
+                Image=GI,Bm.FormNote.2HP_A4
+            }
+            Image {
+                Name=InfoHull_Engine
+                Pos=9,36
+                Size=17,14
+                Image=GI,Bm.FormNote.2HP_Engine
+            }
+            Image {
+                Name=InfoHull_FuelTanks
+                Pos=9,52
+                Size=17,14
+                Image=GI,Bm.FormNote.2HP_FuelTanks
+            }
+            Image {
+                Name=InfoHull_Scaner
+                Pos=55,36
+                Size=17,14
+                Image=GI,Bm.FormNote.2HP_Scaner
+            }
+            Image {
+                Name=InfoHull_Radar
+                Pos=55,52
+                Size=17,14
+                Image=GI,Bm.FormNote.2HP_Radar
+            }
+            Image {
+                Name=InfoHull_RepairRobot
+                Pos=15,70
+                Size=17,13
+                Image=GI,Bm.FormNote.2HP_RepairRobot
+            }
+            Image {
+                Name=InfoHull_CargoHook
+                Pos=33,70
+                Size=15,13
+                Image=GI,Bm.FormNote.2HP_CargoHook
+            }
+            Image {
+                Name=InfoHull_DefGenerator
+                Pos=48,70
+                Size=18,13
+                Image=GI,Bm.FormNote.2HP_DefGenerator
+            }
+        }
+
+        Panel {
+            Pos=50,2,11
+            Size=78,12
+
+            Image {
+                Image=GI,Bm.FormNote.1BarBack
+                Pos=16,4,3
+                Size=45,3
+            }
+            Panel {
+                Pos=16,4,2
+                Size=45,3
+
+                Image {
+                    Name=InfoHullDurable
+                    Pos=0,0
+                    Size=48,3
+                    Image=GI,Bm.FormNote.1BarLine
+                }
+            }
+            Image {
+                Image=GI,Bm.FormNote.1BarTop
+                Pos=0,0,1
+                Size=78,12
+            }
+        }
+
+        Label {
+            Pos=50,10,8
+            Size=225,34
+            Name=InfoHullName
+            Font=Font.1SmallBold //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=57,239,255
+        }
+        Label {
+            Pos=10,60,8
+            Size=240,83
+
+            Name=InfoHullText
+            Font=Font.1Small //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+        Label {
+            Pos=143,121,8
+            Size=55,28
+            Name=InfoHullSize
+            Font=Font.1Normal
+            AlignX=Left
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+        Label {
+            Pos=207,121,8
+            Size=65,28
+            Name=InfoHullPrice
+            Font=Font.1Normal
+            AlignX=Left
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+    }
+}

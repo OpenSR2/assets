@@ -1,0 +1,655 @@
+RadioBeacon {
+    1Image=Bm.ItemsUseless.1RadioBeacon_c
+    2Image=Bm.ItemsUseless.2RadioBeacon_c
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+OperatedProbe {
+    1Image=Bm.ItemsUseless.1OperatedProbe_c
+    2Image=Bm.ItemsUseless.2OperatedProbe_c
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+NodB {
+    1Image=Bm.Nod.1B_c
+    2Image=Bm.Nod.2B_c
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+NodG {
+    1Image=Bm.Nod.1G_c
+    2Image=Bm.Nod.2G_c
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+NodE {
+    1Image=Bm.Nod.1E_c
+    2Image=Bm.Nod.2E_c
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+Bomb {
+    1Image=Bm.Container.1Bomb
+    2Image=Bm.Container.2Bomb
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+ExampleAsteroid {
+    1Image=Bm.Asteroid.02
+    2Image=Bm.Asteroid.02
+    ImageMap=Bm.Asteroid.Map
+    PosZ=Asteroid
+}
+
+Cistern {
+    1Image=Bm.Container.1Cistern
+    2Image=Bm.Container.2Cistern
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c0_0 {
+    1Image=Bm.Container.16_0
+    2Image=Bm.Container.20_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c0_1 {
+    1Image=Bm.Container.16_1
+    2Image=Bm.Container.20_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c0_2 {
+    1Image=Bm.Container.16_0
+    2Image=Bm.Container.20_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c0_3 {
+    1Image=Bm.Container.16_1
+    2Image=Bm.Container.20_3
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c0_4 {
+    1Image=Bm.Container.16_0
+    2Image=Bm.Container.20_4
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c0_5 {
+    1Image=Bm.Container.16_1
+    2Image=Bm.Container.20_5
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c0_6 {
+    1Image=Bm.Container.16_0
+    2Image=Bm.Container.20_6
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c0_7 {
+    1Image=Bm.Container.16_1
+    2Image=Bm.Container.20_7
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c1_0 {
+    1Image=Bm.Container.20_0
+    2Image=Bm.Container.25_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c1_1 {
+    1Image=Bm.Container.20_1
+    2Image=Bm.Container.25_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c1_2 {
+    1Image=Bm.Container.20_2
+    2Image=Bm.Container.25_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c1_3 {
+    1Image=Bm.Container.20_3
+    2Image=Bm.Container.25_3
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c1_4 {
+    1Image=Bm.Container.20_4
+    2Image=Bm.Container.25_4
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c1_5 {
+    1Image=Bm.Container.20_5
+    2Image=Bm.Container.25_5
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c1_6 {
+    1Image=Bm.Container.20_6
+    2Image=Bm.Container.25_6
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c1_7 {
+    1Image=Bm.Container.20_7
+    2Image=Bm.Container.25_7
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c2_0 {
+    1Image=Bm.Container.25_0
+    2Image=Bm.Container.32_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c2_1 {
+    1Image=Bm.Container.25_1
+    2Image=Bm.Container.32_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c2_2 {
+    1Image=Bm.Container.25_2
+    2Image=Bm.Container.32_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c2_3 {
+    1Image=Bm.Container.25_3
+    2Image=Bm.Container.32_3
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c2_4 {
+    1Image=Bm.Container.25_4
+    2Image=Bm.Container.32_4
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c2_5 {
+    1Image=Bm.Container.25_5
+    2Image=Bm.Container.32_5
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c2_6 {
+    1Image=Bm.Container.25_6
+    2Image=Bm.Container.32_6
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c2_7 {
+    1Image=Bm.Container.25_7
+    2Image=Bm.Container.32_7
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c3_0 {
+    1Image=Bm.Container.32_0
+    2Image=Bm.Container.38_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c3_1 {
+    1Image=Bm.Container.32_1
+    2Image=Bm.Container.38_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c3_2 {
+    1Image=Bm.Container.32_2
+    2Image=Bm.Container.38_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c3_3 {
+    1Image=Bm.Container.32_3
+    2Image=Bm.Container.38_3
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c3_4 {
+    1Image=Bm.Container.32_4
+    2Image=Bm.Container.38_4
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c3_5 {
+    1Image=Bm.Container.32_5
+    2Image=Bm.Container.38_5
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c3_6 {
+    1Image=Bm.Container.32_6
+    2Image=Bm.Container.38_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+c3_7 {
+    1Image=Bm.Container.32_7
+    2Image=Bm.Container.38_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+k0 {
+    1Image=Bm.Container.k16
+    2Image=Bm.Container.k20
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+k1 {
+    1Image=Bm.Container.k20
+    2Image=Bm.Container.k25
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+k2 {
+    1Image=Bm.Container.k25
+    2Image=Bm.Container.k32
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+k3 {
+    1Image=Bm.Container.k32
+    2Image=Bm.Container.k38
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+db0 {
+    1Image=Bm.Container.db16
+    2Image=Bm.Container.db20
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+db1 {
+    1Image=Bm.Container.db20
+    2Image=Bm.Container.db25
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+db2 {
+    1Image=Bm.Container.db25
+    2Image=Bm.Container.db32
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+db3 {
+    1Image=Bm.Container.db32
+    2Image=Bm.Container.db38
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+dk0 {
+    1Image=Bm.Container.dk16
+    2Image=Bm.Container.dk20
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+dk1 {
+    1Image=Bm.Container.dk20
+    2Image=Bm.Container.dk25
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+dk2 {
+    1Image=Bm.Container.dk25
+    2Image=Bm.Container.dk32
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+dk3 {
+    1Image=Bm.Container.dk32
+    2Image=Bm.Container.dk38
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+dt0 {
+    1Image=Bm.Container.dt16
+    2Image=Bm.Container.dt20
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+dt1 {
+    1Image=Bm.Container.dt20
+    2Image=Bm.Container.dt25
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+dt2 {
+    1Image=Bm.Container.dt25
+    2Image=Bm.Container.dt32
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+dt3 {
+    1Image=Bm.Container.dt32
+    2Image=Bm.Container.dt38
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+m0_0 {
+    1Image=Bm.Mineral.16_0
+    2Image=Bm.Mineral.20_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+m0_1 {
+    1Image=Bm.Mineral.16_1
+    2Image=Bm.Mineral.20_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+m0_2 {
+    1Image=Bm.Mineral.16_2
+    2Image=Bm.Mineral.20_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+m1_0 {
+    1Image=Bm.Mineral.20_0
+    2Image=Bm.Mineral.25_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+m1_1 {
+    1Image=Bm.Mineral.20_1
+    2Image=Bm.Mineral.25_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+m1_2 {
+    1Image=Bm.Mineral.20_2
+    2Image=Bm.Mineral.25_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+m2_0 {
+    1Image=Bm.Mineral.25_0
+    2Image=Bm.Mineral.32_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+m2_1 {
+    1Image=Bm.Mineral.25_1
+    2Image=Bm.Mineral.32_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+m2_2 {
+    1Image=Bm.Mineral.25_2
+    2Image=Bm.Mineral.32_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+p0_0 {
+    1Image=Bm.Protoplasm.16_0
+    2Image=Bm.Protoplasm.20_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+p0_1 {
+    1Image=Bm.Protoplasm.16_1
+    2Image=Bm.Protoplasm.20_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+p0_2 {
+    1Image=Bm.Protoplasm.16_2
+    2Image=Bm.Protoplasm.20_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+p1_0 {
+    1Image=Bm.Protoplasm.20_0
+    2Image=Bm.Protoplasm.25_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+p1_1 {
+    1Image=Bm.Protoplasm.20_1
+    2Image=Bm.Protoplasm.25_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+p1_2 {
+    1Image=Bm.Protoplasm.20_2
+    2Image=Bm.Protoplasm.25_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+p2_0 {
+    1Image=Bm.Protoplasm.25_0
+    2Image=Bm.Protoplasm.32_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+p2_1 {
+    1Image=Bm.Protoplasm.25_1
+    2Image=Bm.Protoplasm.32_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+p2_2 {
+    1Image=Bm.Protoplasm.25_2
+    2Image=Bm.Protoplasm.32_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n0_0 {
+    1Image=Bm.Node.16_0
+    2Image=Bm.Node.20_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n0_1 {
+    1Image=Bm.Node.16_1
+    2Image=Bm.Node.20_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n0_2 {
+    1Image=Bm.Node.16_2
+    2Image=Bm.Node.20_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n0_3 {
+    1Image=Bm.Node.16_3
+    2Image=Bm.Node.20_3
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n0_4 {
+    1Image=Bm.Node.16_4
+    2Image=Bm.Node.20_4
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n1_0 {
+    1Image=Bm.Node.20_0
+    2Image=Bm.Node.25_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n1_1 {
+    1Image=Bm.Node.20_1
+    2Image=Bm.Node.25_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n1_2 {
+    1Image=Bm.Node.20_2
+    2Image=Bm.Node.25_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n1_3 {
+    1Image=Bm.Node.20_3
+    2Image=Bm.Node.25_3
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n1_4 {
+    1Image=Bm.Node.20_4
+    2Image=Bm.Node.25_4
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n2_0 {
+    1Image=Bm.Node.25_0
+    2Image=Bm.Node.32_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n2_1 {
+    1Image=Bm.Node.25_1
+    2Image=Bm.Node.32_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n2_2 {
+    1Image=Bm.Node.25_2
+    2Image=Bm.Node.32_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n2_3 {
+    1Image=Bm.Node.32_3
+    2Image=Bm.Node.38_3
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n2_4 {
+    1Image=Bm.Node.32_4
+    2Image=Bm.Node.38_4
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n3_0 {
+    1Image=Bm.Node.32_0
+    2Image=Bm.Node.38_0
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n3_1 {
+    1Image=Bm.Node.32_1
+    2Image=Bm.Node.38_1
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n3_2 {
+    1Image=Bm.Node.32_2
+    2Image=Bm.Node.38_2
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n3_3 {
+    1Image=Bm.Node.32_3
+    2Image=Bm.Node.38_3
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}
+
+n3_4 {
+    1Image=Bm.Node.32_4
+    2Image=Bm.Node.38_4
+    ImageMap=Bm.Container.Map0
+    PosZ=Item
+}

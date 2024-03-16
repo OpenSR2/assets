@@ -1,0 +1,6 @@
+Image=Image\Image.txt ^{
+}
+Panel=Panel\Panel.txt ^{
+}
+Pos=349,-220,MapPartner
+Size=163,55

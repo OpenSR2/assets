@@ -1,0 +1,3 @@
+Name=BGImageRace
+Pos=78,333,9
+Size=605,56

@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Pos=12,315,0
+Size=312,31
+Text=FormInfo.MMFooter
+TextColor=0,0,0
+WordWrap=True

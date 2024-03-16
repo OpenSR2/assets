@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=Any
+InFear=Yes
+PlayerStatus=Pirate,Warrior
+Priority=5
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Transport,Liner,Diplomat
+ShipType=Pirate
+Text=«дорово, <Player>! ћен€ конкретно достал корабль <ShipBad>. ќн преследует мен€, и € не знаю, куда мне от него детьс€.  онечно, € сам виноват, полез на него с дуру, да что уж теперь говорить...
+Text=я слышал, ты неплохой малый, крутой во€ка! ћожет, ты к нему зайдешь с тылу? ј его добро потом поделим!

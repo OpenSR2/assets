@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormMenu2.2SaveH
+ImageDown=GI,Bm.FormMenu2.2SaveD
+ImageNormal=GI,Bm.FormMenu2.2SaveN
+ImageNormalA=GI,Bm.FormMenu2.2SaveA
+Kind=Normal
+KindHit=Rect
+Name=Save
+Pos=328,121,-3
+Size=48,50
+Style=Style.GB.SoundNormal

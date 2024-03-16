@@ -1,0 +1,4 @@
+Image=GI,Bm.Micromoduls.1MM3_Set
+Name=S_RepairRobot_0Set
+Pos=70,357,-2
+Size=27,28

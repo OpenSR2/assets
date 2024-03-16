@@ -1,0 +1,11 @@
+AverageRadius=0380
+AverageSize=030
+DamageSet=Energy,Decelerate,Drain
+MaxDamage=010
+MinDamage=005
+MiningFactor=1
+ShotType=Normal
+Speed=085
+TechLevel=04
+kCost=03.0
+mWeaponDamage=1.00,1.10,1.15,1.20,1.25,1.30,1.40,1.50

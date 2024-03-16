@@ -1,0 +1,70 @@
+00 {
+	Image=Bm.Planet.T.Spu00
+}
+01 {
+	Image=Bm.Planet.T.Spu01
+}
+02 {
+	Image=Bm.Planet.T.Spu02
+}
+03 {
+	Image=Bm.Planet.T.Spu03
+}
+04 {
+	Image=Bm.Planet.T.Spu04
+}
+05 {
+	Image=Bm.Planet.T.Spu05
+}
+06 {
+	Image=Bm.Planet.T.Spu06
+}
+07 {
+	Image=Bm.Planet.T.Spu07
+}
+08 {
+	Image=Bm.Planet.T.Spu08
+}
+09 {
+	Image=Bm.Planet.T.Spu09
+}
+10 {
+	Image=Bm.Planet.T.Spu10
+}
+11 {
+	Image=Bm.Planet.T.Spu11
+}
+12 {
+	Image=Bm.Planet.T.Spu12
+}
+13 {
+	Image=Bm.Planet.T.Spu13
+}
+14 {
+	Image=Bm.Planet.T.Spu14
+}
+15 {
+	Image=Bm.Planet.T.Spu15
+}
+16 {
+	Image=Bm.Planet.T.Spu16
+}
+
+17 {
+	Image=Bm.Planet.T.Spu17
+}
+18 {
+	Image=Bm.Planet.T.Spu18
+}
+
+Moon {
+	Image=Bm.Planet.T.Moon
+}
+
+Mars0 {
+	Image=Bm.Planet.T.Mars0
+}
+
+Mars1 {
+	Image=Bm.Planet.T.Mars1
+}

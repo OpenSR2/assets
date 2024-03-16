@@ -1,0 +1,9 @@
+AlignX=Left
+AlignY=Top
+Frame=[90,0-30]
+Image=Bm.AnimA
+ImageFirst=Bm.AnimI
+Name=TempGAI0
+PBuf=True
+Pos=0,0,-2
+Size=1024,768

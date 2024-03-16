@@ -1,0 +1,16 @@
+Artefact=2
+Cost=140
+Def=1
+Droid=0
+Forsage=0
+Hook=0
+Name=Ябуша
+Probability=10
+Race=Peleng
+Radar=0
+Scaner=0
+ShipType=Ranger,Warrior
+Size=120
+Text=Мощный корпус, который не оставляет врагам ни единого шанса. Размер корабля позволяет содержать внутри грязевой бассейн.
+Weapon=1
+Year=30

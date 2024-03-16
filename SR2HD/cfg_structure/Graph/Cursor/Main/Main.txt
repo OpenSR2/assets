@@ -1,0 +1,2 @@
+Image=GAI,Bm.Cursor.Main
+Sme=0,0

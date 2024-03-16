@@ -1,0 +1,132 @@
+Border=0,0,1024,768
+
+Panel {
+	Pos=0,0
+    Size=1024,768
+	Name=MainPanel
+
+	GraphBuf {
+		Name=BGBuf
+		Pos=0,0,9
+		Size=1024,768
+	}
+
+	Window {
+		Style=Style.Window.2MessageBox
+		Name=RewardPanel
+		Active=True
+		Pos=270,50,0
+		Size=485,600
+
+		Panel {
+			Pos=30,30,5
+			Size=590,580
+
+			Frame {
+				Name=RewardRect
+				Kind=Rect
+				Pos=0,0,3
+				Size=410,402
+				Color=0,0,0
+				ColorFill=0,0,128
+				Fill=True
+			}
+			
+			PanelScrollBar {
+				Name=PTable
+				Pos=2,2,0
+				Size=400,400
+
+				StyleBarY=Style.ScrollBar.2V1
+				ActiveBarY=True
+				PosAutoBarY=False
+				RectBarY=420,40,440,400
+				MoveWorld=True
+				UnlimitedWorld=False
+				ExternalSB=True
+			}
+
+			Label {
+				Name=InfoZag
+				Style=Style.Label.2Normal
+				Pos=0,420,0
+				Size=420,30
+				AlignX=Center
+				AlignY=Top
+				WordWrap=True
+				TextColor=0,0,255
+			}
+
+			Label {
+				Name=Info
+				Style=Style.Label.2Normal
+				Pos=0,435,0
+				Size=420,100
+				AlignX=Center
+				AlignY=Top
+				WordWrap=True
+				TextColor=0,0,0
+			}
+		}
+
+		GraphButton {
+			Style=Style.GB.SoundNormal
+
+			Name=Sub
+			Pos=100,550,1
+			Size=21,21
+
+			Kind=Disable
+			KindHit=Graph
+			UpOnlyDown=True
+
+			ImageNormal=GI,Bm.FormCount2.2SubN
+			ImageNormalA=GI,Bm.FormCount2.2SubA
+			ImageDown=GI,Bm.FormCount2.2SubD
+			ImageDisable=GI,Bm.FormCount2.2SubH
+		}
+
+		Label {
+			Name=RewardCount
+			Pos=125,550,5
+			Size=35,21
+			Font=Font.2Normal
+			TextColor=0,0,0
+			AlignX=Center
+			AlignY=CenterEx
+		}
+
+		GraphButton {
+			Style=Style.GB.SoundNormal
+
+			Name=Add
+			Pos=160,550,1
+			Size=21,21
+
+			Kind=Disable
+			KindHit=Graph
+			UpOnlyDown=True
+
+			ImageNormal=GI,Bm.FormCount2.2AddN
+			ImageNormalA=GI,Bm.FormCount2.2AddA
+			ImageDown=GI,Bm.FormCount2.2AddD
+			ImageDisable=GI,Bm.FormCount2.2AddH
+		}
+
+		GraphButton {
+			Style=Style.GB.SoundNormal
+
+			Name=ButExit
+			
+			Pos=225,550,1
+			Size=48,21
+
+			Kind=Normal
+			KindHit=Graph
+
+			ImageNormal=GI,Bm.FormMessageBox.2CancelN
+			ImageNormalA=GI,Bm.FormMessageBox.2CancelA
+			ImageDown=GI,Bm.FormMessageBox.2CancelD
+		}
+	}
+}

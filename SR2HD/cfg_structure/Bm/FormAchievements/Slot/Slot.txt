@@ -1,0 +1,2 @@
+Active=DATA\FormAchievements\BG_03.gi
+Inactive=DATA\FormAchievements\BG_06.gi

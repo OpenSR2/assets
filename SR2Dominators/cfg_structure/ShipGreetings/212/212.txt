@@ -1,0 +1,8 @@
+FlyType=ToStar
+Goods=Minerals
+Relations=Good,Best
+ShipHaveGoods=No
+ShipTurnBeforeEndOrder=7,8,9,Far
+ShipType=Transport
+Text=ћне далековато лететь до точки гиперперехода, и € всегда рад поговорить с тобой, <Player>.
+Text=—ейчас сижу и рассчитываю, сколько минералов мне нужно будет купить в системе <ToStar>, чтобы за раз заработать на апгрейд двигател€.

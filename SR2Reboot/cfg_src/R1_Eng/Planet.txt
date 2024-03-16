@@ -1,0 +1,164 @@
+
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+	Name=MainPanel
+
+	Panel=cfg\R1\PanelMain.txt {
+		Pos=0,0,1
+	}
+	Panel=cfg\R1\PanelPlanet.txt {
+		Pos=344,541,1
+	}
+	Panel=cfg\R1\PanelLoad.txt {
+		Pos=0,0,-1000
+	}
+
+    Image {
+		Name=BGCity
+		Active=True
+		Pos=0,0,9
+		Size=800,600
+	}
+
+	Window {
+		Style=Style.Window.1Simple
+		Name=PanelInfo
+		Active=True
+		Pos=720,10,2
+		Size=300,200
+
+//		ShrLight {
+//			Name=PanelInfo_SL
+//			Pos=0,0,9
+//			Size=800,600
+//			ShrLight=1
+//		}
+
+		GraphBuf {
+			Name=PanelInfo_Image
+			Pos=29,27,8
+			Size=34,34
+			Sme=17,17
+		}
+
+		Image {
+			Name=PanelInfo_Race
+			Pos=25,14,7
+			Size=40,40
+		}
+
+		Label {
+			Name=PanelInfo_Name
+			//Style=Style.Label.1SmallBold //Normal
+			Font=Font.1SmallBold
+			Pos=50,10,8
+			Size=145,34
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=57,239,255
+		}
+		Label {
+			Name=PanelInfo_Text
+			//Style=Style.Label.1Small //Normal
+			Font=Font.1Small
+			Pos=10,10,8
+			Size=280,180
+			AlignX=Auto
+			AlignY=Auto
+			WordWrap=False
+			TextColor=255,255,255
+		}
+	}
+
+//    TextButton {
+//		Name=SearchArtefact
+//		Style=Style.Button.2NoTrans
+//		Pos=670,270,2
+//		Size=120,20
+//		Caption=Begin quest
+//	}
+
+//	GAI {
+//		Name=SearchArtefact
+//		Pos=701,354,2
+//		Size=75,75
+//		Help=Help.ButSearchArtefact
+//	}
+	Window {
+		Style=Style.Window.1Simple
+		Name=QuestInfo
+		Active=True
+		Pos=720,10,8
+		Size=205,137//300,200
+
+		Image {
+	        Image=GI,Bm.FormPlanet.1QuestIcon
+			Pos=29,27,8
+			Size=34,34
+			Sme=17,17
+		}
+
+		Label {
+			Name=QuestInfo_Name
+			//Style=Style.Label.1SmallBold //Normal
+			Font=Font.1SmallBold
+			Pos=50,10,8
+			Size=145,34
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=57,239,255
+		}
+		Label {
+			Name=QuestInfo_Text
+			//Style=Style.Label.1Small //Normal
+			Font=Font.1Small
+			Pos=4,50,8
+			Size=196,75
+			AlignX=Auto
+			AlignY=Auto
+			WordWrap=False
+			TextColor=255,255,255
+		}
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=QuestInfo_Run
+            Pos=0,0,8
+            Size=91,17
+
+            KindHit=Rect
+            Kind=Normal
+
+            ImageNormal=GI,Bm.FormPlanet.1QuestButN
+            ImageNormalA=GI,Bm.FormPlanet.1QuestButA
+            ImageDown=GI,Bm.FormPlanet.1QuestButD
+
+            Font=Font.1Ranger
+            Caption=PlanetQuest.StartText.QuestBegin
+            CaptionColorNormal=0,0,0
+            CaptionColorNormalA=0,0,0
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionShadowColorNormal=151,225,238
+            CaptionShadowColorNormalA=151,225,238
+            CaptionShadowColorDown=151,225,238
+            CaptionShadowColorDownA=151,225,238
+			CaptionShadow=1
+            CaptionSme=0,-2,1,-1
+
+            Help=Help.ButSearchArtefact
+        }
+	}
+
+//    TextButton {
+//		Name=TestSearchArtefact
+//		Style=Style.Button.2NoTrans
+//		Pos=670,300,2
+//		Size=120,20
+//		Caption=Test quest
+//	}
+}

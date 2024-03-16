@@ -1,0 +1,8 @@
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Panel=Panel[2]\Panel.txt ^{
+}
+Pos=100,0,4
+Size=840,617

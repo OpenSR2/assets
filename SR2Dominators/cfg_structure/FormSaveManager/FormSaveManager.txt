@@ -1,0 +1,16 @@
+AutoSave=Автоматическое сохранение
+Cancel=Отменить
+CaptionLoad=Загрузить игру
+CaptionSave=Сохранить игру
+DateFormatStr=(hh:nn, dd.mm.yyyy)
+Delete=Удалить
+Load=Загрузить
+LoadError=Ошибка загрузки игры
+Loading=З А Г Р У З К А
+New=Новое сохранение
+QueryDelete=Удалить сохраненную игру?
+Save=Сохранить
+SaveError=Ошибка сохранения игры
+SaveInPlanet=Планета <Planet>
+SaveInShip=<ShipName>
+SaveInSpace=Cистема <Star>

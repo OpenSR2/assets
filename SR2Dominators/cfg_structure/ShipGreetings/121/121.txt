@@ -1,0 +1,11 @@
+FlyType=ToPlanet
+InFear=Yes
+Priority=100
+Relations=Bad,Normal,Good
+ShipBadFlyToShip=Any
+ShipRace=Maloc
+ShipRaceIsPlayerRace=No
+ShipStructure=Mini,Small,Average,Big
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Опасность, враги повсюду! Но малокские корабли никогда не отступают! Лишь изредка нам приходится совершать посадки на планеты, чтобы заправиться и пожрать. Сейчас как раз именно такой случай, а потом я всем покажу.
+Text=Ты чего ухмыляешься, <Player>? Смотри, а то ведь я твою рожу голыми руками на дюзу натянуть могу. Мы, малоки, не любим, когда над нами смеются.

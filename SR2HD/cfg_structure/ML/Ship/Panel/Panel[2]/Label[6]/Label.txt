@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Name=FullRepareSum
+Pos=2,117,4
+Size=145,20
+TextColor=0,0,0
+WordWrap=True

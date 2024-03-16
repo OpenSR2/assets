@@ -1,0 +1,17 @@
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+Name=MainPanel
+PanelScrollBar=PanelScrollBar\PanelScrollBar.txt ^{
+}
+PanelScrollBar1=PanelScrollBar1\PanelScrollBar1.txt ^{
+}
+Pos=26,-20,97
+Size=973,740

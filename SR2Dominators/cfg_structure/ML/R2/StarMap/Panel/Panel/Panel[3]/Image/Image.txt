@@ -1,0 +1,4 @@
+Image=GI,Bm.PanelSpace2.2Duty
+Name=MapPartnerDuty
+Pos=5,5,-1
+Size=16,12

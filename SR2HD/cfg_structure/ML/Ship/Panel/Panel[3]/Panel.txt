@@ -1,0 +1,2 @@
+Name=TestHitPanels
+Pos=0,0

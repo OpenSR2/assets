@@ -1,0 +1,7 @@
+Access=9
+Dif=17
+Genre=доставка груза с элементами квеста
+Group=1
+Image=Bm.PQI.Disk_60
+Length=0
+Name=Диск

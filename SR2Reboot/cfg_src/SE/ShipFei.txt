@@ -1,0 +1,145 @@
+///////////////////////////////////////////////////////////////
+Ranger {
+	SizeImage=128,128	
+	SmeImage=64,64		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=58,102
+	Tail2=64,102
+
+	1ImageP=GI,Bm.ShipP.1FeiR
+	2ImageP=GI,Bm.ShipP.2FeiR
+	Image=Bm.Ship.FeiR
+	ImageS=Bm.Ship.FeiRs
+
+	Anim {
+    	Normal=2,[80,0-49]
+	    0=1,[80,50-99]
+	}
+	AnimS {
+	    Normal=2,[80,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Warrior {
+	SizeImage=128,128	
+	SmeImage=64,64		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=56,110
+	Tail2=73,110
+
+	1ImageP=GI,Bm.ShipP.1FeiW
+	2ImageP=GI,Bm.ShipP.2FeiW
+	Image=Bm.Ship.FeiW
+	ImageS=Bm.Ship.FeiWs
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-75][70,26-28][70,76-96]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Pirate {
+	SizeImage=128,128	
+	SmeImage=64,64		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=64,93
+
+	1ImageP=GI,Bm.ShipP.1FeiP
+	2ImageP=GI,Bm.ShipP.2FeiP
+	Image=Bm.Ship.FeiP
+	ImageS=Bm.Ship.FeiPs
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Transport {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1FeiT
+	2ImageP=GI,Bm.ShipP.2FeiT
+	Image=Bm.Ship.FeiT
+	ImageS=Bm.Ship.FeiTs
+
+	Anim {
+    	Normal=2,[80,0-49]
+	    0=1,[80,50-99]
+	}
+	AnimS {
+	    Normal=2,[80,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Liner {
+	SizeImage=128,128	
+	SmeImage=64,64		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1FeiL
+	2ImageP=GI,Bm.ShipP.2FeiL
+	Image=Bm.Ship.FeiL
+	ImageS=Bm.Ship.FeiLs
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Diplomat {
+	SizeImage=128,128	
+	SmeImage=64,64		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=63,100
+
+	1ImageP=GI,Bm.ShipP.1FeiD
+	2ImageP=GI,Bm.ShipP.2FeiD
+	Image=Bm.Ship.FeiD
+	ImageS=Bm.Ship.FeiDs
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////

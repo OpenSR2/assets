@@ -1,0 +1,23 @@
+Active=True
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Label=Label[3]\Label.txt ^{
+}
+Name=RewardPanel
+Panel=Panel\Panel.txt ^{
+}
+Pos=266,88,0
+Size=491,591
+Style=Style.Window.2MessageBox

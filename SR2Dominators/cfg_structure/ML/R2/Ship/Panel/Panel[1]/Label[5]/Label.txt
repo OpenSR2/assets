@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Pos=10,96,4
+Size=145,20
+Text=FormShip.FullRepare
+TextColor=0,0,0
+WordWrap=True

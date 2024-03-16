@@ -1,0 +1,3 @@
+Name=Storage_14i
+Pos=102,232,0
+Size=39,39

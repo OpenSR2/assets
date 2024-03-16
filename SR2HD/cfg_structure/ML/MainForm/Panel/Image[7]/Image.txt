@@ -1,0 +1,4 @@
+Image=GI,Bm.FormMain3.CaptionBlur
+Name=CaptionBlur
+Pos=-103,-85,49
+Size=1618,396

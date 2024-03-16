@@ -1,0 +1,5 @@
+CoalitionAlreadyDefeated=Yes
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Best
+DominatorsAlreadyDefeated=No
+Text=ѕриветствую теб€, дружище <Player>! ѕредставь всю глубину иронии:  оалиции уже нет, а их детища - доминаторы, все еще порт€т нам кровь. — ними нужно срочно что-то делать, пока они у нас всю галактику обратно не отвоевали.

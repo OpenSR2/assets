@@ -1,0 +1,4 @@
+CurPlanetPirateClan=No
+CurPlanetRelations=Best
+Priority=1
+Text=Всегда рады вас видеть, <Player>. Хотите кофейку или секретное задание?

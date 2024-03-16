@@ -1,0 +1,4 @@
+Image=Bm.Ruins.Blazer
+ImageI=GI,Bm.Ruins.Blazeri
+ImageMap=GI,Bm.Ruins.MapBlazer
+PosZ=ShipLow

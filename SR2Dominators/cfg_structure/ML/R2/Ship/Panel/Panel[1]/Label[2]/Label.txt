@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Name=SC_Slot1_Text
+Pos=10,152,7
+Size=145,42
+TextColor=52,231,255
+WordWrap=True

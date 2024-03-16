@@ -1,0 +1,16 @@
+Artefact=0
+Cost=110
+Def=0
+Droid=-1
+Forsage=1
+Hook=0
+Name=Толстяк Крю
+Probability=10
+Race=People
+Radar=0
+Scaner=0
+ShipType=Transport,Liner
+Size=120
+Text=Серия модернизированных судов от старика Крю, который любил комфорт и панически боялся дроидов.
+Weapon=0
+Year=0

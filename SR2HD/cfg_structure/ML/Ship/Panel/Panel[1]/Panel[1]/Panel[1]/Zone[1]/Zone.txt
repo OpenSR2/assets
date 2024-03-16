@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_1z
+Pos=98,30,0
+Size=39,39

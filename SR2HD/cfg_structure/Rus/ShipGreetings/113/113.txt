@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Food
+LastPlanetInCurStar=No
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+Priority=20
+Relations=Normal,Good,Best
+ShipGoodsTypeCnt=1
+ShipHaveGoods=Yes
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=Приветствую, <Player>! Мой корабль совершает посадку на планету <ToPlanet>. Груз в трюме представляет собой продовольственные товары, купленные на планете <LastPlanet> системы <LastPlanetStar> по цене <LastPlanetGoodsSale> cr за единицу.

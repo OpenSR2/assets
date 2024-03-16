@@ -1,0 +1,43 @@
+Explosion {
+	=Sound.expl0
+	=Sound.expl1
+	=Sound.expl2
+	=Sound.expl3
+	=Sound.expl4
+	=Sound.expl5
+}
+Hit {
+	=Sound.ab_Hit1
+}
+Item {
+	0=Sound.Talk			// 0-Life
+	1=Sound.Talk			// 1-Fast
+	2=Sound.Talk			// 2-Slow
+	3=Sound.Talk			// 3-Lock
+	4=Sound.Talk			// 4-Damage
+	5=Sound.Talk			// 5-Reload
+	6=Sound.Talk			// 6-Defence
+	7=Sound.Talk			// 7-Invisible
+}
+WeaponFirst {
+	0=Sound.ab_shot0			// 		
+	1=Sound.ab_shot1			// 
+	2=Sound.ab_shot2			// 
+	3=Sound.ab_shot3			// 
+	4=Sound.ab_shot4			// 
+	5=Sound.ab_shot5			// 
+	6=Sound.ab_shot6			// 
+	7=Sound.ab_shot7			// 
+	8=Sound.ab_shot8			// 
+	9=Sound.ab_shot9			// 
+	10=Sound.ab_shot10		// 
+	11=Sound.ab_shot11		// 
+	12=Sound.ab_shot12		// 
+	13=Sound.ab_shot13		// 
+	14=Sound.ab_shot14		// 
+}
+WeaponLoop {
+	//2=0,Sound.shot6
+	//13=200,Sound.shot6
+	//14=200,Sound.shot6
+}

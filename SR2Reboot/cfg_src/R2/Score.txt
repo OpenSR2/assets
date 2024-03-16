@@ -1,0 +1,385 @@
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+	MoveWorld=False
+	Name=MainPanel
+
+	Image {
+		Image=GI,Bm.FormScore2.2bg
+		Pos=0,0,10
+		Size=1024,768
+	}
+	
+	Panel {
+		Name=PanelToServer
+		Pos=33,113,1
+		Size=56,1000
+	}
+	Panel {
+		Name=PanelWin
+		Pos=48,15,9
+		Size=953,734
+
+		Image {
+			Image=GI,Bm.FormScore2.2Panel
+			Pos=0,0,9
+			Size=953,734
+		}
+
+		Label {
+			Font=Font.2Ranger
+			Pos=11,71,8
+			Size=100,20
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=85,113,128
+			Text=FormScore.LPlace
+		}
+		Label {
+			Font=Font.2Ranger
+			Pos=81,71,8
+			Size=100,20          	
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=85,113,128
+			Text=FormScore.LRace
+		}
+		Label {
+			Font=Font.2Ranger
+			Pos=235,71,8
+			Size=100,20
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=85,113,128
+			Text=FormScore.LName
+		}
+		Label {
+			Font=Font.2Ranger
+			Pos=395,71,8
+			Size=100,20
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=85,113,128
+			Text=FormScore.LLevel
+		}
+		Label {
+			Font=Font.2Ranger
+			Pos=495,71,8
+			Size=100,20
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=85,113,128
+			Text=FormScore.LScore
+		}
+
+		Panel {
+			Name=PanelSlot
+			Pos=24,89,2
+			Size=577,561
+		}
+
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=ButClear
+			
+			Pos=503,661,1
+			Size=103,18
+			Help=FormScore.HelpClear
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormScore2.2ClearN
+			ImageDown=GI,Bm.FormScore2.2ClearD
+
+			Font=Font.2Ranger
+			Caption=FormScore.Clear
+			CaptionColorNormal=0,62,77
+			CaptionColorNormalA=0,255,255
+			CaptionColorDown=0,62,77
+			CaptionColorDownA=0,62,77
+			CaptionShadowColorNormal=38,176,195
+			CaptionShadowColorNormalA=38,176,195
+			CaptionShadowColorDown=38,176,195
+			CaptionShadowColorDownA=38,176,195
+			CaptionShadow=1
+			CaptionSme=0,-3,1,-2
+		}
+//		Image {
+//			Pos=879,702,3
+//			Size=23,57
+//			Image=GI,Bm.FormOptions.2Point
+//		}
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=ButExit
+			
+			Pos=795,680,2
+			Size=79,33
+			Help=FormScore.HelpExit
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormScore2.2CloseN
+			ImageNormalA=GI,Bm.FormScore2.2CloseA
+			ImageDown=GI,Bm.FormScore2.2CloseD
+		}
+
+		Image {
+			Name=CaptainI
+			Pos=639,87,11
+			Size=97,108//99,110
+		}
+		GAI {
+			Name=CaptainA
+			Pos=639,87,10
+			Size=97,108
+			PBuf=True
+			KindX=Center
+			KindY=Center
+			TransColor=255,0,255
+		}
+
+		Image {
+			Name=Skill0
+			Pos=701,344,0
+			Size=30,43
+		}
+		Image {
+			Name=Skill1
+			Pos=768,344,0
+			Size=30,43
+		}
+		Image {
+			Name=Skill2
+			Pos=836,344,0
+			Size=30,43
+		}
+		Image {
+			Name=Skill3
+			Pos=701,398,0
+			Size=30,43
+		}
+		Image {
+			Name=Skill4
+			Pos=768,398,0
+			Size=30,43
+		}
+		Image {
+			Name=Skill5
+			Pos=836,398,0
+			Size=30,43
+		}
+
+		Label {
+			Font=Font.2Normal
+			Name=IDate
+			Pos=754,87,2
+			Size=137,38
+			AlignX=Left
+			AlignY=CenterEx
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Name=ITurn
+			Pos=754,126,2
+			Size=137,45
+			AlignX=Left
+			AlignY=CenterEx
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Name=IRank
+			Pos=754,175,2
+			Size=145,15
+			AlignX=Left
+			AlignY=CenterEx
+			TextColor=212,212,212
+		}
+		Image {
+			Name=IRankImage
+			Pos=754,187,2
+			Size=94,30
+		}
+		Label {
+			Font=Font.2Small
+			Text=FormScore.Kill
+			Pos=651,214,2
+			Size=90,17
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Text=FormScore.KillDominator
+			Pos=651,232,2
+			Size=147,20
+			AlignX=Left
+			AlignY=CenterEx
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Text=FormScore.KillPirate
+			Pos=651,253,2
+			Size=147,20
+			AlignX=Left
+			AlignY=CenterEx
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Text=FormScore.KillNormal
+			Pos=651,274,2
+			Size=147,20
+			AlignX=Left
+			AlignY=CenterEx
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Text=FormScore.KillHyper
+			Pos=651,295,2
+			Size=147,20
+			AlignX=Left
+			AlignY=CenterEx
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Name=IKillDominator
+			Pos=799,232,2
+			Size=94,20
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=255,222,0
+		}
+		Label {
+			Font=Font.2Normal
+			Name=IKillPirate
+			Pos=799,253,2
+			Size=94,20
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=255,222,0
+		}
+		Label {
+			Font=Font.2Normal
+			Name=IKillNormal
+			Pos=799,274,2
+			Size=94,20
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=255,222,0
+		}
+		Label {
+			Font=Font.2Normal
+			Name=IKillHyper
+			Pos=799,295,2
+			Size=94,20
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=255,222,0
+		}
+		Label {
+			Font=Font.2Normal
+			Name=ILiberationSystem
+			Pos=642,316,2
+			Size=252,20
+			AlignX=Left
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Name=IRewards
+			Pos=642,452,2
+			Size=354,20
+			AlignX=Left
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Name=IQuests
+			Pos=642,470,2
+			Size=354,20
+			AlignX=Auto
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Name=IPlanetBattles
+			Pos=642,487,2
+			Size=354,20
+			AlignX=Left
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Name=IExp
+			Pos=641,511,2
+			Size=245,22
+			AlignX=Center
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Name=IBlazer
+			Pos=641,536,2
+			Size=245,20
+			AlignX=Left
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Name=IKeller
+			Pos=641,554,2
+			Size=245,20
+			AlignX=Left
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2Normal
+			Name=ITerron
+			Pos=641,572,2
+			Size=245,20
+			AlignX=Left
+			TextColor=212,212,212
+		}
+		Label {
+			Font=Font.2NormalBold
+			Name=ITotal
+			Pos=641,596,2
+			Size=252,30
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=255,255,255
+		}
+		Label {
+			Font=Font.2Mini
+			Name=INote
+			Pos=641,628,2
+			Size=252,49
+			AlignX=Left
+			AlignY=Top
+			WordWrap=True
+			TextColor=177,89,0
+		}
+
+		Label {
+			Pos=220,701,2
+			Size=483,25
+			Name=LabelHelp
+			Font=Font.2Normal
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=97,149,168//39,65,162
+		}
+	}
+}

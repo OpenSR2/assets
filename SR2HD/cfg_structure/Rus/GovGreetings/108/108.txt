@@ -1,0 +1,5 @@
+CoalitionAlreadyDefeated=Yes
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Good
+DominatorsAlreadyDefeated=Yes
+Text=Ќеверо€тно, <Player>, но факт. ћы победили всех наших врагов!  оалици€ и доминаторы теперь не более чем страница истории, которую мы при желании вообще можем вырвать из учебника и выбросить в открытый космос. Ќикто ничего не скажет, потому что некому и нечего.

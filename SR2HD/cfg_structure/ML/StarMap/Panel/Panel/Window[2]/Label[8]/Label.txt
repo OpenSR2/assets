@@ -1,0 +1,9 @@
+AlignX=Right
+AlignY=Top
+Font=Font.2Small
+Name=ISEffects
+Pos=0,170,8
+Size=125,15
+Text=FormInfo.ISEffects
+TextColor=140,140,140
+WordWrap=False

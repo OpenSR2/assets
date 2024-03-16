@@ -1,0 +1,17 @@
+Artefact=2
+Cost=40
+Def=1
+Droid=0
+Forsage=1
+Fragility=60
+Hook=0
+Name=Ксвиру
+Probability=30
+Race=Fei
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=50
+Text=Очень маленький фэянский корпус, состоящий из новейших микросистем. Прекрасный шпион и разведчик.
+Weapon=0
+Year=0

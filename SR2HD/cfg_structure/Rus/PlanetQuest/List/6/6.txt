@@ -1,0 +1,7 @@
+Access=4
+Dif=16
+Genre=бродилка
+Group=0
+Image=Bm.PQI.Diver_04
+Length=0
+Name=Водолаз

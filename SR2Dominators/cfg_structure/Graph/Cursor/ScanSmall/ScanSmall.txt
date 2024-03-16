@@ -1,0 +1,2 @@
+Image=GAI,Bm.Cursor.ScanSmall
+Sme=1,1

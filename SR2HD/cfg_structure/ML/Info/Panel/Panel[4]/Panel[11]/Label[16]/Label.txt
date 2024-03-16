@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=Top
+Font=Font.2Small
+Pos=10,310,0
+Size=186,60
+Text=FormInfo.M11SlotCom
+TextColor=58,92,100
+WordWrap=True

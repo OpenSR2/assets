@@ -1,0 +1,6 @@
+AlignX=Left
+Font=Font.2Normal
+Name=IBlazer
+Pos=641,536,2
+Size=245,20
+TextColor=212,212,212

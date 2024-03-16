@@ -1,0 +1,3 @@
+Image=GI,Bm.FormAbout2.2Circle
+Pos=0,43,201
+Size=900,702

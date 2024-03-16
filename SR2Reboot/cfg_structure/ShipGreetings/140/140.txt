@@ -1,0 +1,8 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Priority=5
+Relations=Bad,Normal,Good,Best
+ShipRace=Peleng
+ShipStructure=Mini,Small
+Text=Эх, как красиво свистит воздух, выходя через пробоину в корпусе - очень похоже на свист, которым самцы рагобамских жаб завлекают своих самок. Знаешь, <Player>, наверное, когда буду чиниться на планете <ToPlanet>, то попрошу оставить одну свистящую пробоину в корпусе. Пусть она будет своим пением напоминать мне о родном доме, планете <HomePlanet>.
+ToPlanetIsHomePlanet=No

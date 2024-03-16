@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Luxury
+Priority=50
+Relations=Normal,Good,Best
+ShipHaveGoods=No
+ShipRaceIsPlayerRace=Yes
+ShipType=Liner
+Text= ак при€тно встретить соотечественника в этом далеком космосе, <Player>! ћне приходитс€ возить пассажиров на вс€кие чужие планеты. ћногие хот€т посмотреть на живых малоков вблизи. ј чего на них смотреть, спрашиваетс€? ¬сего-то и зрелища - здоровенные красные морды да здоровые кулаки?  стати, говор€т, на <ToPlanet> крайне низкие цены на предметы роскоши. »хние табуретки идут по <ToPlanetGoodsSale> cr за тонну. Ќеплохой ведь бизнес?
+ToPlanetGoodsSale=Mini
+ToPlanetRace=Maloc
+ToPlanetRaceIsShipRace=No

@@ -1,0 +1,10 @@
+CurPlanetGoodsCnt=Small,Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small,Average
+CurPlanetGoverment=Anarchy
+CurPlanetPirateClan=Any
+CurPlanetRace=Maloc,People,Fei,Gaal
+CurPlanetRelations=Normal,Good,Best
+Goods=Narcotics
+Priority=10
+Text=–ейнджер <Player>! —ейчас на нашей планете происходит очередна€ смена правительственного стро€, поэтому мы без четкого руководства. » у нас вы сможете приобрести любые запрещенные на других планетах товары, например, лучшие наркотики по лучшим ценам.

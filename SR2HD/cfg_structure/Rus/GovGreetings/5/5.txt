@@ -1,0 +1,14 @@
+CurPlanetEconomy=Agriculture,Mixed
+CurPlanetGoodsCnt=Small,Average,Big,Huge
+CurPlanetGoodsSale=Mini,Small
+CurPlanetPirateClan=No
+CurPlanetRelations=Normal,Good,Best
+Goods=Food
+Priority=10
+Text=Приветствуем, <Player>!<br>По нашим сведениям, на планете <ToPlanet> проблемы с продуктами питания. Их запасы ничтожны, а цены велики.
+Text=Вы, <Player>, можете cделать хорошие деньги, занявшись доставкой наших товаров в систему <ToStar>. Поспешите, сейчас у нас на складе имеется <CurPlanetGoodsCnt> единиц продовольствия.
+ToPlanetEconomy=Mixed,Industrial
+ToPlanetGoodsBuy=Big,Huge
+ToPlanetGoodsCnt=Zero,Mini,Small,Average
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal

@@ -1,0 +1,7 @@
+CoalitionAlreadyDefeated=No
+DominatorsAlreadyDefeated=Yes
+InFear=No
+Relations=Normal,Good,Best
+ShipType=Ranger
+Text=<Player>, дружище, коллега! Как мы их, а, доминаторов этих?! До сих пор не могу отойти от радости, прямо хочется всех вокруг обнимать, скакать, прыгать!
+Text=Говори скорее, чего ты хотел. Чем смогу - помогу!

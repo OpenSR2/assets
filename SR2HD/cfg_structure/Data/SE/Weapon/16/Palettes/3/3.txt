@@ -1,0 +1,3 @@
+Color0=0.7,0.6,0.4
+Color1=0.2,0.2,0.8
+GAI=Bm.Weapon.W17

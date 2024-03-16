@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormTalk2.1CloseH
+ImageDown=GI,Bm.FormTalk2.1CloseD
+ImageNormal=GI,Bm.FormTalk2.1CloseN
+ImageNormalA=GI,Bm.FormTalk2.1CloseA
+Kind=Disable
+KindHit=Rect
+Name=Close
+Pos=228,362,3
+Size=59,27
+Style=Style.GB.SoundNormal

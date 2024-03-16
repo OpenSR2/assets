@@ -1,0 +1,18 @@
+Cost=400
+Equipments=Hull
+Fragility=110
+KindGraph=F
+Name=Корпус "Добрый лякуша" III
+Priority=50
+Ruins=PB,CB
+Size=110
+Special=1
+Text=<color=248,252,248>Пиратская серия корпусов, разработана для космических боев с Коалицией. Внутри корпуса оставлено только самое необходимое оборудование, а вся система управления настроена на максимальную атакующую мощь. Точно не подойдет любителям поторговать.</color>
+Text=Сила энергетического оружия: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+Text=Сила ракетного оружия: <bonWMissile> ед.
+bonSlotArt=-1
+bonSlotScaner=-1
+bonWEnergy=10
+bonWMissile=12
+bonWSplinter=8

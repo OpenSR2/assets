@@ -1,0 +1,65 @@
+GAI=GAI\GAI.txt ^{
+}
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Image=Image[3]\Image.txt ^{
+}
+Image=Image[4]\Image.txt ^{
+}
+Image=Image[5]\Image.txt ^{
+}
+Image=Image[6]\Image.txt ^{
+}
+Image=Image[7]\Image.txt ^{
+}
+Image=Image[8]\Image.txt ^{
+}
+Image=Image[9]\Image.txt ^{
+}
+Image=Image[10]\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Label=Label[3]\Label.txt ^{
+}
+Label=Label[4]\Label.txt ^{
+}
+Label=Label[5]\Label.txt ^{
+}
+Label=Label[6]\Label.txt ^{
+}
+Label=Label[7]\Label.txt ^{
+}
+Label=Label[8]\Label.txt ^{
+}
+Label=Label[9]\Label.txt ^{
+}
+Label=Label[10]\Label.txt ^{
+}
+Label=Label[11]\Label.txt ^{
+}
+Label=Label[12]\Label.txt ^{
+}
+Label=Label[13]\Label.txt ^{
+}
+Name=PanelResearch
+Panel=Panel\Panel.txt ^{
+}
+Pos=203,148,10
+Size=617,467

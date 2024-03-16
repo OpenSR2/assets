@@ -1,0 +1,11 @@
+15=15\15.txt ^{
+}
+18=18\18.txt ^{
+}
+4=4\4.txt ^{
+}
+TextDamage=Урон: <Damage>
+TextFrom=Выпустил: <Name>
+TextNoTarget=Цель потеряна
+TextSpeed=Скорость: <Speed>
+TextTarget=Цель: <Name>

@@ -1,0 +1,397 @@
+////////////////////////////////////////////////////////////////////////
+////////////// Hit'ы для оружия         ////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+//	* ой помечены параметры, которые указывать не обязательно
+//	HitCount - количество разных (по порядку - 1, 2, 3, 4, 5 и т.д.)
+//	DesHit   - анимация для главного взрыва - в принципе не нужна,
+//		   т.к. для ней годятся и эффекты D1, D2 и т.д., если
+//		   их правильно настроить
+//	SouHit	 - тоже самое, но для стреляющего корабля
+//  *	LeftTime - время, равное количеству тактов до окончания выстрела, когда
+//		   должен появиться эффект на экране (по умолчанию 10)
+//  *	AnimTakt - количество тактов выстрела, равное единичному изменению
+//		   анимации - когда GAI не меняет кадры сам (1)
+//	Image	 - GAI файл эффекта
+//	Angle	 - угол в градусах относительно выстрела, под которым должен
+//		   двигаться рисунок
+//	Speed	 - скорость движения рисунка
+//	Accel	 - ускорение движения
+//  *	LifeTime - время жизни эффекта в тактах, после которого он уничтожается
+//		   (по умолчанию - FrameCount*AnimTakt)
+//  *	SkipTime - Время в тактах относительно общего начала эффектов, спустя
+//		   которое должен активироваться и заработать подэффект (0)
+//	StartPos - Начальная позиция относительно Цели или Стреляющего корабля
+//		   Дистанция короче, а направление указывает угол
+//  *	AutoAnim - Кадры анимации меняются объектом TgaiGI, а не TWeaponEffect
+//		   (True)
+//  *	LoopAnim - Анимация циклична, т.е. по достижение конца начинается
+//		   сначала, в противном случае этот эффект уничтожается (True)
+
+	HitCount=5
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+	1 {
+//		DesHit=Bm.Hits.01.DesHit
+//		SouHit=Bm.Hits.01.SouHit
+		LeftTime=30
+		AnimTakt=5
+		D {
+			Image=Bm.Hits.11
+			Angle=120
+			Speed=0.0
+			Accel=0.0
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.02
+			Angle=120
+			Speed=0.0
+			Accel=0.0
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.00
+			Angle=120
+			Speed=0.5
+			Accel=-0.02
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.00
+			Angle=50
+			Speed=1.0
+			Accel=-0.02
+			StartPos=0
+			SkipTime=10
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.00
+			Angle=200
+			Speed=1.5
+			Accel=-0.02
+			StartPos=0
+			SkipTime=20
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.00
+			Angle=300
+			Speed=1.0
+			Accel=-0.02
+			StartPos=0
+			SkipTime=20
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.00
+			Angle=10
+			Speed=0.0
+			Accel=-0.02
+			StartPos=0
+			SkipTime=20
+			AutoAnim=True
+			LoopAnim=False
+		}
+		S {
+			Image=Bm.Hits.16 //12
+			Angle=100
+			Speed=0.0
+			Accel=0.0
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+	}
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+	2 {
+		LeftTime=50
+		AnimTakt=5
+		D {
+			Image=Bm.Hits.05
+			Angle=60
+			Speed=0.0
+			Accel=0.0
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.19
+			Angle=60
+			Speed=1.2
+			Accel=-0.02
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.19
+			Angle=60
+			Speed=1.2
+			Accel=-0.02
+			StartPos=0
+			SkipTime=5
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.19
+			Angle=60
+			Speed=1.2
+			Accel=-0.02
+			StartPos=0
+			SkipTime=10
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.19
+			Angle=60
+			Speed=1.2
+			Accel=-0.02
+			StartPos=0
+			SkipTime=15
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.19
+			Angle=60
+			Speed=1.2
+			Accel=-0.02
+			StartPos=0
+			SkipTime=20
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.19
+			Angle=60
+			Speed=1.2
+			Accel=-0.02
+			StartPos=0
+			SkipTime=25
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.19
+			Angle=60
+			Speed=1.2
+			Accel=-0.02
+			StartPos=0
+			SkipTime=30
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.19
+			Angle=60
+			Speed=1.2
+			Accel=-0.02
+			StartPos=0
+			SkipTime=35
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.19
+			Angle=60
+			Speed=1.2
+			Accel=-0.02
+			StartPos=0
+			SkipTime=40
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.10
+			Angle=300
+			Speed=3.5
+			Accel=0.0
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.10
+			Angle=310
+			Speed=3.6
+			Accel=-0.0
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+		S {
+			Image=Bm.Hits.16 //11
+			Angle=120
+			Speed=0.0
+			Accel=0.0
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+	}
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+	3 {
+		LeftTime=50
+		AnimTakt=5
+		D {
+			Image=Bm.Hits.18
+			Angle=60
+			Speed=0.0
+			Accel=0.0
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+		S {
+			Image=Bm.Hits.16
+			Angle=120
+			Speed=0.0
+			Accel=0.0
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+	}
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+	4 {
+		LeftTime=50
+		AnimTakt=5
+		D {
+			Image=Bm.Hits.20
+			Angle=60
+			Speed=1.2
+			Accel=-0.05
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.20
+			Angle=70
+			Speed=1.2
+			Accel=-0.05
+			StartPos=0
+			SkipTime=10
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.20
+			Angle=80
+			Speed=1.2
+			Accel=-0.05
+			StartPos=0
+			SkipTime=20
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.20
+			Angle=90
+			Speed=1.2
+			Accel=-0.05
+			StartPos=0
+			SkipTime=30
+			AutoAnim=True
+			LoopAnim=False
+		}
+		S {
+			Image=Bm.Hits.16
+			Angle=120
+			Speed=0.0
+			Accel=0.0
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+	}
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+	5 {
+		LeftTime=50
+		AnimTakt=5
+		D {
+			Image=Bm.Hits.14
+			Angle=60
+			Speed=1.2
+			Accel=-0.05
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.14
+			Angle=50
+			Speed=1.2
+			Accel=-0.05
+			StartPos=0
+			SkipTime=10
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.14
+			Angle=40
+			Speed=1.2
+			Accel=-0.05
+			StartPos=0
+			SkipTime=20
+			AutoAnim=True
+			LoopAnim=False
+		}
+		D {
+			Image=Bm.Hits.14
+			Angle=30
+			Speed=1.2
+			Accel=-0.05
+			StartPos=0
+			SkipTime=30
+			AutoAnim=True
+			LoopAnim=False
+		}
+		S {
+			Image=Bm.Hits.16
+			Angle=120
+			Speed=0.0
+			Accel=0.0
+			StartPos=0
+			SkipTime=0
+			AutoAnim=True
+			LoopAnim=False
+		}
+	}

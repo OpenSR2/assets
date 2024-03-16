@@ -1,0 +1,16 @@
+Artefact=4
+Cost=60
+Def=-1
+Droid=-1
+Forsage=0
+Hook=0
+Name=Растеряха
+Probability=20
+Race=Maloc,Peleng,People,Fei,Gaal
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=80
+Text=Легкое судно, для собирания трофейных артефактов. Генератор поля и дроид не предусмотрены.
+Weapon=1
+Year=0

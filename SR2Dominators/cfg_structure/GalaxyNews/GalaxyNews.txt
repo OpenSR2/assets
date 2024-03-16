@@ -1,0 +1,30 @@
+BK=BK\BK.txt ^{
+}
+BlackHole=BlackHole\BlackHole.txt ^{
+}
+CreateNewObject=CreateNewObject\CreateNewObject.txt ^{
+}
+DeadShip=DeadShip\DeadShip.txt ^{
+}
+EminentRangers=EminentRangers\EminentRangers.txt ^{
+}
+Globals=Globals\Globals.txt ^{
+}
+GoToPrison=GoToPrison\GoToPrison.txt ^{
+}
+Group=Group\Group.txt ^{
+}
+IllNews=IllNews\IllNews.txt ^{
+}
+MedPolicy=MedPolicy\MedPolicy.txt ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+Quest=Quest\Quest.txt ^{
+}
+Star=Star\Star.txt ^{
+}
+WB=WB\WB.txt ^{
+}
+WBGoToEnemyStar=WBGoToEnemyStar\WBGoToEnemyStar.txt ^{
+}

@@ -1,0 +1,11 @@
+Cost=75
+Equipments=FuelTank,Engine,Radar,Scaner,Droid,Hook,DefGenerator
+Fragility=80
+Name=Оптиматор
+Owner=Peleng
+Priority=40
+Size=75
+Text=Микромодуль второго уровня. Удаляет из <clr>пеленгского<clrEnd> оборудования нефункциональные и декоративные узлы и детали, уменьшая его габаритные размеры и стоимость и повышая надежность. Не используется для корпусов и орудийных систем.
+Text=Размер: <clr>-25%<clrEnd>
+Text=Стоимость: <clr>-25%<clrEnd>
+Text=Надежность: <clr>+25%<clrEnd>

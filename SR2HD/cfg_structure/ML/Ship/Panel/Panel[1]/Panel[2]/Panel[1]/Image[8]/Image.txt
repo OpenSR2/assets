@@ -1,0 +1,3 @@
+Name=LifeRight
+Pos=184,78,-1
+Size=6,35

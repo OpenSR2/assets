@@ -1,0 +1,36 @@
+BK=BK\BK.txt ^{
+}
+Blazer=Blazer\Blazer.txt ^{
+}
+CB=CB\CB.txt ^{
+}
+Capsule=Capsule\Capsule.txt ^{
+}
+ExampleAsteroid=ExampleAsteroid\ExampleAsteroid.txt ^{
+}
+FighterSwarm=FighterSwarm\FighterSwarm.txt ^{
+}
+Keller=Keller\Keller.txt ^{
+}
+Keller_P1=Keller_P1\Keller_P1.txt ^{
+}
+Keller_P2=Keller_P2\Keller_P2.txt ^{
+}
+Keller_P3=Keller_P3\Keller_P3.txt ^{
+}
+Keller_P4=Keller_P4\Keller_P4.txt ^{
+}
+MC=MC\MC.txt ^{
+}
+PB=PB\PB.txt ^{
+}
+RC=RC\RC.txt ^{
+}
+RG=RG\RG.txt ^{
+}
+SB=SB\SB.txt ^{
+}
+Terron=Terron\Terron.txt ^{
+}
+WB=WB\WB.txt ^{
+}

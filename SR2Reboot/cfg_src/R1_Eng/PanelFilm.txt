@@ -1,0 +1,84 @@
+Name=PanelFilm
+Size=423,57
+MVUpdate=True
+
+	Image {
+		Name=PF_ImageBG
+		Pos=0,0,9
+		Size=423,57
+		Image=GI,Bm.PanelFilm2.1Bg
+	}
+
+	GraphButton {
+		Name=PF_Play
+		Pos=64,6,8
+		Size=37,35
+
+		KindHit=Rect
+		Kind=Normal
+
+		ImageNormal=GI,Bm.PanelFilm2.1PlayN
+		ImageNormalA=GI,Bm.PanelFilm2.1PlayA
+		ImageDown=GI,Bm.PanelFilm2.1PlayD
+		ImageDownA=GI,Bm.PanelFilm2.1PlayG
+
+		Style=Style.GB.SoundNormal
+	}
+
+	GraphButton {
+		Name=PF_Stop
+		Pos=64,6,8
+		Size=37,35
+		Active=False
+
+		KindHit=Rect
+		Kind=Normal
+
+		ImageNormal=GI,Bm.PanelFilm2.1StopN
+		ImageNormalA=GI,Bm.PanelFilm2.1StopA
+		ImageDown=GI,Bm.PanelFilm2.1StopD
+		ImageDownA=GI,Bm.PanelFilm2.1StopG
+
+		Style=Style.GB.SoundNormal
+	}
+
+	GraphButton {
+		Name=PF_Exit
+		Pos=324,6,8
+		Size=36,35
+
+		KindHit=Rect
+		Kind=Normal
+
+		ImageNormal=GI,Bm.PanelFilm2.1CloseN
+		ImageNormalA=GI,Bm.PanelFilm2.1CloseA
+		ImageDown=GI,Bm.PanelFilm2.1CloseD
+
+		Style=Style.GB.SoundNormal
+	}
+
+	Label {
+		Name=PF_Date
+		Pos=155,37,8
+		Size=113,15
+		Font=Font.1Ranger
+		AlignX=Center
+		AlignY=CenterEx
+		TextColor=55,230,255
+	}
+
+	ScrollBar {
+		Style=Style.ScrollBar.1Film2
+		Pos=112,7,ButtonNav
+		Size=198,16
+		Name=PF_SBTurn
+		Min=1
+		Max=200
+		PageSize=1
+		LargeChange=1
+		SmallChange=1
+		Position=1
+		Kind=x
+		KindCalc=0
+		MVUpdate=True
+	}

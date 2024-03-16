@@ -1,0 +1,7 @@
+Lang=Eng
+LangName=English
+Packages {
+	Package=data\english.pkg
+	Package=data\questsEng.pkg
+	Package=data\voicesEng.pkg
+}

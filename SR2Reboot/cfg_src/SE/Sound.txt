@@ -1,0 +1,155 @@
+//    1xxx - loop comet
+//    2xxx - loop ship
+//    3xxx - loop ruins
+//    4xxx - loop planet
+//    5xxx - loop hole
+//    6xxx - loop gate
+//  101xxx - rnd comet
+//  102xxx - rnd ship
+//  103xxx - rnd ruins
+//  104xxx - rnd planet
+
+Loop {
+	Star {
+	}
+	Hole {
+		10=5001,Sound.LoopHole00
+	}
+	Gate {
+		10=6001,Sound.LoopGate00
+	}
+	Planet {
+		Civil {
+			10=4001,Sound.LoopComet00
+		}
+		NotCivil {
+			10=4001,Sound.LoopComet01
+		}
+	}
+	Container {
+	}
+	Comet {
+		10=1001,Sound.LoopComet00
+		10=1001,Sound.LoopComet01
+	}
+	Angel {
+		10=1001,Sound.LoopComet00
+		10=1001,Sound.LoopComet01
+	}
+	Ship {
+		10=2001,Sound.LoopShip00
+		10=2001,Sound.LoopShip01
+		//5=2001,Sound.LoopShip02
+		//5=2001,Sound.LoopShip03
+		//10=2001,Sound.LoopShip04
+		//10=2001,Sound.LoopShip05
+	}
+	Ruins {
+		RC {
+			10=3000,Sound.LoopRuins00
+		}
+		PB {
+			10=3000,Sound.LoopRuins01
+		}
+		WB {
+			10=3000,Sound.LoopRuins02
+		}
+		SB {
+			10=3000,Sound.LoopRuins03
+		}
+		BK {
+		}
+		MC {
+		}
+		Blazer {
+		}
+		Keller {
+		}
+		Keller_P1 {
+		}
+		Keller_P2 {
+		}
+		Keller_P3 {
+		}
+		Keller_P4 {
+		}
+		Terron {
+		}
+	}
+}
+
+Rnd {
+	Star {
+	}
+	Hole {
+	}
+	Gate {
+	}
+	Planet {
+		Civil {
+			10 {
+				Group=104001
+				NextTime=5000-8000
+				10=Sound.RndPlanet01
+				10=Sound.RndPlanet02
+				10=Sound.RndPlanet03
+				10=Sound.RndPlanet04
+				10=Sound.RndPlanet07
+			}
+		}
+		NotCivil {
+			10 {
+				Group=104001
+				NextTime=5000-8000
+				10=Sound.RndPlanet00
+				10=Sound.RndPlanet05
+				10=Sound.RndPlanet06
+			}
+		}
+	}
+	Container {
+	}
+	Comet {
+	}
+	Angel {
+	}
+	Ship {
+		10 {
+			Group=102001
+			NextTime=6000-10000
+			10=Sound.RndShip00
+			10=Sound.RndShip01
+			10=Sound.RndShip02
+			10=Sound.RndShip03
+			10=Sound.RndShip04
+		}
+	}
+	Ruins {
+		RC {
+		}
+		PB {
+		}
+		WB {
+		}
+		SB {
+		}
+		BK {
+		}
+		MC {
+		}
+		Blazer {
+		}
+		Keller {
+		}
+		Keller_P1 {
+		}
+		Keller_P2 {
+		}
+		Keller_P3 {
+		}
+		Keller_P4 {
+		}
+		Terron {
+		}
+	}
+}

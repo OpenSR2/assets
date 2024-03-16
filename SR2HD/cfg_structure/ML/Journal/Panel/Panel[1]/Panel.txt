@@ -1,0 +1,22 @@
+GAI=GAI\GAI.txt ^{
+}
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Image=Image[3]\Image.txt ^{
+}
+Panel=Panel\Panel.txt ^{
+}
+PanelScrollBar=PanelScrollBar\PanelScrollBar.txt ^{
+}
+Pos=266,120,7
+Size=492,507

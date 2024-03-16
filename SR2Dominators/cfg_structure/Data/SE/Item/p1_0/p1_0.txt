@@ -1,0 +1,4 @@
+1Image=Bm.Protoplasm.20_0
+2Image=Bm.Protoplasm.25_0
+ImageMap=Bm.Container.Map0
+PosZ=Item

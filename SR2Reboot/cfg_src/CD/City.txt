@@ -1,0 +1,11 @@
+1Maloc=data\City\1Maloc.gi
+1Peleng=data\City\1Peleng.gi
+1People=data\City\1People.gi
+1Fei=data\City\1Fei.gi
+1Gaal=data\City\1Gaal.gi
+
+2Maloc=data\City\2Maloc.gi
+2Peleng=data\City\2Peleng.gi
+2People=data\City\2People.gi
+2Fei=data\City\2Fei.gi
+2Gaal=data\City\2Gaal.gi

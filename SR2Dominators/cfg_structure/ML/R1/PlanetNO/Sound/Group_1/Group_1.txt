@@ -1,0 +1,2 @@
+1=Sound.FormPlanetNoneLP
+NextTime=2000-4000

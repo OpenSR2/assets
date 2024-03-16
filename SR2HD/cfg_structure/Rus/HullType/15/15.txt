@@ -1,0 +1,17 @@
+Artefact=0
+Cost=200
+Def=0
+Droid=0
+Forsage=0
+Fragility=130
+Hook=0
+Name=Багамот
+Probability=20
+Race=Peleng,People
+Radar=0
+Scaner=0
+ShipType=Transport,Liner
+Size=160
+Text=Большой корпус для большого бизнеса. Производится людьми и пеленгами.
+Weapon=0
+Year=40

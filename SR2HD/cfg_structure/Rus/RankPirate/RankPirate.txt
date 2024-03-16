@@ -1,0 +1,18 @@
+Ataman=Ataman\Ataman.txt ^{
+}
+Baron=Baron\Baron.txt ^{
+}
+Khan=Khan\Khan.txt ^{
+}
+Kid=Kid\Kid.txt ^{
+}
+NextRankGetText=Негодяй представлен к званию <NextRank>! Пора лететь на ближайшую пиратскую базу.
+NextRankText=Требуется <WarPoints> очк.  для получения следующего звания.
+Noobie=Noobie\Noobie.txt ^{
+}
+Rader=Rader\Rader.txt ^{
+}
+Rough=Rough\Rough.txt ^{
+}
+Skipper=Skipper\Skipper.txt ^{
+}

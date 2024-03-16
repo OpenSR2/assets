@@ -1,0 +1,5 @@
+CoalitionAlreadyDefeated=Yes
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Good
+DominatorsAlreadyDefeated=No
+Text=Эх, <Player>, мне даже не верится, что Коалиции больше нет. К сожалению, я не могу сказать того же самого о доминаторах. Сказать, что эти тупые железки причиняют нам беспокойство - значит не сказать ничего. Если тебе делать нечего - немедленно подключайся к их истреблению!

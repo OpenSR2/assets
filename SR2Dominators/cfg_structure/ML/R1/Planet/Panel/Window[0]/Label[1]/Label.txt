@@ -1,0 +1,8 @@
+AlignX=Auto
+AlignY=Auto
+Font=Font.1Small
+Name=PanelInfo_Text
+Pos=10,10,8
+Size=280,180
+TextColor=255,255,255
+WordWrap=False

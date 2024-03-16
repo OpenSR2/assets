@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=Any
+InFear=Yes
+LastPlanetInCurStar=No
+LastPlanetIsHomePlanet=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+LastPlanetRelations=War
+Relations=War
+ShipBadFlyToShip=Any
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=Ќа моей родине, в системе <LastPlanetStar>, на планете <LastPlanet>, по тебе, <Player>, тюрьма плачет. ≈сли ты мирно полетишь и сдашьс€ власт€м, то теб€ наверн€ка прост€т, в таком случае постараюсь замолвить за теб€ словечко.
+Text=Ќо что-то мне подсказывает, что ты так никогда не поступишь...

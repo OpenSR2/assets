@@ -1,0 +1,16 @@
+AfterLiberation=No
+Demo=Yes
+GovTextLoss=1
+GovTextStart=Демонстрационная карта 1
+GovTextWin=1
+Map=Demo1.cmap
+MaxWins=100
+MinWins=100
+PlanetRace=Any
+PlayerRace=Any
+PlayerStatus=Any
+Reiteration=1
+RobotsLoss=1
+RobotsStart=1
+RobotsWin=1
+Terron=No

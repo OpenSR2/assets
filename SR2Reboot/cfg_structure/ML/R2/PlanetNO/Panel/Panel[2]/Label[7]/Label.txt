@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Small
+Name=LandComplate
+Pos=283,81,8
+Size=125,15
+TextColor=0,0,0
+WordWrap=True

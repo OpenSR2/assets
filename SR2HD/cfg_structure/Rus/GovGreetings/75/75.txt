@@ -1,0 +1,5 @@
+CurPlanetPirateClan=Yes
+CurPlanetRaceIsPlayerRace=Yes
+CurPlanetRelations=Normal,Good,Best
+Priority=1
+Text=Приветствуем, <Player>! Мы всегда рады видеть родную рожу вроде вашей на планете <CurPlanet>.

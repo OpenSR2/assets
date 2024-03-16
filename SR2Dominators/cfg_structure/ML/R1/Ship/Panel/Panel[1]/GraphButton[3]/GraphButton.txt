@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormShip2.1SC_RepareH
+ImageDown=GI,Bm.FormShip2.1SC_RepareD
+ImageNormal=GI,Bm.FormShip2.1SC_RepareN
+ImageNormalA=GI,Bm.FormShip2.1SC_RepareA
+Kind=Disable
+KindHit=Rect
+Name=SC_RepareFull_But
+Pos=91,92,3
+Size=22,18
+Style=Style.GB.SoundNormal

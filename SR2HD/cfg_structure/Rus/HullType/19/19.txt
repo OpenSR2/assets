@@ -1,0 +1,17 @@
+Artefact=0
+Cost=100
+Def=0
+Droid=0
+Forsage=0
+Fragility=115
+Hook=1
+Name=Аррива
+Probability=20
+Race=Fei
+Radar=0
+Scaner=0
+ShipType=Transport,Diplomat,Ranger
+Size=130
+Text=Корпус для благородных целей. Фэяне создали самые комфортные условия в жилых отсеках.
+Weapon=-1
+Year=30

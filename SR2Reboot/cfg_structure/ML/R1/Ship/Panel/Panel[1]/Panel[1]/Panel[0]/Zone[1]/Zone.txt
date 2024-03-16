@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_Hull_0z
+Pos=111,166,1
+Size=137,138

@@ -1,0 +1,17 @@
+1ImageP=GI,Bm.ShipP.1GaalD
+2ImageP=GI,Bm.ShipP.2GaalD
+Anim=Anim\Anim.txt ^{
+}
+AnimS=AnimS\AnimS.txt ^{
+}
+Image=Bm.Ship.GaalD
+ImageMap=Bm.Ship.GaalMap
+ImageS=Bm.Ship.GaalDs
+PosZ=Ship
+SizeImage=128,128
+SmeCenterImage=64,64
+SmeImage=65,52
+SmeImageMap=2,2
+StateTime=2000
+Tail1=40,105
+Tail2=82,105

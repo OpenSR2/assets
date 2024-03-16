@@ -1,0 +1,6 @@
+Active=True
+FrameLoad=0
+Image=Bm.FormHangar2.2Repair
+Name=Art3Repair
+Pos=374,126,-4
+Size=48,48

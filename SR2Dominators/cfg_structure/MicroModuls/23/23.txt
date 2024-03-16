@@ -1,0 +1,12 @@
+Equipments=WEnergy,WSplinter,WMissile
+Name=Ѕерсерк
+Owner=Any
+Priority=90
+Size=180
+Text=ћикромодуль третьего уровн€. ƒополн€ет орудийные системы довольно массивным ускорителем частиц и генератором антиматерии, существенно увеличива€ боевые характеристики оружи€.
+Text=—ила любого оружи€: <bonWEnergy> ед.
+Text=ƒальность стрельбы: <bonWRadius> ед.
+bonWEnergy=5
+bonWMissile=5
+bonWRadius=20
+bonWSplinter=5

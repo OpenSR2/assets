@@ -1,0 +1,10 @@
+FlyType=Any
+InFear=Yes
+PlayerIsShipBad=No
+Relations=Bad
+ShipBadFlyToShip=Yes
+ShipBadTurnBeforeEndOrder=1,2
+ShipBadType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+ShipRace=War
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=Даже в такую минуту я не хочу видеть твою рожу, <Player>! Я тебя к тебе отношусь не лучше, чем к типу, что сидит у меня на хвосте.

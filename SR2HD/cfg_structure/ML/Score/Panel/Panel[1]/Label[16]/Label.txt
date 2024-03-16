@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Name=IKillHyper
+Pos=799,295,2
+Size=94,20
+TextColor=255,222,0

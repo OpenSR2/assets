@@ -1,0 +1,8 @@
+CurPlanetPirateClan=Yes
+CurPlanetRace=People,Fei,Gaal
+CurPlanetRelations=Normal,Good,Best
+PlayerRank=Rookie,Cadet,Pilot,Wingman,Leader,Ace
+PlayerRating=Mini,Small,Average
+PlayerStatus=Pirate
+Priority=10
+Text=А вот пиратов мы, <Player>, не любим! Вы словно ложка острого малокского соуса в бочке с нежным нектаром.<br> Ха-хах, да шучу я, шучу! Вы, пираты, славные ребята, я от вас тащусь. Разбой, контрабанда... эх, романтика. Если бы я не добился роскошной возможности бесполезно обсиживать стул в этой комнате - обязательно пошел бы в пираты и сам.

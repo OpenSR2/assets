@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.PanelFilm2.1CloseD
+ImageNormal=GI,Bm.PanelFilm2.1CloseN
+ImageNormalA=GI,Bm.PanelFilm2.1CloseA
+Kind=Normal
+KindHit=Rect
+Name=PF_Exit
+Pos=324,6,8
+Size=36,35
+Style=Style.GB.SoundNormal

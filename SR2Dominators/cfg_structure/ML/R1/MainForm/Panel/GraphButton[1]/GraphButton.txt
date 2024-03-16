@@ -1,0 +1,9 @@
+Auto=Size
+ImageDown=GI,Bm.FormMain2.1ButRecordsD
+ImageNormal=GI,Bm.FormMain2.1ButRecordsN
+ImageNormalA=GI,Bm.FormMain2.1ButRecordsA
+Kind=Normal
+KindHit=Rect
+Name=Score
+Pos=477,361,20
+Style=Style.GB.SoundNormal

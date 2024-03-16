@@ -1,0 +1,12 @@
+BG=212
+Cloud0=2.00,Bm.Planet2.C.160.c01
+Cloud1=1.00,Bm.Planet2.C.160.c05
+Image=Bm.Planet2.T.160.40x160
+ImageMap=Bm.Planet.M.0
+PosZ=Planet
+Quest=1
+Radius=80
+SmeImage=80,80
+SmeImageMap=4,4
+Space=180,320,90
+Style=3

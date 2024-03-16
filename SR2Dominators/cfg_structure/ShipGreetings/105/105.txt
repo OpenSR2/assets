@@ -1,0 +1,9 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Priority=50
+Relations=Normal,Good,Best
+ShipGoodsTypeCnt=4,5,6,7,8
+ShipType=Transport,Liner,Ranger,Pirate
+Text=Приветствую, <Player>! Я совершаю посадку на чужеземную планету <ToPlanet> и хочу продать всякий хлам. Мой трюм просто завален бесполезным барахлом, сильно б/у, так сказать. Все, от неисправной техники, до испорченной еды и бесполезных минералов. Интересно, твои соотечественники поведутся? Купят всю эту хрень у меня втридорога?
+ToPlanetRaceIsPlayerRace=Yes
+ToPlanetRaceIsShipRace=No

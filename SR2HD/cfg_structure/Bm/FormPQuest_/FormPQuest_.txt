@@ -1,0 +1,6 @@
+2ExitA=data\FormPQuest\2ExitA.gi
+2ExitD=data\FormPQuest\2ExitD.gi
+2PlanetButA=data\FormPQuest\2PlanetButA.gai
+2PlanetButN=data\FormPQuest\2PlanetButN.gai
+2bg=data\FormPQuest\2bg.gi
+2bg2=data\FormPQuest\2bg2.gi

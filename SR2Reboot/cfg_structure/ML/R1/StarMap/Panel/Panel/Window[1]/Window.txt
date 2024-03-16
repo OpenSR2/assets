@@ -1,0 +1,15 @@
+Active=False
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+MVUpdate=True
+MouseBlocking=False
+Name=InfoStd
+Pos=-390,-290,InfoPanel
+Size=205,137
+Style=Style.Window.1Simple

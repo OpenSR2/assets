@@ -1,0 +1,3 @@
+PosZ=Weapon
+SoundExpl=Sound.expl4
+SoundShot=Sound.shot4

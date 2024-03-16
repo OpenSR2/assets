@@ -1,0 +1,787 @@
+Border=0,0,800,600
+
+Sound { 
+    Group {
+        NextTime=10000-20000
+        1=Sound.FormSpace0
+        1=Sound.FormSpace1
+        1=Sound.FormSpace2
+        1=Sound.FormSpace3
+        1=Sound.FormSpace4
+        1=Sound.FormSpace5
+        1=Sound.FormSpace6
+    }
+}
+
+Panel {
+    Pos=0,0
+    Size=800,600
+
+    Panel {
+        Name=MainPanel
+        Pos=400,300,-1
+        Sme=400,300
+        Size=800,600
+
+        MoveWorld=True
+
+        Panel=cfg\R1\PanelMain.txt {
+            Pos=-400,-300,ButtonNav
+            Active=True
+        }
+        Panel=cfg\R1\PanelSpace.txt {
+            Pos=-216,228,ButtonNav
+            Active=True
+        }
+        Panel=cfg\R1\PanelLoad.txt {
+            Pos=-400,-300,-1000
+        }
+
+        StarField {
+            Name=StarField
+            Pos=0,0,StarField
+            Size=800,600
+            Sme=400,300
+            Image=Bm.BGO.bg0
+        }
+        SpaceImg {
+            Name=SpaceImg
+            Pos=0,0,SpaceImg
+            Size=800,600
+            Sme=400,300
+        }
+        StarFieldM {
+            Name=StarFieldM
+            Pos=0,0,StarFieldM
+            Size=800,600
+            Sme=400,300
+        }
+        StarFieldImg {
+            Name=StarFieldImg
+            Pos=0,0,StarFieldImg
+            Size=800,600
+            Sme=400,300
+        }
+
+        MultiImage {
+            Name=PlayerPath
+            Pos=0,0,UnitPath,w
+            Size=200000000,200000000
+            Sme=100000000,100000000
+        }
+        MultiImage {
+            Name=ShipPath
+            Pos=0,0,UnitPathShip,w
+            Size=200000000,200000000
+            Sme=100000000,100000000
+        }
+
+        Label {
+            Name=FPS
+            Pos=-70,-290,InfoPanel
+            Size=100,20
+            Font=Font.1Normal
+            WordWrap=False
+            AlignX=Center
+            AlignY=Center
+            MVUpdate=True
+        }
+
+        Label {
+            Name=Mods
+            Pos=-220,-300,InfoPanel
+            Size=400,15
+            Font=Font.1Mini
+            WordWrap=False
+            AlignX=Center
+            AlignY=Center
+            MVUpdate=True
+		    TextColor=255,0,0
+        }
+
+//        Label {
+//            Name=LargeHelp
+//            Pos=-184,-240,InfoPanel
+//            Size=330,40
+//            Font=Font.1Normal
+//            WordWrap=False
+//            AlignX=Center
+//            AlignY=CenterEx
+//            MVUpdate=True
+//            TextColor=224,225,183
+//        }
+        GraphBuf {
+            Name=LargeHelp
+            Pos=-184,-240,InfoPanel
+            Size=330,40
+        }
+
+        Panel {
+            Pos=261,-172,MapPartner
+            Size=139,55
+        
+            Image {
+                Name=MapPartnerDuty
+                Image=GI,Bm.PanelSpace2.1Duty
+                Pos=5,5,-1
+                Size=16,12
+            }
+
+            Panel {
+	            Name=MapPartner
+                Pos=10,0,0
+                Size=129,46
+	            MouseBlocking=True
+
+                Image {
+                    Name=MapPartnerBG1
+                    Image=GI,Bm.PanelSpace2.1PartnerPanel
+                    Pos=0,0,101
+                    Size=129,46
+                }
+                Image {
+                    Name=MapPartnerBG2
+                    Image=GI,Bm.PanelSpace2.1PartnerPanel
+                    Pos=121,0,100
+                    Size=27,46
+                    KindX=Right
+            
+                }
+                Panel {
+                    Name=MapPartner2
+                    Pos=0,0,0
+                    Size=129,46
+                }
+            }
+        }
+        Image {
+            Pos=272,-300,MapPanelF
+            Size=128,167
+            Image=GI,Bm.PanelSpace2.1RadarF
+        }
+        GraphBuf {
+            Name=MapPanel
+            Pos=333,-234,MapPanel
+            Size=117,117
+            Sme=58,58
+            MouseBlocking=True
+        }
+        Image {
+            Name=MapPanelA
+            Pos=333,-234,MapPanelF
+            Size=117,117
+            Sme=58,58
+            Image=GI,Bm.PanelSpace2.1RadarA
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=CenterShip
+            Pos=366,-196,InfoPanel
+            Size=27,22
+            Help=Help.ButCenterShip
+
+            KindHit=Graph
+            Kind=Normal
+
+            ImageNormal=GI,Bm.PanelSpace2.1CenterN
+            ImageNormalA=GI,Bm.PanelSpace2.1CenterA
+            ImageDown=GI,Bm.PanelSpace2.1CenterD
+        }
+
+        Circle {
+            Name=CircleActionShr
+            Kind=ShrLight
+            Pos=-400,-300,CircleActionShr
+            Size=800,600
+            ShrLightInner=0
+            ShrLightOuter=1
+            Active=False
+        }
+        SpaceCircle {
+            Name=CircleActionColor
+            Pos=-400,-300,CircleActionColor
+            Size=800,600
+            Active=False
+        }
+        SpaceCircle {
+            Name=CircleActionWeaponColor
+            Pos=-400,-300,CircleActionColor
+            Size=800,600
+            Active=False
+        }
+        SpaceCircle {
+            Name=CircleActionWeaponColor2
+            Pos=-400,-300,CircleActionColor
+            Size=800,600
+            Active=False
+        }
+        SpaceCircle {
+            Name=CircleActionWeaponColor3
+            Pos=-400,-300,CircleActionColor
+            Size=800,600
+            Active=False
+        }
+        SpaceCircle {
+            Name=CircleActionWeaponColor4
+            Pos=-400,-300,CircleActionColor
+            Size=800,600
+            Active=False
+        }
+
+///////////////////////////////////////////////////////////////
+        Window {
+            Style=Style.Window.1Normal2
+            Name=Info
+            Active=False
+            Pos=-390,-290,InfoPanel
+            Size=200,200
+            MouseBlocking=False
+            MVUpdate=True
+
+            Label {
+                Name=InfoText
+                Pos=10,10,-1
+                Size=180,180
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Auto
+                AlignY=Auto
+                Text=Test
+            }
+        }
+///////////////////////////////////////////////////////////////
+        Window {
+            Style=Style.Window.1Simple
+            Name=InfoStd
+            Active=False
+            Pos=-390,-290,InfoPanel
+            Size=205,137
+            MouseBlocking=False
+            MVUpdate=True
+
+            Label {
+                Pos=50,10,8
+                Size=145,34
+                Name=InfoStdName
+                Font=Font.1SmallBold //Normal
+                WordWrap=True
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=255,255,255
+            }
+
+//          RotateImage5 {
+//              Pos=28,28,0
+//              Name=InfoStdRI
+//          }
+            GraphBuf {
+                Pos=12,10,8
+                Size=34,34
+                Name=InfoStdGB
+            }
+            Image {
+                Pos=12,10,8
+                Size=34,34
+                Name=InfoStdImage
+            }
+
+            Label {
+                Pos=4,50,8
+                Size=196,75
+                Name=InfoStdText
+                Font=Font.1Small //Normal
+                WordWrap=True
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=255,255,255
+            }
+        }
+        
+///////////////////////////////////////////////////////////////
+        Window {
+            Style=Style.Window.1Simple
+            Name=InfoShip
+            Active=False
+            Pos=-390,-290,InfoPanel
+            Size=215,137
+            MouseBlocking=False
+            MVUpdate=True
+
+            Label {
+                Pos=50,10,8
+                Size=145,34
+                Name=InfoShipName
+                Font=Font.1SmallBold //Normal
+                WordWrap=True
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=255,255,255
+            }
+
+            Image {
+                Pos=180,110,8
+                Size=27,27
+                Name=InfoShipEmRace
+            }
+
+//          Image {
+//              Image=GI,Bm.FormShip.Durable100
+//              Pos=140,44,12
+//              Size=53,6
+//          }
+//          Image {
+//              Image=GI,Bm.FormShip.Durable0
+//              Pos=140,44,11
+//              Size=53,6
+//              KindX=Left
+//              Name=InfoShipDurable
+//          }
+            Panel {
+                Pos=50,2,11
+                Size=78,12
+
+                Image {
+                    Image=GI,Bm.FormNote.1BarBack
+                    Pos=16,4,3
+                    Size=45,3
+                }
+                Panel {
+                    Pos=16,4,2
+                    Size=45,3
+
+                    Image {
+                        Name=InfoShipDurable
+                        Pos=0,0
+                        Size=48,3
+                        Image=GI,Bm.FormNote.1BarLine
+                    }
+                }
+                Image {
+                    Image=GI,Bm.FormNote.1BarTop
+                    Pos=0,0,1
+                    Size=78,12
+                }
+            }
+        
+//          RotateImage5 {
+//              Pos=28,28,0
+//              Name=InfoShipImage
+//          }
+            GraphBuf {
+                Pos=12,10,8
+                Size=34,34
+                Name=InfoShipImage2
+            }
+
+            Label {
+                Pos=0,56,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISType
+                Name=ISType
+            }
+            Label {
+                Pos=0,67,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISSpeed
+                Name=ISSpeed
+            }
+            Label {
+                Pos=0,79,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISSize
+                Name=ISSize
+            }
+            Label {
+                Pos=0,91,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISDef
+                Name=ISDef
+            }
+            Label {
+                Pos=0,103,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISDamage
+                Name=ISDamage
+            }
+            Label {
+                Pos=0,114,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISRel
+                Name=ISRel
+            }
+            Label {
+                Pos=0,126,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISWin
+                Name=ISWin
+            }
+            Label {
+                Pos=101,56,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipType
+            }
+            Label {
+                Pos=101,67,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipSpeed
+            }
+            Label {
+                Pos=101,79,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipSize
+            }
+            Label {
+                Pos=101,91,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipDef
+            }
+            Label {
+                Pos=101,103,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipDamage
+            }
+            Label {
+                Pos=101,114,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipRel
+            }
+            Label {
+                Pos=101,126,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipWin
+            }
+        }
+///////////////////////////////////////////////////////////////
+        Window {
+            Style=Style.Window.1Simple
+            Name=InfoPlanet
+            Active=False
+            Pos=-390,-290,InfoPanel
+            Size=215,137
+            MouseBlocking=False
+            MVUpdate=True
+
+            Label {
+                Pos=50,10,8
+                Size=145,34
+                Name=InfoPlanetName
+                Font=Font.1SmallBold //Normal
+                WordWrap=True
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=255,255,255
+            }
+
+            Image {
+                Pos=180,105,8
+                Size=27,27
+                Name=InfoPlanetEmRace
+            }
+            
+            GraphBuf {
+                Pos=12,10,8
+                Size=34,34
+                Name=InfoPlanetImage
+            }
+
+            Label {
+                Pos=0,56,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.IPOwner
+                Name=IPOwner
+            }
+            Label {
+                Pos=0,67,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.IPPop
+                Name=IPPop
+            }
+            Label {
+                Pos=0,79,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.IPEco
+                Name=IPEco
+            }
+            Label {
+                Pos=0,91,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.IPGov
+                Name=IPGov
+            }
+            Label {
+                Pos=0,103,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.IPRel
+                Name=IPRel
+            }
+            Label {
+                Pos=101,56,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoPlanetOwner
+            }
+            Label {
+                Pos=101,67,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoPlanetPop
+            }
+            Label {
+                Pos=101,79,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoPlanetEco
+            }
+            Label {
+                Pos=101,91,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoPlanetGov
+            }
+            Label {
+                Pos=101,103,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoPlanetRel
+            }
+
+        }
+///////////////////////////////////////////////////////////////
+        Window {
+            Style=Style.Window.1Simple
+            Name=InfoStar
+            Active=False
+            Pos=-390,-290,InfoPanel
+            Size=215,137
+            MouseBlocking=False
+            MVUpdate=True
+
+            Label {
+                Pos=50,10,8
+                Size=145,34
+                Name=InfoStarName
+                Font=Font.1SmallBold
+                WordWrap=True
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=57,239,255
+            }
+
+            GraphBuf {
+                Pos=12,10,8
+                Size=34,34
+                Name=InfoStarImage
+            }
+
+            Panel {
+                Pos=0,58,8
+                Size=205,10
+                Name=InfoStarPanel
+            }
+
+        }
+///////////////////////////////////////////////////////////////
+        Window {
+            Style=Style.Window.1Item
+            Pos=-390,-290,InfoPanel
+            Size=205,125
+            Name=InfoItem
+            Active=False
+            MVUpdate=True
+
+            Image {
+                Pos=161,95,8
+                Size=27,27
+                Name=InfoItemEmRace
+            }
+
+            Image {
+                Pos=12,10,8
+                Size=34,34
+                Name=InfoItemImage
+            }
+
+            Panel {
+                Pos=50,2,11
+                Size=78,12
+
+                Image {
+                    Image=GI,Bm.FormNote.1BarBack
+                    Pos=16,4,3
+                    Size=45,3
+                }
+                Panel {
+                    Pos=16,4,2
+                    Size=45,3
+
+                    Image {
+                        Name=InfoItemDurable
+                        Pos=0,0
+                        Size=48,3
+                        Image=GI,Bm.FormNote.1BarLine
+                    }
+                }
+                Image {
+                    Image=GI,Bm.FormNote.1BarTop
+                    Pos=0,0,1
+                    Size=78,12
+                }
+            }
+
+            Label {
+                Pos=50,10,8
+                Size=145,34
+                Name=InfoItemName
+                Font=Font.1SmallBold //Normal
+                WordWrap=True
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=255,255,255
+            }
+            Label {
+                Pos=8,47,8
+                Size=188,65
+                Name=InfoItemText
+                Font=Font.1Small //Normal
+                WordWrap=True
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=255,255,255
+            }
+            Label {
+                Pos=48,96,8
+                Size=39,26
+                Name=InfoItemSize
+                Font=Font.1Normal
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255
+            }
+            Label {
+                Pos=108,96,8
+                Size=75,26
+                Name=InfoItemPrice
+                Font=Font.1Normal
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255
+            }
+        }
+    }
+}

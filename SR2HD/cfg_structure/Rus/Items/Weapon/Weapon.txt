@@ -1,0 +1,19 @@
+AddText=Тип: <WeaponType>
+Broken=(не функционирует)
+BrokenByForce=К сожалению, близкое знакомство с Бертором сделало свое черное дело. Орудие <Name> больше не работает.
+BrokenInBattle=Внимание! В результате меткого попадания орудие <Name> выведено из строя.
+BrokenInUse=Во время стрельбы зафиксирована поломка орудия <Name>.
+Detail=Detail\Detail.txt ^{
+}
+Missile=Missile\Missile.txt ^{
+}
+Name=Name\Name.txt ^{
+}
+Stats=Stats\Stats.txt ^{
+}
+Text=Text\Text.txt ^{
+}
+TypeEnergy=энергетическое
+TypeMissile=ракетное
+TypeSplinter=осколочное
+WSpecial=Модификация:

@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Center
+Font=Font.1Ranger
+Name=NameCaptain
+Pos=520,266,6
+Size=75,30
+TextColor=88,229,255
+WordWrap=True

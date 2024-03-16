@@ -1,0 +1,3 @@
+Image=GI,Bm.FormCount2.2IconBG
+Pos=30,37,11
+Size=33,33

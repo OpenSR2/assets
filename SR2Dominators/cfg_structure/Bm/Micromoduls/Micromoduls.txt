@@ -1,0 +1,12 @@
+1MM1_Set=data\Micromoduls\1MM1Set.gi
+1MM1_s=data\Micromoduls\1MM1.gi
+1MM2_Set=data\Micromoduls\1MM2Set.gi
+1MM2_s=data\Micromoduls\1MM2.gi
+1MM3_Set=data\Micromoduls\1MM3Set.gi
+1MM3_s=data\Micromoduls\1MM3.gi
+2MM1_Set=data\Micromoduls\2MM1Set.gi
+2MM1_s=data\Micromoduls\2MM1.gi
+2MM2_Set=data\Micromoduls\2MM2Set.gi
+2MM2_s=data\Micromoduls\2MM2.gi
+2MM3_Set=data\Micromoduls\2MM3Set.gi
+2MM3_s=data\Micromoduls\2MM3.gi

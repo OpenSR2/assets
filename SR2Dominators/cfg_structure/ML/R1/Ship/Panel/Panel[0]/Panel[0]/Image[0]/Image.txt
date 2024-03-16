@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.1Use
+Name=UseImage
+Pos=0,0
+Size=110,73

@@ -1,0 +1,4 @@
+Auto=Pos,Size
+Image=Bm.FormMain2.logo_1c
+Name=Logo1C
+Pos=0,0,48

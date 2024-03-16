@@ -1,0 +1,426 @@
+Border=0,0,800,600
+
+Sound { 
+    Group {
+        NextTime=5000-10000
+        1=Sound.FormShop0
+        1=Sound.FormShop1
+        1=Sound.FormShop2
+        1=Sound.FormShop3
+        1=Sound.FormShop4
+        1=Sound.FormShop5
+        1=Sound.FormShop6
+        1=Sound.FormShop7
+        1=Sound.FormShop8
+        1=Sound.FormShop9
+        1=Sound.FormShop10
+        1=Sound.FormShop11
+        1=Sound.FormShop12
+    }
+    Group {
+        NextTime=7000-16000
+        1=Sound.FormShop0
+        1=Sound.FormShop1
+        1=Sound.FormShop2
+        1=Sound.FormShop3
+        1=Sound.FormShop4
+        1=Sound.FormShop5
+        1=Sound.FormShop6
+        1=Sound.FormShop7
+        1=Sound.FormShop8
+        1=Sound.FormShop9
+        1=Sound.FormShop10
+        1=Sound.FormShop11
+        1=Sound.FormShop12
+    }
+}
+
+Panel {
+    Pos=0,0
+    Size=800,600
+    Name=MainPanel
+
+    Panel=cfg\R1\PanelMain.txt {
+        Pos=0,0,1
+    }
+    Panel=cfg\R1\PanelPlanet.txt {
+        Pos=344,541,1
+    }
+    Panel=cfg\R1\PanelRuins.txt {
+        Pos=0,0,2
+    }
+    Panel=cfg\R1\PanelLoad.txt {
+        Pos=0,0,-1000
+    }
+
+    Image {
+        Name=BGCity2
+        Active=True
+        Pos=0,0,11
+        Size=800,600
+    }
+    Image {
+        Name=BGCity
+        Active=True
+        Pos=0,0,10
+        Size=800,600
+    }
+
+    Panel {
+        Pos=97,129,6
+        Size=600,321
+        
+        Image {
+            Pos=0,0,10
+            Size=600,321
+            Image=GI,Bm.FormShop2.1bg
+        }
+
+        Image {
+            Name=BGImageRace
+            Pos=61,260,9
+            Size=474,45
+        }
+
+        PanelScrollBar {
+            Pos=65,33,7
+            Size=474,268
+            Name=PanelGoods
+            ActiveBarX=False
+            ActiveBarY=False
+            UnlimitedWorld=False
+            MoveWorld=True
+        }
+
+        GraphButton {
+            Name=Left
+
+            Pos=11,137,8
+            Size=33,56
+
+            Kind=Disable
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormShop2.1LeftN
+            ImageNormalA=GI,Bm.FormShop2.1LeftA
+            ImageDown=GI,Bm.FormShop2.1LeftD
+            ImageDisable=GI,Bm.FormShop2.1LeftH
+        }
+        
+        GraphButton {
+            Name=Right
+
+            Pos=556,137,8
+            Size=33,56
+
+            Kind=Disable
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormShop2.1RightN
+            ImageNormalA=GI,Bm.FormShop2.1RightA
+            ImageDown=GI,Bm.FormShop2.1RightD
+            ImageDisable=GI,Bm.FormShop2.1RightH
+        }
+
+        GraphButton {
+            Name=ButFormClose
+
+            Pos=547,235,8
+            Size=35,56
+
+            Kind=Normal
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormShop2.1CloseN
+            ImageNormalA=GI,Bm.FormShop2.1CloseA
+            ImageDown=GI,Bm.FormShop2.1CloseD
+        }
+    }
+
+///////////////////////////////////////////////////////////////
+    Window {
+        Style=Style.Window.1Item
+        Pos=25,10,5
+        Size=205,125
+        Name=PII
+        Active=False
+
+        Image {
+            Pos=161,95,8
+            Size=27,27
+            Name=EmRace
+        }
+
+        Image {
+            Pos=12,10,8
+            Size=34,34
+            Name=InfoImage
+        }
+
+        Panel {
+            Pos=50,2,11
+            Size=78,12
+
+            Image {
+                Image=GI,Bm.FormNote.1BarBack
+                Pos=16,4,3
+                Size=45,3
+            }
+            Panel {
+                Pos=16,4,2
+                Size=45,3
+
+                Image {
+                    Name=InfoDurable
+                    Pos=0,0
+                    Size=48,3
+                    Image=GI,Bm.FormNote.1BarLine
+                }
+            }
+            Image {
+                Image=GI,Bm.FormNote.1BarTop
+                Pos=0,0,1
+                Size=78,12
+            }
+        }
+
+        Label {
+            Pos=50,10,8
+            Size=145,34
+            Name=InfoName
+            Font=Font.1SmallBold //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=57,239,255
+        }
+        Label {
+            Pos=8,47,8
+            Size=188,65
+            Name=InfoText
+            Font=Font.1Small //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+        Label {
+            Pos=48,96,8
+            Size=39,26
+            Name=InfoSize
+            Font=Font.1Normal
+            AlignX=Left
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+        Label {
+            Pos=108,96,8
+            Size=75,26
+            Name=InfoPrice
+            Font=Font.1Normal
+            AlignX=Left
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+    }
+///////////////////////////////////////////////////////////////
+    Window {
+        Style=Style.Window.1Hull
+        Name=InfoHull
+        Active=False
+        Pos=25,10,5
+        Size=323,153
+
+        Image {
+            Pos=280,115,8
+            Size=35,35
+            Name=InfoHullEmRace
+        }
+
+        Image {
+            Pos=12,10,8
+            Size=34,34
+            Name=InfoHullImage
+        }
+
+        Panel {
+            Pos=11,52,7
+            Size=80,90
+
+            Image {
+                Pos=0,0,9
+                Size=80,90
+                Image=GI,Bm.FormNote.2HP_Bg
+            }
+            Image {
+                Name=InfoHull_Forsage
+                Pos=0,32
+                Size=14,15
+                Image=GI,Bm.FormNote.2HP_Forsage
+            }
+            Image {
+                Name=InfoHull_W1
+                Pos=16,19
+                Size=16,13
+                Image=GI,Bm.FormNote.2HP_W1
+            }
+            Image {
+                Name=InfoHull_W2
+                Pos=33,19
+                Size=15,13
+                Image=GI,Bm.FormNote.2HP_W2
+            }
+            Image {
+                Name=InfoHull_W3
+                Pos=48,19
+                Size=18,13
+                Image=GI,Bm.FormNote.2HP_W3
+            }
+            Image {
+                Name=InfoHull_W4
+                Pos=24,6
+                Size=16,13
+                Image=GI,Bm.FormNote.2HP_W4
+            }
+            Image {
+                Name=InfoHull_W5
+                Pos=41,6
+                Size=15,13
+                Image=GI,Bm.FormNote.2HP_W5
+            }
+            Image {
+                Name=InfoHull_A1
+                Pos=4,70
+                Size=13,8
+                Image=GI,Bm.FormNote.2HP_A1
+            }
+            Image {
+                Name=InfoHull_A2
+                Pos=65,70
+                Size=11,8
+                Image=GI,Bm.FormNote.2HP_A2
+            }
+            Image {
+                Name=InfoHull_A3
+                Pos=4,25
+                Size=13,7
+                Image=GI,Bm.FormNote.2HP_A3
+            }
+            Image {
+                Name=InfoHull_A4
+                Pos=64,25
+                Size=12,7
+                Image=GI,Bm.FormNote.2HP_A4
+            }
+            Image {
+                Name=InfoHull_Engine
+                Pos=9,36
+                Size=17,14
+                Image=GI,Bm.FormNote.2HP_Engine
+            }
+            Image {
+                Name=InfoHull_FuelTanks
+                Pos=9,52
+                Size=17,14
+                Image=GI,Bm.FormNote.2HP_FuelTanks
+            }
+            Image {
+                Name=InfoHull_Scaner
+                Pos=55,36
+                Size=17,14
+                Image=GI,Bm.FormNote.2HP_Scaner
+            }
+            Image {
+                Name=InfoHull_Radar
+                Pos=55,52
+                Size=17,14
+                Image=GI,Bm.FormNote.2HP_Radar
+            }
+            Image {
+                Name=InfoHull_RepairRobot
+                Pos=15,70
+                Size=17,13
+                Image=GI,Bm.FormNote.2HP_RepairRobot
+            }
+            Image {
+                Name=InfoHull_CargoHook
+                Pos=33,70
+                Size=15,13
+                Image=GI,Bm.FormNote.2HP_CargoHook
+            }
+            Image {
+                Name=InfoHull_DefGenerator
+                Pos=48,70
+                Size=18,13
+                Image=GI,Bm.FormNote.2HP_DefGenerator
+            }
+        }
+
+        Panel {
+            Pos=50,2,11
+            Size=78,12
+
+            Image {
+                Image=GI,Bm.FormNote.1BarBack
+                Pos=16,4,3
+                Size=45,3
+            }
+            Panel {
+                Pos=16,4,2
+                Size=45,3
+
+                Image {
+                    Name=InfoHullDurable
+                    Pos=0,0
+                    Size=48,3
+                    Image=GI,Bm.FormNote.1BarLine
+                }
+            }
+            Image {
+                Image=GI,Bm.FormNote.1BarTop
+                Pos=0,0,1
+                Size=78,12
+            }
+        }
+
+        Label {
+            Pos=50,10,8
+            Size=225,34
+            Name=InfoHullName
+            Font=Font.1SmallBold //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=57,239,255
+        }
+        Label {
+            Pos=10,60,8
+            Size=240,83
+
+            Name=InfoHullText
+            Font=Font.1Small //Normal
+            WordWrap=True
+            AlignX=Center
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+        Label {
+            Pos=143,121,8
+            Size=55,28
+            Name=InfoHullSize
+            Font=Font.1Normal
+            AlignX=Left
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+        Label {
+            Pos=207,121,8
+            Size=65,28
+            Name=InfoHullPrice
+            Font=Font.1Normal
+            AlignX=Left
+            AlignY=CenterEx
+            TextColor=255,255,255
+        }
+    }
+}

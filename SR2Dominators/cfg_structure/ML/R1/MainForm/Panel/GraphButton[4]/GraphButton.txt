@@ -1,0 +1,9 @@
+Auto=Size
+ImageDown=GI,Bm.FormMain2.1ButAboutD
+ImageNormal=GI,Bm.FormMain2.1ButAboutN
+ImageNormalA=GI,Bm.FormMain2.1ButAboutA
+Kind=Normal
+KindHit=Rect
+Name=About
+Pos=477,405,20
+Style=Style.GB.SoundNormal

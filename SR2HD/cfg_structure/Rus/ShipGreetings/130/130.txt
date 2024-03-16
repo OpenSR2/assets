@@ -1,0 +1,9 @@
+FlyType=ToPlanet
+Goods=Food
+Relations=Normal,Good,Best
+ShipGoodsTypeCnt=1
+ShipHaveGoods=Yes
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=ѕривет, <Player>!  ак дела?
+Text=я сейчас с€ду на <ToPlanet> и попробую продать все продовольствие, что везу.
+ToPlanetGoodsBuy=Average,Big,Huge

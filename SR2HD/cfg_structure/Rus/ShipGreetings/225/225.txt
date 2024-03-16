@@ -1,0 +1,9 @@
+AutoTalk=Any
+DominatorsAlreadyDefeated=No
+FlyType=ToStar
+Priority=50
+Relations=Bad,Normal,Good,Best
+ShipType=Ranger
+Text=Привет, <Player>! Наши уже воюют в <ToStar>. Бьются с доминаторами. Я отправляюсь туда. Ты тоже не тормози, быстрей прыгай. Лишних бойцов не бывает.
+ToStarControlByKling=Yes
+ToStarInBattle=Yes

@@ -1,0 +1,7 @@
+AutoTalk=Any
+FlyType=ToItem
+ItemType=FuelTanks,Engine,Radar,Scaner,RepairRobot,CargoHook,DefGenerator
+Priority=50
+Relations=Bad
+ShipType=Ranger,Pirate
+Text=Эй, <Player>! Видишь, там <Item> лежит? Так вот, не смей трогать! Это моя добыча!

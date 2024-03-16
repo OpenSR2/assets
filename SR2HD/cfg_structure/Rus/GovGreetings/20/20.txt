@@ -1,0 +1,12 @@
+CurPlanetGoodsCnt=Small,Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small,Average
+CurPlanetPirateClan=Any
+CurPlanetRace=Peleng
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Good,Best
+Goods=Narcotics
+PlayerStatus=Trader,Pirate
+Priority=30
+Text=На планете <CurPlanet> всегда рады видеть рейнджера, <Player>. Мы сочувствуем существу, обделенному конечностями, но надеемся, что этот факт не мешает заниматься контрабандой!
+Text=Кстати, у нас по дешевке можно купить хорошую партию наркоты. Советуем отвезти товар фэянам или гаальцам. Они очень на него падки.

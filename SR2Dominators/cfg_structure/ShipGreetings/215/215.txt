@@ -1,0 +1,10 @@
+AutoTalk=Any
+FlyType=ToStar
+HomePlanetInToStar=Yes
+PlayerRace=Maloc
+PlayerRating=Mini
+Priority=30
+Relations=Bad,Normal
+ShipRace=Fei
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=—лушай, ты, малокска€ морда по кличке <Player>. я держу курс на систему <ToStar>. Ќе вздумай туда лететь, там таких как ты не люб€т. Ёто фэ€нска€ система.

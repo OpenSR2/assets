@@ -1,0 +1,5 @@
+FrameLoad=0
+Image=Bm.FormRating2.2PirateEmpty
+Name=PirateEmpty
+Pos=76,432,2
+Size=99,110

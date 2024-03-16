@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=InfoStarName
+Pos=50,10,8
+Size=145,34
+TextColor=255,255,230
+WordWrap=True

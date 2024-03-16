@@ -1,0 +1,7 @@
+CoalitionAlreadyDefeated=No
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Normal,Good,Best
+PlayerRank=Cadet,Pilot,Wingman,Leader
+PlayerRating=Mini,Small
+Priority=10
+Text=Та-ак, рейнджер <Player>. Лычка <PlayerRank> говорит о том, что вы не очень-то хорошо выполняете свои рейнджерские обязанности. Это правильно, мы тут не любим выскочек - рейнджеров, которые горой стоят за Коалицию.<br>Имейте в виду, если станете таким, то к нам лучше не прилетайте. Вместо этого становитесь пиратом, и будут вам почет и уважение.

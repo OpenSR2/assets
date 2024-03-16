@@ -1,0 +1,6 @@
+1face0=data\Developers\1face0.gi
+1face1=data\Developers\1face1.gi
+1face2=data\Developers\1face2.gi
+2face0=data\Developers\2face0.gi
+2face1=data\Developers\2face1.gi
+2face2=data\Developers\2face2.gi

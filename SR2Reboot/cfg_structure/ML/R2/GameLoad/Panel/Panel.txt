@@ -1,0 +1,6 @@
+/		Image=GI,Bm.FormLoad.2min
+MoveWorld=False
+Panel=Panel\Panel.txt ^{
+}
+Pos=0,0
+Size=1024,768

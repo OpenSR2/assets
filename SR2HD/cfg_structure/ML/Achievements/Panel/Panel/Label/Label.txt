@@ -1,0 +1,7 @@
+AlignX=Center
+Font=Font.2Ranger
+Name=Caption
+Pos=367,65,2
+Size=233,25
+Text=Achievements.Caption
+TextColor=50,240,252

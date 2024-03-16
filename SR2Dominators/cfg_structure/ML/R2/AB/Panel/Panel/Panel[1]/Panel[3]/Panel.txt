@@ -1,0 +1,3 @@
+Name=PItem
+Pos=5,363,-4
+Size=64,400

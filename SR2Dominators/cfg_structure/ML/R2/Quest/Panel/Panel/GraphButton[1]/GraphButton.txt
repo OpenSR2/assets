@@ -1,0 +1,6 @@
+ImageNormal=GI,Bm.FormQuest.2New
+Kind=Fix
+KindHit=Rect
+Name=QuestRG
+Pos=83,365,-3
+Size=68,38

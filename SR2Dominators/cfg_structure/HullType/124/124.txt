@@ -1,0 +1,16 @@
+Artefact=0
+Cost=100
+Def=0
+Droid=0
+Forsage=0
+Hook=1
+Name=Омоко
+Probability=1
+Race=Gaal
+Radar=0
+Scaner=0
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Size=100
+Text=Серия стандартных гаальских корпусов.
+Weapon=0
+Year=0

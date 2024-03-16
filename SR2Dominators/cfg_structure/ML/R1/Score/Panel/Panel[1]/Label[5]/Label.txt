@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.1Normal
+Name=IDate
+Pos=589,68,2
+Size=107,30
+TextColor=212,212,212

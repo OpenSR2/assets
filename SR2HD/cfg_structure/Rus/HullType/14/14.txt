@@ -1,0 +1,17 @@
+Artefact=0
+Cost=80
+Def=0
+Droid=0
+Forsage=0
+Fragility=110
+Hook=-1
+Name=Большой челнок
+Probability=20
+Race=Maloc,Peleng,People,Fei,Gaal
+Radar=0
+Scaner=0
+ShipType=Transport
+Size=130
+Text=Корабль для перевозки крупногабаритных грузов. Установка захвата невозможна.
+Weapon=0
+Year=0

@@ -1,0 +1,7 @@
+Access=12
+Dif=53
+Genre=бродилка с приключениями
+Group=1
+Image=Bm.PQI.Kidnapped_01
+Length=3
+Name=Похищенный

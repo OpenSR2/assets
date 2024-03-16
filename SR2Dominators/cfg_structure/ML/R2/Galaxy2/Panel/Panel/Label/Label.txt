@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Name=LabelJumpTo
+Pos=182,563,-2
+Size=96,37
+TextColor=55,230,255
+WordWrap=True

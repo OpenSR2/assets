@@ -1,0 +1,5 @@
+CoalitionAlreadyDefeated=Yes
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Normal
+DominatorsAlreadyDefeated=No
+Text=¬место того, чтобы отнимать у мен€ врем€, <Player>, ты мог бы принести реальную пользу, отвоевав у доминаторов пару звездных систем. “ак как  оалиции нет, нам самим приходитс€ разбиратьс€ с этими тупыми железками.

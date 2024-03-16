@@ -1,0 +1,4 @@
+Image=GI,Bm.FormIntro2.1On
+Name=ICW8
+Pos=434,559,2
+Size=8,8

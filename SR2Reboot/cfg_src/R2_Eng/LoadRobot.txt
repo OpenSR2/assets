@@ -1,0 +1,316 @@
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+	MoveWorld=False
+
+	GraphBuf {
+		Name=BGBuf
+		Pos=0,0,99
+		Size=1024,768
+	}
+
+    Panel=cfg\R2\PanelLoad.txt {
+        Pos=0,0,-1000
+    }
+
+	Panel {
+		Pos=27,0,97
+		Size=973,701
+        Name=MainPanel
+
+	    Image {
+			Image=GI,Bm.FormLoadRobot.2BG
+			Pos=0,0,97
+			Size=973,701
+		}
+
+		GraphBuf {
+			Pos=632,108,9
+			Size=145,145
+			Name=ImageMap
+		}
+
+		Label {
+			Font=Font.2Ranger
+			Name=Caption
+		    Text=FormLoadRobot.Caption
+			TextColor=50,240,252
+			Pos=379,62,2
+			Size=210,25
+			AlignX=Center
+		}
+
+        GraphButton {
+            Name=ButGroup0
+            
+            Pos=165,109,-3
+            Size=124,25
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2PageN
+            ImageNormalA=GI,Bm.FormOptions2.2PageA
+            ImageDown=GI,Bm.FormOptions2.2PageD
+
+            Font=Font.2Ranger
+            Caption=FormLoadRobot.Group0
+            CaptionColorNormal=88,229,255
+            CaptionColorNormalA=88,229,255
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionSme=0,-2,0,-2
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=ButGroup1
+            
+            Pos=294,109,-3
+            Size=124,25
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2PageN
+            ImageNormalA=GI,Bm.FormOptions2.2PageA
+            ImageDown=GI,Bm.FormOptions2.2PageD
+
+            Font=Font.2Ranger
+            Caption=FormLoadRobot.Group1
+            CaptionColorNormal=88,229,255
+            CaptionColorNormalA=88,229,255
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionSme=0,-2,0,-2
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=ButGroup2
+            
+            Pos=423,109,-3
+            Size=124,25
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2PageN
+            ImageNormalA=GI,Bm.FormOptions2.2PageA
+            ImageDown=GI,Bm.FormOptions2.2PageD
+
+            Font=Font.2Ranger
+            Caption=FormLoadRobot.Group2
+            CaptionColorNormal=88,229,255
+            CaptionColorNormalA=88,229,255
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionSme=0,-2,0,-2
+
+            Style=Style.GB.SoundNormal
+        }
+
+		GraphButton {
+			Name=ButCancel
+			Style=Style.GB.SoundNormal
+			
+			Pos=638,635,1
+			Size=110,28
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormSave2.2CancelN
+			ImageDown=GI,Bm.FormSave2.2CancelD
+
+			Font=Font.2Ranger
+			Caption=FormLoadRobot.Cancel
+			CaptionColorNormal=0,44,70
+			CaptionColorNormalA=50,240,252
+			CaptionColorDown=0,44,70
+			CaptionColorDownA=0,44,70
+			CaptionColorDisable=0,34,54
+			CaptionColorDisableA=0,34,54
+			CaptionShadowColorNormal=37,178,189
+			CaptionShadowColorNormalA=0,0,0
+			CaptionShadowColorDown=37,178,189
+			CaptionShadowColorDownA=37,178,189
+			CaptionShadowColorDisable=0,110,176
+			CaptionShadowColorDisableA=0,110,176
+			CaptionShadow=1
+			CaptionSme=0,-2,1,0
+		}
+		GraphButton {
+			Name=ButStart
+			Style=Style.GB.SoundNormal
+			
+			Pos=638,583,1
+			Size=111,39
+
+			Kind=Disable
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormSave2.2SaveN
+			ImageDown=GI,Bm.FormSave2.2SaveD
+			ImageDisable=GI,Bm.FormSave2.2SaveH
+
+			Font=Font.2Ranger
+			Caption=FormLoadRobot.Start
+			CaptionColorNormal=0,44,70
+			CaptionColorNormalA=50,240,252
+			CaptionColorDown=0,44,70
+			CaptionColorDownA=0,44,70
+			CaptionColorDisable=0,34,54
+			CaptionColorDisableA=0,34,54
+			CaptionShadowColorNormal=37,178,189
+			CaptionShadowColorNormalA=0,0,0
+			CaptionShadowColorDown=37,178,189
+			CaptionShadowColorDownA=37,178,189
+			CaptionShadowColorDisable=0,110,176
+			CaptionShadowColorDisableA=0,110,176
+			CaptionShadow=1
+			CaptionSme=0,-2,1,0
+		}
+
+		GraphButton {
+			Name=ButClose
+			Style=Style.GB.SoundNormal
+			
+			Pos=891,610,1
+			Size=59,61
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormSave2.2CloseN
+			ImageNormalA=GI,Bm.FormSave2.2CloseA
+			ImageDown=GI,Bm.FormSave2.2CloseD
+		}
+
+		PanelScrollBar {
+			Name=PanelSlot
+			Pos=44,161,2
+			Size=519,457
+			ActiveBarY=True
+			PosAutoBarY=False
+			StyleBarY=Style.ScrollBar.2V1
+			RectBarY=574,161,591,618
+			ExternalSB=True
+			UnlimitedWorld=False
+			MoveWorld=True
+		}
+
+        GraphButton {
+            Name=Dif1
+            
+            Pos=790,152,-3
+            Size=17,17
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2SwitchN
+            ImageNormalA=GI,Bm.FormOptions2.2SwitchA
+            ImageDown=GI,Bm.FormOptions2.2SwitchD
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=Dif2
+            
+            Pos=790,188,-3
+            Size=17,17
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2SwitchN
+            ImageNormalA=GI,Bm.FormOptions2.2SwitchA
+            ImageDown=GI,Bm.FormOptions2.2SwitchD
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=Dif3
+            
+            Pos=790,228,-3
+            Size=17,17
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2SwitchN
+            ImageNormalA=GI,Bm.FormOptions2.2SwitchA
+            ImageDown=GI,Bm.FormOptions2.2SwitchD
+
+            Style=Style.GB.SoundNormal
+        }
+
+		Label {
+			Font=Font.2Ranger
+		    Text=FormLoadRobot.DifCap
+			TextColor=88,229,255
+			Pos=787,118,2
+			Size=135,30
+			AlignX=Left
+			WordWrap=True
+		}
+		Label {
+			Font=Font.2Normal
+		    Text=FormLoadRobot.Dif1
+			TextColor=88,229,255
+			Pos=810,147,2
+			Size=120,30
+			AlignX=Left
+			WordWrap=True
+		}
+		Label {
+			Font=Font.2Normal
+		    Text=FormLoadRobot.Dif2
+			TextColor=88,229,255
+			Pos=810,186,2
+			Size=120,30
+			AlignX=Left
+			WordWrap=True
+		}
+		Label {
+			Font=Font.2Normal
+		    Text=FormLoadRobot.Dif3
+			TextColor=88,229,255
+			Pos=810,227,2
+			Size=120,30
+			AlignX=Left
+			AlignY=Top
+			WordWrap=True
+		}
+
+        PanelScrollBar {
+			Name=MessageWindow
+			Pos=630,287,2
+			Size=280,266
+			TextColor=255,255,230
+
+			StyleBarY=Style.ScrollBar.2V1
+			ActiveBarY=True
+			PosAutoBarY=False
+			RectBarY=917,290,934,524
+
+			MoveWorld=True
+			UnlimitedWorld=False
+			ExternalSB=True
+
+            Label {
+				Name=MessageText
+		        Font=Font.2Small
+				Pos=0,0,3,w
+				Size=280,266
+				AlignX=Left
+				AlignY=Auto  
+				WordWrap=True
+				TextColor=0,0,0
+			}
+
+        }
+	}
+}

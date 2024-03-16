@@ -1,0 +1,4 @@
+Image=GI,Bm.FormGameSet2.1CurMove
+Name=ItemCur
+Pos=479,357,70
+Size=34,34

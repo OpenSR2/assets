@@ -1,0 +1,14 @@
+AutoTalk=Any
+FlyType=Any
+InFear=Yes
+PlayerIsShipBad=Yes
+PlayerRating=Mini,Small
+Relations=War
+ShipBadFlyToShip=Any
+ShipRace=Maloc,Peleng,People
+ShipRaceIsPlayerRace=Yes
+ShipStructure=Mini,Small,Average
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+StrengthShipWithPlayer=Mini,Small
+Text=Мы же братья по крови! Ну как ты можешь иметь что-то против меня, <Player>? Может, отпустишь меня по-хорошему? Космос полон иноземцев, бей лучше их! Это фэяне и гаальцы твои враги, а не я!
+Text=Я всегда тебя уважал и никогда не смеялся, тыкая тебе, что ты на последнем месте в списке рейнджеров!

@@ -1,0 +1,5 @@
+Name=Ракета
+Text=Самонаводящаяся ракета
+TextFrom=Выпустил: <Name>
+TextNoTarget=Цель потеряна
+TextTarget=Цель: <Name>

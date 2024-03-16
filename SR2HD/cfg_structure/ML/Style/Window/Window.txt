@@ -1,0 +1,18 @@
+2Hull=2Hull\2Hull.txt ^{
+}
+2Info=2Info\2Info.txt ^{
+}
+2Item=2Item\2Item.txt ^{
+}
+2MessageBox=2MessageBox\2MessageBox.txt ^{
+}
+2Normal=2Normal\2Normal.txt ^{
+}
+2Normal2=2Normal2\2Normal2.txt ^{
+}
+2PQuestPar=2PQuestPar\2PQuestPar.txt ^{
+}
+2Simple=2Simple\2Simple.txt ^{
+}
+2Tips=2Tips\2Tips.txt ^{
+}

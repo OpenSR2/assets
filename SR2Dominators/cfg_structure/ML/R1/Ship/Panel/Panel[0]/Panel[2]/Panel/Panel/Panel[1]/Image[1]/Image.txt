@@ -1,0 +1,5 @@
+Image=GI,Bm.FormShip2.1SkillNegative
+KindX=Left
+Name=Skill1n
+Pos=0,0,0
+Size=23,34

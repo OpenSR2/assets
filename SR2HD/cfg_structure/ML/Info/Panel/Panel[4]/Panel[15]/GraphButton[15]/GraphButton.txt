@@ -1,0 +1,10 @@
+Help=FormInfo.HelpPaste
+ImageDown=GI,Bm.FormInfo3.PasteButD
+ImageNormal=GI,Bm.FormInfo3.PasteButN
+ImageNormalA=GI,Bm.FormInfo3.PasteButA
+Kind=Normal
+KindHit=Rect
+Name=M15ButPaste
+Pos=135,339,1
+Size=21,21
+Style=Style.GB.SoundNormal

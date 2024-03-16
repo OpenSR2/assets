@@ -1,0 +1,5 @@
+Attack=Attack\Attack.txt ^{
+}
+Greeting=Вся моя боевая мощь к вашим услугам, хозяин. Мои пушки готовы к бою, жду указаний.
+Return=Return\Return.txt ^{
+}

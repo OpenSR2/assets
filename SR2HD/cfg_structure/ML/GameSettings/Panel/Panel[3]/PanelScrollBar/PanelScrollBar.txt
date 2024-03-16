@@ -1,0 +1,10 @@
+ActiveBarY=True
+ExternalSB=True
+MoveWorld=True
+Name=PanelSet
+Pos=222,62,-3
+PosAutoBarY=False
+RectBarY=867,50,888,578
+Size=569,524
+StyleBarY=Style.ScrollBar.2V2
+UnlimitedWorld=False

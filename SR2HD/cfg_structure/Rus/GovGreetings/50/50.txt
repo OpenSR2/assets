@@ -1,0 +1,11 @@
+CurPlanetPirateClan=Any
+CurPlanetRace=Peleng
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Normal,Good,Best
+PirateInToStar=3,4,5,6,7,8,9,Many
+PlayerStatus=Pirate
+Priority=10
+Text=Ача! Пират, <Player>!  Мы рады, что другие пираты не забывают про своих братьев пеленгов!
+Text=Мы получили информацию, что в системе <ToStar> собираются некие богатые личности для отдыха на курортных планетах. Это значит, пиратам будет, чем поживиться. Если вы собираетесь туда, то будьте бдительны, не только вы узнали от нас об этом.
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal

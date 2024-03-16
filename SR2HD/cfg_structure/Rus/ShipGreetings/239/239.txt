@@ -1,0 +1,12 @@
+AutoTalk=Yes
+CoalitionAlreadyDefeated=No
+DominatorsAlreadyDefeated=No
+FlyType=ToStar
+KlingInToStar=3,4,5,6,7,8,9,Many
+Priority=30
+Relations=Normal,Good,Best
+ShipRace=Maloc
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Арр-р! <Player>, разве ты не знаешь, что наши войска сейчас сражаются в системе <ToStar> с доминаторами? И ты еще здесь? Да еще смеешь называться после этого рейнджером?!! Живо дуй со мной в систему <ToStar>, покажем этим жестянкам, что малоки умеют не только коников из грязи лепить...
+ToStarControlByKling=Any
+ToStarInBattle=Yes

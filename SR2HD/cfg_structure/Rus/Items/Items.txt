@@ -1,0 +1,31 @@
+CargoHook=CargoHook\CargoHook.txt ^{
+}
+Cistern=Cistern\Cistern.txt ^{
+}
+DefGenerator=DefGenerator\DefGenerator.txt ^{
+}
+Engine=Engine\Engine.txt ^{
+}
+Equpments=Equpments\Equpments.txt ^{
+}
+FuelTanks=FuelTanks\FuelTanks.txt ^{
+}
+Goods=Goods\Goods.txt ^{
+}
+Hull=Hull\Hull.txt ^{
+}
+Nod=Nod\Nod.txt ^{
+}
+Radar=Radar\Radar.txt ^{
+}
+RepairRobot=RepairRobot\RepairRobot.txt ^{
+}
+Satellite=Satellite\Satellite.txt ^{
+}
+Scaner=Scaner\Scaner.txt ^{
+}
+SmallInfo=Контейнер
+TreasureMap=TreasureMap\TreasureMap.txt ^{
+}
+Weapon=Weapon\Weapon.txt ^{
+}

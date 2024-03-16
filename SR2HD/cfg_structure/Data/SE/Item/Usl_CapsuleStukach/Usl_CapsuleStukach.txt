@@ -1,0 +1,3 @@
+2Image=Bm.ItemsUseless.2Usl_CapsuleStukach_c
+ImageMap=Bm.Container.Map0
+PosZ=Item

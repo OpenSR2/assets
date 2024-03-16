@@ -1,0 +1,112 @@
+Name=PanelRuins
+Size=800,600
+
+Image {
+	Image=GI,Bm.PanelMain2.1Planet
+	Pos=344,541,10
+	Size=233,34
+}
+
+GraphButton {
+	Name=PR_Gov
+	Pos=396,542,8
+	Size=32,26
+	Help=Help.ButCaptain
+
+	KindHit=Graph
+	Kind=Normal
+
+	ImageNormal=GI,Bm.PanelMain2.1GovN
+	ImageNormalA=GI,Bm.PanelMain2.1GovA
+	ImageDown=GI,Bm.PanelMain2.1GovD
+
+	Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+	Name=PR_Shop
+	Pos=465,542,8
+	Size=33,26
+	Help=Help.ButShop
+
+	KindHit=Graph
+	Kind=Normal
+
+	ImageNormal=GI,Bm.PanelMain2.1ShopN
+	ImageNormalA=GI,Bm.PanelMain2.1ShopA
+	ImageDown=GI,Bm.PanelMain2.1ShopD
+
+	Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+	Name=PR_Goods
+	Pos=431,542,8
+	Size=33,26
+	Help=Help.ButGoods
+
+	KindHit=Graph
+	Kind=Normal
+
+	ImageNormal=GI,Bm.PanelMain2.1GoodsN
+	ImageNormalA=GI,Bm.PanelMain2.1GoodsA
+	ImageDown=GI,Bm.PanelMain2.1GoodsD
+
+	Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+	Name=PR_Info
+	Pos=500,542,8
+	Size=35,26
+	Help=Help.ButInfo
+
+	KindHit=Graph
+	Kind=Normal
+
+	ImageNormal=GI,Bm.PanelMain2.1InfoN
+	ImageNormalA=GI,Bm.PanelMain2.1InfoA
+	ImageDown=GI,Bm.PanelMain2.1InfoD
+
+	Style=Style.GB.SoundNormal
+}
+
+GraphButton {
+	Name=PR_Hangar
+	Pos=534,542,8
+	Size=35,26
+	Help=Help.ButHangar
+
+	KindHit=Graph
+	Kind=Normal
+
+	ImageNormal=GI,Bm.PanelMain2.1HangarN
+	ImageNormalA=GI,Bm.PanelMain2.1HangarA
+	ImageDown=GI,Bm.PanelMain2.1HangarD
+
+	Style=Style.GB.SoundNormal
+}
+
+//GraphButton {
+//	Name=PR_Takeoff
+//	Pos=715,492,8
+//	Size=75,50
+//	Help=Help.ButTakeoff
+  
+//	KindHit=Graph
+//	Kind=Normal
+
+//	ImageNormal=GI,Bm.PanelPlanet.1TakeOffN
+//	ImageNormalA=GI,Bm.PanelPlanet.1TakeOffA
+//	ImageDown=GI,Bm.PanelPlanet.1TakeOffN
+  
+//	Style=Style.GB.SoundNormal
+//}
+
+//Door {
+//	Name=PR_Takeoff
+//	Image=Bm.PanelPlanet.1TakeOff
+//	Size=75,50
+//	Pos=715,492,8
+//	StepTime=15
+//}

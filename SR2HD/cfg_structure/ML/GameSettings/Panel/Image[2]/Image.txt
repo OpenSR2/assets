@@ -1,0 +1,4 @@
+Image=GI,Bm.FormGameSet2.2Footer
+Name=ImageFooter
+Pos=0,665,50
+Size=1024,103

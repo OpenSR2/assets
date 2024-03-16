@@ -1,0 +1,7 @@
+AlignX=Center
+Font=Font.1Ranger
+Name=CaptionLoad
+Pos=263,11,2
+Size=234,20
+Text=FormSaveManager.CaptionLoad
+TextColor=50,240,252

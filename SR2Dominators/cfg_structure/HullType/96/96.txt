@@ -1,0 +1,16 @@
+Artefact=0
+Cost=130
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Слопка
+Probability=10
+Race=Gaal
+Radar=0
+Scaner=-1
+ShipType=Ranger
+Size=120
+Text=Крепкий гаальский орешек. Рейнджерский корпус с большим трюмом и мощным оружейным отсеком. Установка сканера невозможна.
+Weapon=2
+Year=10

@@ -1,0 +1,28 @@
+Accept=Согласен
+Attack=Attack\Attack.txt ^{
+}
+Cancel=Отмена
+Dominator=Dominator\Dominator.txt ^{
+}
+DropGoodsInFear=DropGoodsInFear\DropGoodsInFear.txt ^{
+}
+Exit=Конец связи
+Goods=Goods\Goods.txt ^{
+}
+Money=Money\Money.txt ^{
+}
+Partner=Partner\Partner.txt ^{
+}
+PlanetSay=Планета
+PlanetSay=<Name>
+Protect=Protect\Protect.txt ^{
+}
+Reject=Отказываюсь
+ShipSay=<Name>
+To= -->
+Trade=Trade\Trade.txt ^{
+}
+Tranclucator=Tranclucator\Tranclucator.txt ^{
+}
+Truce=Truce\Truce.txt ^{
+}

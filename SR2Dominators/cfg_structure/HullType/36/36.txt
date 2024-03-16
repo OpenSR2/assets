@@ -1,0 +1,16 @@
+Artefact=0
+Cost=110
+Def=0
+Droid=0
+Forsage=1
+Hook=0
+Name=Возмездие неба
+Probability=3
+Race=Maloc,Peleng,People,Fei
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=100
+Text=Грозная серия корпусов для молниеносных атак. Всегда в моде.
+Weapon=0
+Year=0

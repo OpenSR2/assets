@@ -1,0 +1,18 @@
+Angel ^{
+}
+Comet ^{
+}
+Container ^{
+}
+Gate ^{
+}
+Hole ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+Ruins=Ruins\Ruins.txt ^{
+}
+Ship=Ship\Ship.txt ^{
+}
+Star ^{
+}

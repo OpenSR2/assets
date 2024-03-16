@@ -1,0 +1,16 @@
+Artefact=0
+Cost=130
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=ќружейник
+Probability=5
+Race=Maloc,Peleng,People
+Radar=0
+Scaner=0
+ShipType=Ranger
+Size=100
+Text=¬нутренн€€ отделка салона содержит декоративные элементы оружи€ и боеприпасов. ƒл€ любителей показать силу.
+Weapon=2
+Year=40

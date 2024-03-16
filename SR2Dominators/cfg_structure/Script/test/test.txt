@@ -1,0 +1,17 @@
+0=Message 1"<PlayerFull>"-'-'-
+1=Message 2
+10=Далее
+11=Landing Ranger center
+12=Далее 2
+13=Landing Ranger center<br>OK
+14=Далее 3
+15=Landing Ranger center<br>FAIL
+16=Взлет
+2=Message 3
+3=Message 4
+4=Message 5
+5=Message 6
+6=Item in planet
+7=Item in ship
+8=Item is not exist
+9=My exit

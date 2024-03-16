@@ -1,0 +1,17 @@
+2LeftA=data\FormShop\2LeftA.gi
+2LeftD=data\FormShop\2LeftD.gi
+2LeftN=data\FormShop\2LeftN.gi
+2RightA=data\FormShop\2RightA.gi
+2RightD=data\FormShop\2RightD.gi
+2RightN=data\FormShop\2RightN.gi
+2panel=data\FormShop\2panel.gi
+2sel0=data\FormShop\2sel0.gi
+2sel1=data\FormShop\2sel1.gi
+2sel2=data\FormShop\2sel2.gi
+2sel3=data\FormShop\2sel3.gi
+2sel4=data\FormShop\2sel4.gi
+2sel5=data\FormShop\2sel5.gi
+2sel6=data\FormShop\2sel6.gi
+2sel7=data\FormShop\2sel7.gi
+2selA=data\FormShop\2selA.gi
+2selE=data\FormShop\2selE.gi

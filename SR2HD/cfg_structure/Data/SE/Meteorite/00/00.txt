@@ -1,0 +1,5 @@
+Angle=270
+Image=Bm.BGO.m00
+PosZ=Meteorite
+Speed=2,4
+Time=20

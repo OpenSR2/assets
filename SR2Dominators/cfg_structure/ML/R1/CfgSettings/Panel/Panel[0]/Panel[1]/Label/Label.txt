@@ -1,0 +1,11 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Name=ModeRightName
+Pos=1,14,-4
+Size=195,31
+Text=FormCfgSettings.ModeSpace
+TextColor=0,44,70
+TextShadow=1
+TextShadowColor=37,178,189
+WordWrap=True

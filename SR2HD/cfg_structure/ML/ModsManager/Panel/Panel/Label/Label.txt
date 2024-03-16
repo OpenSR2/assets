@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=Center
+Font=Font.2Ranger
+Pos=348,9,2
+Size=200,20
+Text=FormMods.Title
+TextColor=88,229,255

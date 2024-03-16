@@ -1,0 +1,7 @@
+AutoTalk=Any
+FlyType=ToItem
+ItemType=FuelTanks,Engine,Radar,Scaner,RepairRobot,CargoHook,DefGenerator
+Relations=Normal,Good,Best
+ShipNeedInItem=No
+ShipType=Ranger,Pirate
+Text=Слушай, <Player>, тут дрянь одна валяется. Она мне нафиг не нужна, но продать зато можно.

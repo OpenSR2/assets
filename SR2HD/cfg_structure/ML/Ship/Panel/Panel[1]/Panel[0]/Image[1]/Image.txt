@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.2UseLeft
+Name=UseLeft
+Pos=47,28,3
+Size=27,48

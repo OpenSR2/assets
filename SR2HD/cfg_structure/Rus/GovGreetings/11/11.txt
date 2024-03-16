@@ -1,0 +1,13 @@
+CurPlanetEconomy=Mixed,Industrial
+CurPlanetGoodsCnt=Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small,Average
+CurPlanetPirateClan=No
+CurPlanetRace=Maloc,People,Fei,Gaal
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Normal,Good,Best
+Goods=Technics
+PlayerStatus=Pirate
+Priority=30
+Text=Так-так, <Player>. И как скоро вы прекратите заниматься противозаконной деятельностью? Вы иноземец, пират, и при этом приходите сюда, как к себе домой! Безусловно, мы пока неплохо к вам относимся, но терпенье наше уже на пределе.
+Text=Лучше купите на нашей планете партию техники. Никто не берет, понимаешь... :-(

@@ -1,0 +1,4 @@
+Active=True
+Image=GI,Bm.FormCount2.2bg
+Pos=0,0,12
+Size=283,210

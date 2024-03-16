@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Pos=309,55,8
+Size=78,16
+Text=FormScore.LLevel
+TextColor=85,113,128

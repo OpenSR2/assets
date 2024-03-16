@@ -1,0 +1,16 @@
+Artefact=0
+Cost=60
+Def=0
+Droid=0
+Forsage=0
+Hook=1
+Name=Энхансер
+Probability=30
+Race=Fei
+Radar=0
+Scaner=0
+ShipType=Warrior
+Size=90
+Text=Серия недорогих корпусов, созданных для научных войск. Вооружение слабое, есть захват.
+Weapon=-1
+Year=20

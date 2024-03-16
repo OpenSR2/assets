@@ -1,0 +1,194 @@
+Border=0,0,800,600
+Panel {
+    Pos=0,0
+    Size=800,600
+    MoveWorld=False
+    Name=MainPanel
+
+    Image {
+        Name=ImageFon
+        Image=GI,Bm.FormIntro2.1bg
+        Pos=0,0,1000
+        Size=1562,1362
+    }
+    Image {
+        Name=ImageFon2
+        Image=GI,Bm.FormIntro2.1bg
+        Pos=976,976,1001
+        Size=1562,1362
+    }
+    Image {
+        Name=ImageFon3
+        Image=GI,Bm.FormIntro2.1bg
+        Pos=1952,1952,1002
+        Size=1562,1362
+    }
+
+    Image { 
+        Pos=0,30,201
+        Size=703,548
+        Image=GI,Bm.FormAbout2.1Circle
+    }
+    Image { 
+        Pos=0,0,200
+        Size=800,600
+        Image=GI,Bm.FormAbout2.1Panel
+    }
+
+    Label {
+        Pos=55,23,40
+        Size=450,55
+        Font=Font.1Ranger
+        TextColor=160,180,193
+        AlignX=Center
+        AlignY=CenterEx
+        WordWrap=False
+        Text=FormAbout.Demo
+    }
+
+    Label {
+        Pos=14,583,40
+        Size=133,16
+        Font=Font.1Small
+        TextColor=128,144,154
+        AlignX=Center
+        AlignY=CenterEx
+        WordWrap=False
+        Text=FormAbout.Elemental
+    }
+    Label {
+        Pos=126,583,40
+        Size=133,16
+        Font=Font.1Small
+        TextColor=128,144,154
+        AlignX=Center
+        AlignY=CenterEx
+        WordWrap=False
+        Text=FormAbout.1C
+    }
+    Label {
+        Pos=241,583,40
+        Size=133,16
+        Font=Font.1Small
+        TextColor=128,144,154
+        AlignX=Center
+        AlignY=CenterEx
+        WordWrap=False
+        Text=FormAbout.Katauri
+    }
+    Label {
+        Pos=352,583,40
+        Size=133,16
+        Font=Font.1Small
+        TextColor=128,144,154
+        AlignX=Center
+        AlignY=CenterEx
+        WordWrap=False
+        Text=FormAbout.snk
+    }
+
+    Image {
+		Name=Logo1C
+        Pos=172,552,20
+        Auto=Size
+        Image=GI,Bm.FormAbout.1Logo1C
+    }
+    Image {
+        Pos=61,541,20
+        Auto=Size
+        Image=GI,Bm.FormAbout.1LogoElemental
+    }
+    Image {
+        Pos=266,548,20
+        Auto=Size
+        Image=GI,Bm.FormMain3.1Katauri
+    }
+    Image {
+        Pos=394,541,20
+        Auto=Size
+        Image=GI,Bm.FormMain3.1snk
+    }
+
+//    Image {
+//        Pos=24,7,20
+//        Size=184,49
+//        Image=GI,Bm.FormAbout2.1LogoSR
+//    }
+//    Image {
+//		Name=RangersRU
+//        Pos=207,14,20
+//        Size=354,32
+//        Image=GI,Bm.FormAbout2.1RangersRU
+//    }
+
+    Image { 
+        Pos=409,1,50 //10
+        Size=391,156
+        Image=GI,Bm.FormAbout2.1Station1
+    }
+    Image { 
+        Pos=409,157,50 //10
+        Size=391,234
+        Image=GI,Bm.FormAbout2.1Station2
+    }
+    Image { 
+        Pos=410,391,50 //10
+        Size=195,209
+        Image=GI,Bm.FormAbout2.1Station3
+    }
+
+    GAI {
+        Name=S1
+        Pos=605,391,50 //10
+        Size=195,209
+        PBuf=True
+        Frame=[50,0-298]
+        ImageFirst=Bm.FormAbout2.1S1
+        Image=Bm.FormAbout2.1S1A
+    }
+
+    GAI {
+        Name=Ship
+        Pos=100,100,19//500
+        Size=156,156
+        Sme=78,78
+        Frame=[60,0-99]
+        Image=Bm.FormAbout2.1Ship
+    }
+    GAI {
+        Name=Peleng
+        Pos=300,300,19//500
+        Size=156,156
+        Sme=78,78
+        Frame=[60,0-99]
+        Image=Bm.FormAbout2.1Peleng
+    }
+    GAI {
+        Name=Jar
+        Pos=500,500,19//500
+        Size=240,240
+        Sme=120,120
+        Frame=[50,0-199]
+        Image=Bm.FormAbout2.1Jar
+    }
+    GAI {
+        Name=Jar2
+        Pos=500,500,19//500
+        Size=170,170
+        Sme=85,85
+        Frame=[60,0-99]
+        Image=Bm.FormAbout2.1Jar2
+    }
+
+    Panel {
+        Name=PAbout
+        Pos=55,66,50
+        Size=450,477
+
+        Panel {
+            Name=PAboutI
+            Pos=0,0
+            Size=450,1
+        }
+    }
+}

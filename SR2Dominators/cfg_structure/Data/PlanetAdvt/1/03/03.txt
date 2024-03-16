@@ -1,0 +1,3 @@
+Goods=Food
+Image2=GAI,Bm.PlanetAdvt.2_3_03
+War=-1

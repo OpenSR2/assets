@@ -1,0 +1,6 @@
+Diplomat=Далани
+Liner=Пиолептида
+Pirate=Фантом
+Ranger=Рейнджер
+Transport=Менакен
+Warrior=Экефар

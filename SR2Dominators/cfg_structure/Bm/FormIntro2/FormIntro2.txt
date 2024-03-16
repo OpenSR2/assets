@@ -1,0 +1,14 @@
+1NextA=data\FormIntro2\1NextA.gi
+1NextD=data\FormIntro2\1NextD.gi
+1NextH=data\FormIntro2\1NextH.gi
+1NextN=data\FormIntro2\1NextN.gi
+1On=data\FormIntro2\1On.gi
+1Panel=data\FormIntro2\1Panel.gi
+1bg=data\FormIntro2\1bg.gi
+2NextA=data\FormIntro2\2NextA.gi
+2NextD=data\FormIntro2\2NextD.gi
+2NextH=data\FormIntro2\2NextH.gi
+2NextN=data\FormIntro2\2NextN.gi
+2On=data\FormIntro2\2On.gi
+2Panel=data\FormIntro2\2Panel.gi
+2bg=data\FormIntro2\2bg.gi

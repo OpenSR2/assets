@@ -1,0 +1,7 @@
+Access=10
+Dif=50
+Genre=логические головоломки и математические задачи
+Group=0
+Image=Bm.PQI.Easywork_06
+Length=4
+Name=Легкая работа

@@ -1,0 +1,4 @@
+Image=Image\Image.txt ^{
+}
+Pos=16,5,3
+Size=51,4

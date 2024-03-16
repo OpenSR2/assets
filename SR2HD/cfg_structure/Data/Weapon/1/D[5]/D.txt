@@ -1,0 +1,8 @@
+Accel=-0.02
+Angle=300
+AutoAnim=True
+Image=Bm.Hits.00
+LoopAnim=False
+SkipTime=20
+Speed=1.0
+StartPos=0

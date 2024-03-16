@@ -1,0 +1,3 @@
+Name=InfoHullEmRace
+Pos=280,115,8
+Size=35,35

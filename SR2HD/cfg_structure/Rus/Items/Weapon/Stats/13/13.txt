@@ -1,0 +1,11 @@
+AverageRadius=0300
+AverageSize=080
+DamageSet=Splinter,Destruct
+MaxDamage=030
+MinDamage=020
+MiningFactor=6
+ShotType=AreaDamage
+Speed=040
+TechLevel=09
+kCost=75.0
+mWeaponDamage=1.00,1.10,1.25,1.40,1.80,2.20,2.60,3.00

@@ -1,0 +1,3 @@
+2AnimF=data\Hangar\Fei\2AnimF.gai
+2AnimL=data\Hangar\Fei\2AnimL.gai
+2bg=data\Hangar\Fei\2bg.gi

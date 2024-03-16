@@ -1,0 +1,232 @@
+Border=0,0,1024,768
+Sound {
+	Open=Sound.FormShipOpen
+	Close=Sound.FormShipClose
+}
+Panel {
+	Pos=0,0
+    Size=1024,768
+	MoveWorld=False
+	Name=MainPanel
+
+    Panel=cfg\R2\PanelMain.txt {
+        Pos=0,0,-100
+    }
+
+	GraphBuf {
+		Name=BGBuf
+		Pos=0,0,9
+		Size=1024,768
+	}
+
+	Panel {
+		Pos=107,22,-2
+		Size=810,640
+
+		Panel {
+			Pos=21,33
+			Size=768,527
+
+	    	Image {
+//				Image=GI,Bm.FormGalaxy.2bg
+				Image=GI,Bm.FormGalaxy2.2bg
+				Size=768,527
+				Pos=0,0,1000
+				KindX=Center
+				KindY=Center
+			}
+
+			Circle {
+				Name=JampMaxShr
+				Kind=MulLight
+				Pos=0,0,12
+				Size=768,527
+				ShrLightInner=255
+				ShrLightOuter=200
+			}
+			Circle {
+				Name=JampMaxColor
+				Kind=Circle
+				Pos=0,0,11
+				Size=768,527
+				Color=0,255,0
+			}
+
+			Circle {
+				Name=RadarDetect
+				Kind=Circle
+				Pos=0,0,11
+				Size=768,527
+				Color=255,255,0
+			}
+
+			GraphBuf {
+				Name=HideBuf
+				Pos=0,0,10
+				Size=768,527
+			}
+    		Panel {
+		        Name=Map
+				Pos=0,0,5
+    			Size=768,527
+			}
+
+			GAI {
+				Name=PathCurPos
+				Pos=0,0,4,w
+				Image=Bm.PI.GNPo
+				FrameLoad=0
+				Auto=Size
+			}
+			GAI {
+				Name=PathDesPos
+				Pos=0,0,4,w
+				Image=Bm.PI.GNPi
+				Active=False
+				FrameLoad=0
+				Auto=Size
+			}
+
+			Label {
+				Style=Style.Label.2Normal
+				Pos=400,748,3
+				Size=100,20
+				AlignX=Left
+				AlignY=Center
+				Name=Distance
+			}
+		}
+
+		Image {
+			Pos=0,0,-1
+			Size=810,640
+			Image=GI,Bm.FormGalaxy2.2Panel
+			Name=ImagePanel
+		}
+		
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=ButJump
+			MouseBlocking=True
+			
+			Pos=528,577,-2
+			Size=119,42
+
+			Kind=Disable
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormGalaxy2.2OkN
+			ImageNormalA=GI,Bm.FormGalaxy2.2OkA
+			ImageDown=GI,Bm.FormGalaxy2.2OkD
+			ImageDisable=GI,Bm.FormGalaxy2.2OkH
+		}
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=ButExit
+			MouseBlocking=True
+			
+			Pos=680,560,-2
+			Size=79,39
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormGalaxy2.2CancelN
+			ImageNormalA=GI,Bm.FormGalaxy2.2CancelA
+			ImageDown=GI,Bm.FormGalaxy2.2CancelD
+		}
+
+		GAI {
+			Name=Anim
+			Pos=182,565,-3
+			Size=96,37
+			Image=Bm.FormGalaxy2.2Anim
+			Frame=[50,0-6]
+			Active=True
+		}
+		Image {
+			Name=Light1
+			Pos=158,569,-2
+			Size=17,18
+			Image=GI,Bm.FormGalaxy2.2Light1
+		}
+		Image {
+			Name=Light2
+			Pos=161,582,-2
+			Size=17,18
+			Image=GI,Bm.FormGalaxy2.2Light2
+		}
+		Image {
+			Name=Light3
+			Pos=167,595,-2
+			Size=15,10
+			Image=GI,Bm.FormGalaxy2.2Light3
+		}
+		Label {
+			Font=Font.2Ranger
+			Pos=182,563,-2
+			Size=96,37
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			Name=LabelJumpTo
+			TextColor=55,230,255
+		}
+	}
+
+	Window {
+		Style=Style.Window.2Normal
+		Name=Info
+		Active=False
+		Pos=10,10,-3
+		Size=200,200
+		MouseBlocking=False
+		MVUpdate=True
+
+		Label {
+			Name=InfoText
+			Pos=10,10,-1
+			Size=180,180
+			Font=Font.2Normal
+			WordWrap=False
+			AlignX=Auto
+			AlignY=Auto
+			Text=Test
+		}
+	}
+///////////////////////////////////////////////////////////////
+	Window {
+		Style=Style.Window.2Simple
+		Name=InfoStar
+		Active=False
+		Pos=10,10,-3
+		Size=260,174
+		MouseBlocking=False
+		MVUpdate=True
+
+		Label {
+			Pos=60,10,8
+			Size=165,43
+			Name=InfoStarName
+			Font=Font.2SmallBold
+			WordWrap=True
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=57,239,255
+		}
+
+		GraphBuf {
+			Pos=12,10,8
+			Size=43,43
+			Name=InfoStarImage
+		}
+
+		Panel {
+			Pos=0,65,8
+			Size=260,10
+			Name=InfoStarPanel
+		}
+	}
+}

@@ -1,0 +1,11 @@
+ImageDown=GI,Bm.FormInfo3.2BRaceFeiD
+ImageDownA=GI,Bm.FormInfo3.2BRaceFeiC
+ImageNormal=GI,Bm.FormInfo3.2BRaceFeiN
+ImageNormalA=GI,Bm.FormInfo3.2BRaceFeiA
+Kind=Fix
+KindHit=Graph
+Name=M06Fei
+Pos=110,255,1
+Size=30,30
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

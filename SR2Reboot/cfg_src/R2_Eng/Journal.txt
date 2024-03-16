@@ -1,0 +1,180 @@
+Border=0,0,1024,768
+
+Sound { 
+    Group {
+        NextTime=7000-12000
+        2=Sound.FormInfo0
+        1=Sound.FormInfo1
+    }
+}
+
+Panel {
+    Pos=0,0
+    Size=1024,768
+    Name=MainPanel
+
+	GraphBuf {
+		Name=BGBuf
+		Pos=0,0,9
+		Size=1024,768
+	}
+
+    Panel=cfg\R2\PanelMain.txt {
+        Pos=0,0,1
+    }
+
+    Panel {
+        Pos=266,120,7
+        Size=492,507
+
+        Image {
+            Pos=0,0,10
+            Size=492,507
+            Image=GI,Bm.FormInfo2.2bg
+        }
+        GAI {
+            Name=TV
+            Pos=134,10,11
+            Size=225,85
+            PBuf=True
+            AlignX=Center
+            AlignY=Center
+            Active=True
+            SkipImageUpdateRect=True
+        }
+        Image {
+			Name=TVNone
+            Pos=134,10,12
+            Size=225,85
+            Image=GI,Bm.FormInfo2.2TV
+			Active=False
+        }
+        Image {
+            Pos=458,110,9
+            Size=17,22
+            Image=GI,Bm.SB.2V1_UpH
+        }
+        Image {
+            Pos=458,423,9
+            Size=17,22
+            Image=GI,Bm.SB.2V1_DownH
+        }
+        PanelScrollBar {
+            Name=PanelInfo
+            Pos=34,110,8
+            Size=409,336
+
+
+            StyleBarY=Style.ScrollBar.2V1
+            ActiveBarY=True
+            PosAutoBarY=False
+            RectBarY=458,110,475,445
+            MoveWorld=True
+            UnlimitedWorld=False
+            ExternalSB=True
+        }
+        Panel {
+            Name=PanelJournal
+            Pos=39,377,7
+            Size=391,75
+
+            Image {
+                Pos=0,0,9
+                Size=391,75
+                Image=GI,Bm.FormInfo2.2FindBG
+            }
+            Label {
+                Pos=267,16,0
+                Size=67,21
+                Font=Font.2Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=255,255,230
+                Text=FormInfo.AddRecord
+            }
+            Edit {
+                Name=TextRecord
+                Font=Font.2Normal
+                Pos=58,17,2
+                Size=199,19
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=500
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=AddRecord
+            
+                Pos=267,17,1
+                Size=67,21
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.2FindN
+                ImageNormalA=GI,Bm.FormInfo2.2FindA
+                ImageDown=GI,Bm.FormInfo2.2FindD
+
+                Help=FormInfo.HelpAddRecord
+            }
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButJournal
+            
+            Pos=19,457,1
+            Size=92,42
+
+            Kind=Disable
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo2.2ModeFindN
+            ImageNormalA=GI,Bm.FormInfo2.2ModeFindA
+            ImageDown=GI,Bm.FormInfo2.2ModeFindD
+            ImageDisable=GI,Bm.FormInfo2.2ModeFindF
+
+            Help=FormInfo.HelpJournal
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButNews
+            
+            Pos=98,461,1
+            Size=97,45
+
+            Kind=Disable
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo2.2NewsN
+            ImageNormalA=GI,Bm.FormInfo2.2NewsA
+            ImageDown=GI,Bm.FormInfo2.2NewsD
+            ImageDisable=GI,Bm.FormInfo2.2NewsF
+
+            Help=FormInfo.HelpNews
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButFormClose
+            
+            Pos=382,457,1
+            Size=77,42
+
+            Kind=Normal
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo2.2CloseN
+            ImageNormalA=GI,Bm.FormInfo2.2CloseA
+            ImageDown=GI,Bm.FormInfo2.2CloseD
+
+            Help=FormInfo.HelpNews
+        }
+    }
+}

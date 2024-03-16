@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Top
+Name=Info
+Pos=12,490,0
+Size=467,66
+Style=Style.Label.2Normal
+TextColor=0,0,0
+WordWrap=True

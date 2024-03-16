@@ -1,0 +1,3 @@
+Goods=Alcohol
+Image2=GAI,Bm.PlanetAdvt.2_4_05
+War=-1

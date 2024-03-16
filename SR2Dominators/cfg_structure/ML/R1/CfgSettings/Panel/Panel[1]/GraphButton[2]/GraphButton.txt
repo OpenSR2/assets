@@ -1,0 +1,10 @@
+Help=FormCfgSettings.HelpButMin
+ImageDown=GI,Bm.FormOptions2.1LowD
+ImageNormal=GI,Bm.FormOptions2.1LowN
+ImageNormalA=GI,Bm.FormOptions2.1LowA
+Kind=Normal
+KindHit=Graph
+Name=ButADown
+Pos=126,44,-3
+Size=44,22
+Style=Style.GB.SoundNormal

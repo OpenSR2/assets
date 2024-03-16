@@ -1,0 +1,7 @@
+Access=10
+Dif=29
+Genre=бродилка с приключениями
+Group=1
+Image=Bm.PQI.Forum_00
+Length=2
+Name=Форум

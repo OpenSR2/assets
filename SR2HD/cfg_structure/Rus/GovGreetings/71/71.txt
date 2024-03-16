@@ -1,0 +1,4 @@
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Normal
+Priority=1
+Text=А, <Player>, чего вы тут потеряли? Не сказал бы, что ваше появление вызывает у меня бурю положительных эмоций. Скорее даже наоборот.

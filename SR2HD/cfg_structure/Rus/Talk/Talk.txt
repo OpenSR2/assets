@@ -1,0 +1,44 @@
+Accept=Согласен
+Attack=Attack\Attack.txt ^{
+}
+Cancel=Отмена
+Count=Count\Count.txt ^{
+}
+Dominator=Dominator\Dominator.txt ^{
+}
+DropGoodsInFear=DropGoodsInFear\DropGoodsInFear.txt ^{
+}
+ExTalk=ExTalk\ExTalk.txt ^{
+}
+Exit=Конец связи
+Female=Female\Female.txt ^{
+}
+Goods=Goods\Goods.txt ^{
+}
+MilitarySupport=MilitarySupport\MilitarySupport.txt ^{
+}
+Money=Money\Money.txt ^{
+}
+Partner=Partner\Partner.txt ^{
+}
+Pirate=Pirate\Pirate.txt ^{
+}
+PirateClan=PirateClan\PirateClan.txt ^{
+}
+PlanetSay=Планета
+PlanetSay=<Name>
+PreserveItems=PreserveItems\PreserveItems.txt ^{
+}
+Protect=Protect\Protect.txt ^{
+}
+Refuse=Refuse\Refuse.txt ^{
+}
+Reject=Отказываюсь
+ShipSay=<Name>
+To=-->
+Trade=Trade\Trade.txt ^{
+}
+Tranclucator=Tranclucator\Tranclucator.txt ^{
+}
+Truce=Truce\Truce.txt ^{
+}

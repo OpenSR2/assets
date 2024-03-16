@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=ToShip
+InFear=Yes
+Priority=20
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Pirate
+ShipRace=Peleng,People,Fei,Gaal
+ShipStructure=Mini,Small
+ShipType=Transport,Liner,Diplomat
+Text=Сегодня я бесстрашен как малок! Иду в последнюю атаку на пирата <ShipBad>! Прошу поддержки, <Player>!
+ToShipBad=Yes

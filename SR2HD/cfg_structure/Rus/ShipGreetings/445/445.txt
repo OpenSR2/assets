@@ -1,0 +1,6 @@
+CoalitionAlreadyDefeated=No
+DominatorsAlreadyDefeated=Yes
+InFear=No
+Relations=Normal,Good,Best
+ShipType=Transport,Liner,Diplomat
+Text=Ќу вот, <Player>, с доминаторами мы уже разобрались совместными усили€ми. “еперь еще пиратам хвост прищемить и тогда вообще не жизнь, а сказка будет.

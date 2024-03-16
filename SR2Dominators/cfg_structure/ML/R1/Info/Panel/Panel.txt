@@ -1,0 +1,17 @@
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Name=MainPanel
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Panel=Panel[2]\Panel.txt ^{
+}
+Panel=Panel[3]\Panel.txt ^{
+}
+Panel=Panel[4]\Panel.txt ^{
+}
+Pos=0,0
+Size=800,600

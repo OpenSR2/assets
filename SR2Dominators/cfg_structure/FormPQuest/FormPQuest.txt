@@ -1,0 +1,7 @@
+HelpAnimTextOff=Анимация текста выключена
+HelpAnimTextOn=Анимация текста включена
+HelpExit=Выход
+HelpStyle1=Серый фон
+HelpStyle2=Темный фон
+HelpStyle3=Светлый фон
+HelpStyle4=Зеленый фон

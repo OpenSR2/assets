@@ -1,0 +1,48 @@
+0 {
+	LoopAnim=False
+	SmeImage=0,0
+	PosZ=BGObj
+	Image=Bm.BGO.a0
+}
+1 {
+	LoopAnim=False
+	SmeImage=0,0
+	PosZ=BGObj
+	Image=Bm.BGO.a1
+}
+2 {
+	LoopAnim=False
+	SmeImage=0,0
+	PosZ=BGObj
+	Image=Bm.BGO.a2
+}
+3 {
+	LoopAnim=False
+	SmeImage=0,0
+	PosZ=BGObj
+	Image=Bm.BGO.a3
+}
+4 {
+	LoopAnim=False
+	SmeImage=0,0
+	PosZ=BGObj
+	Image=Bm.BGO.a4
+}
+5 {
+	LoopAnim=False
+	SmeImage=0,0
+	PosZ=BGObj
+	Image=Bm.BGO.a5
+}
+6 {
+	LoopAnim=False
+	SmeImage=0,0
+	PosZ=BGObj
+	Image=Bm.BGO.a6
+}
+7 {
+	LoopAnim=False
+	SmeImage=0,0
+	PosZ=BGObj
+	Image=Bm.BGO.a7
+}

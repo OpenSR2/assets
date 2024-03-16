@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormUnknown2.2RightH
+ImageDown=GI,Bm.FormUnknown2.2RightD
+ImageNormal=GI,Bm.FormUnknown2.2RightN
+ImageNormalA=GI,Bm.FormUnknown2.2RightA
+Kind=Disable
+KindHit=Graph
+Name=ButRight
+Pos=441,410,8
+Size=20,36
+Style=Style.GB.SoundNormal

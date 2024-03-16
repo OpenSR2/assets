@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2SmallBold
+Pos=54,45,0
+Size=300,20
+Text=FormInfo.M05Caption
+TextColor=0,0,0

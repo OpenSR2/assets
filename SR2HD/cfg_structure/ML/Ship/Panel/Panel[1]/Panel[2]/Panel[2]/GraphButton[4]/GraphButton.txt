@@ -1,0 +1,10 @@
+Help=FormShip.HelpLoadRocketsInHold
+ImageDown=GI,Bm.FormShip2.LoadRocketsInHoldD
+ImageNormal=GI,Bm.FormShip2.LoadRocketsInHoldN
+ImageNormalA=GI,Bm.FormShip2.LoadRocketsInHoldA
+Kind=Normal
+KindHit=Rect
+Name=LoadRocketsInHold
+Pos=81,526,-1
+Size=40,20
+Style=Style.GB.SoundNormal

@@ -1,0 +1,10 @@
+ActiveBarY=True
+ExternalSB=True
+MoveWorld=True
+Name=TalkPA
+Pos=17,334,9
+PosAutoBarY=False
+RectBarY=379,330,396,450
+Size=359,119
+StyleBarY=Style.ScrollBar.2V1
+UnlimitedWorld=False

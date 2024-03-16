@@ -1,0 +1,16 @@
+Artefact=0
+Cost=180
+Def=0
+Droid=0
+Forsage=-1
+Hook=1
+Name=Барбариан
+Probability=40
+Race=People
+Radar=0
+Scaner=0
+ShipType=Warrior
+Size=150
+Text=Серия вместительных корпусов для воинов-одиночек, не любящих скорость. Предусмотрено место под захват.
+Weapon=0
+Year=50

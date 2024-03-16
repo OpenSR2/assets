@@ -1,0 +1,12 @@
+Cost=160
+Equipments=WEnergy,WSplinter,WMissile
+Name=Маформ
+Owner=Maloc,Peleng
+Priority=50
+Size=120
+Text=Микромодуль второго уровня. Производит физическую деформацию компенсаторных модулей <clr>малокского<clrEnd> вооружения в сторону увеличения, при этом возрастают наносимые повреждения. Так как это один из самых дорогих узлов, стоимость оружия резко возрастает.
+Text=Размер: <clr>+20%<clrEnd>
+Text=Стоимость: <clr>+60%<clrEnd>
+bonWEnergy=3
+bonWMissile=7
+bonWSplinter=5

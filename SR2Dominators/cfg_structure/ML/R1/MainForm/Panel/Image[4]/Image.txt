@@ -1,0 +1,3 @@
+Image=GI,Bm.FormMain2.1AnimCaption
+Pos=311,22,48
+Size=485,127

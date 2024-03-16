@@ -1,0 +1,398 @@
+Process {
+    Normal {
+        Objects {
+//          StarsField {
+//              Type=StarsField.Normal
+//              Size=0,0
+//          }
+//          Laser {
+//              Type=Laser.W1
+//              Size=0,0
+//              Pos=0,0
+//              PosDes=800,800
+//              ManualAnim=Yes
+//          }
+//          Anim {
+//              Type=Anim.E1
+//              Size=0,0
+//              Sme=16,16
+//              Pos=100,100
+//          }
+        }
+    }
+}
+
+Garbage {
+    PosZ=Garbage
+}
+
+Star {
+    00 {
+        Image=GI,Bm.Star.00
+        Anim=Bm.Star.00a
+        SmeImage=270,270
+        ImageMap=Bm.Star.MapStar1
+        SmeImageMap=8,8
+        PosZ=Star
+    }
+    01 {
+        Image=GI,Bm.Star.01
+        Anim=Bm.Star.01a
+        SmeImage=200,200
+        ImageMap=Bm.Star.MapStar1
+        SmeImageMap=8,8
+        PosZ=Star
+    }
+    02 {
+        Image=GI,Bm.Star.02
+        Anim=Bm.Star.02a
+        SmeImage=200,200
+        ImageMap=Bm.Star.MapStar1
+        SmeImageMap=8,8
+        PosZ=Star
+    }
+    03 {
+        Image=GI,Bm.Star.03
+        Anim=Bm.Star.03a
+        SmeImage=250,250
+        ImageMap=Bm.Star.MapStar1
+        SmeImageMap=8,8
+        PosZ=Star
+    }
+    04 {
+        Image=GI,Bm.Star.04
+        Anim=Bm.Star.04a
+        SmeImage=250,250
+        ImageMap=Bm.Star.MapStar1
+        SmeImageMap=8,8
+        PosZ=Star
+    }
+    Red {
+        Image=GI,Bm.Star.Red
+        Anim=Bm.Star.Reda
+        SmeImage=250,250
+        ImageMap=Bm.Star.MapStar1
+        SmeImageMap=8,8
+        PosZ=Star
+    }
+    Green {
+        Image=GI,Bm.Star.Green
+        Anim=Bm.Star.Greena
+        SmeImage=250,250
+        ImageMap=Bm.Star.MapStar1
+        SmeImageMap=8,8
+        PosZ=Star
+    }
+    Blue {
+        Image=GI,Bm.Star.Blue
+        Anim=Bm.Star.Bluea
+        SmeImage=250,250
+        ImageMap=Bm.Star.MapStar1
+        SmeImageMap=8,8
+        PosZ=Star
+    }
+    Terron {
+        Image=GI,Bm.Star.Terron
+        Anim=Bm.Star.Terron_a
+        SmeImage=250,250
+        ImageMap=Bm.Star.MapStar1
+        SmeImageMap=8,8
+        PosZ=Star
+    }
+    TerronAfter {
+        Image=GI,Bm.Star.TerronAfter
+        Anim=Bm.Star.TerronAfter_a
+        SmeImage=250,250
+        ImageMap=Bm.Star.MapStar1
+        SmeImageMap=8,8
+        PosZ=Star
+    }
+}
+
+Hole {
+    00 {
+        Image=Bm.Hole.00
+        ImageO=Bm.Hole.00o
+        ImageMap=GI,Bm.Hole.Map
+        PosZ=Hole
+    }
+}
+
+StarsField {
+    Normal {
+        Image=Bitmap.Star.BG1
+        PosZ=300
+    }
+}
+
+Planet=cfg\SE\Planet.txt {
+}
+
+Sputnik=cfg\SE\Sputnik.txt {
+}
+
+Asteroid=cfg\SE\Asteroid.txt {
+}
+
+_BGObj {
+    O1 {
+        Image=Alpha,Bitmap.BGObj.O1
+        PosZ=BGObj
+        Radius=50
+    }
+    O11 {
+        Image=Alpha,Bitmap.BGObj.O11
+        PosZ=BGObj
+        Radius=50
+    }
+    O12 {
+        Image=Alpha,Bitmap.BGObj.O12
+        PosZ=BGObj
+        Radius=50
+    }
+    O13 {
+        Image=Alpha,Bitmap.BGObj.O13
+        PosZ=BGObj
+        Radius=50
+    }
+    O14 {
+        Image=Alpha,Bitmap.BGObj.O14
+        PosZ=BGObj
+        Radius=50
+    }
+    O15 {
+        Image=Alpha,Bitmap.BGObj.O15
+        PosZ=BGObj
+        Radius=50
+    }
+
+//  O2 {
+//      Image=Anim,Style.AImage.BGObj2
+//      PosZ=BGObj
+//      Radius=0
+//  }
+    O3 {
+        Image=Simple,Bitmap.BGObj.O2_1
+        PosZ=BGObj
+        Radius=0
+    }
+    O4 {
+        Image=Simple,Bitmap.BGObj.O2_2
+        PosZ=BGObj
+        Radius=0
+    }
+    O5 {
+        Image=Simple,Bitmap.BGObj.O2_3
+        PosZ=BGObj
+        Radius=0
+    }
+    O6 {
+        Image=Simple,Bitmap.BGObj.O2_4
+        PosZ=BGObj
+        Radius=0
+    }
+    O7 {
+        Image=Simple,Bitmap.BGObj.O2_5
+        PosZ=BGObj
+        Radius=0
+    }
+    O8 {
+        Image=Simple,Bitmap.BGObj.O2_6
+        PosZ=BGObj
+        Radius=0
+    }
+}
+
+Missile {
+    00 {
+        PosZ=Missile
+    }
+    01 {
+        PosZ=Missile
+    }
+}
+
+Ship {
+    Adon=cfg\SE\ShipAdon.txt {
+    }
+    X=cfg\SE\ShipX.txt {
+    }
+    HS=cfg\SE\ShipHS.txt {
+    }
+    Maloc=cfg\SE\ShipMaloc.txt {
+    }
+    Peleng=cfg\SE\ShipPeleng.txt {
+    }
+    People=cfg\SE\ShipPeople.txt {
+    }
+    Fei=cfg\SE\ShipFei.txt {
+    }
+    Gaal=cfg\SE\ShipGaal.txt {
+    }
+    Kling=cfg\SE\ShipKling.txt {
+    }
+    Blazer=cfg\SE\ShipBlazer.txt {
+    }
+    Keller=cfg\SE\ShipKeller.txt {
+    }
+    Terron=cfg\SE\ShipTerron.txt {
+    }
+    Tranclucator=cfg\SE\ShipTranclucator.txt {
+    }
+}
+
+Ruins=cfg\SE\Ruins.txt {
+}
+
+Item=cfg\SE\Item.txt {
+}
+
+ItemAB=cfg\SE\ItemAB.txt {
+}
+
+Laser {
+    W1 {
+        RadiusUnit=32
+        PosZ=Weapon
+        Time=50
+        0=Bitmap.Weapon.L0_0
+        1=Bitmap.Weapon.L0_1
+        2=Bitmap.Weapon.L0_2
+        3=Bitmap.Weapon.L0_3
+        4=Bitmap.Weapon.L0_4
+        5=Bitmap.Weapon.L0_5
+        6=Bitmap.Weapon.L0_6
+        7=Bitmap.Weapon.L0_7
+    }
+}
+
+Weapon {
+    Nine {
+        PosZ=Weapon
+        SoundShot=Sound.shot0
+        SoundExpl=Sound.expl0
+    }
+    Star {
+        PosZ=Weapon
+        SoundShot=Sound.sundamage
+        SoundExpl=Sound.expl0
+    }
+    NoGraph {
+        PosZ=Weapon
+        SoundExpl=Sound.expl0
+    }
+    Asteroid {
+        PosZ=Weapon
+        SoundExpl=Sound.expl0
+    }
+    0 {
+        PosZ=Weapon
+        SoundShot=Sound.shot0
+        SoundExpl=Sound.expl0
+    }
+    1 {
+        PosZ=Weapon
+        SoundShot=Sound.shot1
+        SoundExpl=Sound.expl1
+    }
+    2 {
+        PosZ=Weapon
+        SoundShot=Sound.shot2
+        SoundExpl=Sound.expl2
+    }
+    3 {
+        PosZ=Weapon
+        SoundShot=Sound.shot3
+        SoundExpl=Sound.expl3
+    }
+    4 {
+        PosZ=Weapon
+        SoundShot=Sound.shot4
+        SoundExpl=Sound.expl4
+    }
+    5 {
+        PosZ=Weapon
+        SoundShot=Sound.shot5
+        SoundExpl=Sound.expl5
+    }
+    6 {
+        PosZ=Weapon
+        SoundShot=Sound.shot6
+        SoundExpl=Sound.expl5
+    }
+    7 {
+        PosZ=Weapon
+        SoundShot=Sound.shot7
+        SoundExpl=Sound.expl4
+    }
+    8 {
+        PosZ=Weapon
+        SoundShot=Sound.shot8
+        SoundExpl=Sound.expl3
+    }
+    9 {
+        PosZ=Weapon
+        SoundShot=Sound.shot9
+        SoundExpl=Sound.expl2
+    }
+    10 {
+        PosZ=Weapon
+        SoundShot=Sound.shot10
+        SoundExpl=Sound.expl1
+    }
+    11 {
+        PosZ=Weapon
+        SoundShot=Sound.shot11
+        SoundExpl=Sound.expl5
+    }
+    12 {
+        PosZ=Weapon
+        SoundShot=Sound.shot12
+        SoundExpl=Sound.expl4
+    }
+    13 {
+        PosZ=Weapon
+        SoundShot=Sound.shot13
+        SoundExpl=Sound.expl3
+    }
+    14 {
+        PosZ=Weapon
+        SoundShot=Sound.shot14
+        SoundExpl=Sound.expl2
+    }
+}
+
+Anim {
+    H1 {
+        LoopAnim=True
+        HalfAnim=True
+        SmeImage=16,16
+        PosZ=Hit
+        Time=100
+        0=Alpha,Bitmap.Weapon.H0_0
+        1=Alpha,Bitmap.Weapon.H0_1
+        2=Alpha,Bitmap.Weapon.H0_2
+        3=Alpha,Bitmap.Weapon.H0_3
+        4=Alpha,Bitmap.Weapon.H0_4
+        5=Alpha,Bitmap.Weapon.H0_5
+        6=Alpha,Bitmap.Weapon.H0_6
+        7=Alpha,Bitmap.Weapon.H0_7
+    }
+    BGO=cfg\SE\BGOAnim.txt {
+    }
+    BGO_HS=cfg\SE\BGO_HS.txt {
+    }
+}
+
+BGO=cfg\SE\BGO.txt {
+}
+
+Meteorite=cfg\SE\Meteorite.txt  {
+}
+
+Gate {
+    PosZ=Gate
+}
+
+Sound=cfg\SE\Sound.txt {
+}

@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=Any
+Goods=Food
+PlayerRace=Maloc
+Priority=1
+Relations=War,Bad
+ShipGoodsCnt=Small,Average,Big,Huge
+ShipRace=Peleng,People,Fei
+ShipType=Transport,Liner,Ranger,Pirate
+StrengthShipWithPlayer=Average,Big,Huge
+Text=Эй, ты, <Player>, гамадрила волосатая! Я к кому обращаюсь, дикарь? Ты небось красные микросхемы-то на обед кушаешь? Ха-ха!
+Text=Извини, у меня трюмы забиты едой, а вот бананов для тебя сегодня нету. Ха-ха!

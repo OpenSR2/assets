@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.1Normal
+Name=IRank
+Pos=589,137,2
+Size=120,12
+TextColor=212,212,212

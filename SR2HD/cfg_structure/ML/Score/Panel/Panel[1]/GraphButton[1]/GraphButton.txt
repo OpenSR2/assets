@@ -1,0 +1,10 @@
+Help=FormScore.HelpExit
+ImageDown=GI,Bm.FormScore2.2CloseD
+ImageNormal=GI,Bm.FormScore2.2CloseN
+ImageNormalA=GI,Bm.FormScore2.2CloseA
+Kind=Normal
+KindHit=Rect
+Name=ButExit
+Pos=795,680,2
+Size=79,33
+Style=Style.GB.SoundNormal

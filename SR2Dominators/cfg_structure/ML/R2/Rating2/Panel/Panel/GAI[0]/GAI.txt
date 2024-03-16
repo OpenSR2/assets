@@ -1,0 +1,5 @@
+FrameLoad=0
+Image=Bm.FormRating2.2WariorEmpty
+Name=WariorEmpty
+Pos=76,83,2
+Size=99,110

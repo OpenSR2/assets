@@ -1,0 +1,11 @@
+FlyType=ToPlanet
+Goods=Food
+Priority=5
+Relations=Normal,Good,Best
+ShipGoodsCnt=Small,Average,Big,Huge
+ShipRace=Peleng,People
+ShipType=Transport,Liner,Diplomat
+Text=Я спешу на <ToPlanet>, <Player>. Скоро там начнется концерт известного поп-певца, Фила Фарюка, и у меня есть билет в первый ряд.
+Text=Нет, ха-ха, я вовсе не большой поклонник его творчества - даже совсем наоборот. Как и подавляющее большинство жителей планеты <ToPlanet>. Из первого ряда проще будет добросить до сцены... Не зря ведь у меня трюм забит первоклассными фарюками. И сам душу отведу, и кучу денег заработаю - тухлые фрукты в эти дни будут нарасхват.
+ToPlanetGoodsBuy=Average,Big,Huge
+ToPlanetRace=Peleng,People,Gaal

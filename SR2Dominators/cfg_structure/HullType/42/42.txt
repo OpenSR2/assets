@@ -1,0 +1,16 @@
+Artefact=0
+Cost=30
+Def=0
+Droid=0
+Forsage=-1
+Hook=0
+Name=Бравада
+Probability=10
+Race=Maloc,Peleng,People,Fei,Gaal
+Radar=0
+Scaner=-1
+ShipType=Ranger
+Size=60
+Text=Небольшой корпус для смелых бойцов. Место под сканер не предусмотрено. Режим форсажа не поддерживается.
+Weapon=0
+Year=0

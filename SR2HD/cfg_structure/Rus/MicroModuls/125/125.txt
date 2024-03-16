@@ -1,0 +1,7 @@
+Cost=130
+Equipments=WEnergy,WSplinter,WMissile
+Fragility=55
+Name=Горанд
+Owner=Any
+Priority=50
+Text=Микромодуль второго уровня. Заменяет компоненты <clr>вооружения<clrEnd> на нанотехнологичные аналоги, увеличивая надежность на <clr>80%<clrEnd>, а стоимость - на <clr>30%<clrEnd>.

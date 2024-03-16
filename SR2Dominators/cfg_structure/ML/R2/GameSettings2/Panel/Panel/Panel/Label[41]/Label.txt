@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=Center
+Font=Font.2Ranger
+Pos=328,436,4
+Size=100,20
+Text=FormGameSet2.Common.NameGroup8Expert
+TextColor=255,166,0

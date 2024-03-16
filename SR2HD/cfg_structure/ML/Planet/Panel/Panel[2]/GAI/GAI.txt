@@ -1,0 +1,5 @@
+FrameLoad=0
+Image=Bm.FormLoad2.LoadAnim
+Name=LoadAnim
+Pos=262,504,8
+Size=543,241

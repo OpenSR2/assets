@@ -1,0 +1,8 @@
+1Full=data\FormLoad\1Full.gi
+1Texture=data\FormLoad\1Texture.gi
+1max=data\FormLoad\1max.gi
+1min=data\FormLoad\1min.gi
+2Full=data\FormLoad\2Full.gi
+2Texture=data\FormLoad\2Texture.gi
+2max=data\FormLoad\2max.gi
+2min=data\FormLoad\2min.gi

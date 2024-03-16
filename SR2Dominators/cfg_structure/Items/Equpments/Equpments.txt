@@ -1,0 +1,2 @@
+AverageDuration=(более 50% повреждений)
+SmallDuration=(на грани поломки)

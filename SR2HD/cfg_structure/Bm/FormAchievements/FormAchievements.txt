@@ -1,0 +1,6 @@
+BG=DATA\FormAchievements\BG.gi
+Img=Img\Img.txt ^{
+}
+MessageBG=DATA\FormAchievements\AchUnlockedBG.gi
+Slot=Slot\Slot.txt ^{
+}

@@ -1,0 +1,63 @@
+1Up=data\Hangar\1Up.gi
+1Down=data\Hangar\1Down.gi
+1TakeOffA=data\Hangar\1TakeOffA.gi
+1TakeOffD=data\Hangar\1TakeOffD.gi
+1RefuelA=data\Hangar\1RefuelA.gi
+1RefuelD=data\Hangar\1RefuelD.gi
+1RepairA=data\Hangar\1RepairA.gi
+1RepairD=data\Hangar\1RepairD.gi
+
+2Up=data\Hangar\2Up.gi
+2Down=data\Hangar\2Down.gi
+2TakeOffA=data\Hangar\2TakeOffA.gi
+2TakeOffD=data\Hangar\2TakeOffD.gi
+2RefuelA=data\Hangar\2RefuelA.gi
+2RefuelD=data\Hangar\2RefuelD.gi
+2RepairA=data\Hangar\2RepairA.gi
+2RepairD=data\Hangar\2RepairD.gi
+
+Maloc {
+	1bg=data\Hangar\Maloc\1bg.gi
+	1AnimF=data\Hangar\Maloc\1AnimF.gai
+	1AnimL=data\Hangar\Maloc\1AnimL.gai
+
+	2bg=data\Hangar\Maloc\2bg.gi
+	2AnimF=data\Hangar\Maloc\2AnimF.gai
+	2AnimL=data\Hangar\Maloc\2AnimL.gai
+}
+Peleng {
+	1bg=data\Hangar\Peleng\1bg.gi
+	1AnimF=data\Hangar\Peleng\1AnimF.gai
+	1AnimL=data\Hangar\Peleng\1AnimL.gai
+
+	2bg=data\Hangar\Peleng\2bg.gi
+	2AnimF=data\Hangar\Peleng\2AnimF.gai
+	2AnimL=data\Hangar\Peleng\2AnimL.gai
+}
+People {
+	1bg=data\Hangar\People\1bg.gi
+	1AnimF=data\Hangar\People\1AnimF.gai
+	1AnimL=data\Hangar\People\1AnimL.gai
+
+	2bg=data\Hangar\People\2bg.gi
+	2AnimF=data\Hangar\People\2AnimF.gai
+	2AnimL=data\Hangar\People\2AnimL.gai
+}
+Fei {
+	1bg=data\Hangar\Fei\1bg.gi
+	1AnimF=data\Hangar\Fei\1AnimF.gai
+	1AnimL=data\Hangar\Fei\1AnimL.gai
+
+	2bg=data\Hangar\Fei\2bg.gi
+	2AnimF=data\Hangar\Fei\2AnimF.gai
+	2AnimL=data\Hangar\Fei\2AnimL.gai
+}
+Gaal {
+	1bg=data\Hangar\Gaal\1bg.gi
+	1AnimF=data\Hangar\Gaal\1AnimF.gai
+	1AnimL=data\Hangar\Gaal\1AnimL.gai
+
+	2bg=data\Hangar\Gaal\2bg.gi
+	2AnimF=data\Hangar\Gaal\2AnimF.gai
+	2AnimL=data\Hangar\Gaal\2AnimL.gai
+}

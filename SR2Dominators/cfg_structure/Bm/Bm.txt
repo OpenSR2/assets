@@ -1,0 +1,214 @@
+1TitleEng=data\1TitleEng.png
+1TitleRus=data\1TitleRus.png
+2TitleEng=data\2TitleEng.png
+2TitleRus=data\2TitleRus.png
+AB=AB\AB.txt ^{
+}
+ABClot=ABClot\ABClot.txt ^{
+}
+ABItem=ABItem\ABItem.txt ^{
+}
+ABWall=ABWall\ABWall.txt ^{
+}
+AnimA=data\anim.gai
+AnimI=data\anim.gi
+Asteroid=Asteroid\Asteroid.txt ^{
+}
+Atm=Atm\Atm.txt ^{
+}
+BGO=BGO\BGO.txt ^{
+}
+BGO_HS=BGO_HS\BGO_HS.txt ^{
+}
+Captain=Captain\Captain.txt ^{
+}
+City=City\City.txt ^{
+}
+Comet=Comet\Comet.txt ^{
+}
+Container=Container\Container.txt ^{
+}
+Cursor=Cursor\Cursor.txt ^{
+}
+Developers=Developers\Developers.txt ^{
+}
+FormAB=FormAB\FormAB.txt ^{
+}
+FormAB2=FormAB2\FormAB2.txt ^{
+}
+FormAbout=FormAbout\FormAbout.txt ^{
+}
+FormAbout2=FormAbout2\FormAbout2.txt ^{
+}
+FormCount2=FormCount2\FormCount2.txt ^{
+}
+FormEnd2=FormEnd2\FormEnd2.txt ^{
+}
+FormGalaxy=FormGalaxy\FormGalaxy.txt ^{
+}
+FormGalaxy2=FormGalaxy2\FormGalaxy2.txt ^{
+}
+FormGameSet=FormGameSet\FormGameSet.txt ^{
+}
+FormGameSet2=FormGameSet2\FormGameSet2.txt ^{
+}
+FormGoods=FormGoods\FormGoods.txt ^{
+}
+FormGoods2=FormGoods2\FormGoods2.txt ^{
+}
+FormGov2=FormGov2\FormGov2.txt ^{
+}
+FormHangar2=FormHangar2\FormHangar2.txt ^{
+}
+FormInfo=FormInfo\FormInfo.txt ^{
+}
+FormInfo2=FormInfo2\FormInfo2.txt ^{
+}
+FormIntro=FormIntro\FormIntro.txt ^{
+}
+FormIntro2=FormIntro2\FormIntro2.txt ^{
+}
+FormLoad=FormLoad\FormLoad.txt ^{
+}
+FormLoad2=FormLoad2\FormLoad2.txt ^{
+}
+FormMain=FormMain\FormMain.txt ^{
+}
+FormMain2=FormMain2\FormMain2.txt ^{
+}
+FormMenu=FormMenu\FormMenu.txt ^{
+}
+FormMenu2=FormMenu2\FormMenu2.txt ^{
+}
+FormMessageBox=FormMessageBox\FormMessageBox.txt ^{
+}
+FormNote=FormNote\FormNote.txt ^{
+}
+FormOptions=FormOptions\FormOptions.txt ^{
+}
+FormOptions2=FormOptions2\FormOptions2.txt ^{
+}
+FormPQuest=FormPQuest\FormPQuest.txt ^{
+}
+FormPQuest2=FormPQuest2\FormPQuest2.txt ^{
+}
+FormPlanet=FormPlanet\FormPlanet.txt ^{
+}
+FormPlanetNO=FormPlanetNO\FormPlanetNO.txt ^{
+}
+FormRating=FormRating\FormRating.txt ^{
+}
+FormRating2=FormRating2\FormRating2.txt ^{
+}
+FormRewards=FormRewards\FormRewards.txt ^{
+}
+FormRuins=FormRuins\FormRuins.txt ^{
+}
+FormSave=FormSave\FormSave.txt ^{
+}
+FormSave2=FormSave2\FormSave2.txt ^{
+}
+FormScore=FormScore\FormScore.txt ^{
+}
+FormScore2=FormScore2\FormScore2.txt ^{
+}
+FormShip=FormShip\FormShip.txt ^{
+}
+FormShip2=FormShip2\FormShip2.txt ^{
+}
+FormShop=FormShop\FormShop.txt ^{
+}
+FormShop2=FormShop2\FormShop2.txt ^{
+}
+FormTalk=FormTalk\FormTalk.txt ^{
+}
+FormTalk2=FormTalk2\FormTalk2.txt ^{
+}
+FormUnknown2=FormUnknown2\FormUnknown2.txt ^{
+}
+Garbage=Garbage\Garbage.txt ^{
+}
+Gate=Gate\Gate.txt ^{
+}
+Gate2=Gate2\Gate2.txt ^{
+}
+Gov=Gov\Gov.txt ^{
+}
+Hangar=Hangar\Hangar.txt ^{
+}
+Hits=Hits\Hits.txt ^{
+}
+Hole=Hole\Hole.txt ^{
+}
+Items=Items\Items.txt ^{
+}
+ItemsUseless=ItemsUseless\ItemsUseless.txt ^{
+}
+Micromoduls=Micromoduls\Micromoduls.txt ^{
+}
+Mineral=Mineral\Mineral.txt ^{
+}
+Missile=Missile\Missile.txt ^{
+}
+MsgPlayer=MsgPlayer\MsgPlayer.txt ^{
+}
+News=News\News.txt ^{
+}
+Node=Node\Node.txt ^{
+}
+PI=PI\PI.txt ^{
+}
+PQI=PQI\PQI.txt ^{
+}
+PSPartner=PSPartner\PSPartner.txt ^{
+}
+PUMaps=PUMaps\PUMaps.txt ^{
+}
+PanelFilm=PanelFilm\PanelFilm.txt ^{
+}
+PanelFilm2=PanelFilm2\PanelFilm2.txt ^{
+}
+PanelMain=PanelMain\PanelMain.txt ^{
+}
+PanelMain2=PanelMain2\PanelMain2.txt ^{
+}
+PanelPlanet=PanelPlanet\PanelPlanet.txt ^{
+}
+PanelSpace=PanelSpace\PanelSpace.txt ^{
+}
+PanelSpace2=PanelSpace2\PanelSpace2.txt ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+Planet2=Planet2\Planet2.txt ^{
+}
+PlanetAdvt=PlanetAdvt\PlanetAdvt.txt ^{
+}
+PlanetBG=PlanetBG\PlanetBG.txt ^{
+}
+PlanetRing=PlanetRing\PlanetRing.txt ^{
+}
+Protoplasm=Protoplasm\Protoplasm.txt ^{
+}
+Race=Race\Race.txt ^{
+}
+Ruins=Ruins\Ruins.txt ^{
+}
+SB=SB\SB.txt ^{
+}
+SBNormal=SBNormal\SBNormal.txt ^{
+}
+SI=SI\SI.txt ^{
+}
+Ship=Ship\Ship.txt ^{
+}
+ShipP=ShipP\ShipP.txt ^{
+}
+Star=Star\Star.txt ^{
+}
+Tail=Tail\Tail.txt ^{
+}
+Weapon=Weapon\Weapon.txt ^{
+}
+vp00f=data\vp00f.gi
+vp00s=data\vp00s.gi

@@ -1,0 +1,10 @@
+2atm120=data\Atm\2atm120.png
+2atm140=data\Atm\2atm140.png
+2atm160=data\Atm\2atm160.png
+2atm180=data\Atm\2atm180.png
+2atm200=data\Atm\2atm200.png
+2mask120=data\Atm\2mask120.png
+2mask140=data\Atm\2mask140.png
+2mask160=data\Atm\2mask160.png
+2mask180=data\Atm\2mask180.png
+2mask200=data\Atm\2mask200.png

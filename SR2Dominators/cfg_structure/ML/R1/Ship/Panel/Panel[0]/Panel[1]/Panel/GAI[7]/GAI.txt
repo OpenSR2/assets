@@ -1,0 +1,6 @@
+Active=True
+FrameLoad=0
+Image=Bm.FormHangar2.1Repair
+Name=S_FuelTanks_0Repair
+Pos=34,247,-4
+Size=38,38

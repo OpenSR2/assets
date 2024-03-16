@@ -1,0 +1,10 @@
+ImageBottom=GI,Bm.FormMessageBox.1WinBottom
+ImageBottomLeft=GI,Bm.FormMessageBox.1WinBottomLeft
+ImageBottomRight=GI,Bm.FormMessageBox.1WinBottomRight
+ImageLeft=GI,Bm.FormMessageBox.1WinLeft
+ImageRight=GI,Bm.FormMessageBox.1WinRight
+ImageTexture=GI,Bm.FormMessageBox.1WinTexture
+ImageTop=GI,Bm.FormMessageBox.1WinTop
+ImageTopLeft=GI,Bm.FormMessageBox.1WinTopLeft
+ImageTopRight=GI,Bm.FormMessageBox.1WinTopRight
+WorkSubRect=9,33,12,24

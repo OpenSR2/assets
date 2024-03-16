@@ -1,0 +1,8 @@
+CBAbductEffect=CBAbductEffect\CBAbductEffect.txt ^{
+}
+GateEffect=GateEffect\GateEffect.txt ^{
+}
+TeleportIn=TeleportIn\TeleportIn.txt ^{
+}
+TeleportOut=TeleportOut\TeleportOut.txt ^{
+}

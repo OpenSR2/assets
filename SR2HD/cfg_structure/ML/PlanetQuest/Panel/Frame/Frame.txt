@@ -1,0 +1,6 @@
+ColorFill=0,0,0
+Fill=True
+Kind=Rect
+Name=ImageFrame
+Pos=654,31,20
+Size=348,396

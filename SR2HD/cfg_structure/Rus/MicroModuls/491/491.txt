@@ -1,0 +1,24 @@
+Cost=100
+CustomTag=A1D1M1
+Equipments=Droid
+KindGraph=15
+Name=Гибридный дроид
+Priority=100
+Special=1
+Text=<color=248,252,248>Изюминка данного дроида в уникальном процессорном блоке, который сканирует все действия пилота, после чего синхронизирует с кораблем уникальные бонусные программы. Он был создан в одном экземпляре и сейчас проходит полевые испытания в спецвойсках Коалиции.</color>
+Text=Дальность стрельбы: <bonWRadius> ед.
+Text=Энергетическое оружие: <bonWEnergy> ед.
+Text=Осколочное оружие: <bonWSplinter> ед.
+Text=Сила ракетного оружия: <bonWMissile> ед.
+Text=Дальность прыжка: <bonJump> ед.
+Text=Двигатель: <bonSpeed> скорости.
+Text=Броня корпуса: <bonHull> ед.
+Text=Эффективность дроида: <bonDroid> ед.
+bonDroid=8
+bonHull=2
+bonJump=3
+bonSpeed=50
+bonWEnergy=3
+bonWMissile=12
+bonWRadius=20
+bonWSplinter=3

@@ -1,0 +1,9 @@
+AutoTalk=Any
+FlyType=ToStar
+Priority=20
+Relations=Bad,Normal,Good,Best
+ShipRace=Any
+ShipType=Warrior
+Text=Внимание, <Player>! С вами говорит офицер регулярных войск планеты <HomePlanet>. В данный момент моя задача мобилизовать всех пилотов, годных к операции по освобождению системы <ToStar>. Немедленно следуйте за мной!
+ToStarControlByKling=Yes
+ToStarInBattle=Any

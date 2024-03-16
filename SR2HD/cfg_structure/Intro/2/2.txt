@@ -1,0 +1,6 @@
+Frames=300
+Image=Bm.FormLoad2.2Elemental
+Size=633,619
+Sme=-53,-29
+Sound=Logo
+Time=12000

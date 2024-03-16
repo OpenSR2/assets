@@ -1,0 +1,4 @@
+1Image=Bm.Mineral.25_1
+2Image=Bm.Mineral.32_1
+ImageMap=Bm.Container.Map0
+PosZ=Item

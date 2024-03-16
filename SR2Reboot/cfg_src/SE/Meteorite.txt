@@ -1,0 +1,18 @@
+00 {
+	PosZ=Meteorite
+	Image=Bm.BGO.m00
+	Time=20
+	Speed=2,4
+	Angle=270
+//	SoundLoop=Sound.Comet00
+//	SoundGroup=1001
+}
+01 {
+	PosZ=Meteorite
+	Image=Bm.BGO.m01
+	Time=20
+	Speed=2,4
+	Angle=170
+//	SoundLoop=Sound.Comet01
+//	SoundGroup=1002
+}

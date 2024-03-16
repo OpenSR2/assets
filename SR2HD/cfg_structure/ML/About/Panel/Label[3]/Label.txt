@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Small
+Name=LabelSnk
+Pos=924,746,40
+Size=99,20
+Text=FormAbout.snk
+TextColor=255,255,255
+WordWrap=False

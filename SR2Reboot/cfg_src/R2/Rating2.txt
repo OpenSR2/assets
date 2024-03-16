@@ -1,0 +1,373 @@
+Border=0,0,1024,768
+Sound {
+	Open=Sound.FormShipOpen
+	Close=Sound.FormShipClose
+}
+
+Panel {
+	Pos=0,0
+    Size=1024,768
+	Name=MainPanel
+
+    Panel=cfg\R2\PanelMain.txt {
+        Pos=0,0,-100
+    }
+
+	GraphBuf {
+		Name=BGBuf
+		Pos=0,0,9
+		Size=1024,768
+	}
+
+	Panel {
+		Pos=60,37,5
+		Size=904,620
+		
+		Image {
+			Pos=0,0,5
+			Size=904,620
+			Image=GI,Bm.FormRating2.2BG
+			Name=ImagePanel
+		}
+
+		Label {
+			Text=FormRating.Caption
+			Font=Font.2Ranger
+			Pos=353,6,-3
+			Size=200,22
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=False
+			TextColor=50,240,252
+		}
+
+		Image {
+			Name=SortImage
+			Pos=0,59,1
+			Size=19,13
+			Image=GI,Bm.FormRating2.2SortDown
+		}
+
+		Image {
+			Pos=870,83,4
+			Size=17,22
+			Image=GI,Bm.SB.2V1_UpH
+		}
+		Image {
+			Pos=870,550,4
+			Size=17,22
+			Image=GI,Bm.SB.2V1_DownH
+		}
+
+		PanelScrollBar {
+			Name=PTable
+			Pos=210,83,3
+			Size=657,492
+
+			StyleBarY=Style.ScrollBar.2V1
+			ActiveBarY=True
+			PosAutoBarY=False
+			RectBarY=869,83,888,572
+			MoveWorld=True
+			UnlimitedWorld=False
+			ExternalSB=True
+		}
+
+		Label {
+			Font=Font.2Ranger
+			Pos=241,57,2
+			Size=34,15
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=0,0,0
+			Text=FormRating.Number
+		}
+		Label {
+			Name=SortName
+			Font=Font.2Ranger
+			Pos=291,57,2
+			Size=124,15
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=0,0,0
+			Text=FormRating.Name
+		}
+		Label {
+			Name=SortCharacter
+			Font=Font.2Ranger
+			Pos=431,57,2
+			Size=114,15
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=0,0,0
+			Text=FormRating.Character
+		}
+		Label {
+			Name=SortRace
+			Font=Font.2Ranger
+			Pos=560,57,2
+			Size=74,15
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=0,0,0
+			Text=FormRating.Race
+		}
+		Label {
+			Name=SortRank
+			Font=Font.2Ranger
+			Pos=649,57,2
+			Size=103,15
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=0,0,0
+			Text=FormRating.Rank
+		}
+		Label {
+			Name=SortScore
+			Font=Font.2Ranger
+			Pos=767,57,2
+			Size=73,15
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=0,0,0
+			Text=FormRating.Points
+		}
+
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=ButWarior
+			Pos=28,51,4
+			Size=158,171
+			
+			Kind=Disable
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormRating2.2WariorN
+			ImageNormalA=GI,Bm.FormRating2.2WariorA
+			ImageDown=GI,Bm.FormRating2.2WariorN
+			ImageDisable=GI,Bm.FormRating2.2WariorN
+		}
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=ButTrader
+			Pos=28,231,4
+			Size=158,162
+			
+			Kind=Disable
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormRating2.2TraderN
+			ImageNormalA=GI,Bm.FormRating2.2TraderA
+			ImageDown=GI,Bm.FormRating2.2TraderN
+			ImageDisable=GI,Bm.FormRating2.2TraderN
+		}
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=ButPirate
+			Pos=28,402,4
+			Size=158,172
+			
+			Kind=Disable
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormRating2.2PirateN
+			ImageNormalA=GI,Bm.FormRating2.2PirateA
+			ImageDown=GI,Bm.FormRating2.2PirateN
+			ImageDisable=GI,Bm.FormRating2.2PirateN
+		}
+
+		Label {
+			Text=FormRating.BestWarrior
+			Font=Font.2Ranger
+			Pos=22,55,-3
+			Size=184,22
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=False
+			TextColor=63,214,255
+		}
+		Label {
+			Text=FormRating.BestTrader
+			Font=Font.2Ranger
+			Pos=22,229,-3
+			Size=184,22
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=False
+			TextColor=0,204,117
+		}
+		Label {
+			Text=FormRating.BestPirate
+			Font=Font.2Ranger
+			Pos=22,404,-3
+			Size=184,22
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=False
+			TextColor=252,169,50
+		}
+
+		GAI {
+			Name=WariorEmpty
+			Pos=76,83,2
+			Size=99,110
+			FrameLoad=0
+			Image=Bm.FormRating2.2WariorEmpty
+		}
+		Image {
+			Name=WarriorCaptainI
+			Pos=76,83,1
+			Size=99,110
+		}
+		GAI {
+			Name=WarriorCaptainA
+			Pos=76,83,0
+			Size=99,110
+			PBuf=True
+			KindX=Center
+			KindY=Center
+			TransColor=255,0,255
+		}
+
+		GAI {
+			Name=TraderEmpty
+			Pos=76,257,2
+			Size=99,110
+			FrameLoad=0
+			Image=Bm.FormRating2.2TraderEmpty
+		}
+		Image {
+			Name=TraderCaptainI
+			Pos=76,257,1
+			Size=99,110
+		}
+		GAI {
+			Name=TraderCaptainA
+			Pos=76,257,0
+			Size=99,110
+			PBuf=True
+			KindX=Center
+			KindY=Center
+			TransColor=255,0,255
+		}
+
+		GAI {
+			Name=PirateEmpty
+			Pos=76,432,2
+			Size=99,110
+			FrameLoad=0
+			Image=Bm.FormRating2.2PirateEmpty
+		}
+		Image {
+			Name=PirateCaptainI
+			Pos=76,432,1
+			Size=99,110
+		}
+		GAI {
+			Name=PirateCaptainA
+			Pos=76,432,0
+			Size=99,110
+			PBuf=True
+			KindX=Center
+			KindY=Center
+			TransColor=255,0,255
+		}
+
+		Label {
+			Name=BestWarrior
+			Font=Font.2Ranger
+			Pos=30,195,-3
+			Size=189,22
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=102,177,201
+		}
+		Label {
+			Name=BestTrader
+			Font=Font.2Ranger
+			Pos=30,367,-3
+			Size=184,22
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=101,171,137
+		}
+		Label {
+			Name=BestPirate
+			Font=Font.2Ranger
+			Pos=30,542,-3
+			Size=184,22
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+			TextColor=204,161,101
+		}
+		
+		Image {
+			Image=GI,Bm.FormRating2.2PhotoMask
+			Pos=79,86,-4
+			Size=93,453
+		}
+
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=ButClose
+			Pos=783,586,-3
+			Size=79,34
+			
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormRating2.2CloseN
+			ImageNormalA=GI,Bm.FormRating2.2CloseA
+			ImageDown=GI,Bm.FormRating2.2CloseD
+		}
+	}
+
+	Window {
+		Style=Style.Window.2Simple
+		Name=RewardWnd
+		Active=False
+		Pos=550,100,4
+//		Size=260,174
+		Size=260,174//360,194
+
+		GraphBuf {
+			Pos=12,10,8
+			Size=43,43
+			Name=RewardImage
+		}
+		Label {
+			Pos=60,10,8
+			Size=165,43 //245,43
+			Name=RewardName
+			Font=Font.2SmallBold //Font.2Normal
+			WordWrap=True
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=57,239,255 //255,245,80
+		}
+		Label {
+			Pos=5,64,8
+//			Size=250,83
+			Size=250,83
+			Name=RewardText
+			Font=Font.2Small //Font.2Normal
+			WordWrap=True
+			AlignX=Center
+			AlignY=CenterEx
+			TextColor=255,255,255 //255,255,230
+		}
+	}
+}

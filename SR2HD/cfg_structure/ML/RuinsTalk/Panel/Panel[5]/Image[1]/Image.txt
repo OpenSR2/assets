@@ -1,0 +1,4 @@
+Image=GI,Bm.FormRuins.2WBtable2
+Name=Table2
+Pos=-50,0,-3
+Size=615,540

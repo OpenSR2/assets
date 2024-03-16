@@ -1,0 +1,12 @@
+Equipments=WEnergy,WSplinter,WMissile
+Name=Клейн
+Priority=75
+Text=Микромодуль третьего уровня. Наращивает мощность любого оружия, при этом уменьшая дальность его стрельбы.
+Text=Сила энергетического оружия: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+Text=Сила ракетного оружия: <bonWMissile> ед.
+Text=Дальность стрельбы: <bonWRadius> ед.
+bonWEnergy=7
+bonWMissile=10
+bonWRadius=-20
+bonWSplinter=15

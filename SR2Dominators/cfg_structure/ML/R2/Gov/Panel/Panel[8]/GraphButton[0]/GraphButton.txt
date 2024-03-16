@@ -1,0 +1,10 @@
+Auto=Size
+ImageDisable=GI,Bm.FormGov2.2MemH
+ImageDown=GI,Bm.FormGov2.2MemD
+ImageNormal=GI,Bm.FormGov2.2MemN
+ImageNormalA=GI,Bm.FormGov2.2MemA
+Kind=Disable
+KindHit=Rect
+Name=UserMsgAdd
+Pos=370,396,1
+Style=Style.GB.SoundNormal

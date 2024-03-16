@@ -1,0 +1,10 @@
+Help=FormShip.HelpSellAllFromHold
+ImageDown=GI,Bm.FormShip2.SellAllFromHoldD
+ImageNormal=GI,Bm.FormShip2.SellAllFromHoldN
+ImageNormalA=GI,Bm.FormShip2.SellAllFromHoldA
+Kind=Normal
+KindHit=Rect
+Name=SellAllFromHold
+Pos=123,526,-1
+Size=40,20
+Style=Style.GB.SoundNormal

@@ -1,0 +1,16 @@
+Artefact=4
+Cost=180
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=—упернова
+Probability=50
+Race=Fei
+Radar=0
+Scaner=0
+ShipType=Warrior
+Size=100
+Text=Ёлитные фэ€нские корпуса дл€ высших военных чинов. ¬нутренн€€ отделка по последнему слову техники и дизайнерского искусства.
+Weapon=1
+Year=70

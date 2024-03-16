@@ -1,0 +1,22 @@
+CreateBK=CreateBK\CreateBK.txt ^{
+}
+CreateMC=CreateMC\CreateMC.txt ^{
+}
+CreatePB=CreatePB\CreatePB.txt ^{
+}
+CreateRC=CreateRC\CreateRC.txt ^{
+}
+CreateSB=CreateSB\CreateSB.txt ^{
+}
+CreateWB=CreateWB\CreateWB.txt ^{
+}
+LostSubsidy=LostSubsidy\LostSubsidy.txt ^{
+}
+PiratesSubsidy=PiratesSubsidy\PiratesSubsidy.txt ^{
+}
+RangersSubsidy=RangersSubsidy\RangersSubsidy.txt ^{
+}
+TransportSubsidy=TransportSubsidy\TransportSubsidy.txt ^{
+}
+WarSubsidy=WarSubsidy\WarSubsidy.txt ^{
+}

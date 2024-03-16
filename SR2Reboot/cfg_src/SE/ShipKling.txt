@@ -1,0 +1,151 @@
+///////////////////////////////////////////////////////////////
+K0 {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.KlingMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1Kling0
+	2ImageP=GI,Bm.ShipP.2Kling0
+	Image=Bm.Ship.Kling0
+	ImageS=Bm.Ship.Kling0s
+
+	Anim {
+	    Normal=10,[50,0-50]
+    	0=1,[50,51-131]
+	}
+
+	AnimS {
+    	Normal=10,[50,0-50]
+	}
+}
+///////////////////////////////////////////////////////////////
+K1 {
+	SizeImage=128,128	
+	SmeImage=64,64		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.KlingMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=32,103
+	Tail2=95,103
+
+	1ImageP=GI,Bm.ShipP.1Kling1
+	2ImageP=GI,Bm.ShipP.2Kling1
+	Image=Bm.Ship.Kling1
+	ImageS=Bm.Ship.Kling1s
+
+	Anim {
+    	Normal=1,[80,0-49]
+	    0=1,[80,50-99]
+	}
+	AnimS {
+	    Normal=1,[80,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+K2 {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.KlingMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=36,115
+	Tail2=93,115
+
+	1ImageP=GI,Bm.ShipP.1Kling2
+	2ImageP=GI,Bm.ShipP.2Kling2
+	Image=Bm.Ship.Kling2
+	ImageS=Bm.Ship.Kling2s
+
+	Anim {
+	    Normal=1,[80,0-49]
+    	0=2,[50,50-100]
+	}
+
+	AnimS {
+	    Normal=1,[80,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+K3 {
+	SizeImage=128,128	
+	SmeImage=63,76
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.KlingMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=38,97
+	Tail2=88,97
+
+	1ImageP=GI,Bm.ShipP.1Kling3
+	2ImageP=GI,Bm.ShipP.2Kling3
+	Image=Bm.Ship.Kling3
+	ImageS=Bm.Ship.Kling3s
+
+	Anim {
+    	Normal=1,[80,0-49]
+	    0=1,[80,50-99]
+	}
+
+	AnimS {
+	    Normal=1,[80,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+K4 {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.KlingMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=62,111
+
+	1ImageP=GI,Bm.ShipP.1Kling4
+	2ImageP=GI,Bm.ShipP.2Kling4
+	Image=Bm.Ship.Kling4
+	ImageS=Bm.Ship.Kling4s
+
+	Anim {
+    	Normal=1,[90,0-49]
+	    0=1,[80,50-100]
+	}
+
+	AnimS {
+	    Normal=1,[90,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+K5 {
+	SizeImage=128,128	
+	SmeImage=63,49
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.KlingMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=64,98
+
+	1ImageP=GI,Bm.ShipP.1Kling5
+	2ImageP=GI,Bm.ShipP.2Kling5
+	Image=Bm.Ship.Kling5
+	ImageS=Bm.Ship.Kling5s
+
+	Anim {
+    	Normal=1,[80,0-30]
+	    0=1,[80,31-61]
+	}
+
+	AnimS {
+    	Normal=1,[80,0-30]
+	}
+}

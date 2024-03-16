@@ -1,0 +1,5 @@
+Cost=Big
+Name=„хаша
+Owner=Peleng
+Size=1
+Text=ќчень древн€€ чхаша династии ÷хин.

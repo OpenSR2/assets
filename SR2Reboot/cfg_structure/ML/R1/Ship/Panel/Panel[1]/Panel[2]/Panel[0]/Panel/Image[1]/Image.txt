@@ -1,0 +1,5 @@
+Image=GI,Bm.FormShip2.1SkillNormal
+KindX=Left
+Name=Skill1
+Pos=145,155,0
+Size=23,34

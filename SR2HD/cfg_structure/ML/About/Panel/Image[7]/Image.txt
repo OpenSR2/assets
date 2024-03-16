@@ -1,0 +1,4 @@
+Image=GI,Bm.FormAbout2.2LogoElemental
+Name=LogoElemental
+Pos=38,693,20
+Size=56,55

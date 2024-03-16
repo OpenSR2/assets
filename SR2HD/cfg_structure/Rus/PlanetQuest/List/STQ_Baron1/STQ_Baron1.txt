@@ -1,0 +1,7 @@
+Access=10
+Dif=0
+Genre=сюжетный квест
+Group=-1
+Image=Bm.PQI.Commando_03
+Length=4
+Name=Штурм базы

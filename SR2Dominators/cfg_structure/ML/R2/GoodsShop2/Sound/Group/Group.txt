@@ -1,0 +1,6 @@
+1=Sound.FormGoods0
+1=Sound.FormGoods1
+1=Sound.FormGoods2
+1=Sound.FormGoods3
+1=Sound.FormGoods4
+NextTime=5000-10000

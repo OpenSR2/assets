@@ -1,0 +1,594 @@
+Border=0,0,800,600
+
+Sound {
+    Group {
+        NextTime=4000-6000
+        3=Sound.FormHangar0
+        3=Sound.FormHangar1
+        3=Sound.FormHangar2
+        1=Sound.FormHangar3
+        2=Sound.FormHangar4
+        3=Sound.FormHangar5
+        3=Sound.FormHangar6
+        3=Sound.FormHangar7
+        3=Sound.FormHangar8
+        3=Sound.FormHangar9
+        3=Sound.FormHangar10
+    }
+    Group {
+        NextTime=6000-10000
+        3=Sound.FormHangar0
+        3=Sound.FormHangar1
+        3=Sound.FormHangar2
+        1=Sound.FormHangar3
+        2=Sound.FormHangar4
+        3=Sound.FormHangar5
+        3=Sound.FormHangar6
+        3=Sound.FormHangar7
+        3=Sound.FormHangar8
+        3=Sound.FormHangar9
+        3=Sound.FormHangar10
+    }
+}
+
+Panel {
+    Pos=0,0
+    Size=800,600
+    Name=MainPanel
+
+    Panel=cfg\R1\PanelMain.txt {
+        Pos=0,0,-10
+    }
+    Panel=cfg\R1\PanelPlanet.txt {
+        Pos=344,541,-10
+    }
+    Panel=cfg\R1\PanelRuins.txt {
+        Pos=0,0,-10
+    }
+    Panel=cfg\R1\PanelLoad.txt {
+        Pos=0,0,-1000
+    }
+//////////////////////////////////
+    Image {
+        Name=BGCity2
+        Active=True
+        Pos=0,0,11
+        Size=800,600
+    }
+    Image {
+        Name=BGCity
+        Active=True
+        Pos=0,0,10
+        Size=800,600
+    }
+
+//////////////////////////////////
+    Panel {
+        Name=PanelUp
+        Pos=153,39,1
+        Size=489,130
+
+        Image {
+            Image=GI,Bm.FormHangar2.1Top
+            Pos=0,0,10
+            Size=489,130
+        }
+
+        Image {
+            Name=FaceI
+            Pos=46,26,1
+            Size=77,86
+        }
+        GAI {
+            Name=FaceA
+            Pos=46,26,0
+            Size=77,86
+            PBuf=True
+            KindX=Center
+            KindY=Center
+            TransColor=255,0,255
+        }
+        GraphBuf {
+            Name=FaceGB
+            Pos=46,26,-1
+            Size=77,86
+        }
+
+        Image {
+            Name=CaptainI
+            Pos=367,26,1
+            Size=77,86
+        }
+        GAI {
+            Name=CaptainA
+            Pos=367,26,0
+            Size=77,86
+            PBuf=True
+            KindX=Center
+            KindY=Center
+            TransColor=255,0,255
+        }
+
+        Label {
+            Text=FormHangar.TestSystem
+            Style=Style.Label.1Normal
+            Pos=157,26,-3
+            Size=134,17
+            AlignX=Left
+            AlignY=CenterEx
+            WordWrap=False
+            TextColor=0,0,0
+        }
+
+        Label {
+            Name=Text1
+            Style=Style.Label.1Normal
+            Pos=159,54,-3
+            Size=181,12
+            AlignX=Left
+            AlignY=CenterEx
+            WordWrap=False
+            TextColor=0,0,0
+        }
+        Label {
+            Name=Text2
+            Style=Style.Label.1Normal
+            Pos=159,66,-3
+            Size=181,12
+            AlignX=Left
+            AlignY=CenterEx
+            WordWrap=False
+            TextColor=0,0,0
+        }
+        Label {
+            Name=Text3
+            Style=Style.Label.1Normal
+            Pos=159,79,-3
+            Size=181,12
+            AlignX=Left
+            AlignY=CenterEx
+            WordWrap=False
+            TextColor=0,0,0
+        }
+        Label {
+            Name=Text4
+            Style=Style.Label.1Normal
+            Pos=159,99,-3
+            Size=181,12
+            AlignX=Left
+            AlignY=CenterEx
+            WordWrap=False
+            TextColor=0,0,0
+        }
+
+        Image {
+            Name=Light1
+            Pos=131,51,-3
+            Size=27,18
+            Image=GI,Bm.FormHangar2.1Light1
+        }
+        Image {
+            Name=Light2
+            Pos=131,62,-3
+            Size=27,17
+            Image=GI,Bm.FormHangar2.1Light2
+        }
+        Image {
+            Name=Light3
+            Pos=131,74,-3
+            Size=27,17
+            Image=GI,Bm.FormHangar2.1Light3
+        }
+        Image {
+            Name=Light4
+            Pos=131,95,-3
+            Size=27,17
+            Image=GI,Bm.FormHangar2.1Light4
+        }
+    }
+
+//////////////////////////////////
+    Panel {
+        Name=PanelDown
+        Pos=278,451,-10
+        Size=237,50
+
+        Image {
+            Image=GI,Bm.FormHangar2.1Bottom
+            Pos=0,0,10
+            Size=237,50
+        }
+
+        GraphButton {
+            Name=ButRepair
+            Pos=14,10,8
+            Size=49,29
+            Help=Help.ButRepair
+
+            KindHit=Rect
+            Kind=Disable
+
+            ImageNormal=GI,Bm.FormHangar2.1RepairN
+            ImageNormalA=GI,Bm.FormHangar2.1RepairA
+            ImageDown=GI,Bm.FormHangar2.1RepairD
+            ImageDisable=GI,Bm.FormHangar2.1RepairH
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=ButRefuel
+            Pos=61,10,8
+            Size=49,29
+            Help=Help.ButRefuel
+
+            KindHit=Graph
+            Kind=Disable
+
+            ImageNormal=GI,Bm.FormHangar2.1FuelN
+            ImageNormalA=GI,Bm.FormHangar2.1FuelA
+            ImageDown=GI,Bm.FormHangar2.1FuelD
+            ImageDisable=GI,Bm.FormHangar2.1FuelH
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=ButTakeOff
+            Pos=108,10,8
+            Size=50,29
+            Help=Help.ButTakeoff
+
+            KindHit=Graph
+            Kind=Disable
+
+            ImageNormal=GI,Bm.FormHangar2.1TakeOffN
+            ImageNormalA=GI,Bm.FormHangar2.1TakeOffA
+            ImageDown=GI,Bm.FormHangar2.1TakeOffD
+            ImageDisable=GI,Bm.FormHangar2.1TakeOffH
+
+            Style=Style.GB.SoundNormal
+        }
+
+        GraphButton {
+            Name=ButClose
+            Pos=172,20,8
+            Size=49,29
+//          Help=Help.ButPlanet
+
+            KindHit=Rect
+            Kind=Normal
+
+            ImageNormal=GI,Bm.FormHangar2.1CloseN
+            ImageNormalA=GI,Bm.FormHangar2.1CloseA
+            ImageDown=GI,Bm.FormHangar2.1CloseD
+
+            Style=Style.GB.SoundNormal
+        }
+
+//      Label {
+//          Name=ActionText
+//          Font=Font.1NormalPlus
+//          Pos=463,16,-3
+//          Size=292,53
+//          AlignX=Center
+//          AlignY=Center
+//          WordWrap=True
+//          TextColor=209,209,234
+//      }
+    }
+//////////////////////////////////
+    Image {
+        Name=OpenImage
+        Active=False
+        Pos=153,186,0 // 196,239,0
+        Size=489,254
+        Image=GI,Bm.FormHangar2.1OpenImage
+    }
+    GAI {
+        Active=False
+        Name=AnimOpen
+        Pos=153,186,0
+        Size=489,254
+        Image=Bm.FormHangar2.1Open
+        Frame=[50,0-39]
+        Active=True
+    }
+    GAI {
+        Active=False
+        Name=AnimRnd
+        Pos=153,186,0
+        Size=489,254
+        Image=Bm.FormHangar2.1Rnd
+        Frame=[80,0-23]
+        Active=True
+    }
+
+    GraphBuf {
+        Name=Ship0
+        Pos=392,342,-3
+        Size=128,128
+    }
+
+    GraphBuf {
+        Name=Ship1
+        Pos=298,261,-2
+        Size=128,128
+    }
+    GraphBuf {
+        Name=Ship2
+        Pos=391,261,-2
+        Size=128,128
+    }
+    GraphBuf {
+        Name=Ship3
+        Pos=485,261,-2
+        Size=128,128
+    }
+
+    GraphBuf {
+        Name=Ship4
+        Pos=227,202,-1
+        Size=128,128
+    }
+    GraphBuf {
+        Name=Ship5
+        Pos=309,202,-1
+        Size=128,128
+    }
+    GraphBuf {
+        Name=Ship6
+        Pos=394,202,-1
+        Size=128,128
+    }
+    GraphBuf {
+        Name=Ship7
+        Pos=473,202,-1
+        Size=128,128
+    }
+    GraphBuf {
+        Name=Ship8
+        Pos=552,202,-1
+        Size=128,128
+    }
+
+    GAI {
+        Name=AnimRepair
+        Pos=348,300,-4
+        Size=38,38
+        Image=Bm.FormHangar2.1Repair
+        FrameLoad=0
+        Active=True
+    }
+    GAI {
+        Name=AnimFuel
+        Pos=405,300,-4
+        Size=38,38
+        Image=Bm.FormHangar2.1Fuel
+        FrameLoad=0
+        Active=True
+    }
+
+///////////////////////////////////////////////////////////////
+        Window {
+            Style=Style.Window.1Simple
+            Name=InfoShip
+            Active=False
+            Pos=10,10,InfoPanel
+            Size=215,137
+            MouseBlocking=False
+            MVUpdate=True
+
+            Label {
+                Pos=50,10,8
+                Size=145,34
+                Name=InfoShipName
+                Font=Font.1SmallBold //Normal
+                WordWrap=True
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=255,255,255
+            }
+
+            Image {
+                Pos=180,110,8
+                Size=27,27
+                Name=InfoShipEmRace
+            }
+
+//          Image {
+//              Image=GI,Bm.FormShip.Durable100
+//              Pos=140,44,12
+//              Size=53,6
+//          }
+//          Image {
+//              Image=GI,Bm.FormShip.Durable0
+//              Pos=140,44,11
+//              Size=53,6
+//              KindX=Left
+//              Name=InfoShipDurable
+//          }
+            Panel {
+                Pos=50,2,11
+                Size=78,12
+
+                Image {
+                    Image=GI,Bm.FormNote.1BarBack
+                    Pos=16,4,3
+                    Size=45,3
+                }
+                Panel {
+                    Pos=16,4,2
+                    Size=45,3
+
+                    Image {
+                        Name=InfoShipDurable
+                        Pos=0,0
+                        Size=48,3
+                        Image=GI,Bm.FormNote.1BarLine
+                    }
+                }
+                Image {
+                    Image=GI,Bm.FormNote.1BarTop
+                    Pos=0,0,1
+                    Size=78,12
+                }
+            }
+        
+//          RotateImage5 {
+//              Pos=28,28,0
+//              Name=InfoShipImage
+//          }
+            GraphBuf {
+                Pos=12,10,8
+                Size=34,34
+                Name=InfoShipImage2
+            }
+
+            Label {
+                Pos=0,56,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISType
+                Name=ISType
+            }
+            Label {
+                Pos=0,67,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISSpeed
+                Name=ISSpeed
+            }
+            Label {
+                Pos=0,79,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISSize
+                Name=ISSize
+            }
+            Label {
+                Pos=0,91,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISDef
+                Name=ISDef
+            }
+            Label {
+                Pos=0,103,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISDamage
+                Name=ISDamage
+            }
+            Label {
+                Pos=0,114,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISRel
+                Name=ISRel
+            }
+            Label {
+                Pos=0,126,8
+                Size=100,12
+                Font=Font.1Small //Normal
+                WordWrap=False
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=140,140,140 //255,255,230
+                Text=FormInfo.ISWin
+                Name=ISWin
+            }
+            Label {
+                Pos=101,56,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipType
+            }
+            Label {
+                Pos=101,67,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipSpeed
+            }
+            Label {
+                Pos=101,79,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipSize
+            }
+            Label {
+                Pos=101,91,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipDef
+            }
+            Label {
+                Pos=101,103,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipDamage
+            }
+            Label {
+                Pos=101,114,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipRel
+            }
+            Label {
+                Pos=101,126,8
+                Size=100,12
+                Font=Font.1Normal
+                WordWrap=False
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=255,255,255 //255,245,80
+                Name=InfoShipWin
+            }
+        }
+}

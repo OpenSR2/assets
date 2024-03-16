@@ -1,0 +1,50 @@
+ABMap=ABMap\ABMap.txt ^{
+}
+ABSound=ABSound\ABSound.txt ^{
+}
+BGImage=BGImage\BGImage.txt ^{
+}
+CustomBridges=CustomBridges\CustomBridges.txt ^{
+}
+GalaxyStar=GalaxyStar\GalaxyStar.txt ^{
+}
+Load=Load\Load.txt ^{
+}
+PQI ^{
+}
+PlanetAdvt=PlanetAdvt\PlanetAdvt.txt ^{
+}
+Race=Race\Race.txt ^{
+}
+SE=SE\SE.txt ^{
+}
+Script=Script\Script.txt ^{
+}
+SpaceImg=SpaceImg\SpaceImg.txt ^{
+}
+Star=Star\Star.txt ^{
+}
+StarFieldImg=StarFieldImg\StarFieldImg.txt ^{
+}
+StyleAsteroid=StyleAsteroid\StyleAsteroid.txt ^{
+}
+StyleComet=StyleComet\StyleComet.txt ^{
+}
+StyleFaceFei=StyleFaceFei\StyleFaceFei.txt ^{
+}
+StyleFaceGaal=StyleFaceGaal\StyleFaceGaal.txt ^{
+}
+StyleFaceMaloc=StyleFaceMaloc\StyleFaceMaloc.txt ^{
+}
+StyleFacePeleng=StyleFacePeleng\StyleFacePeleng.txt ^{
+}
+StyleFacePeople=StyleFacePeople\StyleFacePeople.txt ^{
+}
+StyleGarbage=StyleGarbage\StyleGarbage.txt ^{
+}
+StyleNebula=StyleNebula\StyleNebula.txt ^{
+}
+StyleStar=StyleStar\StyleStar.txt ^{
+}
+Weapon=Weapon\Weapon.txt ^{
+}

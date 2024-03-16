@@ -1,0 +1,4 @@
+Image=GI,Bm.PanelMain2.1WarningMoney
+Name=ADD_WarningMoney
+Pos=485,578,8
+Size=77,19

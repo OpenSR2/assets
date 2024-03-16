@@ -1,0 +1,13 @@
+GI=Bm.PI.Path1
+GI=Bm.PI.Path2
+GI=Bm.PI.Path3
+GI=Bm.PI.Path4
+
+GI=Bm.PI.ItemTake
+GAI=Bm.PI.PathEndAutoBattle
+GAI=Bm.PI.PathEndFollowNear
+GAI=Bm.PI.PathEndFollowMin
+GAI=Bm.PI.PathEndFollowMax
+GAI=Bm.PI.PathEndMove
+GAI=Bm.PI.PathEndLanding
+GAI=Bm.PI.PathEndJumpHole

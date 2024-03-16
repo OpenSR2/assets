@@ -1,0 +1,75 @@
+1 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_1
+}
+2 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_2
+}
+3 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_3
+}
+4 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_4
+}
+5 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_5
+}
+6 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_6
+}
+7 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_7
+}
+8 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_8
+}
+9 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_9
+}
+10 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_10
+}
+11 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_11
+}
+12 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_12
+}
+13 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_13
+}
+14 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_14
+}
+15 {
+    Portal=1,2,3
+    Priority=100
+    Path=ABMap.map_15
+}

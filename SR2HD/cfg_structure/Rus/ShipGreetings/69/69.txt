@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=Any
+InFear=Yes
+PlayerIsShipBad=Yes
+Priority=1
+Relations=War
+ShipBadFlyToShip=Yes
+ShipRace=Fei
+ShipRaceIsPlayerRace=No
+ShipType=Diplomat,Ranger,Pirate,Warrior
+StrengthShipWithPlayer=Mini,Small,Average
+Text=Ћучше отвали от мен€, <Player>. ћен€-то ты, конечно, замочишь... Ќо ты ведь знаешь, что мы, фэ€не, сама€ развита€ раса? ѕыточные устройства ƒзухуллага ничто по сравнению с тем, что способен изобрести высокоразвитый фэ€нский разум, пылающий жаждой мщени€.

@@ -1,0 +1,234 @@
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+	MoveWorld=False
+
+	GraphBuf {
+		Name=BGBuf
+		Pos=0,0,99
+		Size=1024,768
+	}
+//	ShrLight {
+//		Pos=0,0,98
+//		Size=1024,768
+//		ShrLight=0//-2
+//	}
+
+	Panel {
+		Pos=27,22,97
+		Size=973,655
+
+	    Image {
+			Image=GI,Bm.FormSave2.2Bg
+			Pos=0,0,97
+			Size=973,655
+		}
+
+		Label {
+			Font=Font.2Ranger
+			Name=CaptionLoad
+		    Text=FormSaveManager.CaptionLoad
+			TextColor=50,240,252
+			Pos=337,14,2
+			Size=300,25
+			AlignX=Center
+		}
+		Label {
+			Font=Font.2Ranger
+			Name=CaptionSave
+		    Text=FormSaveManager.CaptionSave
+			TextColor=50,240,252
+			Pos=337,14,2
+			Size=300,25
+			AlignX=Center
+			Active=False
+		}
+
+		GraphButton {
+			Name=ButDelete
+			Style=Style.GB.SoundNormal
+			
+			Pos=638,557,1
+			Size=110,29
+
+			Kind=Disable
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormSave2.2DeleteN
+			ImageDown=GI,Bm.FormSave2.2DeleteD
+			ImageDisable=GI,Bm.FormSave2.2DeleteH
+
+			Font=Font.2Ranger
+			Caption=FormSaveManager.Delete
+			CaptionColorNormal=0,44,70
+			CaptionColorNormalA=50,240,252
+			CaptionColorDown=0,44,70
+			CaptionColorDownA=0,44,70
+			CaptionColorDisable=0,34,54
+			CaptionColorDisableA=0,34,54
+			CaptionShadowColorNormal=37,178,189
+			CaptionShadowColorNormalA=0,0,0
+			CaptionShadowColorDown=37,178,189
+			CaptionShadowColorDownA=37,178,189
+			CaptionShadowColorDisable=0,110,176
+			CaptionShadowColorDisableA=0,110,176
+			CaptionShadow=1
+			CaptionSme=0,-2,1,0
+		}
+		GraphButton {
+			Name=ButCancel
+			Style=Style.GB.SoundNormal
+			
+			Pos=638,589,1
+			Size=110,28
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormSave2.2CancelN
+			ImageDown=GI,Bm.FormSave2.2CancelD
+
+			Font=Font.2Ranger
+			Caption=FormSaveManager.Cancel
+			CaptionColorNormal=0,44,70
+			CaptionColorNormalA=50,240,252
+			CaptionColorDown=0,44,70
+			CaptionColorDownA=0,44,70
+			CaptionColorDisable=0,34,54
+			CaptionColorDisableA=0,34,54
+			CaptionShadowColorNormal=37,178,189
+			CaptionShadowColorNormalA=0,0,0
+			CaptionShadowColorDown=37,178,189
+			CaptionShadowColorDownA=37,178,189
+			CaptionShadowColorDisable=0,110,176
+			CaptionShadowColorDisableA=0,110,176
+			CaptionShadow=1
+			CaptionSme=0,-2,1,0
+		}
+		GraphButton {
+			Name=ButSave
+			Style=Style.GB.SoundNormal
+			
+			Pos=638,507,1
+			Size=111,39
+
+			Kind=Disable
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormSave2.2SaveN
+			ImageDown=GI,Bm.FormSave2.2SaveD
+			ImageDisable=GI,Bm.FormSave2.2SaveH
+
+			Font=Font.2Ranger
+			Caption=FormSaveManager.Save
+			CaptionColorNormal=0,44,70
+			CaptionColorNormalA=50,240,252
+			CaptionColorDown=0,44,70
+			CaptionColorDownA=0,44,70
+			CaptionColorDisable=0,34,54
+			CaptionColorDisableA=0,34,54
+			CaptionShadowColorNormal=37,178,189
+			CaptionShadowColorNormalA=0,0,0
+			CaptionShadowColorDown=37,178,189
+			CaptionShadowColorDownA=37,178,189
+			CaptionShadowColorDisable=0,110,176
+			CaptionShadowColorDisableA=0,110,176
+			CaptionShadow=1
+			CaptionSme=0,-2,1,0
+		}
+		GraphButton {
+			Name=ButLoad
+			Style=Style.GB.SoundNormal
+			
+			Pos=638,507,1
+			Size=111,39
+
+			Kind=Disable
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormSave2.2SaveN
+			ImageDown=GI,Bm.FormSave2.2SaveD
+			ImageDisable=GI,Bm.FormSave2.2SaveH
+
+			Font=Font.2Ranger
+			Caption=FormSaveManager.Load
+			CaptionColorNormal=0,44,70
+			CaptionColorNormalA=50,240,252
+			CaptionColorDown=0,44,70
+			CaptionColorDownA=0,44,70
+			CaptionColorDisable=0,34,54
+			CaptionColorDisableA=0,34,54
+			CaptionShadowColorNormal=37,178,189
+			CaptionShadowColorNormalA=0,0,0
+			CaptionShadowColorDown=37,178,189
+			CaptionShadowColorDownA=37,178,189
+			CaptionShadowColorDisable=0,110,176
+			CaptionShadowColorDisableA=0,110,176
+			CaptionShadow=1
+			CaptionSme=0,-2,1,0
+		}
+
+		GraphButton {
+			Name=ButClose
+			Style=Style.GB.SoundNormal
+			
+			Pos=891,564,1
+			Size=59,61
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormSave2.2CloseN
+			ImageNormalA=GI,Bm.FormSave2.2CloseA
+			ImageDown=GI,Bm.FormSave2.2CloseD
+		}
+
+		Image {
+			Pos=575,73,5
+			Size=17,22
+			Image=GI,Bm.SB.2V1_UpH
+		}
+		Image {
+			Pos=575,478,5
+			Size=17,22
+			Image=GI,Bm.SB.2V1_DownH
+		}
+		PanelScrollBar {
+			Name=PanelSlot
+			Pos=56,80,2
+			Size=507,428
+			ActiveBarY=True
+			PosAutoBarY=False
+			StyleBarY=Style.ScrollBar.2V1
+			RectBarY=575,73,592,500
+			ExternalSB=True
+			UnlimitedWorld=False
+			MoveWorld=True
+		}
+		Panel {
+			Name=PanelAutoSave
+			Pos=56,530,2
+			Size=10,10
+		}
+		GAI {
+			Name=Anim
+			Pos=618,47,100
+			Size=302,444
+			Image=Bm.FormSave2.2Anim
+			FrameLoad=0
+		}
+		GraphBuf {
+			Name=GameImage
+			Pos=619,47,99
+			Size=300,225
+			HalfAlpha=False
+		}
+		GraphBuf {
+			Name=GameImage2
+			Pos=619,273,99
+			Size=300,225
+			HalfAlpha=False
+		}
+	}
+}

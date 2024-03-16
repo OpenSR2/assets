@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormMods.2ConfirmD
+ImageNormal=GI,Bm.FormMods.2ConfirmN
+ImageNormalA=GI,Bm.FormMods.2ConfirmA
+Kind=Normal
+KindHit=Rect
+Name=Confirm
+Pos=705,595,2
+Size=79,33
+Style=Style.GB.SoundNormal

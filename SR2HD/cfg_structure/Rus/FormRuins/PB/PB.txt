@@ -1,0 +1,30 @@
+AskQuestion=AskQuestion\AskQuestion.txt ^{
+}
+Chameleon=Chameleon\Chameleon.txt ^{
+}
+ChangeNationality=ChangeNationality\ChangeNationality.txt ^{
+}
+ChangeSide=ChangeSide\ChangeSide.txt ^{
+}
+GreetingAft=. С нашей помощью ты легко станешь лучшим рейнджером.
+GreetingMod=, и даже снабдим тебя антидоминаторскими программами
+GreetingNormal=, и даже снабдим тебя нодами роботов.
+GreetingPre=Ты, <Player>, находишься на пиратской станции. Тут не действуют никакие законы, и ты можешь спокойно совершать любые сделки купли/продажи, не боясь никого. У нас свободная продажа наркоты и оружия. Можешь взглянуть на наше оборудование, у нас полно всякого хлама.<br>Интересуют особые услуги?<br>За деньги мы изменим твое подданство
+Modern=Modern\Modern.txt ^{
+}
+Nod=Nod\Nod.txt ^{
+}
+Program=Program\Program.txt ^{
+}
+RankPoints=RankPoints\RankPoints.txt ^{
+}
+Repair=Repair\Repair.txt ^{
+}
+SabCrack=SabCrack\SabCrack.txt ^{
+}
+SpecialShip=SpecialShip\SpecialShip.txt ^{
+}
+WarOperation=WarOperation\WarOperation.txt ^{
+}
+WarWithKlingAndCoalition=WarWithKlingAndCoalition\WarWithKlingAndCoalition.txt ^{
+}

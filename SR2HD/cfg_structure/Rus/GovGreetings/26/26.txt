@@ -1,0 +1,11 @@
+CurPlanetGoodsCnt=Average,Big,Huge
+CurPlanetGoodsPermit=No
+CurPlanetGoodsSale=Mini,Small,Average
+CurPlanetPirateClan=No2
+CurPlanetRace=Maloc
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Bad,Normal,Good,Best
+Goods=Luxury
+Priority=20
+Text=Привет, <Player>. И почему, собственно, другие расы так любят наши произведения искусства? Искусство это бред, вся суть в силе! А вам все подавай наши табуретки. Да лучше я эту табуретку разобью о твою инопланетную башку!
+Text=Взвинтили уже цены по <CurPlanetGoodsSale> cr за тонну. Вывозят наше дерево в виде предметов роскоши. Мы запрещаем вывозить наши табуретки. Ясно тебе?

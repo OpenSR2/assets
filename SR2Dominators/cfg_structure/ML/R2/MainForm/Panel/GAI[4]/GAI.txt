@@ -1,0 +1,5 @@
+Frame=[50,0-29]
+Image=Bm.FormMain2.2AnimShip
+Name=AnimShip
+Pos=24,348,47
+Size=1000,372

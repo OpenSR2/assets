@@ -1,0 +1,135 @@
+///////////////////////////////////////////////////////////////
+0 {
+	SizeImage=128,128	
+	SmeImage=64,64		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1FeiR
+	2ImageP=GI,Bm.ShipP.2FeiR
+	Image=Bm.Ship.HS0
+	ImageS=Bm.Ship.HS0
+
+	Anim {
+	    Normal=1,[70,0-32][70,32-32][70,30-0]
+	}
+	AnimS {
+	    Normal=1,[70,0-32][70,32-32][70,30-0]
+	}
+}
+///////////////////////////////////////////////////////////////
+1 {
+	SizeImage=128,128	
+	SmeImage=64,64		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1FeiW
+	2ImageP=GI,Bm.ShipP.2FeiW
+	Image=Bm.Ship.HS1
+	ImageS=Bm.Ship.HS1
+
+	Anim {
+	    Normal=1,[70,0-32][70,32-0]
+	}
+	AnimS {
+	    Normal=1,[70,0-32][70,32-0]
+	}
+}
+///////////////////////////////////////////////////////////////
+2 {
+	SizeImage=128,128	
+	SmeImage=64,64		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1FeiP
+	2ImageP=GI,Bm.ShipP.2FeiP
+	Image=Bm.Ship.HS2
+	ImageS=Bm.Ship.HS2
+
+	Anim {
+	    Normal=1,[70,0-32][70,32-0]
+	}
+	AnimS {
+	    Normal=1,[70,0-32][70,32-0]
+	}
+}
+///////////////////////////////////////////////////////////////
+3 {
+	SizeImage=128,128	
+	SmeImage=67,62		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1FeiT
+	2ImageP=GI,Bm.ShipP.2FeiT
+	Image=Bm.Ship.HS3
+	ImageS=Bm.Ship.HS3
+
+	Anim {
+	    Normal=1,[70,0-32]
+	}
+	AnimS {
+	    Normal=1,[70,0-32]
+	}
+}
+///////////////////////////////////////////////////////////////
+4 {
+	SizeImage=128,128	
+	SmeImage=65,76		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1FeiL
+	2ImageP=GI,Bm.ShipP.2FeiL
+	Image=Bm.Ship.HS4
+	ImageS=Bm.Ship.HS4
+
+	Anim {
+	    Normal=1,[70,0-32]
+	}
+	AnimS {
+	    Normal=1,[70,0-32]
+	}
+}
+///////////////////////////////////////////////////////////////
+5 {
+	SizeImage=128,128	
+	SmeImage=64,64		
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1FeiD
+	2ImageP=GI,Bm.ShipP.2FeiD
+	Image=Bm.Ship.HS5
+	ImageS=Bm.Ship.HS5
+
+	Anim {
+    	Normal=3,[500,0-0]
+	    0=1,[70,0-16]
+	}
+	AnimS {
+    	Normal=3,[500,0-0]
+	    0=1,[70,0-16]
+	}
+}
+///////////////////////////////////////////////////////////////

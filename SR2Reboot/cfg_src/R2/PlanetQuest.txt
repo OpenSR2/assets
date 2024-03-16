@@ -1,0 +1,228 @@
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+	Name=MainPanel
+
+    Image {
+		Name=BGStyle
+		Image=GI,Bm.FormPQuest2.2S1
+		Pos=35,5,20
+		Size=585,709
+	}
+
+    Frame {
+		Kind=Rect
+		ColorFill=0,0,0
+		Fill=True
+		Pos=654,31,20
+		Size=348,396
+	}
+
+	GraphBuf {
+		Pos=654,31,9
+		Size=346,392
+		Name=PQI
+	}
+
+    Image {
+		Image=GI,Bm.FormPQuest2.2BG
+		Pos=0,0,7
+		Size=1024,768
+	}
+
+    Panel {			
+	    Pos=0,0,15
+        Size=1024,768
+		Name=QuestPanel
+		Active=True
+
+        PanelScrollBar {
+			Name=MessageWindow
+			Pos=59,55,4
+			Size=515,365
+			TextColor=255,255,230
+
+			StyleBarY=Style.ScrollBar.2PQS1
+			ActiveBarY=True
+			PosAutoBarY=False
+			RectBarY=594,50,611,414
+
+			MoveWorld=True
+			UnlimitedWorld=False
+			ExternalSB=True
+
+            Label {
+				Name=MessageText
+				Style=Style.Label.2Normal//2NormalPlus//2Normal//2Big
+				Pos=0,0,3,w
+				Size=515,365
+				AlignX=Left //Auto
+				AlignY=Auto  
+				WordWrap=True
+				TextColor=219,218,156
+				TextBorder=1
+				TextBorderColor=60,60,60
+				//TextShadow=2
+			}
+
+        }
+
+        PanelScrollBar {
+			Name=ActionListWindow
+			Pos=38,468,3
+			Size=553,244
+
+			StyleBarY=Style.ScrollBar.2PQS1
+			ActiveBarY=True
+			PosAutoBarY=False
+			RectBarY=594,487,611,702
+			MoveWorld=True
+			UnlimitedWorld=False
+			ExternalSB=True
+        }
+	}
+
+	Window {
+		Style=Style.Window.2PQuestPar
+		Name=ParamsShowWindowParent
+		Pos=643,457,5
+		Size=320,176
+
+		Panel {
+			Name=ParamsShowWindow
+			Pos=0,0
+			Size=1,1
+		}
+//        Label {
+//			Name=ParamsShowWindow
+//			Style=Style.Label.2Normal//2NormalPlus//2Normal//2Big
+//			Pos=0,0,3
+//			Size=333,276
+//			WordWrap=True
+//			AlignX=Center
+//			AlignY=Center
+//		
+//			TextColor=219,218,156
+//			TextBorder=1
+//			TextBorderColor=60,60,60
+//			//TextShadow=2
+//        }
+	}
+	
+////////////////////////////////////////////
+	GraphButton {
+		Name=AnimTextOn
+		Pos=497,741,2
+		Size=28,17
+
+		KindHit=Rect
+		Kind=Normal
+
+		ImageNormal=GI,Bm.FormPQuest2.2AnimOnN
+		ImageNormalA=GI,Bm.FormPQuest2.2AnimOnA
+		ImageDown=GI,Bm.FormPQuest2.2AnimOnD
+
+		Help=FormPQuest.HelpAnimTextOn
+	}
+	GraphButton {
+		Name=AnimTextOff
+		Pos=497,741,2
+		Size=28,17
+
+		KindHit=Rect
+		Kind=Normal
+
+		ImageNormal=GI,Bm.FormPQuest2.2AnimOffN
+		ImageNormalA=GI,Bm.FormPQuest2.2AnimOffA
+		ImageDown=GI,Bm.FormPQuest2.2AnimOffD
+
+		Help=FormPQuest.HelpAnimTextOff
+	}
+
+	GraphButton {
+		Name=Style1
+		Pos=529,742,2
+		Size=15,15
+
+		KindHit=Rect
+		Kind=Disable
+
+		ImageNormal=GI,Bm.FormPQuest2.2Skin1N
+		ImageNormalA=GI,Bm.FormPQuest2.2Skin1A
+		ImageDown=GI,Bm.FormPQuest2.2Skin1D
+		ImageDisable=GI,Bm.FormPQuest2.2Skin1D
+
+		Help=FormPQuest.HelpStyle1
+	}
+	GraphButton {
+		Name=Style2
+		Pos=547,742,2
+		Size=15,15
+
+		KindHit=Rect
+		Kind=Disable
+
+		ImageNormal=GI,Bm.FormPQuest2.2Skin2N
+		ImageNormalA=GI,Bm.FormPQuest2.2Skin2A
+		ImageDown=GI,Bm.FormPQuest2.2Skin2D
+		ImageDisable=GI,Bm.FormPQuest2.2Skin2D
+
+		Help=FormPQuest.HelpStyle2
+	}
+	GraphButton {
+		Name=Style3
+		Pos=565,742,2
+		Size=15,15
+
+		KindHit=Rect
+		Kind=Disable
+
+		ImageNormal=GI,Bm.FormPQuest2.2Skin3N
+		ImageNormalA=GI,Bm.FormPQuest2.2Skin3A
+		ImageDown=GI,Bm.FormPQuest2.2Skin3D
+		ImageDisable=GI,Bm.FormPQuest2.2Skin3D
+
+		Help=FormPQuest.HelpStyle3
+	}
+	GraphButton {
+		Name=Style4
+		Pos=583,742,2
+		Size=15,15
+
+		KindHit=Rect
+		Kind=Disable
+
+		ImageNormal=GI,Bm.FormPQuest2.2Skin4N
+		ImageNormalA=GI,Bm.FormPQuest2.2Skin4A
+		ImageDown=GI,Bm.FormPQuest2.2Skin4D
+		ImageDisable=GI,Bm.FormPQuest2.2Skin4D
+
+		Help=FormPQuest.HelpStyle4
+	}
+////////////////////////////////////////////
+	GraphButton {
+		Name=ButtonExit
+		Pos=953,725,2
+		Size=71,43
+
+		KindHit=Rect
+		Kind=Disable
+
+		ImageNormal=GI,Bm.FormPQuest2.2CloseN
+		ImageNormalA=GI,Bm.FormPQuest2.2CloseA
+		ImageDown=GI,Bm.FormPQuest2.2CloseD
+
+		Help=FormPQuest.HelpExit
+	}
+	Label {
+		Name=LabelHelp
+		Font=Font.2Small
+		Pos=660,716,1,w
+		Size=200,20
+		AlignX=Left
+		AlignY=CenterEx
+		WordWrap=False
+		TextColor=169,196,208
+	}
+}

@@ -1,0 +1,17 @@
+Artefact=4
+Cost=10
+Def=-1
+Droid=-1
+Forsage=1
+Fragility=40
+Hook=-1
+Name=Камикадзе
+Probability=100
+Race=People
+Radar=0
+Scaner=-1
+ShipType=Warrior
+Size=25
+Text=Настоящий раритет, создан по чертежам, найденным при раскопках на планете Земля.
+Weapon=1
+Year=10

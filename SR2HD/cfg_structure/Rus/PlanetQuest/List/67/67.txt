@@ -1,0 +1,7 @@
+Access=11
+Dif=6
+Genre=викторина
+Group=1
+Image=Bm.PQI.Energy_00
+Length=2
+Name=Мегатест

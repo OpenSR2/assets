@@ -1,0 +1,8 @@
+1QuestButA=data\FormPlanet2\1QuestButA.gi
+1QuestButD=data\FormPlanet2\1QuestButD.gi
+1QuestButN=data\FormPlanet2\1QuestButN.gi
+1QuestIcon=data\FormPlanet2\1QuestIcon.gi
+2QuestButA=data\FormPlanet2\2QuestButA.gi
+2QuestButD=data\FormPlanet2\2QuestButD.gi
+2QuestButN=data\FormPlanet2\2QuestButN.gi
+2QuestIcon=data\FormPlanet2\2QuestIcon.gi

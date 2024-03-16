@@ -1,0 +1,37 @@
+Version=2.1.0
+
+GameDistributor=GOG
+
+AnimCaptain=Yes
+AnimItem=Yes
+BGImage=Yes
+AnimShipFull=Yes
+AnimShipSmall=Yes
+AnimStar=Yes
+SpaceImage=Yes
+AnimGov=Yes
+SputnikShow=Yes
+Robot=Yes
+Video=Yes
+
+Sound=Yes
+SoundInSpace=Yes
+Music=Yes
+MusicInSpace=Yes
+
+Packages {
+	Package=data\arcade.pkg
+	Package=data\background.pkg
+	Package=data\common.pkg
+	Package=data\forms.pkg
+	Package=data\items.pkg
+	Package=data\locations.pkg
+	Package=data\mainmenu.pkg
+	Package=data\music.pkg
+	Package=data\PQI.pkg
+	Package=data\robots.pkg
+	Package=data\scripts.pkg
+	Package=data\ships.pkg
+	Package=data\sound.pkg
+	Package=data\WSE.pkg
+}

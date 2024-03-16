@@ -1,0 +1,16 @@
+Cost=120
+Equipments=W01
+KindGraph=dmg
+Name="Лифокар"
+OnPlanets=1
+Priority=10
+Ruins=Any
+ShotVisual=2
+Size=110
+Special=1
+Text=<color=248,252,248>Модернизированное по проекту "Лифокар" вооружение наносит дополнительный урон поврежденным целям, используя механизм последовательной сверхточной стрельбы в пробоины корпуса.</color><br> <br>
+Text=Бонус к урону: до <clr>33%<clrEnd>
+Text=Мощность сканера: <bonScan> ед.
+Text=(необходимо превышение мощности сканера над защитой цели)
+WeaponMods=BonusToDamaged
+bonScan=-1

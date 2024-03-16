@@ -1,0 +1,2 @@
+1=Music\battle\fight2.dat
+2=Music\battle\Boy1.dat

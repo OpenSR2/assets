@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Pos=22,404,-3
+Size=184,22
+Text=FormRating.BestPirate
+TextColor=252,169,50
+WordWrap=False

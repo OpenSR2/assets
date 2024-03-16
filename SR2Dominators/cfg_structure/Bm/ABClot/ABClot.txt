@@ -1,0 +1,16 @@
+10_0=data\ABClot\10_0.gai
+10_1=data\ABClot\10_1.gai
+11_0=data\ABClot\11_0.gai
+11_1=data\ABClot\11_1.gai
+11_2=data\ABClot\11_2.gai
+11_3=data\ABClot\11_3.gai
+12_0=data\ABClot\12_0.gai
+12_1=data\ABClot\12_1.gai
+20_0=data\ABClot\20_0.gai
+20_1=data\ABClot\20_1.gai
+21_0=data\ABClot\21_0.gai
+21_1=data\ABClot\21_1.gai
+21_2=data\ABClot\21_2.gai
+21_3=data\ABClot\21_3.gai
+22_0=data\ABClot\22_0.gai
+22_1=data\ABClot\22_1.gai

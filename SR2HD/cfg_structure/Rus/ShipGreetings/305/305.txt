@@ -1,0 +1,8 @@
+DominatorsAlreadyDefeated=No
+FlyType=ToItem
+ItemType=Minerals
+Relations=Good,Best
+ShipStatus=Warrior
+ShipType=Ranger
+Text=Привет, дружище <Player>! Как дела? Вижу, минеральчики тут валяются, и хозяина вроде нет.
+Text=Если ты не против, то я их возьму, ок? Ты не подумай, что я торгаш или разбойник какой, я вообще по военному делу мастер. Бить доминаторов и прочую нечисть. Но не пропадать же добру, верно?

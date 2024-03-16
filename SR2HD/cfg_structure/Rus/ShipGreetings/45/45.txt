@@ -1,0 +1,15 @@
+AutoTalk=Any
+CoalitionAlreadyDefeated=No
+FlyType=Any
+InFear=Yes
+PlayerIsShipBad=Yes
+PlayerRank=Rookie,Cadet,Pilot
+PlayerRating=Mini,Small
+Relations=War
+ShipBadFlyToShip=Yes
+ShipGoodsTypeCnt=2,3,4,5,6,7,8
+ShipStructure=Mini,Small,Average
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+StrengthShipWithPlayer=Mini,Small
+Text=Отстань от меня, <Player>! Не буду я больше смеяться над твоим позорным званием <PlayerRank>, и над твоим низким рейтингом тоже. Ты самый крутой, самый уважаемый мною рейнджер!
+Text=У меня полно товаров на борту. Хочешь, отдам тебе часть? Может, отпустишь меня по-хорошему, а, <Player>?

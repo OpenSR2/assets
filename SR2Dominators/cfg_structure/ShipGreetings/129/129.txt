@@ -1,0 +1,8 @@
+FlyType=ToPlanet
+Goods=Minerals
+Relations=Normal,Good,Best
+ShipGoodsTypeCnt=1
+ShipHaveGoods=Yes
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=Привет, <Player>! Чем могу помочь, дружище?
+Text=В данный момент я намереваюсь совершить посадку на планете <ToPlanet> и, по возможности, сбыть партию минералов.

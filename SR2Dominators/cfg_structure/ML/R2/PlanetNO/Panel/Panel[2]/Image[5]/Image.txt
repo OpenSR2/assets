@@ -1,0 +1,3 @@
+Name=Slot_0i
+Pos=182,408,0
+Size=39,39

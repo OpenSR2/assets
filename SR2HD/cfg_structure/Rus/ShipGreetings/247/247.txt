@@ -1,0 +1,10 @@
+AutoTalk=Any
+CoalitionAlreadyDefeated=No
+FlyType=ToStar
+Relations=Normal,Good,Best
+ShipGoodsTypeCnt=3,4,5,6,7,8
+ShipRace=Maloc,Peleng,People,Fei
+ShipType=Transport
+Text=Эх, ты даже не представляешь, <Player>, как меня достала моя работа. Лечу в систему <ToStar>, сбывать весь этот товар.
+Text=Достало! Брошу все нахрен и куплю себе военный корабль. Махну в рейнджеры, буду как ты, совершать подвиги!
+Text=Хотя, с другой стороны, у меня есть свой бизнес. Надежный, безопасный, к чему мне проблемы? А вам, рейнджерам, говорят, копейки платят.

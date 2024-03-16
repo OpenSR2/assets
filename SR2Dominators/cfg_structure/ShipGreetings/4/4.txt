@@ -1,0 +1,10 @@
+FlyType=Any
+InFear=Yes
+PlayerIsShipBad=Yes
+PlayerRating=Big,Huge
+Relations=War
+ShipBadFlyToShip=Yes
+ShipRace=Peleng
+ShipRaceIsPlayerRace=No
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=ј ты знаешь, <Player>, что согласно решению галактического совета, за каждого убитого тобой пеленга ты будешь лишатьс€ половины очков рейнджера? “ак что если ты мен€ убьешь, то быстро скатишьс€ в самый низ списка! ¬от така€ теб€ ждет судьба.

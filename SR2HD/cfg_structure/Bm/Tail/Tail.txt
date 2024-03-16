@@ -1,0 +1,2 @@
+00=data\Tail\00.gai
+01=data\Tail\01.gai

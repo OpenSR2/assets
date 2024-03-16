@@ -1,0 +1,4 @@
+Image=Bm.Ruins.FighterSwarm
+ImageI=GAI,Bm.Ruins.FighterSwarm
+ImageMap=GI,Bm.Ship.MapDummy
+PosZ=Weapon

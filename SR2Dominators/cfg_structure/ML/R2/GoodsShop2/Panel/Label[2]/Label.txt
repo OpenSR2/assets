@@ -1,0 +1,8 @@
+Active=False
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2SmallBold
+Name=GS_Help
+Pos=100,741,8
+Size=360,22
+TextColor=200,240,255

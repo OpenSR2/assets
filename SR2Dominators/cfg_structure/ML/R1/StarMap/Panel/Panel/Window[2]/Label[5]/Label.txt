@@ -1,0 +1,9 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.1Small
+Name=ISRel
+Pos=0,103,8
+Size=100,12
+Text=FormInfo.ISRel
+TextColor=140,140,140
+WordWrap=False

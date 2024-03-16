@@ -1,0 +1,5 @@
+ColorFill=0,0,0
+Fill=True
+Kind=Rect
+Pos=654,31,20
+Size=348,396

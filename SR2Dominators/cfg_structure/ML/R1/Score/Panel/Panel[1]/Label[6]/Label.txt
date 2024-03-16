@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.1Normal
+Name=ITurn
+Pos=589,99,2
+Size=107,35
+TextColor=212,212,212

@@ -1,0 +1,49 @@
+GAI=GAI[0]\GAI.txt ^{
+}
+GAI=GAI[1]\GAI.txt ^{
+}
+GAI=GAI[2]\GAI.txt ^{
+}
+GAI=GAI[3]\GAI.txt ^{
+}
+GraphBuf=GraphBuf[0]\GraphBuf.txt ^{
+}
+GraphBuf=GraphBuf[1]\GraphBuf.txt ^{
+}
+GraphBuf=GraphBuf[2]\GraphBuf.txt ^{
+}
+GraphBuf=GraphBuf[3]\GraphBuf.txt ^{
+}
+GraphBuf=GraphBuf[4]\GraphBuf.txt ^{
+}
+GraphBuf=GraphBuf[5]\GraphBuf.txt ^{
+}
+GraphBuf=GraphBuf[6]\GraphBuf.txt ^{
+}
+GraphBuf=GraphBuf[7]\GraphBuf.txt ^{
+}
+GraphBuf=GraphBuf[8]\GraphBuf.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Name=MainPanel
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Panel=Panel[2]\Panel.txt ^{
+}
+Panel=Panel[3]\Panel.txt ^{
+}
+Panel=Panel[4]\Panel.txt ^{
+}
+Panel=Panel[5]\Panel.txt ^{
+}
+Pos=0,0
+Size=1024,768
+Window=Window\Window.txt ^{
+}

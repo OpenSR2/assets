@@ -1,0 +1,6 @@
+CurPlanetGoodsBuy=Big,Huge
+CurPlanetPirateClan=Any
+CurPlanetRelations=Bad
+Goods=Minerals
+Priority=30
+Text=„то ты здесь забыл, <Player>? “ебе не разрешаетс€ заниматьс€ торговыми сделками на нашей планете. » это тво€ проблема, потому как мы скупаем полезные ископаемые по любым ценам. Ќо у теб€ мы принципиально не купим ничего.

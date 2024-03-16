@@ -1,0 +1,38 @@
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Image=Image[3]\Image.txt ^{
+}
+Image=Image[4]\Image.txt ^{
+}
+Image=Image[5]\Image.txt ^{
+}
+Image=Image[6]\Image.txt ^{
+}
+Image=Image[7]\Image.txt ^{
+}
+Image=Image[8]\Image.txt ^{
+}
+Image=Image[9]\Image.txt ^{
+}
+Image=Image[10]\Image.txt ^{
+}
+Image=Image[11]\Image.txt ^{
+}
+Image=Image[12]\Image.txt ^{
+}
+Image=Image[13]\Image.txt ^{
+}
+Image=Image[14]\Image.txt ^{
+}
+Image=Image[15]\Image.txt ^{
+}
+Image=Image[16]\Image.txt ^{
+}
+Image=Image[17]\Image.txt ^{
+}
+Pos=22,68,7
+Size=80,90

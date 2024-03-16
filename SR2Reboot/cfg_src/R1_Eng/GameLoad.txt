@@ -1,0 +1,39 @@
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+	MoveWorld=False
+
+	Panel=cfg\R1\PanelLoad.txt {
+		Pos=0,0,1000
+	}
+
+//    Image {
+//		Name=Fon
+//		Pos=0,0,999
+//		Size=800,600
+//	}
+
+//	Image {
+//		Name=PBmin
+//		Pos=0,440,-1
+//		Size=800,123
+//		Image=GI,Bm.FormLoad.1min
+//		KindX=Right
+//	}
+//	Image {
+//		Name=PBmax
+//		Pos=0,440,-2
+//		Size=800,123,-2
+//		Image=GI,Bm.FormLoad.1max
+//		KindX=Left
+//	}
+
+//	Label {
+//		Font=Font.1Normal
+//	    Name=Com
+//		Pos=100,570,1
+//		Size=400,20
+//		AlignX=Left
+//	}
+}

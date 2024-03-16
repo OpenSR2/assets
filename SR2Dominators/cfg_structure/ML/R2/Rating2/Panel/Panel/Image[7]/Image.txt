@@ -1,0 +1,3 @@
+Image=GI,Bm.FormRating2.2PhotoMask
+Pos=79,86,-4
+Size=93,453

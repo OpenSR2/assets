@@ -1,0 +1,3 @@
+Image=GI,Bm.FormAbout2.1Station1
+Pos=409,1,50
+Size=391,156

@@ -1,0 +1,11 @@
+Auto=Pos,Size
+Help=Help.ButLogo
+ImageDisable=GI,Bm.PanelMain2.1MenuN
+ImageDown=GI,Bm.PanelMain2.1MenuD
+ImageNormal=GI,Bm.PanelMain2.1MenuN
+ImageNormalA=GI,Bm.PanelMain2.1MenuA
+Kind=Disable
+KindHit=Graph
+Name=PM_Logo
+PosZ=8
+Style=Style.GB.SoundNormal

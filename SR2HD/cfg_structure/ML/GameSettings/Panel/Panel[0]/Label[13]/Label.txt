@@ -1,0 +1,9 @@
+AlignX=Auto
+AlignY=Top
+Font=Font.2Normal
+Help=FormGameSet2.Common.HelpInfo
+Name=Info
+Pos=122,541,2
+Size=335,114
+TextColor=88,229,255
+WordWrap=True

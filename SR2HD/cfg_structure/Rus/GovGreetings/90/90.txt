@@ -1,0 +1,7 @@
+CoalitionAlreadyDefeated=No
+CurPlanetPirateClan=Yes
+DominatorsAlreadyDefeated=No
+PlayerRank=Ace,Commander, Admiral
+PlayerRating=Big,Huge
+Priority=1
+Text=Великий воин <Player>, рад вас видеть. К сожалению, у вас не хватило ума, чтобы вместо бесконечных сражений с доминаторами сделать карьеру великого пирата, но каждому свое, каждому свое. Можете даже оставить мне свой автограф, чтобы я потом рассказывал детям про то, как просвещал вас однажды на тему упущенных возможностей.

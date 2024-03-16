@@ -1,0 +1,519 @@
+Border=0,0,800,600
+
+Panel {
+    Pos=0,0
+    Size=800,600
+    Name=MainPanel
+
+    Panel=cfg\R1\PanelMain.txt {
+        Pos=0,0,1 //694
+    }
+    Panel=cfg\R1\PanelRuins.txt {
+        Pos=0,0,2
+    }
+    Panel=cfg\R1\PanelLoad.txt {
+        Pos=0,0,-1000
+    }
+
+	XviD {
+		Name=Film
+		Pos=0,0,-1000
+		Size=800,600
+	}
+
+    Image {
+        Name=ImageBG2
+        Pos=0,0,901
+        Size=800,600
+    }
+    Image {
+        Name=ImageBG
+        Pos=0,0,900
+        Size=800,600
+    }
+
+    Panel {
+        Name=PanelMaloc
+        Pos=0,0,800
+        Size=1024,768
+        Active=False
+
+        GAI {
+            Name=PanelMaloc_Anim0
+            Pos=422,98,-2 // 362,112,-2
+            Size=321,502 // 381,450
+            PBuf=True
+            ImageFirst=Bm.Gov.1Maloc2Anim0i // Bm.Gov.1MalocAnim0i
+            Image=Bm.Gov.1Maloc2Anim0a // Bm.Gov.1MalocAnim0a
+            Frame=[75,0-100] // [75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+            SkipImageUpdateRect=True
+        }
+        GAI {
+            Name=PanelMaloc_Anim1
+            Pos=422,98,-2 // 362,112,-2
+            Size=321,502 // 381,450
+            PBuf=True
+            ImageFirst=Bm.Gov.1Maloc2Anim0i // Bm.Gov.1MalocAnim0i
+            Image=Bm.Gov.1Maloc2Anim0a // Bm.Gov.1MalocAnim0a
+            Frame=[75,0-100] // [75,0-100]
+//            Pos=378,87,-2 // 259,111,-2
+//            Size=369,513 // 527,451
+//            PBuf=True
+//            ImageFirst=Bm.Gov.1Maloc2Anim1i // Bm.Gov.1MalocAnim1i
+//            Image=Bm.Gov.1Maloc2Anim1a // Bm.Gov.1MalocAnim1a
+//            Frame=[75,0-100] // [75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+            SkipImageUpdateRect=True
+        }
+    }
+
+    Panel {
+        Name=PanelMalocWB
+        Pos=0,0,800
+        Size=800,600
+        Active=False
+
+        GAI {
+            Name=PanelMalocWB_Anim0
+            Pos=422,98,-2
+            Size=321,502
+            PBuf=True
+            ImageFirst=Bm.Gov.1Maloc2Anim0i
+            Image=Bm.Gov.1Maloc2Anim0a
+            Frame=[75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+            SkipImageUpdateRect=True
+        }
+        GAI {
+            Name=PanelMalocWB_Anim1
+            Pos=422,98,-2
+            Size=321,502
+            PBuf=True
+            ImageFirst=Bm.Gov.1Maloc2Anim0i
+            Image=Bm.Gov.1Maloc2Anim0a
+            Frame=[75,0-100]
+//            Pos=378,87,-2
+//            Size=369,513
+//            PBuf=True
+//            ImageFirst=Bm.Gov.1Maloc2Anim1i
+//            Image=Bm.Gov.1Maloc2Anim1a
+//            Frame=[75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+            SkipImageUpdateRect=True
+        }
+    }
+
+    Panel {
+        Name=PanelPeleng
+        Pos=0,0,800
+        Size=1024,768
+        Active=False
+
+        GAI {
+            Name=PanelPeleng_Anim0
+            Pos=467,61,-2 // 438,102,-2 
+            Size=240,539 // 347,510
+            PBuf=True
+            ImageFirst=Bm.Gov.1PelengAnim0i
+            Image=Bm.Gov.1PelengAnim0a
+            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+            SkipImageUpdateRect=True
+        }
+        GAI {
+            Name=PanelPeleng_Anim1
+            Pos=467,61,-2 // 438,102,-2 
+            Size=240,539 // 347,510
+            PBuf=True
+            ImageFirst=Bm.Gov.1PelengAnim0i
+            Image=Bm.Gov.1PelengAnim0a
+            Frame=[75,0-99]
+//            Pos=425,35,-1 // 386,102,-2 
+//            Size=301,565 // 400,510
+//            PBuf=True
+//            ImageFirst=Bm.Gov.1PelengAnim1i
+//            Image=Bm.Gov.1PelengAnim1a
+//            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+            SkipImageUpdateRect=True
+        }
+    }
+    Panel {
+        Name=PanelPeople
+        Pos=0,0,800
+        Size=1024,768
+        Active=False
+
+        GAI {
+            Name=PanelPeople_Anim0
+            Pos=454,130,-2 // 400,156,-2
+            Size=259,470 // 354,444
+            PBuf=True
+            ImageFirst=Bm.FormRuins.1PBAnim0i
+            Image=Bm.FormRuins.1PBAnim0a
+            Frame=[75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+        GAI {
+            Name=PanelPeople_Anim1
+            Pos=454,130,-2 // 400,156,-2
+            Size=259,470 // 354,444
+            PBuf=True
+            ImageFirst=Bm.FormRuins.1PBAnim0i
+            Image=Bm.FormRuins.1PBAnim0a
+            Frame=[75,0-100]
+//            Pos=432,127,-2 //392,156,-2
+//            Size=286,473 // 403,444
+//            PBuf=True
+//            ImageFirst=Bm.FormRuins.1PBAnim1i
+//            Image=Bm.FormRuins.1PBAnim1a
+//            Frame=[75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+    }
+    Panel {
+        Name=PanelFei
+        Pos=0,0,800
+        Size=1024,768
+        Active=False
+
+        GAI {
+            Name=PanelFei_Anim0
+            Pos=475,56 // 470,85,-2 // 560,99,-2
+            Size=230,544 // 244,515 // 203,501
+            PBuf=True
+            ImageFirst=Bm.Gov.1FeiAnim0i
+            Image=Bm.Gov.1FeiAnim0a
+            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+        GAI {
+            Name=PanelFei_Anim1
+            Pos=475,56 // 470,85,-2 // 560,99,-2
+            Size=230,544 // 244,515 // 203,501
+            PBuf=True
+            ImageFirst=Bm.Gov.1FeiAnim0i
+            Image=Bm.Gov.1FeiAnim0a
+            Frame=[75,0-99]
+//            Pos=421,50,-2 // 411,78,-2 // 423,97,-2
+//            Size=331,550 // 356,522 // 353,503
+//            PBuf=True
+//            ImageFirst=Bm.Gov.1FeiAnim1i
+//            Image=Bm.Gov.1FeiAnim1a
+//            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+    }
+    Panel {
+        Name=PanelGaal
+        Pos=0,0,800
+        Size=1024,768
+        Active=False
+
+        GAI {
+            Name=PanelGaal_Anim0
+            Pos=438,88,-2 // 414,103,-2
+            Size=274,512// 315,470
+            PBuf=True
+            ImageFirst=Bm.Gov.1Gaal2Anim0i // Bm.Gov.1GaalAnim0i
+            Image=Bm.Gov.1Gaal2Anim0a // Bm.Gov.1GaalAnim0a
+            Frame=[75,0-80] // [75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+        GAI {
+            Name=PanelGaal_Anim1
+            Pos=438,88,-2 // 414,103,-2
+            Size=274,512// 315,470
+            PBuf=True
+            ImageFirst=Bm.Gov.1Gaal2Anim0i // Bm.Gov.1GaalAnim0i
+            Image=Bm.Gov.1Gaal2Anim0a // Bm.Gov.1GaalAnim0a
+            Frame=[75,0-80] // [75,0-100]
+//            Pos=387,87,-2 // 414,103,-2
+//            Size=345,513 // 315,470
+//            PBuf=True
+//            ImageFirst=Bm.Gov.1Gaal2Anim1i // Bm.Gov.1GaalAnim1i
+//            Image=Bm.Gov.1Gaal2Anim1a // Bm.Gov.1GaalAnim1a
+//            Frame=[75,0-80] // [75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+    }
+
+    Panel {
+        Name=PanelGaalMC
+        Pos=0,0,800
+        Size=800,600
+        Active=False
+
+        GAI {
+            Name=PanelGaalMC_Anim0
+            Pos=432,85,-2
+            Size=262,515
+            PBuf=True
+            ImageFirst=Bm.FormRuins.1MCAnim0i
+            Image=Bm.FormRuins.1MCAnim0a
+            Frame=[75,0-150]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+        GAI {
+            Name=PanelGaalMC_Anim1
+            Pos=432,85,-2
+            Size=262,515
+            PBuf=True
+            ImageFirst=Bm.FormRuins.1MCAnim0i
+            Image=Bm.FormRuins.1MCAnim0a
+            Frame=[75,0-150]
+//            Pos=368,82,-2
+//            Size=326,518
+//            PBuf=True
+//            ImageFirst=Bm.FormRuins.1MCAnim1i
+//            Image=Bm.FormRuins.1MCAnim1a
+//            Frame=[75,0-100]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+    }
+
+    Panel {
+        Name=PanelGaalSB
+        Pos=0,0,800
+        Size=800,600
+        Active=False
+
+        GAI {
+            Name=PanelGaalSB_Anim0
+            Pos=438,88,-2
+            Size=274,512
+            PBuf=True
+            ImageFirst=Bm.Gov.1Gaal2Anim0i
+            Image=Bm.Gov.1Gaal2Anim0a
+            Frame=[75,0-80]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+        GAI {
+            Name=PanelGaalSB_Anim1
+            Pos=438,88,-2
+            Size=274,512
+            PBuf=True
+            ImageFirst=Bm.Gov.1Gaal2Anim0i
+            Image=Bm.Gov.1Gaal2Anim0a
+            Frame=[75,0-80]
+//            Pos=387,87,-2
+//            Size=345,513
+//            PBuf=True
+//            ImageFirst=Bm.Gov.1Gaal2Anim1i
+//            Image=Bm.Gov.1Gaal2Anim1a
+//            Frame=[75,0-80]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+    }
+
+
+    Panel {
+        Name=PanelPeopleBK
+        Pos=0,0,800
+        Size=800,600
+        Active=False
+
+        GAI {
+            Name=PanelPeopleBK_Anim0
+            Pos=440,74,-2
+            Size=270,526
+            PBuf=True
+            ImageFirst=Bm.Gov.1PeopleAnim0i
+            Image=Bm.Gov.1PeopleAnim0a
+            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+        GAI {
+            Name=PanelPeopleBK_Anim1
+            Pos=440,74,-2
+            Size=270,526
+            PBuf=True
+            ImageFirst=Bm.Gov.1PeopleAnim0i
+            Image=Bm.Gov.1PeopleAnim0a
+            Frame=[75,0-99]
+//            Pos=401,71,-2
+//            Size=323,529
+//            PBuf=True
+//            ImageFirst=Bm.Gov.1PeopleAnim1i
+//            Image=Bm.Gov.1PeopleAnim1a
+//            Frame=[75,0-99]
+            AlignX=Center
+            AlignY=Center
+            Active=False
+        }
+    }
+
+//  Panel {
+//      Name=BP_PB
+//      Pos=0,0,999
+//      Size=800,600
+//      Active=False
+//
+//      Image {
+//          Image=GI,Bm.FormRuins.1PBbg
+//          Pos=0,0,10
+//          Size=800,600
+//      }
+//  
+//      GAI {
+//          Name=BP_PB_Anim0
+//          Pos=400,156,-2
+//          Size=354,444
+//          PBuf=True
+//          ImageFirst=Bm.FormRuins.1PBAnim0i
+//          Image=Bm.FormRuins.1PBAnim0a
+//          Frame=[75,0-100]
+//          AlignX=Center
+//          AlignY=Center
+//          Active=False
+//      }
+//      GAI {
+//          Name=BP_PB_Anim1
+//          Pos=392,156,-2
+//          Size=403,444
+//          PBuf=True
+//          ImageFirst=Bm.FormRuins.1PBAnim1i
+//          Image=Bm.FormRuins.1PBAnim1a
+//          Frame=[75,0-100]
+//          AlignX=Center
+//          AlignY=Center
+//          Active=False
+//      }
+//  }
+
+    Panel {
+        Pos=46,58,9
+        Size=322,485
+        
+        Image {
+            Pos=8,332,10
+            Size=286,122
+            Image=GI,Bm.FormGov2.1TWinB
+        }
+        Image {
+            Pos=0,0,6
+            Size=322,485
+            Image=GI,Bm.FormGov2.1TWin
+        }
+
+        Image {
+            Pos=296,55,5
+            Size=15,16
+            Image=GI,Bm.SB.1V1_UpH
+        }
+        Image {
+            Pos=296,285,5
+            Size=15,16
+            Image=GI,Bm.SB.1V1_DownH
+        }
+        Image {
+            Pos=296,344,5
+            Size=15,16
+            Image=GI,Bm.SB.1V1_UpH
+        }
+        Image {
+            Pos=296,412,5
+            Size=15,16
+            Image=GI,Bm.SB.1V1_DownH
+        }
+
+        PanelScrollBar {
+            Name=TextScroll
+            Pos=20,52,4 //23,52,4
+            Size=269,264 //260,264
+            StyleBarY=Style.ScrollBar.1V1
+            ActiveBarY=True
+            PosAutoBarY=False
+            RectBarY=296,55,311,301
+            MoveWorld=True
+            UnlimitedWorld=False
+            ExternalSB=True
+
+            Label {
+                Name=TalkText
+                Style=Style.Label.1Normal
+                Pos=0,0,0,w
+                Size=269,264 //260,264
+                AlignX=Auto
+                AlignY=Auto
+                WordWrap=True
+                TextColor=0,0,0 //255,255,230//50,160,0
+            }
+        }
+        GraphButton {
+            Name=UserMsgAdd
+            Pos=292,310,1
+            Auto=Size
+
+            Kind=Disable
+            KindHit=Rect
+        
+            ImageNormal=GI,Bm.FormGov2.1MemN
+            ImageNormalA=GI,Bm.FormGov2.1MemA
+            ImageDown=GI,Bm.FormGov2.1MemD
+            ImageDisable=GI,Bm.FormGov2.1MemH
+        }
+        GraphButton {
+            Name=ButFormClose
+            Pos=230,446,1
+            Size=62,30
+
+            Kind=Disable
+            KindHit=Rect
+			Disable=True
+        
+            ImageNormal=GI,Bm.FormGov2.1CloseN
+            ImageNormalA=GI,Bm.FormGov2.1CloseA
+            ImageDown=GI,Bm.FormGov2.1CloseD
+            ImageDisable=GI,Bm.FormGov2.1CloseH
+        }
+        PanelScrollBar {
+            Name=TalkPA
+            Pos=9,344,9
+            Size=285,94
+
+            StyleBarY=Style.ScrollBar.1V1
+            ActiveBarY=True
+            PosAutoBarY=False
+            RectBarY=296,344,311,428
+            MoveWorld=True
+            UnlimitedWorld=False
+            ExternalSB=True
+        }
+    }
+}

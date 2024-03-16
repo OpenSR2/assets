@@ -1,0 +1,7 @@
+Equipments=Hull
+Name=Форсер
+Priority=50
+Text=Микромодуль второго уровня. Встраивается в корпус. Активирует слоты сканера, радара и форсажа
+bonSlotForsage=1
+bonSlotRadar=1
+bonSlotScaner=1

@@ -1,0 +1,8 @@
+AlignX=Auto
+AlignY=Auto
+Font=Font.1Small
+Name=QuestInfo_Text
+Pos=4,50,8
+Size=196,75
+TextColor=255,255,255
+WordWrap=False

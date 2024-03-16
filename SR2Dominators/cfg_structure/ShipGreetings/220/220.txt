@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=ToStar
+Goods=Food
+LastPlanetGoodsSale=Mini,Small
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+Priority=50
+Relations=Normal,Good,Best
+ShipGoodsCnt=Small,Average,Big,Huge
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=Привет, <Player>! Я тут собираюсь партию еды отвезти в систему <ToStar>. Я этого добра на планете <LastPlanet> купил. Стоит копейки. Там чего только не выращивают!

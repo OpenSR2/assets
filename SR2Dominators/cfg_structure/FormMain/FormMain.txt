@@ -1,0 +1,10 @@
+About=Об авторах
+Demo=Демонстрация
+Exit=Выход
+Help=Помощь
+Load=Загрузить
+MsgExit=Выйти из программы?
+New=Новая игра
+Options=Настройки
+Score=Рекорды
+Version=(C) 2004, Elemental Games, 1C. Все права защищены. Версия <Value>

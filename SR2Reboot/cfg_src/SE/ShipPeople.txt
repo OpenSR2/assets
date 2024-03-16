@@ -1,0 +1,149 @@
+///////////////////////////////////////////////////////////////
+Ranger {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.PeopleMap
+	SmeImageMap=2,2		
+	StateTime=2000
+	Tail1=63,96
+
+	1ImageP=GI,Bm.ShipP.1PeopleR
+	2ImageP=GI,Bm.ShipP.2PeopleR
+	Image=Bm.Ship.PeopleR
+	ImageS=Bm.Ship.PeopleRs
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+
+}
+///////////////////////////////////////////////////////////////
+Warrior {
+	SizeImage=128,128	
+	SmeImage=63,69
+	SmeCenterImage=64,64
+	PosZ=Ship               
+	ImageMap=Bm.Ship.PeopleMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=63,103
+
+	1ImageP=GI,Bm.ShipP.1PeopleW
+	2ImageP=GI,Bm.ShipP.2PeopleW
+	Image=Bm.Ship.PeopleW
+	ImageS=Bm.Ship.PeopleWs
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Pirate {
+	SizeImage=128,128	
+	SmeImage=63,68
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.PeopleMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=63,110
+
+	1ImageP=GI,Bm.ShipP.1PeopleP
+	2ImageP=GI,Bm.ShipP.2PeopleP
+	Image=Bm.Ship.PeopleP
+	ImageS=Bm.Ship.PeoplePs
+
+	Anim {
+	    Normal=2,[70,0-49]
+    	0=1,[70,0-0][70,50-58][70,10-11][70,59-68][70,22-23][70,69-77][70,33-34][70,78-87][70,45-49]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Transport {
+	SizeImage=128,128	
+	SmeImage=63,61
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.PeopleMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=63,105
+
+	1ImageP=GI,Bm.ShipP.1PeopleT
+	2ImageP=GI,Bm.ShipP.2PeopleT
+	Image=Bm.Ship.PeopleT
+	ImageS=Bm.Ship.PeopleTs
+
+	Anim {
+	    Normal=2,[70,0-49]
+    	0=1,[70,0-2][70,50-60][70,14-15][70,61-76][70,32-32][70,77-83][70,40-42][70,84-90]
+	    1=1,[70,0-2][70,91-101][70,14-15][70,102-117][70,32-32][70,118-124][70,40-42][70,125-131]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Liner {
+	SizeImage=128,128	
+	SmeImage=63,73
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.PeopleMap
+	SmeImageMap=2,2
+	StateTime=2000
+	Tail1=41,110
+	Tail2=87,110
+
+	1ImageP=GI,Bm.ShipP.1PeopleL
+	2ImageP=GI,Bm.ShipP.2PeopleL
+	Image=Bm.Ship.PeopleL
+	ImageS=Bm.Ship.PeopleLs
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Diplomat {
+	SizeImage=128,128	
+	SmeImage=63,62
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.PeopleMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=32,105
+	Tail2=96,105
+
+	1ImageP=GI,Bm.ShipP.1PeopleD
+	2ImageP=GI,Bm.ShipP.2PeopleD
+	Image=Bm.Ship.PeopleD
+	ImageS=Bm.Ship.PeopleDs
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////

@@ -1,0 +1,3 @@
+Name=FaceI
+Pos=46,26,1
+Size=77,86

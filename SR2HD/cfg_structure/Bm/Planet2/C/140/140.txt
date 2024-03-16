@@ -1,0 +1,14 @@
+b01=data\Planet2\140\cloud\b01.psd
+c01=data\Planet2\140\cloud\c01.psd
+c02=data\Planet2\140\cloud\c02.psd
+c03=data\Planet2\140\cloud\c03.psd
+c04=data\Planet2\140\cloud\c04.psd
+c05=data\Planet2\140\cloud\c05.psd
+c06=data\Planet2\140\cloud\c06.psd
+c08=data\Planet2\140\cloud\c08.psd
+c09=data\Planet2\140\cloud\c09.psd
+c10=data\Planet2\140\cloud\c10.psd
+r01=data\Planet2\140\cloud\r01.psd
+r02=data\Planet2\140\cloud\r02.psd
+y01=data\Planet2\140\cloud\y01.psd
+y02=data\Planet2\140\cloud\y02.psd

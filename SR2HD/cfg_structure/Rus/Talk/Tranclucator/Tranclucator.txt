@@ -1,0 +1,18 @@
+AgreeLandingToObject=Слушаюсь, хозяин! Совершаю посадку на <ObjectName>.
+AgreeLandingToStorage=Слушаюсь, хозяин! Лечу на <ObjectName> и остаюсь на складе
+Attack=Attack\Attack.txt ^{
+}
+DropCargo=DropCargo\DropCargo.txt ^{
+}
+FlyToMe=FlyToMe\FlyToMe.txt ^{
+}
+Greeting=Вся моя боевая мощь к вашим услугам, хозяин. Мои пушки готовы к бою, жду указаний.
+LandingToObject=Совершаем посадку на <ObjectName>
+LandingToStorage=Садись на <ObjectName> и оставайся на складе
+Options=Options\Options.txt ^{
+}
+OrderForAll=И ретранслируй этот приказ остальным транклюкаторам. С каждым отдельно я общаться не намерен.
+Return=Return\Return.txt ^{
+}
+SeekItems=SeekItems\SeekItems.txt ^{
+}

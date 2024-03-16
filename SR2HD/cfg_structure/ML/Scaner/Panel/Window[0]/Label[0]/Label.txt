@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2SmallBold
+Name=InfoName
+Pos=60,13,8
+Size=165,40
+TextColor=57,239,255
+WordWrap=True

@@ -1,0 +1,7 @@
+Access=10
+Dif=46
+Genre=бродилка с приключениями
+Group=1
+Image=Bm.PQI.Filial_00
+Length=3
+Name=Филиал

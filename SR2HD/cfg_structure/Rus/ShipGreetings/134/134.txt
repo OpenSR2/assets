@@ -1,0 +1,12 @@
+FlyType=ToPlanet
+InFear=Any
+Priority=10
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Kling
+ShipRace=Any
+ShipStructure=Mini,Small,Average
+ShipType=Warrior
+Text=Ёх, <Player>. я подбит и получил приказ на посадку.   сожалению, не могу ослушатьс€ приказа командовани€, а то бы еще показал этому корыту <FullShipBad>.
+Text=Ќичего, мен€ сейчас подлатают на планете <ToPlanet>, и € вновь вступлю в бой. „есть превыше всего!
+ToPlanetIsLastPlanet=Any

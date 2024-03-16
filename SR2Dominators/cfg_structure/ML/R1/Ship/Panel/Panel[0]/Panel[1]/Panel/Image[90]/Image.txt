@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.1Art3N
+Name=Art2n
+Pos=12,114,-1
+Size=42,35

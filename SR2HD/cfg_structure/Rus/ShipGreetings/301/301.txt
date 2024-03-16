@@ -1,0 +1,5 @@
+FlyType=ToItem
+ItemType=Protoplasm
+Relations=Bad,Normal,Good
+ShipType=Ranger
+Text=Ты не лезь, <Player>, это мои ноды! Как все соберу, так и поговорим.

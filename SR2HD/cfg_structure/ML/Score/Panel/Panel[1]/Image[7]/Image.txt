@@ -1,0 +1,3 @@
+Name=Skill5
+Pos=835,399,0
+Size=30,43

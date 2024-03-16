@@ -1,0 +1,14 @@
+AutoTalk=Any
+FlyType=ToShip
+Goods=Technics
+LastPlanetRace=Peleng
+PlayerIsShipBad=Yes
+Priority=5
+Relations=War
+ShipBadFlyToShip=Any
+ShipFlyToPlayer=Yes
+ShipStatus=Pirate
+ShipTurnBeforeEndOrder=1,2,3,4,5,6
+ShipType=Ranger,Pirate
+StrengthShipWithPlayer=Average,Big,Huge
+Text=Ох и не повезло же тебе, <Player>! Может, слыхал про одно из самых жестоких пеленгских шоу "Убей, или проиграешь"? То самое, где каждому из участников предстоит уничтожить случайно выбранный корабль. Я один из участников, полуфиналист шоу этого года, и как раз сейчас борюсь за право выйти в финал. Мне нужна <LastPlanetGoodsBuy> жертва, и ей станешь ты!

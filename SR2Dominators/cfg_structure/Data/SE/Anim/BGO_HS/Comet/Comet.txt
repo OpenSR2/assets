@@ -1,0 +1,13 @@
+Explore=Bm.BGO_HS.Explore
+ExploreFrame=[30,0-51]
+Image=Bm.BGO_HS.Comet
+MoveAngle=0, 360
+PlanetFallStrength=225.0, 250.0
+PosZ=Comet
+Radius=450.0, 530.0
+SkipMoves=60, 300
+Speed=1.5, 2.500
+StarFallStrength=1125.0, 1625.0
+Time=20
+Track=Bm.BGO_HS.Track
+TrackFrame=[100,7-7][100,0-7]

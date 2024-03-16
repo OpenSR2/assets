@@ -1,0 +1,649 @@
+Weapon=cfg\Weapon.txt {
+}
+
+Script=cfg\Script.txt {
+}
+
+PQI=cfg\PQI.txt {
+}
+
+//Captain {
+//    Maloc=14
+//    Peleng=9
+//    People=10
+//    Fei=11
+//    Gaal=12
+//    Kling=0
+//}
+
+//CaptainAll {
+//    Maloc=14
+//    Peleng=9
+//    People=14
+//    Fei=11
+//    Gaal=12
+//    Kling=0
+//}
+
+SE=cfg\SE.txt {
+}
+
+Load {
+    LoadGame {
+        Cursor=cfg\Load\Cursor.txt {
+        }
+        Item=cfg\Load\Item.txt {
+        }
+    }
+    Planet {
+        Cursor=cfg\Load\Cursor.txt {
+        }
+    }
+    Space {
+        Cursor=cfg\Load\Cursor.txt {
+        }
+        Path=cfg\Load\Path.txt {
+        }
+        bgo=cfg\Load\bgo.txt {
+        }
+        SWeapon=cfg\Load\SWeapon.txt {
+        }
+        Item=cfg\Load\Item.txt {
+        }
+    }
+    SpaceSound {
+        SS=cfg\Load\SSound.txt {
+        }
+    }
+    AB {
+        AB=cfg\Load\AB.txt {
+        }
+    }
+}
+
+Star {
+    00 {
+        SEGraph=Star.00
+        SEProcess=Process.Normal
+        Radius=250
+        SafeRadius=300
+        DamageRadius=290
+		Priority=10
+    }
+    01 {
+        SEGraph=Star.01
+        SEProcess=Process.Normal
+        Radius=200
+        SafeRadius=250
+        DamageRadius=240
+		Priority=10
+    }
+    02 {
+        SEGraph=Star.02
+        SEProcess=Process.Normal
+        Radius=200
+        SafeRadius=250
+        DamageRadius=240
+		Priority=20
+    }
+    03 {
+        SEGraph=Star.03
+        SEProcess=Process.Normal
+        Radius=250
+        SafeRadius=300
+        DamageRadius=290
+		Priority=20
+    }
+    04 {
+        SEGraph=Star.04
+        SEProcess=Process.Normal
+        Radius=250
+        SafeRadius=300
+        DamageRadius=290
+		Priority=10
+    }
+    Red {
+        SEGraph=Star.Red
+        SEProcess=Process.Normal
+        Radius=250
+        SafeRadius=270
+        DamageRadius=260
+		Priority=5
+    }
+    Green {
+        SEGraph=Star.Green
+        SEProcess=Process.Normal
+        Radius=250
+        SafeRadius=300
+        DamageRadius=290
+		Priority=5
+    }
+    Blue {
+        SEGraph=Star.Blue
+        SEProcess=Process.Normal
+        Radius=250
+        SafeRadius=300
+        DamageRadius=290
+		Priority=5
+    }
+    Terron {
+        SEGraph=Star.Terron
+        SEProcess=Process.Normal
+        Radius=250
+        SafeRadius=300
+        DamageRadius=290
+		Priority=5
+    }
+}
+
+GalaxyStar {
+    =Bm.FormGalaxy.s00
+    =Bm.FormGalaxy.s01
+    =Bm.FormGalaxy.s02
+    =Bm.FormGalaxy.s03
+    =Bm.FormGalaxy.s04
+    =Bm.FormGalaxy.s05
+    =Bm.FormGalaxy.s06
+    =Bm.FormGalaxy.s07
+    =Bm.FormGalaxy.s08
+    =Bm.FormGalaxy.s09
+    =Bm.FormGalaxy.s10
+    =Bm.FormGalaxy.s11
+    =Bm.FormGalaxy.s12
+    =Bm.FormGalaxy.s13
+    =Bm.FormGalaxy.s14
+    =Bm.FormGalaxy.s15
+    =Bm.FormGalaxy.s16
+    =Bm.FormGalaxy.s17
+    =Bm.FormGalaxy.s18
+    =Bm.FormGalaxy.s19
+}
+
+Race {
+    Emblem {
+        1Fei=Alpha,Bm.Race.Emblem.1Fei
+        1Gaal=Alpha,Bm.Race.Emblem.1Gaal
+        1Kling=Alpha,Bm.Race.Emblem.1Kling
+        1Maloc=Alpha,Bm.Race.Emblem.1Maloc
+        1Peleng=Alpha,Bm.Race.Emblem.1Peleng
+        1People=Alpha,Bm.Race.Emblem.1People
+        1None=Alpha,Bm.Race.Emblem.1None
+        2Fei=Alpha,Bm.Race.Emblem.2Fei
+        2Gaal=Alpha,Bm.Race.Emblem.2Gaal
+        2Kling=Alpha,Bm.Race.Emblem.2Kling
+        2Maloc=Alpha,Bm.Race.Emblem.2Maloc
+        2Peleng=Alpha,Bm.Race.Emblem.2Peleng
+        2People=Alpha,Bm.Race.Emblem.2People
+        2None=Alpha,Bm.Race.Emblem.2None
+
+        1Blazer=Alpha,Bm.Race.Emblem.1Blazer
+        1Keller=Alpha,Bm.Race.Emblem.1Keller
+        1Terron=Alpha,Bm.Race.Emblem.1Terron
+        2Blazer=Alpha,Bm.Race.Emblem.2Blazer
+        2Keller=Alpha,Bm.Race.Emblem.2Keller
+        2Terron=Alpha,Bm.Race.Emblem.2Terron
+    }
+}
+
+SpaceImg {
+//    0=1,Bm.BGO.i0
+//    1=1,Bm.BGO.i1
+//    2=1,Bm.BGO.i2
+//    3=1,Bm.BGO.i3
+//    4=1,Bm.BGO.i4
+//    5=1,Bm.BGO.i5
+//    6=100,Bm.BGO.i10
+
+	1=1,Bm.BGO.i10
+	1=1,Bm.BGO.i11
+	1=1,Bm.BGO.i12
+
+	2=1,Bm.BGO.i20
+	2=1,Bm.BGO.i21
+	2=1,Bm.BGO.i22
+	2=1,Bm.BGO.i23
+
+	3=1,Bm.BGO.i30
+	3=1,Bm.BGO.i31
+	3=1,Bm.BGO.i32
+	3=1,Bm.BGO.i33
+	3=1,Bm.BGO.i34
+
+    10=1,Bm.BGO.g00
+    11=1,Bm.BGO.g01
+    12=1,Bm.BGO.g02
+//    13=1,Bm.BGO.g03
+
+    // Метеоритный поток
+    100=1,Bm.Garbage.01_00_00
+    101=1,Bm.Garbage.01_00_00
+    102=1,Bm.Garbage.01_01_00
+    103=1,Bm.Garbage.01_01_00
+    104=1,Bm.Garbage.01_02_00
+    105=1,Bm.Garbage.01_03_00
+
+    // Синий
+    200=1,Bm.Garbage.02_00_00
+    200=1,Bm.Garbage.02_00_01
+    201=1,Bm.Garbage.02_01_00
+    201=1,Bm.Garbage.02_01_01
+    202=1,Bm.Garbage.02_02_00
+    202=1,Bm.Garbage.02_02_01
+    203=1,Bm.Garbage.02_03_00
+    203=1,Bm.Garbage.02_03_01
+    204=1,Bm.Garbage.02_04_00
+    204=1,Bm.Garbage.02_04_01
+    205=1,Bm.Garbage.02_05_00
+    205=1,Bm.Garbage.02_05_01
+
+    // Желтый
+    300=1,Bm.Garbage.03_01_00
+    300=1,Bm.Garbage.03_01_01
+    301=1,Bm.Garbage.03_02_00
+    301=1,Bm.Garbage.03_02_01
+    302=1,Bm.Garbage.03_03_00
+    302=1,Bm.Garbage.03_03_01
+    303=2,Bm.Garbage.03_02_00
+    303=2,Bm.Garbage.03_02_01
+    303=1,Bm.Garbage.03_03_00
+    303=1,Bm.Garbage.03_03_01
+    304=3,Bm.Garbage.03_03_00
+    304=3,Bm.Garbage.03_03_01
+    304=1,Bm.Garbage.03_04_00
+    304=1,Bm.Garbage.03_04_01
+    305=3,Bm.Garbage.03_03_00
+    305=3,Bm.Garbage.03_03_01
+    305=2,Bm.Garbage.03_04_00
+    305=2,Bm.Garbage.03_04_01
+    305=1,Bm.Garbage.03_05_00
+    305=1,Bm.Garbage.03_05_01
+    305=1,Bm.Garbage.03_05_02
+    305=1,Bm.Garbage.03_05_03
+
+    // Зеленый-синий
+    400=1,Bm.Garbage.04_01_00
+    400=1,Bm.Garbage.04_01_01
+    401=1,Bm.Garbage.04_02_00
+    401=1,Bm.Garbage.04_02_01
+    402=2,Bm.Garbage.04_02_00
+    402=2,Bm.Garbage.04_02_01
+    402=1,Bm.Garbage.04_03_01
+    402=2,Bm.Garbage.02_02_00
+    402=2,Bm.Garbage.02_02_01
+    403=1,Bm.Garbage.04_03_00
+    403=1,Bm.Garbage.04_03_01
+    403=1,Bm.Garbage.02_03_00
+    403=1,Bm.Garbage.02_03_01
+    404=3,Bm.Garbage.04_03_00
+    404=3,Bm.Garbage.04_03_01
+    404=1,Bm.Garbage.04_04_00
+    404=1,Bm.Garbage.04_04_01
+    405=3,Bm.Garbage.04_03_00
+    405=3,Bm.Garbage.04_03_01
+    405=2,Bm.Garbage.04_04_00
+    405=2,Bm.Garbage.04_04_01
+    405=1,Bm.Garbage.04_05_00
+    405=1,Bm.Garbage.04_05_01
+    405=1,Bm.Garbage.04_05_02
+    405=1,Bm.Garbage.04_05_03
+
+    // Зелено-желтый
+    500=1,Bm.Garbage.04_01_00
+    500=1,Bm.Garbage.04_01_01
+    501=1,Bm.Garbage.03_02_00
+    501=1,Bm.Garbage.03_02_01
+    502=2,Bm.Garbage.04_02_00
+    502=2,Bm.Garbage.03_02_01
+    502=1,Bm.Garbage.04_03_01
+    503=1,Bm.Garbage.03_03_00
+    503=1,Bm.Garbage.03_03_01
+    504=3,Bm.Garbage.04_03_00
+    504=3,Bm.Garbage.03_03_01
+    504=1,Bm.Garbage.04_04_00
+    504=1,Bm.Garbage.03_03_01
+    505=3,Bm.Garbage.04_03_00
+    505=3,Bm.Garbage.03_03_01
+    505=2,Bm.Garbage.04_04_00
+    505=2,Bm.Garbage.04_04_01
+    505=1,Bm.Garbage.04_05_00
+    505=1,Bm.Garbage.04_05_01
+    505=1,Bm.Garbage.04_05_02
+    505=1,Bm.Garbage.04_05_03
+
+	// Blue
+    600=1,Bm.Garbage.06_00_00
+    600=2,Bm.Garbage.06_00_01
+    600=1,Bm.Garbage.06_00_02
+    600=3,Bm.Garbage.06_01_01
+    601=1,Bm.Garbage.06_01_00
+    601=2,Bm.Garbage.06_01_01
+    601=2,Bm.Garbage.06_02_01
+    601=1,Bm.Garbage.06_01_02
+    602=1,Bm.Garbage.06_02_00
+    602=2,Bm.Garbage.06_02_01
+    602=2,Bm.Garbage.06_03_01
+    602=1,Bm.Garbage.06_02_02
+    603=1,Bm.Garbage.06_03_00
+    603=2,Bm.Garbage.06_03_01
+    603=1,Bm.Garbage.06_03_02
+    603=2,Bm.Garbage.06_04_01
+    604=1,Bm.Garbage.06_04_00
+    604=2,Bm.Garbage.06_04_01
+    604=1,Bm.Garbage.06_04_02
+    605=1,Bm.Garbage.06_05_00
+
+	// Green
+    700=1,Bm.Garbage.06_00_00
+    700=2,Bm.Garbage.06_00_01
+    700=1,Bm.Garbage.06_00_02
+    700=3,Bm.Garbage.06_01_01
+    701=1,Bm.Garbage.06_01_00
+    701=2,Bm.Garbage.06_01_01
+    701=2,Bm.Garbage.06_02_01
+    701=1,Bm.Garbage.06_01_02
+    702=1,Bm.Garbage.06_02_00
+    702=2,Bm.Garbage.06_02_01
+    702=2,Bm.Garbage.06_03_01
+    702=1,Bm.Garbage.06_02_02
+    703=1,Bm.Garbage.06_03_00
+    703=2,Bm.Garbage.06_03_01
+    703=1,Bm.Garbage.06_03_02
+    703=2,Bm.Garbage.06_04_01
+    704=1,Bm.Garbage.06_04_00
+    704=2,Bm.Garbage.06_04_01
+    704=1,Bm.Garbage.06_04_02
+    705=1,Bm.Garbage.06_05_00
+
+
+    1000=1,Bm.Garbage.10_00_00
+    1001=1,Bm.Garbage.10_01_00
+    1002=1,Bm.Garbage.10_02_00
+    1003=1,Bm.Garbage.10_03_00
+    1004=1,Bm.Garbage.10_04_00
+    1005=1,Bm.Garbage.10_05_00
+    1000=1,Bm.Garbage.10_00_01
+    1001=1,Bm.Garbage.10_01_01
+    1002=1,Bm.Garbage.10_02_01
+    1003=1,Bm.Garbage.10_03_01
+    1004=1,Bm.Garbage.10_04_01
+    1005=1,Bm.Garbage.10_05_01
+    1000=1,Bm.Garbage.10_00_02
+    1001=1,Bm.Garbage.10_01_02
+    1002=1,Bm.Garbage.10_02_02
+    1003=1,Bm.Garbage.10_03_02
+    1004=1,Bm.Garbage.10_04_02
+    1005=1,Bm.Garbage.10_05_02
+    1000=1,Bm.Garbage.10_00_03
+    1001=1,Bm.Garbage.10_01_03
+    1002=1,Bm.Garbage.10_02_03
+    1003=1,Bm.Garbage.10_03_03
+    1004=1,Bm.Garbage.10_04_03
+    1005=1,Bm.Garbage.10_05_03
+    1000=1,Bm.Garbage.10_00_04
+    1001=1,Bm.Garbage.10_01_04
+    1002=1,Bm.Garbage.10_02_04
+    1003=1,Bm.Garbage.10_03_04
+    1004=1,Bm.Garbage.10_04_04
+    1005=1,Bm.Garbage.10_05_04
+}
+
+StarFieldImg {
+    100=Bm.Garbage.sf1
+    100=Bm.Garbage.sf2
+    100=Bm.Garbage.sf3
+    100=Bm.Garbage.sf4
+    100=Bm.Garbage.sf5
+    100=Bm.Garbage.sf6
+}
+
+BGImage { // size image=path
+    2000=Bm.BGO.bg00
+    2000=Bm.BGO.bg01
+    2000=Bm.BGO.bg02
+    2000=Bm.BGO.bg03
+//  2000=Bm.BGO.bg04
+//  2000=Bm.BGO.bg05
+}
+
+PlanetAdvt=CFG\PlanetAdvt.txt {
+}
+
+ABMap=CFG\ABMap.txt {
+}
+
+ABSound=CFG\ABSound.txt {
+}
+
+StyleStar {
+	00=00,01,02,03,04,Red
+	01=00,01,02,03,04,Red
+	02=00,01,02,03,04,Red
+	03=00,01,02,03,04,Green
+	04=00,01,02,03,04,Green
+	05=00,01,02,03,04,Green
+	06=00,01,02,03,04,Green
+	07=00,01,02,03,04,Blue
+	08=00,01,02,03,04,Blue
+	09=00,01,02,03,04,Blue
+	10=00,01,02,03,04,Blue
+	11=00,01,02,03,04,Blue
+	12=02,03,04,Blue
+	13=02,03,04
+	14=00,01,02,03,04,Red
+	15=01,02,03,04,Red
+	50=02,03,04
+	51=00,02,03,04,Blue,Green
+	52=02,03,04,Blue
+	53=Blue
+	54=02,03,04
+	55=02,03,Red
+	70=02,03,04,Blue
+	71=02,03,04,Blue
+}
+StyleAsteroid {
+	00=Yellow,8
+	01=Yellow,8
+	02=Yellow,8
+	03=Green,15
+	04=Green,15
+	05=Green,15
+	06=Green,15
+	07=Blue,19
+	08=Blue,19
+	09=Blue,19
+	10=Blue,19
+	11=Blue,19
+	12=Blue,19,Red,14
+	13=Blue,19,Red,14
+	14=Red,14,Yellow,8
+	15=Red,14,Yellow,8
+	50=Red,14
+	51=Green,15,Yellow,8
+	52=Blue,19
+	53=Blue,19
+	54=Yellow,8
+	55=Red,14
+	70=Blue,19
+	71=Blue,19
+}
+StyleComet {
+	00=Yellow,4
+	01=Yellow,4
+	02=Yellow,4
+	03=Green,4
+	04=Green,4
+	05=Green,4
+	06=Green,4
+	07=Blue,4
+	08=Blue,4
+	09=Blue,4
+	10=Blue,4
+	11=Blue,4
+	12=Blue,4,Red,4
+	13=Blue,4,Red,4
+	14=Red,4,Yellow,4
+	15=Red,4,Yellow,4
+	50=Red,4
+	51=Green,4,Yellow,4
+	52=Blue,4
+	53=Blue,4
+	54=Yellow,4
+	55=Red,4
+	70=Blue,4
+	71=Blue,4
+}
+StyleGarbage {
+	00=200,300,400,500,100
+	01=200,300,400,500,100
+	02=200,300,400,500,100
+	03=200,300,400,500,700
+	04=200,300,400,500,700
+	05=200,300,400,500,700
+	06=200,300,400,500,700
+	07=200,300,400,500,600
+	08=200,300,400,500,600
+	09=200,300,400,500,600
+	10=200,300,400,500,600
+	11=200,300,400,500,600
+	12=200,300,400,500,100,600
+	13=200,300,400,500,100,600
+	14=200,300,400,500,100,100
+	15=200,300,400,500,100,100
+	50=200,300,400,500,100
+	51=200,300,400,500,700,100
+	52=200,300,400,500,600
+	53=200,300,400,500,600
+	54=200,300,400,500,100
+	55=200,300,400,500,100
+	70=200,300,400,500,600
+	71=200,300,400,500,600
+}
+StyleNebula {
+	00=3
+	01=3
+	02=3
+	03=2
+	04=2
+	05=2
+	06=2
+	07=1
+	08=1
+	09=1
+	10=1
+	11=1
+	12=1,3
+	13=1,3
+	14=3
+	15=3
+	50=3
+	51=2
+	52=1
+	53=1
+	54=3
+	55=3
+	70=1
+	71=1
+}
+StyleFaceMaloc {
+	00=RWPTLD
+	01=RWPTLD
+	02=RWPTLD
+	03=RWPTLD
+	04=RWPTLD
+	05=RWPTLD
+	06=RWPTLD
+	07=D
+	08=WPR
+	09=WPR
+	10=WPR
+	11=WPR
+	12=WPR
+	13=WPR
+	14=P
+}
+StyleFacePeleng {
+	00=RWPTLD
+	01=RWPTLD
+	02=RWPTLD
+	03=RWPTLD
+	04=RWPTLD
+	05=D
+	06=WPR
+	07=WPR
+	08=WPR
+	09=WPR
+	10=WPR
+	11=P
+	12=P
+	13=P
+	14=P
+}
+StyleFacePeople {
+	00=RWPTLD
+	01=RWPTLD
+	02=RWPTLD
+	03=RWPTLD
+	04=RWPTLD
+	05=RWPTLD
+	06=RWPTLD
+	07=RWPTLD
+	08=RWPTLD
+	09=RWPTLD
+	10=RWPTLD
+	11=RWPTLD
+	12=RWPTLD
+	13=PR
+	14=D
+	15=WPR
+	16=WPR
+	17=PR
+	18=P
+	19=RWPTLD
+	20=RWPTLD
+	21=RWPTLD
+	22=RWPTLD
+	23=RWPTLD
+	24=W
+	25=W
+	26=W
+	27=W
+	28=
+	29=
+	30=
+	31=
+	32=
+}
+StyleFaceFei {
+	00=RWPTLD
+	01=RWPTLD
+	02=RWPTLD
+	03=RWPTLD
+	04=RWPTLD
+	05=RWPTLD
+	06=RWPTLD
+	07=RWPTLD
+	08=RWPTLD
+	09=RWPTLD
+	10=RWPTLD
+	11=RWPTLD
+	12=D
+	13=WPR
+	14=P
+}
+StyleFaceGaal {
+	00=RWPTLD
+	01=RWPTLD
+	02=RWPTLD
+	03=RWPTLD
+	04=RWPTLD
+	05=RWPTLD
+	06=RWPTLD
+	07=RWPTLD
+	08=RWPTLD
+	09=RWPTLD
+	10=D
+	11=WPR
+	12=WPR
+	13=WPR
+	14=P
+}

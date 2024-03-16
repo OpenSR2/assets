@@ -1,0 +1,1059 @@
+Border=0,0,800,600
+
+Sound { 
+    Group {
+        NextTime=5000-10000
+        1=Sound.FormGoods0
+        1=Sound.FormGoods1
+        1=Sound.FormGoods2
+        1=Sound.FormGoods3
+        1=Sound.FormGoods4
+    }
+}
+
+Panel {
+    Pos=0,0
+    Size=800,600
+    Name=MainPanel
+
+    GraphBuf {
+        Name=BGBuf
+        Pos=0,0,99
+        Size=800,600
+    }
+    ShrLight {
+        Name=BGShrLight
+        Pos=0,0,98
+        Size=800,600
+        ShrLight=-2
+    }
+
+    Panel=cfg\R1\PanelMain.txt {
+        Pos=0,0,1
+    }
+    Panel=cfg\R1\PanelPlanet.txt {
+        Pos=344,541,1
+    }
+    Panel=cfg\R1\PanelRuins.txt {
+        Pos=0,0,2
+    }
+    Panel=cfg\R1\PanelLoad.txt {
+        Pos=0,0,-1000
+    }
+
+    Image {
+        Name=BGCity2
+        Active=True
+        Pos=0,0,12
+        Size=800,600
+    }
+
+    Image {
+        Name=BGCity
+        Active=True
+        Pos=0,0,11
+        Size=800,600
+    }
+
+    Panel {
+        Pos=88,79,10
+        Size=617,421
+        Name=GoodsPanel
+
+        Image {
+            Image=GI,Bm.FormGoods2.1Image
+            Pos=0,0,9
+            Size=617,421
+        }
+
+        Image {
+            Image=GI,Bm.FormGoods2.1CloseLine
+            Pos=29,297,8
+            Size=63,1
+            Name=CloseLine
+        }
+
+        Image {
+            Name=DownLeft
+            Image=GI,Bm.FormGoods2.1DownLeft
+            Pos=24,13,8
+            Size=279,393
+        }
+        Image {
+            Name=DownRight
+            Image=GI,Bm.FormGoods2.1DownRight
+            Pos=314,13,8
+            Size=279,393
+        }
+
+        Image {
+            Name=FaceI
+            Pos=23,154,1
+            Size=77,86
+        }
+        GAI {
+            Name=FaceA
+            Pos=23,154,0
+            Size=77,86
+            PBuf=True
+            KindX=Center
+            KindY=Center
+            TransColor=255,0,255
+        }
+        GraphBuf {
+            Name=FaceGB
+            Pos=23,154,-1
+            Size=77,86
+        }
+
+        Image {
+            Name=CaptainI
+            Pos=518,154,1
+            Size=77,86
+        }
+        GAI {
+            Name=CaptainA
+            Pos=518,154,0
+            Size=77,86
+            PBuf=True
+            KindX=Center
+            KindY=Center
+            TransColor=255,0,255
+        }
+
+        Label {
+            Name=NameFace
+            Pos=23,266,6
+            Size=75,30
+            Font=Font.1Ranger
+            TextColor=88,229,255
+            AlignX=Center
+            AlignY=Center
+            WordWrap=True
+        }
+        Label {
+            Name=CharFace
+            Pos=23,295,6 //23,298,6
+            Size=75,18 //75,14
+            Font=Font.1Ranger
+            TextColor=88,229,255
+            AlignX=Center
+            AlignY=Center
+            WordWrap=True
+        }
+
+        Label {
+            Name=NameCaptain
+            Pos=520,266,6
+            Size=75,30
+            Font=Font.1Ranger
+            TextColor=88,229,255
+            AlignX=Center
+            AlignY=Center
+            WordWrap=True
+        }
+        Label {
+            Name=CharCaptain
+            Pos=520,298,6
+            Size=75,14
+            Font=Font.1Ranger
+            TextColor=88,229,255
+            AlignX=Center
+            AlignY=Center
+            WordWrap=True
+        }
+
+        Image {
+            Name=ImageFace
+            Pos=37,64,5
+            Size=77,77
+        }
+        Image {
+            Name=ImageCaptain
+            Pos=502,64,5
+            Size=77,77
+        }
+        GraphBuf {
+            Name=GraphBufFace
+            Pos=48,79,4
+            Size=41,41
+            Sme=0,0
+        }
+        GraphBuf {
+            Name=GraphBufCaptain
+            Pos=527,79,4
+            Size=41,41
+            Sme=0,0
+        }
+
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov0
+            Pos=128,73,7
+            Size=163,36
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov1N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov1A
+            ImageDown=GI,Bm.FormGoods2.1Tov1N
+            ImageDisable=GI,Bm.FormGoods2.1Tov1N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov1
+            Pos=128,109,7
+            Size=163,34
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov2N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov2A
+            ImageDown=GI,Bm.FormGoods2.1Tov2N
+            ImageDisable=GI,Bm.FormGoods2.1Tov2N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov2
+            Pos=128,146,7
+            Size=163,32
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov3N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov3A
+            ImageDown=GI,Bm.FormGoods2.1Tov3N
+            ImageDisable=GI,Bm.FormGoods2.1Tov3N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov3
+            Pos=128,182,7
+            Size=163,31
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov4N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov4A
+            ImageDown=GI,Bm.FormGoods2.1Tov4N
+            ImageDisable=GI,Bm.FormGoods2.1Tov4N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov4
+            Pos=128,217,7
+            Size=163,33
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov5N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov5A
+            ImageDown=GI,Bm.FormGoods2.1Tov5N
+            ImageDisable=GI,Bm.FormGoods2.1Tov5N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov5
+            Pos=128,251,7
+            Size=163,35
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov6N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov6A
+            ImageDown=GI,Bm.FormGoods2.1Tov6N
+            ImageDisable=GI,Bm.FormGoods2.1Tov6N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov6
+            Pos=128,286,7
+            Size=163,37
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov7N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov7A
+            ImageDown=GI,Bm.FormGoods2.1Tov7N
+            ImageDisable=GI,Bm.FormGoods2.1Tov7N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov7
+            Pos=128,320,7
+            Size=163,39
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov8N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov8A
+            ImageDown=GI,Bm.FormGoods2.1Tov8N
+            ImageDisable=GI,Bm.FormGoods2.1Tov8N
+        }
+
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov10
+            Pos=327,73,7
+            Size=163,36
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov1N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov1A
+            ImageDown=GI,Bm.FormGoods2.1Tov1N
+            ImageDisable=GI,Bm.FormGoods2.1Tov1N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov11
+            Pos=327,109,7
+            Size=163,34
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov2N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov2A
+            ImageDown=GI,Bm.FormGoods2.1Tov2N
+            ImageDisable=GI,Bm.FormGoods2.1Tov2N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov12
+            Pos=327,146,7
+            Size=163,32
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov3N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov3A
+            ImageDown=GI,Bm.FormGoods2.1Tov3N
+            ImageDisable=GI,Bm.FormGoods2.1Tov3N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov13
+            Pos=327,182,7
+            Size=163,31
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov4N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov4A
+            ImageDown=GI,Bm.FormGoods2.1Tov4N
+            ImageDisable=GI,Bm.FormGoods2.1Tov4N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov14
+            Pos=327,217,7
+            Size=163,33
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov5N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov5A
+            ImageDown=GI,Bm.FormGoods2.1Tov5N
+            ImageDisable=GI,Bm.FormGoods2.1Tov5N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov15
+            Pos=327,251,7
+            Size=163,35
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov6N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov6A
+            ImageDown=GI,Bm.FormGoods2.1Tov6N
+            ImageDisable=GI,Bm.FormGoods2.1Tov6N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov16
+            Pos=327,286,7
+            Size=163,37
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov7N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov7A
+            ImageDown=GI,Bm.FormGoods2.1Tov7N
+            ImageDisable=GI,Bm.FormGoods2.1Tov7N
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Tov17
+            Pos=327,320,7
+            Size=163,39
+
+            Kind=Disable
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1Tov8N
+            ImageNormalA=GI,Bm.FormGoods2.1Tov8A
+            ImageDown=GI,Bm.FormGoods2.1Tov8N
+            ImageDisable=GI,Bm.FormGoods2.1Tov8N
+        }
+
+        Panel {
+            Name=TovImgCnt0
+            Pos=174,76,6
+            Size=162,35
+        }
+        Panel {
+            Name=TovImgCnt1
+            Pos=174,114,6
+            Size=162,33
+        }
+        Panel {
+            Name=TovImgCnt2
+            Pos=181,149,6
+            Size=162,31
+        }
+        Panel {
+            Name=TovImgCnt3
+            Pos=177,188,6
+            Size=162,30
+        }
+        Panel {
+            Name=TovImgCnt4
+            Pos=175,224,6
+            Size=162,32
+        }
+        Panel {
+            Name=TovImgCnt5
+            Pos=175,261,6
+            Size=162,34
+        }
+        Panel {
+            Name=TovImgCnt6
+            Pos=177,296,6
+            Size=162,36
+        }
+        Panel {
+            Name=TovImgCnt7
+            Pos=177,334,6
+            Size=162,38
+        }
+
+        Panel {
+            Name=TovImgCnt10
+            Pos=373,76,6
+            Size=162,35
+        }
+        Panel {
+            Name=TovImgCnt11
+            Pos=372,114,6
+            Size=162,33
+        }
+        Panel {
+            Name=TovImgCnt12
+            Pos=379,149,6
+            Size=162,31
+        }
+        Panel {
+            Name=TovImgCnt13
+            Pos=376,188,6
+            Size=162,30
+        }
+        Panel {
+            Name=TovImgCnt14
+            Pos=373,224,6
+            Size=162,32
+        }
+        Panel {
+            Name=TovImgCnt15
+            Pos=373,261,6
+            Size=162,34
+        }
+        Panel {
+            Name=TovImgCnt16
+            Pos=375,296,6
+            Size=162,36
+        }
+        Panel {
+            Name=TovImgCnt17
+            Pos=376,334,6
+            Size=162,38
+        }
+
+        Label {
+            Name=TovCnt0
+            Pos=109,83,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt1
+            Pos=109,118,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt2
+            Pos=109,153,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt3
+            Pos=109,189,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt4
+            Pos=109,224,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt5
+            Pos=109,259,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt6
+            Pos=109,295,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt7
+            Pos=109,330,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+
+        Label {
+            Name=TovCnt10
+            Pos=307,83,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt11
+            Pos=307,118,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt12
+            Pos=307,153,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt13
+            Pos=307,189,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt14
+            Pos=307,224,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt15
+            Pos=307,259,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt16
+            Pos=307,295,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovCnt17
+            Pos=307,330,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+
+        Label {
+            Name=TovPrice0
+            Pos=229,83,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice1
+            Pos=229,118,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice2
+            Pos=229,153,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice3
+            Pos=229,189,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice4
+            Pos=229,224,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice5
+            Pos=229,259,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice6
+            Pos=229,295,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice7
+            Pos=229,330,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+
+        Label {
+            Name=TovPrice10
+            Pos=427,83,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice11
+            Pos=427,118,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice12
+            Pos=427,153,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice13
+            Pos=427,189,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice14
+            Pos=427,224,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice15
+            Pos=427,259,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice16
+            Pos=427,295,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+        Label {
+            Name=TovPrice17
+            Pos=427,330,6
+            Size=78,16
+            Font=Font.1Normal
+            TextColor=0,0,0
+            AlignX=Center
+            AlignY=CenterEx
+        }  
+
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButFormClose
+            Pos=548,357,7
+            Size=47,40
+
+            Kind=Normal
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormGoods2.1CloseN
+            ImageNormalA=GI,Bm.FormGoods2.1CloseA
+            ImageDown=GI,Bm.FormGoods2.1CloseD
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=UserMsgAdd
+            Pos=281,388,8
+            Size=21,18
+
+            Kind=Disable
+            KindHit=Rect
+        
+            ImageNormal=GI,Bm.FormGoods2.1MemN
+            ImageNormalA=GI,Bm.FormGoods2.1MemA
+            ImageDown=GI,Bm.FormGoods2.1MemD
+            ImageDisable=GI,Bm.FormGoods2.1MemH
+        }
+
+        Image {
+            Name=TovPermit1
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=175,94,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit2
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=175,130,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit3
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=175,167,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit4
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=175,203,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit5
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=175,240,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit6
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=175,276,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit7
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=175,312,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit8
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=175,349,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit11
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=374,94,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit12
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=374,130,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit13
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=374,167,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit14
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=374,203,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit15
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=374,240,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit16
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=374,276,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit17
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=374,312,3
+            Size=11,11
+        }
+        Image {
+            Name=TovPermit18
+            Image=GI,Bm.FormGoods2.1Illegal
+            Pos=374,349,3
+            Size=11,11
+        }
+
+        Panel {
+            Name=TovCool1
+            Pos=172,67,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool2
+            Pos=172,104,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool3
+            Pos=172,141,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool4
+            Pos=172,177,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool5
+            Pos=172,213,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool6
+            Pos=172,249,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool7
+            Pos=172,286,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool8
+            Pos=172,323,3
+            Size=70,12
+        }
+
+        Panel {
+            Name=TovCool11
+            Pos=370,67,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool12
+            Pos=370,104,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool13
+            Pos=370,141,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool14
+            Pos=370,177,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool15
+            Pos=370,213,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool16
+            Pos=370,249,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool17
+            Pos=370,286,3
+            Size=70,12
+        }
+        Panel {
+            Name=TovCool18
+            Pos=370,323,3
+            Size=70,12
+        }
+    }
+
+    Image {
+        Name=ADD_WarningSpace
+        Pos=389,578,98
+        Size=70,19
+        Image=GI,Bm.PanelMain2.1WarningSpace
+    }
+    Label {
+        Name=ADD_Space
+        Pos=396,577,97
+        Size=55,17
+        Font=Font.1Ranger
+        AlignX=Center
+        AlignY=CenterEx
+        TextColor=55,230,255
+        Help=Help.LabelFreeSpace
+    }
+
+    Image {
+        Name=ADD_WarningMoney
+        Pos=485,578,98
+        Size=77,19
+        Image=GI,Bm.PanelMain2.1WarningMoney
+    }
+    Label {
+        Name=ADD_Money
+        Pos=488,577,97
+        Size=74,17
+        Font=Font.1Ranger
+        AlignX=Center
+        AlignY=CenterEx
+        TextColor=55,230,255
+        Help=Help.LabelMoney
+    }
+
+    Label {
+        Name=GS_Help
+        Pos=78,579,8
+        Size=281,17
+        Font=Font.1SmallBold //Ranger
+        AlignX=Center
+        AlignY=CenterEx
+        TextColor=55,230,255
+        Active=False
+    }
+}

@@ -1,0 +1,199 @@
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+	Name=MainPanel
+
+    Image {
+		Name=BGStyle
+		Image=GI,Bm.FormPQuest2.1S1
+		Pos=27,3,20
+		Size=458,555
+	}
+
+    Frame {
+		Kind=Rect
+		ColorFill=0,0,0
+		Fill=True
+		Pos=511,24,20
+		Size=272,308
+	}
+
+	GraphBuf {
+		Pos=511,24,9
+		Size=272,308
+		Name=PQI
+	}
+
+    Image {
+		Image=GI,Bm.FormPQuest2.1BG
+		Pos=0,0,7
+		Size=800,600
+	}
+
+    Panel {
+	    Pos=0,0,15
+        Size=800,600
+		Name=QuestPanel
+		Active=True
+
+        PanelScrollBar {
+			Name=MessageWindow
+			Pos=46,43,4
+			Size=402,285
+			TextColor=255,255,230
+
+			StyleBarY=Style.ScrollBar.1PQS1
+			ActiveBarY=True
+			PosAutoBarY=False
+			RectBarY=464,39,479,322
+
+			MoveWorld=True
+			UnlimitedWorld=False
+			ExternalSB=True
+        }
+
+        PanelScrollBar {
+			Name=ActionListWindow
+			Pos=30,366,3
+			Size=432,192
+
+			StyleBarY=Style.ScrollBar.1PQS1
+			ActiveBarY=True
+			PosAutoBarY=False
+			RectBarY=464,378,479,549
+			MoveWorld=True
+			UnlimitedWorld=False
+			ExternalSB=True
+        }
+	}
+
+	Window {
+		Style=Style.Window.1PQuestPar
+		Name=ParamsShowWindowParent
+		Pos=502,357,5
+		Size=250,138
+
+		Panel {
+			Name=ParamsShowWindow
+			Pos=0,0
+			Size=1,1
+		}
+	}
+	
+////////////////////////////////////////////
+	GraphButton {
+		Name=AnimTextOn
+		Pos=388,578,2
+		Size=23,15
+
+		KindHit=Rect
+		Kind=Normal
+
+		ImageNormal=GI,Bm.FormPQuest2.1AnimOnN
+		ImageNormalA=GI,Bm.FormPQuest2.1AnimOnA
+		ImageDown=GI,Bm.FormPQuest2.1AnimOnD
+
+		Help=FormPQuest.HelpAnimTextOn
+	}
+	GraphButton {
+		Name=AnimTextOff
+		Pos=388,578,2
+		Size=23,15
+
+		KindHit=Rect
+		Kind=Normal
+
+		ImageNormal=GI,Bm.FormPQuest2.1AnimOffN
+		ImageNormalA=GI,Bm.FormPQuest2.1AnimOffA
+		ImageDown=GI,Bm.FormPQuest2.1AnimOffD
+
+		Help=FormPQuest.HelpAnimTextOff
+	}
+
+	GraphButton {
+		Name=Style1
+		Pos=412,579,2
+		Size=13,13
+
+		KindHit=Rect
+		Kind=Disable
+
+		ImageNormal=GI,Bm.FormPQuest2.1Skin1N
+		ImageNormalA=GI,Bm.FormPQuest2.1Skin1A
+		ImageDown=GI,Bm.FormPQuest2.1Skin1D
+		ImageDisable=GI,Bm.FormPQuest2.1Skin1D
+
+		Help=FormPQuest.HelpStyle1
+	}
+	GraphButton {
+		Name=Style2
+		Pos=426,579,2
+		Size=13,13
+
+		KindHit=Rect
+		Kind=Disable
+
+		ImageNormal=GI,Bm.FormPQuest2.1Skin2N
+		ImageNormalA=GI,Bm.FormPQuest2.1Skin2A
+		ImageDown=GI,Bm.FormPQuest2.1Skin2D
+		ImageDisable=GI,Bm.FormPQuest2.1Skin2D
+
+		Help=FormPQuest.HelpStyle2
+	}
+	GraphButton {
+		Name=Style3
+		Pos=440,579,2
+		Size=13,13
+
+		KindHit=Rect
+		Kind=Disable
+
+		ImageNormal=GI,Bm.FormPQuest2.1Skin3N
+		ImageNormalA=GI,Bm.FormPQuest2.1Skin3A
+		ImageDown=GI,Bm.FormPQuest2.1Skin3D
+		ImageDisable=GI,Bm.FormPQuest2.1Skin3D
+
+		Help=FormPQuest.HelpStyle3
+	}
+	GraphButton {
+		Name=Style4
+		Pos=454,579,2
+		Size=13,13
+
+		KindHit=Rect
+		Kind=Disable
+
+		ImageNormal=GI,Bm.FormPQuest2.1Skin4N
+		ImageNormalA=GI,Bm.FormPQuest2.1Skin4A
+		ImageDown=GI,Bm.FormPQuest2.1Skin4D
+		ImageDisable=GI,Bm.FormPQuest2.1Skin4D
+
+		Help=FormPQuest.HelpStyle4
+	}
+////////////////////////////////////////////
+	GraphButton {
+		Name=ButtonExit
+		Pos=745,566,2
+		Size=49,26
+
+		KindHit=Rect
+		Kind=Disable
+
+		ImageNormal=GI,Bm.FormPQuest2.1CloseN
+		ImageNormalA=GI,Bm.FormPQuest2.1CloseA
+		ImageDown=GI,Bm.FormPQuest2.1CloseD
+
+		Help=FormPQuest.HelpExit
+	}
+	Label {
+		Name=LabelHelp
+		Font=Font.1Small
+		Pos=516,557,1,w
+		Size=200,17
+		AlignX=Left
+		AlignY=CenterEx
+		WordWrap=False
+		TextColor=169,196,208
+	}
+}

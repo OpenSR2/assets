@@ -1,0 +1,13 @@
+CurPlanetEconomy=Mixed,Industrial
+CurPlanetGoodsCnt=Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small,Average
+CurPlanetPirateClan=Yes
+CurPlanetRace=Maloc,People,Fei,Gaal
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Normal,Good,Best
+Goods=Technics
+PlayerStatus=Pirate
+Priority=30
+Text=ƒобро пожаловать, <Player>. ћы всегда рады пиратам, навещающим нашу планету. ’оть вы и иноземец, но €вно славный малый, так что не торопитесь улетать, погостите у нас пару дней, осмотрите достопримечательности, поторгуйте на рынке.
+Text= стати, просьба к вам, не в службу, а в дружбу - купите на нашей планете партию техники. ј то никто не берет, понимаешь... :-(

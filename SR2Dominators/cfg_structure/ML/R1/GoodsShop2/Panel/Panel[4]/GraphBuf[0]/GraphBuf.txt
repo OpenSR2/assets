@@ -1,0 +1,3 @@
+Name=FaceGB
+Pos=23,154,-1
+Size=77,86

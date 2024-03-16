@@ -1,0 +1,15 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Alcohol
+InFear=Yes
+PlayerRace=Peleng,People,Fei,Gaal
+Priority=100
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadRace=Maloc
+ShipBadType=Transport,Liner,Diplomat,Pirate,Warrior
+ShipRace=Peleng,People,Fei,Gaal
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=SOS, SOS, на моем хвосте сидит малок! Ётот тупой дикарь где-то раздобыл неплохое, надо признать, вооружение, и теперь удовлетвор€ет свои первобытные инстинкты, сид€ за штурвалом звездолета <ShipBad> и использу€ мен€ в качестве объекта агрессии!
+Text=ѕомоги мне, <Player>, отгони от мен€ этого монстра, а € поделюсь ценной информацией! Ќа <ToPlanet> очень дешева€ водочка. “овар дл€ бизнеса просто идеальный. Ѕыстро состо€ние сколотишь!
+ToPlanetGoodsSale=Mini,Small

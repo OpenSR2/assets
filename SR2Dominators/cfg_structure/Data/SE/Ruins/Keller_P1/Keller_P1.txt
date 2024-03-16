@@ -1,0 +1,4 @@
+Image=Bm.Ruins.Keller_P1
+ImageI=GI,Bm.Ruins.Kelleri
+ImageMap=GI,Bm.Ruins.MapKeller
+PosZ=ShipLow

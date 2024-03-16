@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=IKillNormal
+Pos=624,212,2
+Size=73,16
+TextColor=255,222,0

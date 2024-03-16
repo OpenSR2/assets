@@ -1,0 +1,12 @@
+Enter=data\Cursor\Enter.gai
+FireFull=data\Cursor\FireFull.gai
+FireSmall=data\Cursor\FireSmall.gai
+InterceptorsFull=data\Cursor\InterceptorsFull.gai
+InterceptorsSmall=data\Cursor\InterceptorsSmall.gai
+Main=data\Cursor\Main.gai
+ScanFull=data\Cursor\ScanFull.gai
+ScanSmall=data\Cursor\ScanSmall.gai
+Scroll=data\Cursor\Scroll.gai
+Take=data\Cursor\Take.gai
+TalkFull=data\Cursor\TalkFull.gai
+TalkSmall=data\Cursor\TalkSmall.gai

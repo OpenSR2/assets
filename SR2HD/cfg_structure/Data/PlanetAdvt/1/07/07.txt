@@ -1,0 +1,3 @@
+Image2=GAI,Bm.PlanetAdvt.2_3_07
+Owner=People
+War=-1

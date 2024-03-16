@@ -1,0 +1,3 @@
+00=data\ABTex\00.gi
+01=data\ABTex\01.gi
+02=data\ABTex\02.gi

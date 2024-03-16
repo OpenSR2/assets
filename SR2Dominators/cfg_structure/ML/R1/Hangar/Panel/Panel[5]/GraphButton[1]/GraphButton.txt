@@ -1,0 +1,11 @@
+Help=Help.ButRefuel
+ImageDisable=GI,Bm.FormHangar2.1FuelH
+ImageDown=GI,Bm.FormHangar2.1FuelD
+ImageNormal=GI,Bm.FormHangar2.1FuelN
+ImageNormalA=GI,Bm.FormHangar2.1FuelA
+Kind=Disable
+KindHit=Graph
+Name=ButRefuel
+Pos=61,10,8
+Size=49,29
+Style=Style.GB.SoundNormal

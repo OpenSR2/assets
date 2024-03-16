@@ -1,0 +1,6 @@
+Active=True
+Image=GI,Bm.FormCount2.1BarArrow
+Name=BarArrow
+Pos=0,0,5
+Size=7,20
+Sme=3,0

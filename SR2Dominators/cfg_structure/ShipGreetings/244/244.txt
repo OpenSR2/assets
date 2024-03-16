@@ -1,0 +1,10 @@
+AutoTalk=Any
+FlyType=ToStar
+PirateInCurStar=3,4,5,6,7,8,9,Many
+PirateInToStar=0
+PlayerStatus=Trader
+Priority=15
+Relations=Normal,Good,Best
+ShipStatus=Trader
+ShipType=Transport,Liner,Ranger
+Text=Ёй, <Player>, ты неплохой парень, поэтому хочу дать тебе совет, как торговец торговцу. ¬ этой системе слишком много пиратов, а это плохо дл€ бизнеса. ≈сли ты действительно хочешь успешным делом зан€тьс€, то попробуй попытать счасть€ в системе <ToStar>. “ам, говор€т, нет ни одного пирата!

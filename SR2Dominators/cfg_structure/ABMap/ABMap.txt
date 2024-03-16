@@ -1,0 +1,12 @@
+map_1=data\ABMap\map_1.map
+map_1_=data\ABMap\map_1.opt
+map_2=data\ABMap\map_2.map
+map_2_=data\ABMap\map_2.opt
+map_3=data\ABMap\map_3.map
+map_3_=data\ABMap\map_3.opt
+map_4=data\ABMap\map_4.map
+map_4_=data\ABMap\map_4.opt
+map_5=data\ABMap\map_5.map
+map_5_=data\ABMap\map_5.opt
+map_boss=data\ABMap\map_boss.map
+map_boss_=data\ABMap\map_boss.opt

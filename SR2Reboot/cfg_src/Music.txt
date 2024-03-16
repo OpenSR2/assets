@@ -1,0 +1,145 @@
+// outroden.dat - для квестов подойдет, для баз!
+// SilentFlower.dat - для фин мультика
+// Theo-Inside.dat - для квестов подойдет, для баз!
+// SpaceIsCalling.dat - для начала солидная, медленная, для робота
+
+Test0=Music\battle\Boy1.dat
+Test1=Music\battle\longway.dat
+//Test1=Music\battle\test.dat
+Test2=Music\battle\Boy1.dat
+
+Excalibur {
+    1=data\Excalibur.dat
+}
+1C {
+	1=Music\1c.dat
+}
+Logo {
+	1=Music\Logo.dat
+}
+Intro {
+	100=Music\intro.dat
+	1=Music\special\SilentFlower.dat
+}
+Outro {
+	1=Music\outro.dat
+}
+Record {
+	1=Music\record.dat
+}
+Hyper { // гиперпрыжок на борту военной базы
+	1=Music\hyper.dat
+}
+Begin {
+	//1=Music\special\begin.dat
+}
+Base {
+	10=Music\special\SpaceIsCalling.dat
+	3=Music\fly\HyperDream2.dat
+	1=Music\special\hymn.dat
+}
+RC {
+	10=Music\fly\Theo-Inside.dat
+	1=Music\special\SpaceIsCalling.dat
+}
+PB {
+	10=Music\special\SpaceIsCalling.dat
+	1=Music\fly\Theo-Inside.dat
+}
+WB {
+	10=Music\special\SpaceIsCalling.dat
+	1=Music\fly\Theo-Inside.dat
+}
+SB {
+	10=Music\special\outroden.dat
+	1=Music\special\SpaceIsCalling.dat
+}
+BK {
+	10=Music\fly\Theo-Inside.dat
+	1=Music\special\SpaceIsCalling.dat
+}
+MC {
+	10=Music\special\outroden.dat
+	1=Music\special\SpaceIsCalling.dat
+}
+Robot {
+	10=Music\fly\Beyond_reach.dat
+	3=Music\planet\bunker.dat
+	3=Music\planet\RobotForce.dat
+}
+Quest {
+	15=Music\special\SpaceIsCalling.dat
+	8=Music\special\outroden.dat
+	5=Music\fly\starflight.dat
+	1=Music\quests\gladiator.dat
+	1=Music\special\SilentFlower.dat
+}
+All {
+	1=Music\special\hymn.dat
+	1=Music\fly\longway.dat
+	1=Music\fly\Beyond_reach.dat
+}
+StarMap {
+	3=Music\fly\HyperDream2.dat
+	3=Music\fly\starflight.dat
+	1=Music\fly\longway.dat
+	1=Music\fly\Surf.dat
+	1=Music\fly\Theo-Inside.dat
+	1=Music\fly\Awakening.dat
+	1=Music\fly\fly3.dat
+	1=Music\fly\trash.dat
+	1=Music\fly\fly12.dat
+	1=Music\fly\Beyond_reach.dat
+}
+GalaxyMap {
+	1=Music\special\hymn.dat
+	1=Music\fly\Theo-Inside.dat
+}
+Battle {
+	2=Music\battle\Boy1.dat
+	1=Music\battle\fight2.dat
+}
+ArcadeBattle {
+	10=Music\fly\Awakening.dat
+	2=Music\battle\Boy1.dat
+}
+Nation {
+	Maloc {
+		1=Music\planet\malloc4.dat
+	}
+	Peleng {
+		1=Music\planet\weapon.dat
+	}
+	People {
+		1=Music\planet\people.dat
+	}
+	Fei {
+		1=Music\planet\fei1.dat
+	}
+	Gaal {
+		1=Music\planet\gaal.dat
+	}
+	Kling {
+		1=Music\planet\cosmic.dat
+	}
+	None {
+		1=Music\planet\cosmic.dat
+		1=Music\planet\cosmic2.dat
+		3=Music\special\outroden.dat
+		1=Music\quests\gladiator.dat
+	}
+}
+
+Introduction {
+	1=Music\Introduction.dat
+}
+
+Win {
+	1=Music\special\triumph.dat
+}
+Loss {
+	1=Music\special\hymn.dat
+}
+Song {
+	1=Music\special\song.dat
+}

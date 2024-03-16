@@ -1,0 +1,10 @@
+CurPlanetPirateClan=No
+CurPlanetRelations=Good,Best
+DominatorsAlreadyDefeated=No
+PlayerRating=Mini,Small,Average
+Priority=10
+Text=Приветствуем, <Player>! Вы хороший рейнджер, не так ли? Но вот почему-то в центре рейнджеров так не считают и записывают вас на последние места. Почему это? И вот еще сообщение с планеты <ToPlanet> о том, что вас разыскивают как особо опасного преступника. Чем это вы им так насолили?
+Text=Надо вам поумерить свой пыл и направить его в более правильное русло, занявшись наконец доминаторами.
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal
+ToPlanetRelations=War

@@ -1,0 +1,4 @@
+Name=StarFieldImg
+Pos=0,0,StarFieldImg
+Size=800,600
+Sme=400,300

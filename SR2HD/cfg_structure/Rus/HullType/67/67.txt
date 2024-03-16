@@ -1,0 +1,17 @@
+Artefact=0
+Cost=120
+Def=-1
+Droid=0
+Forsage=1
+Fragility=120
+Hook=0
+Name=Малый Кранк
+Probability=30
+Race=Peleng,Fei
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=140
+Text=Рабочая лошадка для скупщиков и пиратов. Генератор защитного поля не предусмотрен.
+Weapon=0
+Year=0

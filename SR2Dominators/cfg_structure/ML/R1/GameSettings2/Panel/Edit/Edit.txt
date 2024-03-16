@@ -1,0 +1,8 @@
+AlignX=Center
+Font=Font.1Ranger
+Help=FormGameSet2.Common.HelpPlayerName
+MaxLen=10
+Name=PlayerName
+Pos=163,434,2
+Size=96,18
+TextColor=247,148,29

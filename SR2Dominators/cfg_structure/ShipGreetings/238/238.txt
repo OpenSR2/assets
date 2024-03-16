@@ -1,0 +1,15 @@
+AutoTalk=Any
+FlyType=ToStar
+KlingInToStar=5,6,7,8,9,Many
+PlayerStatus=Warrior,Trader
+PlayerStrength=Mini,Small,Average
+Priority=10
+Relations=Normal,Good,Best
+ShipRace=Fei,Gaal
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Уважаемый <Player>! В данный момент в системе <ToStar> проходят ожесточенные бои. Я предлагаю присоединиться к отважным героям, рискующим своей жизнью - хоть вы и не достаточно сильны для прямой атаки, но, думаю, вы вполне сможете собирать останки доминаторов, необходимые нашим ученым для исследований.
+Text=Вы даже представить не можете, какое количество бесценных образцов может пропасть во время сражения!
+ToStarControlByKling=Any
+ToStarInBattle=Yes
+TransportInToStar=2,3,4,5,6,7,8,9,Many
+WarriorInToStar=2,3,4,5,6,7,8,9,Many

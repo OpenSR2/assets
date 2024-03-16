@@ -1,0 +1,10 @@
+CoalitionAlreadyDefeated=No
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Good,Best
+PlayerRating=Mini,Small,Average
+Priority=10
+Text=ѕриветствуем, <Player>! ¬ы уверенно занимаете место где-то в самом конце списка рейнджеров - и правильно. Ќечего пл€сать под дудку  оалиции, выполн€€ разные дурацкие задани€. ” нас вот никакого пиратского рейтинга нет, но мы этим фактом ни капли не расстроены.  стати, на планете <ToPlanet> вас разыскивают как опасного преступника, так держать!
+Text=ѕродолжайте в том же духе и заслуженна€ слава в р€дах пиратского сообщества не заставит себ€ ждать.
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal
+ToPlanetRelations=War

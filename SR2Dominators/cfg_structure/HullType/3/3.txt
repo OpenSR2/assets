@@ -1,0 +1,16 @@
+Artefact=0
+Cost=50
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Святой Брамин
+Probability=4
+Race=People,Gaal
+Radar=0
+Scaner=0
+ShipType=Transport,Liner
+Size=110
+Text=Недорогой корпус для религиозной и благотворительной деятельности.
+Weapon=-1
+Year=0

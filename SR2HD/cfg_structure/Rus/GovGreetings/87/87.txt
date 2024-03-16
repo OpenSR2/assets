@@ -1,0 +1,7 @@
+CurPlanetPirateClan=Yes
+CurPlanetRace=Fei,Gaal
+CurPlanetRelations=Normal,Good,Best
+PlayerRace=People
+PlayerRating=Mini,Small
+Priority=5
+Text=ѕриветствуем теб€, человек, на нашей замечательной планете <CurPlanet>. «аметим, что тебе нужно вести более пиратский образ жизни. ” теб€ имеетс€ небольшой рейнджерский рейтинг, но в идеале его не должно быть вообще. »мей это в виду, на будущее.

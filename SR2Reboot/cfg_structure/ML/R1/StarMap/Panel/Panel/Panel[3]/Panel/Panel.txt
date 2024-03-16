@@ -1,0 +1,10 @@
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+MouseBlocking=True
+Name=MapPartner
+Panel=Panel\Panel.txt ^{
+}
+Pos=10,0,0
+Size=129,46

@@ -1,0 +1,16 @@
+Artefact=1
+Cost=80
+Def=0
+Droid=0
+Forsage=0
+Hook=1
+Name=Неопатруль
+Probability=10
+Race=People,Fei
+Radar=0
+Scaner=0
+ShipType=Warrior
+Size=100
+Text=Корпус с человеческой и фэянской полицейской маркировкой. Предназначен для сбора таможенных грузов.
+Weapon=-1
+Year=0

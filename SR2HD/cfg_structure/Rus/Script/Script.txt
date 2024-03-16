@@ -1,0 +1,80 @@
+MS_Begin=MS_Begin\MS_Begin.txt ^{
+}
+MS_Blazer=MS_Blazer\MS_Blazer.txt ^{
+}
+MS_Keller=MS_Keller\MS_Keller.txt ^{
+}
+MS_PB=MS_PB\MS_PB.txt ^{
+}
+MS_SB1=MS_SB1\MS_SB1.txt ^{
+}
+MS_SB2=MS_SB2\MS_SB2.txt ^{
+}
+MS_Terron=MS_Terron\MS_Terron.txt ^{
+}
+PC_destroyer=PC_destroyer\PC_destroyer.txt ^{
+}
+PC_fem_rangers=PC_fem_rangers\PC_fem_rangers.txt ^{
+}
+PC_final=PC_final\PC_final.txt ^{
+}
+PC_part0=PC_part0\PC_part0.txt ^{
+}
+PC_part1=PC_part1\PC_part1.txt ^{
+}
+PC_part2=PC_part2\PC_part2.txt ^{
+}
+PC_part3=PC_part3\PC_part3.txt ^{
+}
+PC_part4=PC_part4\PC_part4.txt ^{
+}
+PC_part5=PC_part5\PC_part5.txt ^{
+}
+PC_part6=PC_part6\PC_part6.txt ^{
+}
+PC_part7=PC_part7\PC_part7.txt ^{
+}
+PC_pla01=PC_pla01\PC_pla01.txt ^{
+}
+PC_pla02=PC_pla02\PC_pla02.txt ^{
+}
+PC_pla03=PC_pla03\PC_pla03.txt ^{
+}
+PC_pla04=PC_pla04\PC_pla04.txt ^{
+}
+PC_pla05=PC_pla05\PC_pla05.txt ^{
+}
+PC_pla06=PC_pla06\PC_pla06.txt ^{
+}
+PC_pla07=PC_pla07\PC_pla07.txt ^{
+}
+PC_pla08=PC_pla08\PC_pla08.txt ^{
+}
+PC_pla09=PC_pla09\PC_pla09.txt ^{
+}
+PC_pla10=PC_pla10\PC_pla10.txt ^{
+}
+PC_pla11=PC_pla11\PC_pla11.txt ^{
+}
+PC_pla12=PC_pla12\PC_pla12.txt ^{
+}
+PC_pla13=PC_pla13\PC_pla13.txt ^{
+}
+PC_pla14=PC_pla14\PC_pla14.txt ^{
+}
+PC_pla15=PC_pla15\PC_pla15.txt ^{
+}
+PC_pla16=PC_pla16\PC_pla16.txt ^{
+}
+PC_pla17=PC_pla17\PC_pla17.txt ^{
+}
+PC_pla18=PC_pla18\PC_pla18.txt ^{
+}
+PC_pla19=PC_pla19\PC_pla19.txt ^{
+}
+PC_pla20=PC_pla20\PC_pla20.txt ^{
+}
+PC_pla21=PC_pla21\PC_pla21.txt ^{
+}
+test ^{
+}

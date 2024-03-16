@@ -1,0 +1,11 @@
+FlyType=Any
+Goods=Narcotics
+LastPlanetGoodsCnt=Small,Average,Big,Huge
+LastPlanetGoodsSale=Mini,Small,Average
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+Relations=Good,Best
+ShipGoodsCnt=Mini,Small,Average
+ShipType=Diplomat
+Text=Привет, <Player>! Ты, наверное, просканировал мой корабль, и знаешь, что на моем борту наркотики.
+Text=Ты не подумай, я не контрабандист. Просто попросил друг из посольства привезти немного всякой дряни. А на <LastPlanet> наркоты всегда навалом. Так что лети и отоваривайся побыстрее!

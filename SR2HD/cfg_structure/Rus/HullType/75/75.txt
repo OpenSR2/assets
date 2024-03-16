@@ -1,0 +1,16 @@
+Artefact=2
+Cost=200
+Def=0
+Droid=0
+Forsage=1
+Hook=0
+Name=Голодный пенчекряк
+Probability=30
+Race=Peleng
+Radar=0
+Scaner=0
+ShipType=Ranger,Pirate
+Size=120
+Text=Зверская мощь корабля гарантирует победу над противником. Мечта любого пеленга.
+Weapon=1
+Year=0

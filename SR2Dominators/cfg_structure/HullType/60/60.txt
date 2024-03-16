@@ -1,0 +1,16 @@
+Artefact=0
+Cost=90
+Def=-1
+Droid=0
+Forsage=0
+Hook=0
+Name=Веселый Роджер
+Probability=10
+Race=Maloc,Peleng,People,Fei,Gaal
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=90
+Text=Классический выбор безрассудного пирата. Генератор защитного поля, разумеется, не предусмотрен.
+Weapon=1
+Year=0

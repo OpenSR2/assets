@@ -1,0 +1,3 @@
+CurPlanetRelations=Normal
+Priority=1
+Text=С чем пожаловали, господин <Player>? Вы вроде как не являетесь нашим штатным агентом.

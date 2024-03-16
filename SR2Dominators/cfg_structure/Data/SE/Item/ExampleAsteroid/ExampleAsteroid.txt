@@ -1,0 +1,4 @@
+1Image=Bm.Asteroid.02
+2Image=Bm.Asteroid.02
+ImageMap=Bm.Asteroid.Map
+PosZ=Asteroid

@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Help=Help.LabelMoney
+Name=ADD_Money
+Pos=488,577,7
+Size=74,17
+TextColor=55,230,255

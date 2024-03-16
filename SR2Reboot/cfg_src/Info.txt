@@ -1,0 +1,252 @@
+Border=0,0,1024,768
+
+Sound { 
+    Group {
+        NextTime=7000-12000
+        2=Sound.FormInfo0
+        1=Sound.FormInfo1
+    }
+}
+
+Panel {
+    Pos=0,0
+    Size=1024,768
+    Name=MainPanel
+
+    Panel=cfg\R2\PanelMain.txt {
+        Pos=0,0,1
+    }
+    Panel=cfg\R2\PanelPlanet.txt {
+        Pos=441,693,1
+    }
+    Panel=cfg\R2\PanelRuins.txt {
+        Pos=0,0,2
+    }
+    Panel=cfg\R2\PanelLoad.txt {
+        Pos=0,0,-1000
+    }
+
+    Image {
+        Name=BGCity2
+        Active=True
+        Pos=0,0,10
+        Size=1024,768
+    }
+    Image {
+        Name=BGCity
+        Active=True
+        Pos=0,0,9
+        Size=1024,768
+    }
+
+    Panel {
+        Pos=266,27,7
+        Size=492,600
+
+        Image {
+            Pos=0,0,10
+            Size=492,600
+            Image=GI,Bm.FormInfo3.2BG
+        }
+
+        GAI {
+            Name=TV
+            Pos=134,10,11
+            Size=225,85
+            PBuf=True
+            AlignX=Center
+            AlignY=Center
+            Active=True
+            SkipImageUpdateRect=True
+        }
+        Image {
+            Pos=458,110,9
+            Size=17,22
+            Image=GI,Bm.SB.2V1_UpH
+        }
+        Image {
+            Pos=458,423,9
+            Size=17,22
+            Image=GI,Bm.SB.2V1_DownH
+        }
+        PanelScrollBar {
+            Name=PanelInfo
+            Pos=34,110,8
+            Size=409,336
+
+
+            StyleBarY=Style.ScrollBar.2V1
+            ActiveBarY=True
+            PosAutoBarY=False
+            RectBarY=458,110,475,445
+            MoveWorld=True
+            UnlimitedWorld=False
+            ExternalSB=True
+        }
+        Panel {
+            Name=PanelSearch
+            Pos=24,109,7 // 290,136 - 715,549
+            Size=425,413
+
+            Image {
+                Pos=18,49,9
+                Size=391,75
+                Image=GI,Bm.FormInfo2.2FindBG
+            }
+            Label {
+                Pos=286,64,0
+                Size=67,21
+                Font=Font.2Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=255,255,230//39,65,162
+                Text=FormInfo.SearchStr
+            }
+            Edit {
+                Name=TextSearch
+                Font=Font.2Normal
+                Pos=78,67,2
+                Size=199,19
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=OkSearch
+            
+                Pos=286,66,1
+                Size=67,21
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.2FindN
+                ImageNormalA=GI,Bm.FormInfo2.2FindA
+                ImageDown=GI,Bm.FormInfo2.2FindD
+
+                Help=FormInfo.HelpSearch
+            }
+
+			Image {
+				Image=GI,Bm.FormInfo2.2FindPrice
+				Pos=0,20
+				Size=67,40
+			}
+
+            Image {
+                Pos=0,133,9
+                Size=425,280
+                Image=GI,Bm.FormInfo3.2MM_BG
+            }
+
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_00
+            
+    	        Pos=142,156,1
+	            Size=120,18
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.2MM_01
+	        }
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButSearch
+            
+            Pos=19,550,1
+            Size=92,42
+
+            Kind=Disable
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo2.2ModeFindN
+            ImageNormalA=GI,Bm.FormInfo2.2ModeFindA
+            ImageDown=GI,Bm.FormInfo2.2ModeFindD
+            ImageDisable=GI,Bm.FormInfo2.2ModeFindF
+
+            Help=FormInfo.HelpFind
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButNews
+            
+            Pos=98,554,1
+            Size=97,45
+
+            Kind=Disable
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo2.2NewsN
+            ImageNormalA=GI,Bm.FormInfo2.2NewsA
+            ImageDown=GI,Bm.FormInfo2.2NewsD
+            ImageDisable=GI,Bm.FormInfo2.2NewsF
+
+            Help=FormInfo.HelpNews
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButFormClose
+            
+            Pos=382,550,1
+            Size=77,42
+
+            Kind=Normal
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo2.2CloseN
+            ImageNormalA=GI,Bm.FormInfo2.2CloseA
+            ImageDown=GI,Bm.FormInfo2.2CloseD
+
+            Help=FormInfo.HelpNews
+        }
+
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButPrev
+            
+            Pos=45,95,1
+            Size=74,28
+
+            Kind=Disable
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo3.2PrevN
+            ImageNormalA=GI,Bm.FormInfo3.2PrevA
+            ImageDown=GI,Bm.FormInfo3.2PrevD
+            ImageDisable=GI,Bm.FormInfo3.2PrevH
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButNext
+            
+            Pos=376,95,1
+            Size=74,28
+
+            Kind=Disable
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo3.2NextN
+            ImageNormalA=GI,Bm.FormInfo3.2NextA
+            ImageDown=GI,Bm.FormInfo3.2NextD
+            ImageDisable=GI,Bm.FormInfo3.2NextH
+        }
+    }
+}

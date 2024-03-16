@@ -1,0 +1,196 @@
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+	Name=MainPanel
+
+    Image {
+		Name=ImageFon
+		Image=GI,Bm.FormIntro2.1bg
+		Pos=0,0,1000
+		Size=1562,1362
+	}
+    Image {
+		Name=ImageFon2
+		Image=GI,Bm.FormIntro2.1bg
+		Pos=976,976,1001
+		Size=1562,1362
+	}
+    Image {
+		Name=ImageFon3
+		Image=GI,Bm.FormIntro2.1bg
+		Pos=1952,1952,1002
+		Size=1562,1362
+	}
+
+    Image {
+		Image=GI,Bm.FormIntro2.1Panel
+		Pos=0,0,999
+		Size=800,600
+	}
+
+	Panel {
+		Pos=352,17,5
+		Size=430,493
+
+		GraphBuf {
+			Name=GBText
+			Pos=0,0,5
+			Size=430,10 //593
+		}
+	}
+
+	Label {
+		Name=MCW1
+		Font=Font.1Ranger
+		Pos=266,524,2
+		Size=143,12
+		AlignX=Left
+		AlignY=CenterEx
+		TextColor=27,68,98
+		Text=FormIntroduction.MCW1
+		Active=True
+	}
+	Label {
+		Name=MCW2
+		Font=Font.1Ranger
+		Pos=266,534,2
+		Size=143,12
+		AlignX=Left
+		AlignY=CenterEx
+		TextColor=27,68,98
+		Text=FormIntroduction.MCW2
+		Active=True
+	}
+	Label {
+		Name=MCW3
+		Font=Font.1Ranger
+		Pos=266,545,2
+		Size=143,12
+		AlignX=Left
+		AlignY=CenterEx
+		TextColor=27,68,98
+		Text=FormIntroduction.MCW3
+		Active=True
+	}
+	Label {
+		Name=MCW4
+		Font=Font.1Ranger
+		Pos=266,555,2
+		Size=143,12
+		AlignX=Left
+		AlignY=CenterEx
+		TextColor=27,68,98
+		Text=FormIntroduction.MCW4
+		Active=True
+	}
+	Label {
+		Name=MCW5
+		Font=Font.1Ranger
+		Pos=443,524,2
+		Size=221,12
+		AlignX=Left
+		AlignY=CenterEx
+		TextColor=27,68,98
+		Text=FormIntroduction.MCW5
+		Active=True
+	}
+	Label {
+		Name=MCW6
+		Font=Font.1Ranger
+		Pos=443,534,2
+		Size=221,12
+		AlignX=Left
+		AlignY=CenterEx
+		TextColor=27,68,98
+		Text=FormIntroduction.MCW6
+		Active=True
+	}
+	Label {
+		Name=MCW7
+		Font=Font.1Ranger
+		Pos=443,545,2
+		Size=221,12
+		AlignX=Left
+		AlignY=CenterEx
+		TextColor=27,68,98
+		Text=FormIntroduction.MCW7
+		Active=True
+	}
+	Label {
+		Name=MCW8
+		Font=Font.1Ranger
+		Pos=443,555,2
+		Size=221,12
+		AlignX=Left
+		AlignY=CenterEx
+		TextColor=27,68,98
+		Text=FormIntroduction.MCW8
+		Active=True
+	}
+
+    Image {
+		Name=ICW1
+		Image=GI,Bm.FormIntro2.1On
+		Pos=257,528,2
+		Size=8,8
+	}
+    Image {
+		Name=ICW2
+		Image=GI,Bm.FormIntro2.1On
+		Pos=257,538,2
+		Size=8,8
+	}
+    Image {
+		Name=ICW3
+		Image=GI,Bm.FormIntro2.1On
+		Pos=257,548,2
+		Size=8,8
+	}
+    Image {
+		Name=ICW4
+		Image=GI,Bm.FormIntro2.1On
+		Pos=257,559,2
+		Size=8,8
+	}
+    Image {
+		Name=ICW5
+		Image=GI,Bm.FormIntro2.1On
+		Pos=434,528,2
+		Size=8,8
+	}
+    Image {
+		Name=ICW6
+		Image=GI,Bm.FormIntro2.1On
+		Pos=434,538,2
+		Size=8,8
+	}
+    Image {
+		Name=ICW7
+		Image=GI,Bm.FormIntro2.1On
+		Pos=434,548,2
+		Size=8,8
+	}
+    Image {
+		Name=ICW8
+		Image=GI,Bm.FormIntro2.1On
+		Pos=434,559,2
+		Size=8,8
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Ok
+			
+		Pos=754,535,2
+		Auto=Size
+
+		Kind=Disable
+		KindHit=Rect
+
+		ImageNormal=GI,Bm.FormIntro2.1NextN
+		ImageNormalA=GI,Bm.FormIntro2.1NextA
+		ImageDown=GI,Bm.FormIntro2.1NextD
+		ImageDisable=GI,Bm.FormIntro2.1NextH
+	}
+}

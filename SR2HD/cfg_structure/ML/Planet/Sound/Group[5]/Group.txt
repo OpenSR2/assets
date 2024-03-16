@@ -1,0 +1,10 @@
+1=Sound.PiratePlanet0
+1=Sound.PiratePlanet1
+1=Sound.PiratePlanet2
+1=Sound.PiratePlanet3
+1=Sound.PiratePlanet4
+1=Sound.PiratePlanet5
+1=Sound.PiratePlanet6
+1=Sound.PiratePlanet7
+NextTime=5000-15000
+Section=6

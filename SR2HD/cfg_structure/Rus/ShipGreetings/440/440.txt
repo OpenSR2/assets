@@ -1,0 +1,7 @@
+CoalitionAlreadyDefeated=No
+DominatorsAlreadyDefeated=Yes
+InFear=No
+Relations=Normal,Good,Best
+ShipType=Pirate
+Text=Привет тебе, <Player>!
+Text=Знаешь, я вот подумал и понял: жалко, что доминаторов больше нет. Раньше все военные на них отвлекались, грабь - не хочу, раздолье. А сейчас, стоит только выстрелить разок и сразу у тебя на хвосте пара истребителей. Сплошная маета и никакого профита.

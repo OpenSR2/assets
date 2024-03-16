@@ -1,0 +1,7 @@
+Earth=data\Planet2\Solar\Earth.psd
+Jupiter=data\Planet2\Solar\Jupiter.psd
+Mars=data\Planet2\Solar\Mars.psd
+Mercur=data\Planet2\Solar\Mercur.psd
+Neptune=data\Planet2\Solar\Neptune.psd
+Saturn=data\Planet2\Solar\Saturn.psd
+Venus=data\Planet2\Solar\Venus.psd

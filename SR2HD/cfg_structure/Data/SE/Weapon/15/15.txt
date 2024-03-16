@@ -1,0 +1,5 @@
+Palettes=Palettes\Palettes.txt ^{
+}
+PosZ=Weapon
+SoundExpl=Sound.expl3
+SoundShot=Sound.shot15

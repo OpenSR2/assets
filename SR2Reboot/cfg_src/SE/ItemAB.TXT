@@ -1,0 +1,54 @@
+0 {
+	1Image=Bm.ABItem.1_00_a
+	2Image=Bm.ABItem.2_00_a
+	ImageMap=Bm.Container.Map0
+	PosZ=Item
+}
+1 {
+	1Image=Bm.ABItem.1_01_a
+	2Image=Bm.ABItem.2_01_a
+	ImageMap=Bm.Container.Map0
+	PosZ=Item
+}
+2 {
+	1Image=Bm.ABItem.1_02_a
+	2Image=Bm.ABItem.2_02_a
+	ImageMap=Bm.Container.Map0
+	PosZ=Item
+}
+3 {
+	1Image=Bm.ABItem.1_03_a
+	2Image=Bm.ABItem.2_03_a
+	ImageMap=Bm.Container.Map0
+	PosZ=Item
+}
+4 {
+	1Image=Bm.ABItem.1_04_a
+	2Image=Bm.ABItem.2_04_a
+	ImageMap=Bm.Container.Map0
+	PosZ=Item
+}
+5 {
+	1Image=Bm.ABItem.1_05_a
+	2Image=Bm.ABItem.2_05_a
+	ImageMap=Bm.Container.Map0
+	PosZ=Item
+}
+6 {
+	1Image=Bm.ABItem.1_06_a
+	2Image=Bm.ABItem.2_06_a
+	ImageMap=Bm.Container.Map0
+	PosZ=Item
+}
+7 {
+	1Image=Bm.ABItem.1_07_a
+	2Image=Bm.ABItem.2_07_a
+	ImageMap=Bm.Container.Map0
+	PosZ=Item
+}
+Unknown {
+	1Image=Bm.ABItem.1_Unknown
+	2Image=Bm.ABItem.2_Unknown
+	ImageMap=Bm.Container.Map0
+	PosZ=Item
+}

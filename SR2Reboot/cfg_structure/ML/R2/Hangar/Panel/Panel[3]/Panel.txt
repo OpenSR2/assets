@@ -1,0 +1,12 @@
+MVUpdate=True
+Name=PanelLoad
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Panel=Panel[2]\Panel.txt ^{
+}
+Panel=Panel[3]\Panel.txt ^{
+}
+Pos=0,0,-1000
+Size=1024,768

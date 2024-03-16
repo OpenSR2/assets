@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.2HullEx
+Name=HullEx
+Pos=142,212,0
+Size=175,175

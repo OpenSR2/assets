@@ -1,0 +1,3 @@
+Image=GI,Bm.FormAbout2.1RangersRU
+Pos=207,14,20
+Size=354,32

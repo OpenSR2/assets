@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Center
+Font=Font.1Ranger
+Name=CharCaptain
+Pos=520,298,6
+Size=75,14
+TextColor=88,229,255
+WordWrap=True

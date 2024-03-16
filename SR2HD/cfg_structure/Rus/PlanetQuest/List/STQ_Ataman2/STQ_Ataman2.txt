@@ -1,0 +1,7 @@
+Access=10
+Dif=0
+Genre=сюжетный квест
+Group=-1
+Image=Bm.PQI.Penetrator_04
+Length=4
+Name=Перехват транспорта

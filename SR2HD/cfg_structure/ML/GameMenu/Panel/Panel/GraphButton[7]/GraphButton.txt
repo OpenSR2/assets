@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormMenu2.AchievementsN
+ImageDown=GI,Bm.FormMenu2.AchievementsD
+ImageNormal=GI,Bm.FormMenu2.AchievementsN
+ImageNormalA=GI,Bm.FormMenu2.AchievementsA
+Kind=Normal
+KindHit=Rect
+Name=Achievements
+Pos=160,141,-3
+Size=146,133
+Style=Style.GB.SoundNormal

@@ -1,0 +1,3 @@
+Image2=GAI,Bm.PlanetAdvt.2_3_12
+Owner=Peleng,People,Fei
+War=-1

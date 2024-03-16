@@ -1,0 +1,9 @@
+CurPlanetEconomy=Mixed,Industrial
+CurPlanetGoodsBuy=Big,Huge
+CurPlanetGoodsCnt=Zero,Mini,Small
+CurPlanetGoverment=Dictatorship
+CurPlanetRelations=Normal,Good,Best
+Goods=Food
+Priority=2
+Text=ѕривет, <Player>. Ќе секрет, что нашей планетой правит диктатор. Ёкономика находитс€ в упадке. ÷ены нестабильны. ѕроизошел экологический кризис. Ќаш народ голодает, мы сейчас очень нуждаемс€ в еде и медикаментах.
+Text=≈сли возможно, помоги нам, привези партию еды на планету <CurPlanet>.

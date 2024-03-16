@@ -1,0 +1,7 @@
+Access=6
+Dif=42
+Genre=экономический симулятор
+Group=1
+Image=Bm.PQI.kas_16
+Length=4
+Name=Колонизация

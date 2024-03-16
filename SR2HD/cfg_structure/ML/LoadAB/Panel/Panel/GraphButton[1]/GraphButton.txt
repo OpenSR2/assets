@@ -1,0 +1,16 @@
+Caption=FormLoadAB.Group1
+CaptionColorDown=74,0,0
+CaptionColorDownA=74,0,0
+CaptionColorNormal=215,135,131
+CaptionColorNormalA=215,135,131
+CaptionSme=0,-2,0,-2
+Font=Font.2Ranger
+ImageDown=GI,Bm.FormLoadAB.PageD
+ImageNormal=GI,Bm.FormLoadAB.PageN
+ImageNormalA=GI,Bm.FormLoadAB.PageA
+Kind=Fix
+KindHit=Rect
+Name=ButGroup1
+Pos=423,148,-3
+Size=124,25
+Style=Style.GB.SoundNormal

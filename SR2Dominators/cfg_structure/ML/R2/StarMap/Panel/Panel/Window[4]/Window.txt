@@ -1,0 +1,13 @@
+Active=False
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+MVUpdate=True
+MouseBlocking=False
+Name=InfoStar
+Panel=Panel\Panel.txt ^{
+}
+Pos=-502,-374,InfoPanel
+Size=260,174
+Style=Style.Window.2Simple

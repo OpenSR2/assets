@@ -1,0 +1,11 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-99]
+Image=Bm.Gov.2PelengAnim0a
+ImageFirst=Bm.Gov.2PelengAnim0i
+Name=GovPelengAnim0
+PBuf=True
+Pos=598,78,-2
+Size=304,690
+SkipImageUpdateRect=True

@@ -1,0 +1,121 @@
+///////////////////////////////////////////////////////////////
+T1 {
+	SizeImage=128,128	
+	SmeImage=63,60
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1Terron1
+	2ImageP=GI,Bm.ShipP.2Terron1
+	Image=Bm.Ship.Terron1
+	ImageS=Bm.Ship.Terron1s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+T2 {
+	SizeImage=128,128	
+	SmeImage=65,48
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=57,106
+	Tail2=69,106
+
+	1ImageP=GI,Bm.ShipP.1Terron2
+	2ImageP=GI,Bm.ShipP.2Terron2
+	Image=Bm.Ship.Terron2
+	ImageS=Bm.Ship.Terron2s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+T3 {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1Terron3
+	2ImageP=GI,Bm.ShipP.2Terron3
+	Image=Bm.Ship.Terron3
+	ImageS=Bm.Ship.Terron3s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+T4 {
+	SizeImage=128,128
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=64,82
+
+	1ImageP=GI,Bm.ShipP.1Terron4
+	2ImageP=GI,Bm.ShipP.2Terron4
+	Image=Bm.Ship.Terron4
+	ImageS=Bm.Ship.Terron4s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+T5 {
+	SizeImage=128,128	
+	SmeImage=62,60
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=63,95
+
+	1ImageP=GI,Bm.ShipP.1Terron5
+	2ImageP=GI,Bm.ShipP.2Terron5
+	Image=Bm.Ship.Terron5
+	ImageS=Bm.Ship.Terron5s
+
+	Anim {
+    	Normal=1,[70,0-49]
+	    0=1,[70,0-1][70,50-97]
+	}
+	AnimS {
+	    Normal=1,[70,0-49]
+	}
+}

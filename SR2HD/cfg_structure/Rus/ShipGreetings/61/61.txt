@@ -1,0 +1,8 @@
+AutoTalk=Yes
+FlyType=Any
+PlayerAttackGoodShip=Yes
+Priority=3
+Relations=Bad,Normal,Good,Best
+ShipType=Warrior
+StrengthShipWithPlayer=Average,Big,Huge
+Text=¬нимание, <Player>! — вами говорит капитан корабл€ <Ship>. Ќемедленно прекратите преследование <FullShipGood>. Ќападение на данный корабль будет рассматриватьс€ как провокаци€, направленна€ против правительства планеты <HomePlanet>.

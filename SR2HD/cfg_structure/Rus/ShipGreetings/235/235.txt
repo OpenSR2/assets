@@ -1,0 +1,14 @@
+AutoTalk=Any
+DominatorsAlreadyDefeated=No
+FlyType=ToStar
+PlayerRace=Any
+PlayerRank=Wingman,Leader,Ace,Commander, Admiral
+PlayerStatus=Warrior
+Priority=10
+Relations=Normal,Good,Best
+ShipRace=Maloc,Peleng,People
+ShipStatus=Warrior
+ShipType=Ranger,Warrior
+Text=Арр-а!!! <Player>, рад нашей встрече. Уверен, ты не упустишь возможность хорошенько подраться, а мне не помешает помощь опытного вояки. Я собираюсь выбить доминаторов из системы <ToStar>. Вперед, этот приказ с планеты <HomePlanet> не обсуждается!
+ToStarControlByKling=Yes
+ToStarInBattle=Any

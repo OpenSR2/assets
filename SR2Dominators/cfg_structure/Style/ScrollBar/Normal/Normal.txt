@@ -1,0 +1,12 @@
+IArrowDownA=data\ScrollBar\S1_ArrowDown_A.bmp
+IArrowDownP=data\ScrollBar\S1_ArrowDown_P.bmp
+IArrowUpA=data\ScrollBar\S1_ArrowUp_A.bmp
+IArrowUpP=data\ScrollBar\S1_ArrowUp_P.bmp
+IBarA=data\ScrollBar\S1_Bar_A.bmp
+IBarP=data\ScrollBar\S1_Bar_P.bmp
+ICurBarA=data\ScrollBar\S1_CurBar_A.bmp
+ICurBarP=data\ScrollBar\S1_CurBar_P.bmp
+ICurEndA=data\ScrollBar\S1_CurEnd_A.bmp
+ICurEndP=data\ScrollBar\S1_CurEnd_P.bmp
+ICurStartA=data\ScrollBar\S1_CurStart_A.bmp
+ICurStartP=data\ScrollBar\S1_CurStart_P.bmp

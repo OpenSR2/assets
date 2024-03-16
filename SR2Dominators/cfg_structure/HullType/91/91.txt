@@ -1,0 +1,16 @@
+Artefact=-1
+Cost=50
+Def=-1
+Droid=0
+Forsage=0
+Hook=0
+Name=Пыль времени
+Probability=20
+Race=People,Fei,Gaal
+Radar=0
+Scaner=-1
+ShipType=Ranger
+Size=90
+Text=Низкобюджетная линейка кораблей для малоимущих рейнджеров.
+Weapon=0
+Year=0

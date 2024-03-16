@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=ToShip
+InFear=Any
+Priority=5
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Any
+ShipRace=Peleng,People,Fei
+ShipType=Ranger,Pirate,Warrior
+Text=Мы должны уничтожить доминаторов, <Player>!!! Они не просто угрожают нашему существованию, они собираются захватить нас, и использовать в качестве батареек. Согласно предсказанию, только я могу помешать их планам! Атакую <ShipBad>, вперед, за мной!
+ToShipBad=Yes
+ToShipType=Kling

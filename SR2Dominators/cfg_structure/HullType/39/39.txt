@@ -1,0 +1,16 @@
+Artefact=2
+Cost=250
+Def=0
+Droid=1
+Forsage=0
+Hook=0
+Name=Чегантина
+Probability=20
+Race=Peleng
+Radar=0
+Scaner=0
+ShipType=Warrior
+Size=200
+Text=Пеленгский парадный боевой крейсер. На второй палубе установлен тренажерный зал и грязевой бассейн. Создан по проекту верховного лякуша.
+Weapon=1
+Year=70

@@ -1,0 +1,16 @@
+Artefact=0
+Cost=80
+Def=-1
+Droid=0
+Forsage=0
+Hook=0
+Name=Саранча
+Probability=20
+Race=People,Fei,Gaal
+Radar=0
+Scaner=-1
+ShipType=Pirate
+Size=70
+Text=Судно начинающего пирата. Установка сканера и генератора поля невозможна.
+Weapon=0
+Year=0

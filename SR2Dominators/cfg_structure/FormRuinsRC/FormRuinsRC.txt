@@ -1,0 +1,3 @@
+Continue=Далее
+Win=Win\Win.txt ^{
+}

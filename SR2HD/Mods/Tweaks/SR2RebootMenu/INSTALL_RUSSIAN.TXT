@@ -1,0 +1,4 @@
+Packages {
+	Package=Mods\Tweaks\SR2RebootMenu\DATA\SR2RebootMenu.pkg
+	Package=Mods\Tweaks\SR2RebootMenu\DATA\SR2RebootMenuRus.pkg
+}

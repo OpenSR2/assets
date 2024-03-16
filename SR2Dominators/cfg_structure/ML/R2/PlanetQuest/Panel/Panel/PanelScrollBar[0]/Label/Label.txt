@@ -1,0 +1,10 @@
+AlignX=Left
+AlignY=Auto
+Name=MessageText
+Pos=0,0,3,w
+Size=515,365
+Style=Style.Label.2Normal
+TextBorder=1
+TextBorderColor=60,60,60
+TextColor=219,218,156
+WordWrap=True

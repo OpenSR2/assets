@@ -1,0 +1,10 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Food
+Priority=50
+Relations=Good,Best
+ShipHaveGoods=Yes
+ShipType=Transport,Liner,Pirate
+Text=Приветствую, <Player>! На планете <ToPlanet>, как известно, еду практически не выращивают. Чисто индустриальная планета. Я планирую продать продовольствие и набить трюмы всякими техническими товарами. И ты тоже не тормози! Подключайся!
+ToPlanetEconomy=Industrial
+ToPlanetGoodsBuy=Big,Huge

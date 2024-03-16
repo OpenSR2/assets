@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Small
+Name=IDestrCount
+Pos=48,202,0
+Size=52,32
+Style=Style.Label.2Normal
+TextColor=0,0,0
+WordWrap=True

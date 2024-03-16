@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=IKillDominator
+Pos=624,180,2
+Size=73,16
+TextColor=255,222,0

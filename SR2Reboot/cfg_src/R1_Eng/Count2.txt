@@ -1,0 +1,216 @@
+Border=0,0,800,600
+
+Panel {
+	Pos=0,0
+    Size=800,600
+	Name=MainPanel
+
+	GraphBuf {
+		Name=BGBuf
+		Pos=0,0,99
+		Size=800,600
+	}
+
+	Panel {
+		Pos=299,251
+    	Size=222,171
+
+	    Image {
+			Active=True
+			Pos=0,0,12
+			Size=222,171
+			Image=GI,Bm.FormCount2.1bg
+		}
+
+		Image {
+			Pos=23,29,11
+			Size=26,27
+			Image=GI,Bm.FormCount2.1IconBG
+		}
+
+		Image {
+			Name=Kind0
+			Pos=24,93,11
+			Size=171,25
+			Image=GI,Bm.FormCount2.1Kind0
+		}
+		Image {
+			Name=Kind1
+			Pos=24,93,11
+			Size=171,25
+			Image=GI,Bm.FormCount2.1Kind1
+		}
+
+	    Image {
+			Name=ItemImage
+			Active=True
+			Pos=24,30,5
+			Size=25,27
+		}
+
+        GraphBuf {
+			Name=ItemBuf
+			Active=False
+            Pos=24,30,5
+            Size=25,27
+        }
+
+		Label {
+			Name=Caption
+			Pos=53,23,5
+			Size=126,34
+			Font=Font.1Normal
+			TextColor=0,0,0
+			AlignX=Center
+			AlignY=CenterEx
+			WordWrap=True
+		}
+
+		Label {
+			Name=Count
+			Pos=60,96,5
+			Size=38,19
+			Font=Font.1Normal
+			TextColor=0,0,0
+			AlignX=Center
+			AlignY=Center
+		}
+
+		Label {
+			Name=Count2
+			Pos=105,96,5
+			Size=38,19
+			Font=Font.2Normal
+			TextColor=0,0,0
+			AlignX=Left
+			AlignY=Center
+		}
+
+		Label {
+			Name=Sum
+			Pos=133,96,5
+			Size=42,19
+			Font=Font.1Normal
+			TextColor=0,0,0
+			AlignX=Center
+			AlignY=Center
+		}
+
+		Panel {
+			Name=PanelBar
+			Pos=56,69,5
+			Size=110,20
+
+		    Image {
+				Active=True
+				Pos=3,5,11
+				Size=104,10
+				Image=GI,Bm.FormCount2.1BarBorder
+			}
+			
+		    Image {
+				Name=BarArrow
+				Active=True
+				Pos=0,0,5
+				Size=7,20
+				Sme=3,0
+				Image=GI,Bm.FormCount2.1BarArrow
+			}
+
+			Panel {
+				Name=BarRange
+				Pos=4,6,4
+				Size=102,8
+
+			    Image {
+					Name=Bar
+					Active=True
+					Pos=0,0,11
+					Size=205,8
+					Image=GI,Bm.FormCount2.1Bar
+				}
+			}
+		}
+
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=Sub
+			Pos=34,70,5
+			Size=18,18
+
+			Kind=Disable
+			KindHit=Graph
+			UpOnlyDown=True
+
+			ImageNormal=GI,Bm.FormCount2.1SubN
+			ImageNormalA=GI,Bm.FormCount2.1SubA
+			ImageDown=GI,Bm.FormCount2.1SubD
+			ImageDisable=GI,Bm.FormCount2.1SubH
+		}
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=Add
+			Pos=170,70,5
+			Size=18,18
+
+			Kind=Disable
+			KindHit=Graph
+			UpOnlyDown=True
+
+			ImageNormal=GI,Bm.FormCount2.1AddN
+			ImageNormalA=GI,Bm.FormCount2.1AddA
+			ImageDown=GI,Bm.FormCount2.1AddD
+			ImageDisable=GI,Bm.FormCount2.1AddH
+		}
+
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=Max
+			Pos=164,56,5
+			Size=28,11
+
+			Kind=Disable
+			KindHit=Graph
+			UpOnlyDown=True
+
+			ImageNormal=GI,Bm.FormCount2.1MaxN
+			ImageNormalA=GI,Bm.FormCount2.1MaxA
+			ImageDown=GI,Bm.FormCount2.1MaxD
+			ImageDisable=GI,Bm.FormCount2.1MaxH
+		}
+
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=Ok
+			Pos=68,130,5
+			Size=39,17
+
+			Kind=Normal
+			KindHit=Graph
+			UpOnlyDown=True
+
+			ImageNormal=GI,Bm.FormCount2.1OkN
+			ImageNormalA=GI,Bm.FormCount2.1OkA
+			ImageDown=GI,Bm.FormCount2.1OkD
+		}
+		GraphButton {
+            Style=Style.GB.SoundNormal
+
+			Name=Close
+			Pos=117,130,5
+			Size=38,17
+
+			Kind=Normal
+			KindHit=Graph
+			UpOnlyDown=True
+
+			ImageNormal=GI,Bm.FormCount2.1CloseN
+			ImageNormalA=GI,Bm.FormCount2.1CloseA
+			ImageDown=GI,Bm.FormCount2.1CloseD
+		}
+	}
+}

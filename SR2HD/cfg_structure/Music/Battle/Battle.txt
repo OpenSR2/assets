@@ -1,0 +1,5 @@
+1=Music\REV\nikinit_warman.dat
+1=Music\REV\nikinit_fighter.dat
+1=Music\REV\nikinit_fight3.dat
+1=Music\battle\fight2.dat
+1=Music\battle\Boy1.dat

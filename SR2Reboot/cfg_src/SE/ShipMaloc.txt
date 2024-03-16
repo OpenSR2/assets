@@ -1,0 +1,151 @@
+///////////////////////////////////////////////////////////////
+Ranger {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.MalocMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=63,103
+
+	1ImageP=GI,Bm.ShipP.1MalocR
+	2ImageP=GI,Bm.ShipP.2MalocR
+	Image=Bm.Ship.MalocR
+	ImageS=Bm.Ship.MalocRs
+
+	Anim {
+	    Normal=3,[70,0-49]
+    	0=2,[70,0-0][70,50-98]
+	    1=1,[70,99-148]
+	}
+	AnimS {
+	    Normal=3,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Warrior {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.MalocMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=49,98
+	Tail2=69,98
+
+	1ImageP=GI,Bm.ShipP.1MalocW
+	2ImageP=GI,Bm.ShipP.2MalocW
+	Image=Bm.Ship.MalocW
+	ImageS=Bm.Ship.MalocWs
+
+	Anim {
+	    Normal=2,[70,0-49]
+    	0=1,[70,50-99]
+	    1=1,[70,50-50][70,100-148]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Pirate {
+	SizeImage=128,128	
+	SmeImage=63,85
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.MalocMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=55,98
+	Tail2=69,98
+
+	1ImageP=GI,Bm.ShipP.1MalocP
+	2ImageP=GI,Bm.ShipP.2MalocP
+	Image=Bm.Ship.MalocP
+	ImageS=Bm.Ship.MalocPs
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Transport {
+	SizeImage=128,128	
+	SmeImage=66,57
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.MalocMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=64,96
+
+	1ImageP=GI,Bm.ShipP.1MalocT
+	2ImageP=GI,Bm.ShipP.2MalocT
+	Image=Bm.Ship.MalocT
+	ImageS=Bm.Ship.MalocTs
+
+	Anim {
+	    Normal=2,[70,0-49]
+    	0=1,[70,0-0][70,50-98]
+	    1=1,[70,0-0][70,99-138][70,41-49]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Liner {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.MalocMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=64,104
+
+	1ImageP=GI,Bm.ShipP.1MalocL
+	2ImageP=GI,Bm.ShipP.2MalocL
+	Image=Bm.Ship.MalocL
+	ImageS=Bm.Ship.MalocLs
+
+	Anim {
+	    Normal=2,[70,0-49]
+    	0=1,[70,50-99]
+	    1=1,[70,100-124][70,25-25][70,125-136][70,38-49]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+Diplomat {
+	SizeImage=128,128	
+	SmeImage=64,66
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.MalocMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=64,111
+
+	1ImageP=GI,Bm.ShipP.1MalocD
+	2ImageP=GI,Bm.ShipP.2MalocD
+	Image=Bm.Ship.MalocD
+	ImageS=Bm.Ship.MalocDs
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,0-0][70,50-97][70,49-49]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////

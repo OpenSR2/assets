@@ -1,0 +1,60 @@
+0 {
+	SizeImage=128,128	
+	SmeImage=64,43
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	Image=Bm.Ship.x0
+	ImageS=Bm.Ship.x0s
+
+	Anim {
+    	Normal=1,[50,0-31]
+	    0=1,[50,32-63]
+	}
+	AnimS {
+	    Normal=1,[50,0-31]
+	}
+}
+1 {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	Image=Bm.Ship.x1
+	ImageS=Bm.Ship.x1s
+
+	Anim {
+    	Normal=1,[50,0-32]
+	    0=1,[50,33-65]
+	}
+	AnimS {
+	    Normal=1,[50,0-32]
+	}
+}
+2 {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.FeiMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	Image=Bm.Ship.x2
+	ImageS=Bm.Ship.x2s
+
+	Anim {
+    	Normal=1,[50,0-29]
+	    0=1,[50,30-62]
+	}
+	AnimS {
+	    Normal=1,[50,0-29]
+	}
+}

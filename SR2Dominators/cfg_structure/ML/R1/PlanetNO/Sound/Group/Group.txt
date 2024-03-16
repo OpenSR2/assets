@@ -1,0 +1,5 @@
+1=Sound.FormPlanetNone1
+1=Sound.FormPlanetNone2
+1=Sound.FormPlanetNone3
+1=Sound.FormPlanetNone4
+NextTime=5000-10000

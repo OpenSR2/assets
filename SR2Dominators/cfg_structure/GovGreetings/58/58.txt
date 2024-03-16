@@ -1,0 +1,11 @@
+CurPlanetEconomy=Agriculture
+CurPlanetGoodsCnt=Average,Big,Huge
+CurPlanetGoodsSale=Mini,Small,Average
+CurPlanetRace=Peleng
+CurPlanetRelations=Normal,Good,Best
+Goods=Food
+PlayerRace=People,Fei
+PlayerStatus=Trader
+Priority=60
+Text=Бизнесмены не обходят нас стороной, вот и уважаемый торговец <Player>. Сразу видно, что боги слышат наши молитвы!
+Text=Наша планета занимается экспортом пищи уже многие годы. Все продукты питания произведены из высококачественной грязи самых затхлых озер <CurPlanet>. Цена может и высока, но для богатых людей и фэян это не проблема. Специально для вас мы предлагаем в торговом центре великолепную нугу из кремашек и запечанцев, по минимальной цене. Думаю, вам, как опытному предпринимателю, не нужно объяснять, что к чему?

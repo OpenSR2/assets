@@ -1,0 +1,11 @@
+0=Bitmap.Weapon.L0_0
+1=Bitmap.Weapon.L0_1
+2=Bitmap.Weapon.L0_2
+3=Bitmap.Weapon.L0_3
+4=Bitmap.Weapon.L0_4
+5=Bitmap.Weapon.L0_5
+6=Bitmap.Weapon.L0_6
+7=Bitmap.Weapon.L0_7
+PosZ=Weapon
+RadiusUnit=32
+Time=50

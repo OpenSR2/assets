@@ -1,0 +1,4828 @@
+Border=0,0,800,600
+
+Sound { 
+    Group {
+        NextTime=7000-12000
+        2=Sound.FormInfo0
+        1=Sound.FormInfo1
+    }
+}
+
+Panel {
+    Pos=0,0
+    Size=800,600
+    Name=MainPanel
+
+    Panel=cfg\R1\PanelMain.txt {
+        Pos=0,0,1
+    }
+    Panel=cfg\R1\PanelPlanet.txt {
+        Pos=344,541,1
+    }
+    Panel=cfg\R1\PanelRuins.txt {
+        Pos=0,0,2
+    }
+    Panel=cfg\R1\PanelLoad.txt {
+        Pos=0,0,-1000
+    }
+
+    Image {
+        Name=BGCity2
+        Active=True
+        Pos=0,0,10
+        Size=800,600
+    }
+    Image {
+        Name=BGCity
+        Active=True
+        Pos=0,0,9
+        Size=800,600
+    }
+
+    Panel {
+        Pos=207,21,7
+        Size=386,469
+
+        Image {
+            Pos=0,0,10
+            Size=386,469
+            Image=GI,Bm.FormInfo3.1BG
+        }
+        GAI {
+            Name=TV
+            Pos=105,9,11
+            Size=176,66
+            PBuf=True
+            AlignX=Center
+            AlignY=Center
+            Active=True
+            SkipImageUpdateRect=True
+        }
+        Image {
+            Pos=358,86,9
+            Size=15,16
+            Image=GI,Bm.SB.1V1_UpH
+        }
+        Image {
+            Pos=458,483,9
+            Size=15,16
+            Image=GI,Bm.SB.1V1_DownH
+        }
+        PanelScrollBar {
+            Name=PanelInfo
+            Pos=27,99,8
+            Size=320,322
+
+            StyleBarY=Style.ScrollBar.1V1
+            ActiveBarY=True
+            PosAutoBarY=False
+            RectBarY=358,86,373,408
+            MoveWorld=True
+            UnlimitedWorld=False
+            ExternalSB=True
+        }
+        Panel {
+            Name=PanelSearch
+            Pos=20,85,7 // 227,106
+            Size=425,453
+
+            Image {
+                Pos=14,38,9
+                Size=306,59
+                Image=GI,Bm.FormInfo2.1FindBG
+            }
+            Label {
+                Pos=219,47,0
+                Size=67,21
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=255,255,230//39,65,162
+                Text=FormInfo.SearchStr
+            }
+            Edit {
+                Name=TextSearch
+                Font=Font.1Normal
+                Pos=61,51,2
+                Size=152,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=OkSearch
+            
+                Pos=224,51,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+                Help=FormInfo.HelpSearch
+            }
+
+			Image {
+				Image=GI,Bm.FormInfo2.1FindPrice
+				Pos=0,16
+				Size=53,32
+			}
+
+            Image {
+                Pos=0,109,9
+                Size=332,217
+                Image=GI,Bm.FormInfo3.1MM_BG
+            }
+
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_01
+            
+    	        Pos=111,125,1
+	            Size=93,14
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_01
+
+	            Font=Font.1Small
+            	Caption=FormInfo.MM01
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+				CaptionAlignX=Left
+	            CaptionSme=16,-1,16,-0
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_02
+            
+    	        Pos=113,139,1
+	            Size=91,14
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_02
+
+	            Font=Font.1Small
+            	Caption=FormInfo.MM02
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+				CaptionAlignX=Left
+	            CaptionSme=16,-1,16,0
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_03
+            
+    	        Pos=113,153,1
+	            Size=91,14
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_03
+
+	            Font=Font.1Small
+            	Caption=FormInfo.MM03
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+				CaptionAlignX=Left
+	            CaptionSme=16,-1,16,0
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_04
+            
+    	        Pos=113,167,1
+	            Size=91,14
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_04
+
+	            Font=Font.1Small
+            	Caption=FormInfo.MM04
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+				CaptionAlignX=Left
+	            CaptionSme=16,-1,16,0
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_05
+            
+    	        Pos=109,181,1
+	            Size=95,14
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_05
+
+	            Font=Font.1Small
+            	Caption=FormInfo.MM05
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+				CaptionAlignX=Left
+	            CaptionSme=16,-1,16,0
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_06
+
+    	        Pos=103,195,1
+	            Size=101,14
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_06
+
+	            Font=Font.1Small
+            	Caption=FormInfo.MM06
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+				CaptionAlignX=Left
+	            CaptionSme=16,-1,16,0
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_07
+
+    	        Pos=94,209,1
+	            Size=110,14
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_07
+
+	            Font=Font.1Small
+            	Caption=FormInfo.MM07
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+				CaptionAlignX=Left
+	            CaptionSme=16,-1,16,0
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_08
+
+    	        Pos=235,156,1
+	            Size=60,14
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_08
+
+	            Font=Font.1Small
+            	Caption=FormInfo.MM08
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+				CaptionAlignX=Left
+	            CaptionSme=13,0,13,1
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_09
+
+    	        Pos=231,170,1
+	            Size=64,14
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_09
+
+	            Font=Font.1Small
+            	Caption=FormInfo.MM09
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+				CaptionAlignX=Left
+	            CaptionSme=13,0,13,1
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_10
+
+    	        Pos=225,184,1
+	            Size=70,14
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_10
+
+	            Font=Font.1Small
+            	Caption=FormInfo.MM10
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+				CaptionAlignX=Left
+	            CaptionSme=13,0,13,1
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_11
+
+    	        Pos=28,164,1
+	            Size=54,49
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_11
+
+	            Font=Font.1SmallBold
+            	Caption=FormInfo.MM11
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+	            CaptionSme=1,-13,1,-12
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_12
+
+    	        Pos=90,232,1
+	            Size=100,39
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_12
+
+	            Font=Font.1SmallBold
+            	Caption=FormInfo.MM12
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+	            CaptionSme=11,-9,11,-8
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_13
+
+    	        Pos=206,222,1
+	            Size=63,47
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_13
+
+	            Font=Font.1SmallBold
+            	Caption=FormInfo.MM13
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+	            CaptionSme=5,-13,5,-12
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_14
+
+    	        Pos=4,268,1
+	            Size=84,57
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_14
+
+	            Font=Font.1Small
+            	Caption=FormInfo.MM14
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+	            CaptionSme=1,16,1,17
+	        }
+	        GraphButton {
+            	Style=Style.GB.SoundNormal
+
+        	    Name=ButMM_15
+
+    	        Pos=251,271,1
+	            Size=70,46
+
+            	Kind=Normal
+        	    KindHit=Rect
+    	        UpOnlyDown=True
+
+            	ImageNormalA=GI,Bm.FormInfo3.1MM_15
+
+	            Font=Font.1SmallBold
+            	Caption=FormInfo.MM15
+        	    CaptionColorNormal=0,0,0
+    	        CaptionColorNormalA=0,0,0
+           		CaptionColorDown=0,0,0
+				CaptionColorDownA=0,0,0
+	            CaptionSme=0,11,0,12
+	        }
+
+            Image {
+				Name=ImgMM_C1
+                Pos=73,127,7
+                Size=25,25
+                Image=GI,Bm.FormInfo3.1MM_C1
+            }
+            Image {
+				Name=ImgMM_C2
+                Pos=216,138,7
+                Size=19,19
+                Image=GI,Bm.FormInfo3.1MM_C2
+            }
+
+            Label {
+                Pos=69,0,0
+                Size=211,38
+                Font=Font.1Normal
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMCaption
+				WordWrap=True
+            }
+            Label {
+                Pos=12,315,0
+                Size=312,31
+                Font=Font.1Normal
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMFooter
+				WordWrap=True
+            }
+            Label {
+                Pos=88,92,0
+                Size=156,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=8,106,0
+                Size=156,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=57,103,103
+                Text=FormInfo.MMEquip
+            }
+            Label {
+                Pos=149,116,0
+                Size=156,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=57,103,103
+                Text=FormInfo.MMObj
+            }
+        }
+        Panel {
+            Name=PanelM01
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M01_BG
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M01Maloc
+
+                Pos=14,172,1
+                Size=28,28
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceMalocN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceMalocA
+                ImageDown=GI,Bm.FormInfo3.1BRaceMalocD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceMalocC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M01Peleng
+            
+                Pos=40,173,1
+                Size=28,26
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+                ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M01People
+            
+                Pos=68,174,1
+                Size=29,25
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePeopleN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePeopleA
+                ImageDown=GI,Bm.FormInfo3.1BRacePeopleD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePeopleC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M01Fei
+            
+                Pos=98,172,1
+                Size=26,27
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceFeiN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceFeiA
+                ImageDown=GI,Bm.FormInfo3.1BRaceFeiD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceFeiC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M01Gaal
+            
+                Pos=124,175,1
+                Size=28,24
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceGaalN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceGaalA
+                ImageDown=GI,Bm.FormInfo3.1BRaceGaalD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceGaalC
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M01Caption
+            }
+            Label {
+                Pos=16,157,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MRace
+            }
+            Label {
+                Pos=169,137,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MSpeed
+            }
+            Label {
+                Pos=169,181,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M01Range
+            }
+            Label {
+                Pos=34,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MSize
+            }
+            Label {
+                Pos=189,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MCost
+            }
+            Label {
+                Pos=70,155,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=70,200,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=-84,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+            Label {
+                Pos=70,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+
+            Edit {
+                Name=M01Speed
+                Font=Font.1Normal
+                Pos=231,155,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+				ReturnFocusLeave=False
+            }
+            Edit {
+                Name=M01Range
+                Font=Font.1Normal
+                Pos=231,199,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+				ReturnFocusLeave=False
+            }
+            Edit {
+                Name=M01Size
+                Font=Font.1Normal
+                Pos=76,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+				ReturnFocusLeave=False
+            }
+            Edit {
+                Name=M01Cost
+                Font=Font.1Normal
+                Pos=231,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+				ReturnFocusLeave=False
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M01Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM02
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M02_BG
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M02Maloc
+            
+                Pos=14,197,1
+                Size=28,28
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceMalocN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceMalocA
+                ImageDown=GI,Bm.FormInfo3.1BRaceMalocD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceMalocC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M02Peleng
+            
+                Pos=40,198,1
+                Size=28,26
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+                ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M02People
+            
+                Pos=68,199,1
+                Size=29,25
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePeopleN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePeopleA
+                ImageDown=GI,Bm.FormInfo3.1BRacePeopleD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePeopleC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M02Fei
+            
+                Pos=98,197,1
+                Size=26,27
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceFeiN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceFeiA
+                ImageDown=GI,Bm.FormInfo3.1BRaceFeiD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceFeiC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M02Gaal
+            
+                Pos=124,200,1
+                Size=28,24
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceGaalN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceGaalA
+                ImageDown=GI,Bm.FormInfo3.1BRaceGaalD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceGaalC
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M02Caption
+            }
+            Label {
+                Pos=16,180,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MRace
+            }
+            Label {
+                Pos=169,187,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M02Capacity
+            }
+            Label {
+                Pos=34,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MSize
+            }
+            Label {
+                Pos=189,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MCost
+            }
+            Label {
+                Pos=70,205,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=-84,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+            Label {
+                Pos=70,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+
+            Edit {
+                Name=M02Capacity
+                Font=Font.1Normal
+                Pos=231,205,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M02Size
+                Font=Font.1Normal
+                Pos=76,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M02Cost
+                Font=Font.1Normal
+                Pos=231,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M02Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM03
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M03_BG
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M03Maloc
+            
+                Pos=14,197,1
+                Size=28,28
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceMalocN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceMalocA
+                ImageDown=GI,Bm.FormInfo3.1BRaceMalocD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceMalocC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M03Peleng
+            
+                Pos=40,198,1
+                Size=28,26
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+                ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M03People
+            
+                Pos=68,199,1
+                Size=29,25
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePeopleN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePeopleA
+                ImageDown=GI,Bm.FormInfo3.1BRacePeopleD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePeopleC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M03Fei
+            
+                Pos=98,197,1
+                Size=26,27
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceFeiN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceFeiA
+                ImageDown=GI,Bm.FormInfo3.1BRaceFeiD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceFeiC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M03Gaal
+            
+                Pos=124,200,1
+                Size=28,24
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceGaalN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceGaalA
+                ImageDown=GI,Bm.FormInfo3.1BRaceGaalD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceGaalC
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M03Caption
+            }
+            Label {
+                Pos=16,180,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MRace
+            }
+            Label {
+                Pos=169,187,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M03Range
+            }
+            Label {
+                Pos=34,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MSize
+            }
+            Label {
+                Pos=189,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MCost
+            }
+            Label {
+                Pos=70,205,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=-84,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+            Label {
+                Pos=70,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+
+            Edit {
+                Name=M03Range
+                Font=Font.1Normal
+                Pos=231,205,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M03Size
+                Font=Font.1Normal
+                Pos=76,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M03Cost
+                Font=Font.1Normal
+                Pos=231,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M03Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM04
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M04_BG
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M04Maloc
+            
+                Pos=14,197,1
+                Size=28,28
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceMalocN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceMalocA
+                ImageDown=GI,Bm.FormInfo3.1BRaceMalocD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceMalocC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M04Peleng
+            
+                Pos=40,198,1
+                Size=28,26
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+                ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M04People
+            
+                Pos=68,199,1
+                Size=29,25
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePeopleN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePeopleA
+                ImageDown=GI,Bm.FormInfo3.1BRacePeopleD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePeopleC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M04Fei
+            
+                Pos=98,197,1
+                Size=26,27
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceFeiN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceFeiA
+                ImageDown=GI,Bm.FormInfo3.1BRaceFeiD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceFeiC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M04Gaal
+            
+                Pos=124,200,1
+                Size=28,24
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceGaalN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceGaalA
+                ImageDown=GI,Bm.FormInfo3.1BRaceGaalD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceGaalC
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M04Caption
+            }
+            Label {
+                Pos=16,180,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MRace
+            }
+            Label {
+                Pos=169,187,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M04Power
+            }
+            Label {
+                Pos=34,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MSize
+            }
+            Label {
+                Pos=189,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MCost
+            }
+            Label {
+                Pos=70,205,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=-84,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+            Label {
+                Pos=70,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+
+            Edit {
+                Name=M04Power
+                Font=Font.1Normal
+                Pos=231,205,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M04Size
+                Font=Font.1Normal
+                Pos=76,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M04Cost
+                Font=Font.1Normal
+                Pos=231,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M04Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM05
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M05_BG
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M05Maloc
+            
+                Pos=14,197,1
+                Size=28,28
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceMalocN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceMalocA
+                ImageDown=GI,Bm.FormInfo3.1BRaceMalocD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceMalocC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M05Peleng
+            
+                Pos=40,198,1
+                Size=28,26
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+                ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M05People
+            
+                Pos=68,199,1
+                Size=29,25
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePeopleN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePeopleA
+                ImageDown=GI,Bm.FormInfo3.1BRacePeopleD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePeopleC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M05Fei
+            
+                Pos=98,197,1
+                Size=26,27
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceFeiN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceFeiA
+                ImageDown=GI,Bm.FormInfo3.1BRaceFeiD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceFeiC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M05Gaal
+            
+                Pos=124,200,1
+                Size=28,24
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceGaalN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceGaalA
+                ImageDown=GI,Bm.FormInfo3.1BRaceGaalD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceGaalC
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M05Caption
+            }
+            Label {
+                Pos=16,180,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MRace
+            }
+            Label {
+                Pos=169,187,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M05Power
+            }
+            Label {
+                Pos=34,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MSize
+            }
+            Label {
+                Pos=189,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MCost
+            }
+            Label {
+                Pos=70,205,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=-84,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+            Label {
+                Pos=70,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+
+            Edit {
+                Name=M05Power
+                Font=Font.1Normal
+                Pos=231,205,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M05Size
+                Font=Font.1Normal
+                Pos=76,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M05Cost
+                Font=Font.1Normal
+                Pos=231,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M05Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM06
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M06_BG
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M06Maloc
+            
+                Pos=14,197,1
+                Size=28,28
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceMalocN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceMalocA
+                ImageDown=GI,Bm.FormInfo3.1BRaceMalocD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceMalocC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M06Peleng
+            
+                Pos=40,198,1
+                Size=28,26
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+                ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M06People
+            
+                Pos=68,199,1
+                Size=29,25
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePeopleN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePeopleA
+                ImageDown=GI,Bm.FormInfo3.1BRacePeopleD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePeopleC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M06Fei
+            
+                Pos=98,197,1
+                Size=26,27
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceFeiN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceFeiA
+                ImageDown=GI,Bm.FormInfo3.1BRaceFeiD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceFeiC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M06Gaal
+            
+                Pos=124,200,1
+                Size=28,24
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceGaalN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceGaalA
+                ImageDown=GI,Bm.FormInfo3.1BRaceGaalD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceGaalC
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M06Caption
+            }
+            Label {
+                Pos=16,180,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MRace
+            }
+            Label {
+                Pos=169,187,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M06ObjSize
+            }
+            Label {
+                Pos=34,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MSize
+            }
+            Label {
+                Pos=189,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MCost
+            }
+            Label {
+                Pos=70,205,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=-84,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+            Label {
+                Pos=70,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+
+            Edit {
+                Name=M06ObjSize
+                Font=Font.1Normal
+                Pos=231,205,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M06Size
+                Font=Font.1Normal
+                Pos=76,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M06Cost
+                Font=Font.1Normal
+                Pos=231,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M06Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM07
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M07_BG
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M07Maloc
+            
+                Pos=14,197,1
+                Size=28,28
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceMalocN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceMalocA
+                ImageDown=GI,Bm.FormInfo3.1BRaceMalocD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceMalocC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M07Peleng
+            
+                Pos=40,198,1
+                Size=28,26
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+                ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M07People
+            
+                Pos=68,199,1
+                Size=29,25
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePeopleN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePeopleA
+                ImageDown=GI,Bm.FormInfo3.1BRacePeopleD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePeopleC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M07Fei
+            
+                Pos=98,197,1
+                Size=26,27
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceFeiN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceFeiA
+                ImageDown=GI,Bm.FormInfo3.1BRaceFeiD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceFeiC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M07Gaal
+            
+                Pos=124,200,1
+                Size=28,24
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceGaalN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceGaalA
+                ImageDown=GI,Bm.FormInfo3.1BRaceGaalD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceGaalC
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M07Caption
+            }
+            Label {
+                Pos=16,180,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MRace
+            }
+            Label {
+                Pos=169,187,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M07Block
+            }
+            Label {
+                Pos=34,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MSize
+            }
+            Label {
+                Pos=189,243,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MCost
+            }
+            Label {
+                Pos=70,205,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=-84,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+            Label {
+                Pos=70,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+
+            Edit {
+                Name=M07Block
+                Font=Font.1Normal
+                Pos=231,205,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M07Size
+                Font=Font.1Normal
+                Pos=76,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M07Cost
+                Font=Font.1Normal
+                Pos=231,259,0
+                Size=70,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M07Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM08
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M08_BG
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M08Caption
+            }
+            Label {
+                Pos=14,233,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M08Control
+            }
+            Label {
+                Pos=169,233,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M08Range
+            }
+            Label {
+                Pos=75,257,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M08RangeNoMore
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M08CtrlCol
+            
+                Pos=21,252,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M08CtrlDom
+            
+                Pos=21,265,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+
+            Label {
+                Pos=38,248,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M08ControlCol
+            }
+            Label {
+                Pos=38,262,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M08ControlDom
+            }
+
+            Edit {
+                Name=M08Range
+                Font=Font.1Normal
+                Pos=250,256,0
+                Size=50,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M08Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM09
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M09_BG
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M09Maloc
+            
+                Pos=14,252,1
+                Size=28,28
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceMalocN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceMalocA
+                ImageDown=GI,Bm.FormInfo3.1BRaceMalocD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceMalocC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M09Peleng
+            
+                Pos=40,253,1
+                Size=28,26
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+                ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M09People
+            
+                Pos=68,254,1
+                Size=29,25
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePeopleN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePeopleA
+                ImageDown=GI,Bm.FormInfo3.1BRacePeopleD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePeopleC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M09Fei
+            
+                Pos=98,252,1
+                Size=26,27
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceFeiN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceFeiA
+                ImageDown=GI,Bm.FormInfo3.1BRaceFeiD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceFeiC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M09Gaal
+            
+                Pos=124,255,1
+                Size=28,24
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceGaalN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceGaalA
+                ImageDown=GI,Bm.FormInfo3.1BRaceGaalD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceGaalC
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09Caption
+            }
+            Label {
+                Pos=16,235,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MRace
+            }
+            Label {
+                Pos=16,165,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09Control
+            }
+            Label {
+                Pos=170,165,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09Place
+            }
+            Label {
+                Pos=170,235,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09Range
+            }
+
+            Label {
+                Pos=63,184,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09Const
+            }
+            Label {
+                Pos=63,205,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09Star
+            }
+            Label {
+                Pos=81,256,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M08RangeNoMore
+            }
+
+            Label {
+                Pos=39,181,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09ControlCol
+            }
+            Label {
+                Pos=39,195,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09ControlDom
+            }
+            Label {
+                Pos=39,209,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09ControlNo
+            }
+
+            Edit {
+                Name=M09Const
+                Font=Font.1Normal
+                Pos=221,184,0
+                Size=78,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M09Star
+                Font=Font.1Normal
+                Pos=221,205,0
+                Size=78,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M09Range
+                Font=Font.1Normal
+                Pos=249,256,0
+                Size=51,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M09CtrlCol
+            
+                Pos=21,184,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M09CtrlDom
+            
+                Pos=21,198,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M09CtrlNo
+            
+                Pos=21,212,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M09Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM10
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M10_BG
+            }
+
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M10Caption
+            }
+            Label {
+                Pos=16,165,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M10Type
+            }
+            Label {
+                Pos=170,165,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09Place
+            }
+            Label {
+                Pos=170,235,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09Range
+            }
+
+            Label {
+                Pos=62,184,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09Const
+            }
+            Label {
+                Pos=62,205,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M09Star
+            }
+            Label {
+                Pos=83,256,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M08RangeNoMore
+            }
+
+            Label {
+                Pos=39,181,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M10TypeRC
+            }
+            Label {
+                Pos=39,196,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M10TypeSB
+            }
+            Label {
+                Pos=39,211,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M10TypeWB
+            }
+            Label {
+                Pos=39,226,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M10TypePB
+            }
+            Label {
+                Pos=39,241,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M10TypeMC
+            }
+            Label {
+                Pos=39,255,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M10TypeBK
+            }
+
+            Edit {
+                Name=M10Const
+                Font=Font.1Normal
+                Pos=222,184,0
+                Size=78,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M10Star
+                Font=Font.1Normal
+                Pos=222,205,0
+                Size=78,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M10Range
+                Font=Font.1Normal
+                Pos=249,256,0
+                Size=50,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M10TypeRC
+            
+                Pos=21,184,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M10TypeSB
+            
+                Pos=21,198,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M10TypeWB
+            
+                Pos=21,213,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M10TypePB
+            
+                Pos=21,228,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M10TypeMC
+            
+                Pos=21,243,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M10TypeBK
+            
+                Pos=21,258,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M10Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM11
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M11_BG
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11Maloc
+            
+                Pos=174,59,1
+                Size=28,28
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceMalocN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceMalocA
+                ImageDown=GI,Bm.FormInfo3.1BRaceMalocD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceMalocC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11Peleng
+            
+                Pos=200,60,1
+                Size=28,26
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+                ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11People
+            
+                Pos=228,61,1
+                Size=29,25
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePeopleN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePeopleA
+                ImageDown=GI,Bm.FormInfo3.1BRacePeopleD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePeopleC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11Fei
+            
+                Pos=258,59,1
+                Size=26,27
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceFeiN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceFeiA
+                ImageDown=GI,Bm.FormInfo3.1BRaceFeiD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceFeiC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11Gaal
+            
+                Pos=284,62,1
+                Size=28,24
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceGaalN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceGaalA
+                ImageDown=GI,Bm.FormInfo3.1BRaceGaalD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceGaalC
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=174,42,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MRace
+            }
+            Label {
+                Pos=174,92,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11Type
+            }
+            Label {
+                Pos=174,155,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11Size
+            }
+            Label {
+                Pos=174,200,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11Def
+            }
+            Label {
+                Pos=194,246,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MCost
+            }
+            Label {
+                Pos=14,42,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11Slot
+            }
+
+            Label {
+                Pos=186,121,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypeWarrior
+            }
+            Label {
+                Pos=186,108,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypeRanger
+            }
+            Label {
+                Pos=257,134,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypeDiplomat
+            }
+            Label {
+                Pos=257,108,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypeTransport
+            }
+            Label {
+                Pos=257,121,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypeLiner
+            }
+            Label {
+                Pos=186,134,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypePirat
+            }
+
+            Label {
+                Pos=78,175,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=78,219,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=78,263,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+            Label {
+                Pos=6,242,0
+                Size=155,47
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=Top
+                TextColor=58,92,100
+				WordWrap=True
+                Text=FormInfo.M11SlotCom
+            }
+
+            Edit {
+                Name=M11Size
+                Font=Font.1Normal
+                Pos=236,175,0
+                Size=73,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M11Def
+                Font=Font.1Normal
+                Pos=236,219,0
+                Size=73,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M11Cost
+                Font=Font.1Normal
+                Pos=236,263,0
+                Size=73,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11TypeWarrior
+            
+                Pos=174,123,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11TypeRanger
+            
+                Pos=174,110,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11TypeDiplomat
+            
+                Pos=246,137,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11TypeTransport
+            
+                Pos=246,110,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11TypeLiner
+            
+                Pos=246,123,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11TypePirat
+            
+                Pos=174,137,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S01
+            
+                Pos=57,69,1
+                Size=30,26
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH01N
+                ImageNormalA=GI,Bm.FormInfo3.1MH01A
+                ImageDown=GI,Bm.FormInfo3.1MH01D
+                ImageDownA=GI,Bm.FormInfo3.1MH01C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S02
+            
+                Pos=88,69,1
+                Size=30,26
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH02N
+                ImageNormalA=GI,Bm.FormInfo3.1MH02A
+                ImageDown=GI,Bm.FormInfo3.1MH02D
+                ImageDownA=GI,Bm.FormInfo3.1MH02C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S03
+            
+                Pos=42,95,1
+                Size=30,27
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH03N
+                ImageNormalA=GI,Bm.FormInfo3.1MH03A
+                ImageDown=GI,Bm.FormInfo3.1MH03D
+                ImageDownA=GI,Bm.FormInfo3.1MH03C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S04
+            
+                Pos=73,95,1
+                Size=29,27
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH04N
+                ImageNormalA=GI,Bm.FormInfo3.1MH04A
+                ImageDown=GI,Bm.FormInfo3.1MH04D
+                ImageDownA=GI,Bm.FormInfo3.1MH04C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S05
+            
+                Pos=103,95,1
+                Size=30,27
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH05N
+                ImageNormalA=GI,Bm.FormInfo3.1MH05A
+                ImageDown=GI,Bm.FormInfo3.1MH05D
+                ImageDownA=GI,Bm.FormInfo3.1MH05C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S08
+            
+                Pos=114,128,1
+                Size=32,26
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH08N
+                ImageNormalA=GI,Bm.FormInfo3.1MH08A
+                ImageDown=GI,Bm.FormInfo3.1MH08D
+                ImageDownA=GI,Bm.FormInfo3.1MH08C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S09
+            
+                Pos=114,158,1
+                Size=32,26
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH09N
+                ImageNormalA=GI,Bm.FormInfo3.1MH09A
+                ImageDown=GI,Bm.FormInfo3.1MH09D
+                ImageDownA=GI,Bm.FormInfo3.1MH09C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S10
+            
+                Pos=42,192,1
+                Size=30,27
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH10N
+                ImageNormalA=GI,Bm.FormInfo3.1MH10A
+                ImageDown=GI,Bm.FormInfo3.1MH10D
+                ImageDownA=GI,Bm.FormInfo3.1MH10C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S11
+            
+                Pos=73,192,1
+                Size=29,277
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH11N
+                ImageNormalA=GI,Bm.FormInfo3.1MH11A
+                ImageDown=GI,Bm.FormInfo3.1MH11D
+                ImageDownA=GI,Bm.FormInfo3.1MH11C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S12
+            
+                Pos=103,192,1
+                Size=30,27
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH12N
+                ImageNormalA=GI,Bm.FormInfo3.1MH12A
+                ImageDown=GI,Bm.FormInfo3.1MH12D
+                ImageDownA=GI,Bm.FormInfo3.1MH12C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S13
+            
+                Pos=21,105,1
+                Size=18,16
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH13N
+                ImageNormalA=GI,Bm.FormInfo3.1MH13A
+                ImageDown=GI,Bm.FormInfo3.1MH13D
+                ImageDownA=GI,Bm.FormInfo3.1MH13C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S14
+            
+                Pos=137,105,1
+                Size=18,16
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH14N
+                ImageNormalA=GI,Bm.FormInfo3.1MH14A
+                ImageDown=GI,Bm.FormInfo3.1MH14D
+                ImageDownA=GI,Bm.FormInfo3.1MH14C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S15
+            
+                Pos=21,191,1
+                Size=18,16
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH15N
+                ImageNormalA=GI,Bm.FormInfo3.1MH15A
+                ImageDown=GI,Bm.FormInfo3.1MH15D
+                ImageDownA=GI,Bm.FormInfo3.1MH15C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S16
+            
+                Pos=137,191,1
+                Size=18,16
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH16N
+                ImageNormalA=GI,Bm.FormInfo3.1MH16A
+                ImageDown=GI,Bm.FormInfo3.1MH16D
+                ImageDownA=GI,Bm.FormInfo3.1MH16C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11S17
+            
+                Pos=7,125,1
+                Size=24,18
+
+                Kind=Fix
+                KindHit=Graph
+
+                ImageNormal=GI,Bm.FormInfo3.1MH17N
+                ImageNormalA=GI,Bm.FormInfo3.1MH17A
+                ImageDown=GI,Bm.FormInfo3.1MH17D
+                ImageDownA=GI,Bm.FormInfo3.1MH17C
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M11Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM12
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M12_BG
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M12Maloc
+            
+                Pos=14,80,1
+                Size=28,28
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceMalocN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceMalocA
+                ImageDown=GI,Bm.FormInfo3.1BRaceMalocD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceMalocC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M12Peleng
+            
+                Pos=40,81,1
+                Size=28,26
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+                ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M12People
+            
+                Pos=68,82,1
+                Size=29,25
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePeopleN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePeopleA
+                ImageDown=GI,Bm.FormInfo3.1BRacePeopleD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePeopleC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M12Fei
+            
+                Pos=98,80,1
+                Size=26,27
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceFeiN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceFeiA
+                ImageDown=GI,Bm.FormInfo3.1BRaceFeiD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceFeiC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M12Gaal
+            
+                Pos=124,83,1
+                Size=28,24
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceGaalN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceGaalA
+                ImageDown=GI,Bm.FormInfo3.1BRaceGaalD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceGaalC
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M12Caption
+            }
+            Label {
+                Pos=16,63,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MRace
+            }
+            Label {
+                Pos=16,117,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M12Type
+            }
+            Label {
+                Pos=173,76,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M12Damage
+            }
+            Label {
+                Pos=173,127,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M12Range
+            }
+            Label {
+                Pos=16,200,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M12Name
+            }
+            Label {
+                Pos=34,238,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MSize
+            }
+            Label {
+                Pos=189,238,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MCost
+            }
+            Label {
+                Pos=74,94,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=74,145,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=-82,255,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+            Label {
+                Pos=74,254,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+
+            Label {
+                Pos=36,134,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M12TypeEne
+            }
+            Label {
+                Pos=36,148,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M12TypeOsk
+            }
+            Label {
+                Pos=36,163,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M12TypeRak
+            }
+
+            Edit {
+                Name=M12DamageMin
+                Font=Font.1Normal
+                Pos=232,94,0
+                Size=30,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M12DamageMax
+                Font=Font.1Normal
+                Pos=275,94,0
+                Size=30,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M12Range
+                Font=Font.1Normal
+                Pos=232,145,0
+                Size=69,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M12Name
+                Font=Font.1Normal
+                Pos=92,199,0
+                Size=207,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M12Size
+                Font=Font.1Normal
+                Pos=76,254,0
+                Size=69,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M12Cost
+                Font=Font.1Normal
+                Pos=232,254,0
+                Size=71,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M12TypeEne
+            
+                Pos=21,137,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M12TypeOsk
+            
+                Pos=21,151,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M12TypeRak
+            
+                Pos=21,166,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M12Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM13
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M13_BG
+            }
+
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M13Caption
+            }
+            Label {
+                Pos=16,141,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M13Type
+            }
+            Label {
+                Pos=173,141,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M13Range
+            }
+            Label {
+                Pos=189,195,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M13PriceSell
+            }
+            Label {
+                Pos=189,242,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M13PriceBuy
+            }
+            Label {
+                Pos=34,242,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M13Cnt
+            }
+            Label {
+                Pos=73,213,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+            Label {
+                Pos=73,260,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMin
+            }
+            Label {
+                Pos=-126,257,0
+                Size=200,20
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MNoMax
+            }
+            Label {
+                Pos=88,163,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M08RangeNoMore
+            }
+
+            Edit {
+                Name=M13Range
+                Font=Font.1Normal
+                Pos=250,163,0
+                Size=48,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M13PriceSell
+                Font=Font.1Normal
+                Pos=231,213,0
+                Size=71,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M13Cnt
+                Font=Font.1Normal
+                Pos=76,259,0
+                Size=71,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M13PriceBuy
+                Font=Font.1Normal
+                Pos=232,259,0
+                Size=71,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M13Goods0
+            
+                Pos=18,158,1
+                Size=32,29
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MGoods0N
+                ImageNormalA=GI,Bm.FormInfo3.1MGoods0A
+                ImageDown=GI,Bm.FormInfo3.1MGoods0D
+                ImageDownA=GI,Bm.FormInfo3.1MGoods0C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M13Goods1
+            
+                Pos=56,158,1
+                Size=33,29
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MGoods1N
+                ImageNormalA=GI,Bm.FormInfo3.1MGoods1A
+                ImageDown=GI,Bm.FormInfo3.1MGoods1D
+                ImageDownA=GI,Bm.FormInfo3.1MGoods1C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M13Goods2
+            
+                Pos=95,155,1
+                Size=18,33
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MGoods2N
+                ImageNormalA=GI,Bm.FormInfo3.1MGoods2A
+                ImageDown=GI,Bm.FormInfo3.1MGoods2D
+                ImageDownA=GI,Bm.FormInfo3.1MGoods2C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M13Goods3
+            
+                Pos=126,158,1
+                Size=27,27
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MGoods3N
+                ImageNormalA=GI,Bm.FormInfo3.1MGoods3A
+                ImageDown=GI,Bm.FormInfo3.1MGoods3D
+                ImageDownA=GI,Bm.FormInfo3.1MGoods3C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M13Goods4
+            
+                Pos=21,189,1
+                Size=28,27
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MGoods4N
+                ImageNormalA=GI,Bm.FormInfo3.1MGoods4A
+                ImageDown=GI,Bm.FormInfo3.1MGoods4D
+                ImageDownA=GI,Bm.FormInfo3.1MGoods4C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M13Goods5
+            
+                Pos=55,190,1
+                Size=34,26
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MGoods5N
+                ImageNormalA=GI,Bm.FormInfo3.1MGoods5A
+                ImageDown=GI,Bm.FormInfo3.1MGoods5D
+                ImageDownA=GI,Bm.FormInfo3.1MGoods5C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M13Goods6
+            
+                Pos=93,189,1
+                Size=22,28
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MGoods6N
+                ImageNormalA=GI,Bm.FormInfo3.1MGoods6A
+                ImageDown=GI,Bm.FormInfo3.1MGoods6D
+                ImageDownA=GI,Bm.FormInfo3.1MGoods6C
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M13Goods7
+            
+                Pos=123,188,1
+                Size=30,28
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MGoods7N
+                ImageNormalA=GI,Bm.FormInfo3.1MGoods7A
+                ImageDown=GI,Bm.FormInfo3.1MGoods7D
+                ImageDownA=GI,Bm.FormInfo3.1MGoods7C
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M13Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        Panel {
+            Name=PanelM14
+			Active=False
+		}
+        Panel {
+            Name=PanelM15
+            Pos=25,73,7 // 232,94
+            Size=322,340
+			Active=False
+
+            Image {
+                Pos=0,31,9
+                Size=322,309
+                Image=GI,Bm.FormInfo3.1M15_BG
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15Maloc
+            
+                Pos=14,159,1
+                Size=28,28
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceMalocN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceMalocA
+                ImageDown=GI,Bm.FormInfo3.1BRaceMalocD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceMalocC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15Peleng
+            
+                Pos=40,160,1
+                Size=28,26
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePelengN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePelengA
+                ImageDown=GI,Bm.FormInfo3.1BRacePelengD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePelengC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15People
+            
+                Pos=68,161,1
+                Size=29,25
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRacePeopleN
+                ImageNormalA=GI,Bm.FormInfo3.1BRacePeopleA
+                ImageDown=GI,Bm.FormInfo3.1BRacePeopleD
+                ImageDownA=GI,Bm.FormInfo3.1BRacePeopleC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15Fei
+            
+                Pos=98,159,1
+                Size=26,27
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceFeiN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceFeiA
+                ImageDown=GI,Bm.FormInfo3.1BRaceFeiD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceFeiC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15Gaal
+            
+                Pos=124,162,1
+                Size=28,24
+
+                Kind=Fix
+                KindHit=Graph
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo3.1BRaceGaalN
+                ImageNormalA=GI,Bm.FormInfo3.1BRaceGaalA
+                ImageDown=GI,Bm.FormInfo3.1BRaceGaalD
+                ImageDownA=GI,Bm.FormInfo3.1BRaceGaalC
+            }
+
+            Label {
+                Pos=44,12,0
+                Size=234,16
+                Font=Font.1Ranger
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MMExtSe
+            }
+            Label {
+                Pos=42,35,0
+                Size=234,16
+                Font=Font.1SmallBold
+                AlignX=Center
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M15Caption
+            }
+            Label {
+                Pos=16,141,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.MRace
+            }
+            Label {
+                Pos=16,192,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M15Type
+            }
+            Label {
+                Pos=171,162,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M15Place
+            }
+            Label {
+                Pos=16,265,0
+                Size=156,16
+                Font=Font.1SmallBold
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M15Name
+            }
+            Label {
+                Pos=62,182,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M15Const
+            }
+            Label {
+                Pos=62,203,0
+                Size=156,16
+                Font=Font.1Small
+                AlignX=Right
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M15Star
+            }
+
+            Label {
+                Pos=27,223,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypeWarrior
+            }
+            Label {
+                Pos=27,209,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypeRanger
+            }
+            Label {
+                Pos=99,236,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypeDiplomat
+            }
+            Label {
+                Pos=99,209,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypeTransport
+            }
+            Label {
+                Pos=99,223,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypeLiner
+            }
+            Label {
+                Pos=27,236,0
+                Size=56,16
+                Font=Font.1Small
+                AlignX=Left
+                AlignY=CenterEx
+                TextColor=0,0,0
+                Text=FormInfo.M11TypePirat
+            }
+
+            Edit {
+                Name=M15Const
+                Font=Font.1Normal
+                Pos=221,182,0
+                Size=79,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M15Star
+                Font=Font.1Normal
+                Pos=221,204,0
+                Size=79,13
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+            Edit {
+                Name=M15Name
+                Font=Font.1Normal
+                Pos=138,265,0
+                Size=160,15
+                TextColor=0,0,0
+                AlignX=Left
+                MaxLen=30
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15TypeWarrior
+            
+                Pos=16,225,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15TypeRanger
+            
+                Pos=16,212,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15TypeDiplomat
+            
+                Pos=88,238,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15TypeTransport
+            
+                Pos=88,212,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15TypeLiner
+            
+                Pos=88,225,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15TypePirat
+            
+                Pos=16,238,1
+                Size=11,11
+
+                Kind=Fix
+                KindHit=Rect
+                UpOnlyDown=True
+				Down=True
+
+                ImageNormal=GI,Bm.FormInfo3.1MCheckN
+                ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+                ImageDown=GI,Bm.FormInfo3.1MCheckD
+                ImageDownA=GI,Bm.FormInfo3.1MCheckC
+            }
+
+            GraphButton {
+	            Style=Style.GB.SoundNormal
+
+                Name=M15Search
+            
+                Pos=135,318,1
+                Size=54,17
+
+                Kind=Normal
+                KindHit=Rect
+                UpOnlyDown=True
+
+                ImageNormal=GI,Bm.FormInfo2.1FindN
+                ImageNormalA=GI,Bm.FormInfo2.1FindA
+                ImageDown=GI,Bm.FormInfo2.1FindD
+
+	            Font=Font.1Ranger
+            	Caption=FormInfo.SearchStr
+        	    CaptionColorNormal=255,255,230
+    	        CaptionColorNormalA=255,255,230
+           		CaptionColorDown=255,255,230
+				CaptionColorDownA=255,255,230
+	            CaptionSme=0,-2,0,-2
+            }
+		}
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButSearch
+            
+            Pos=15,430,1
+            Size=72,33
+
+            Kind=Disable
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo2.1ModeFindN
+            ImageNormalA=GI,Bm.FormInfo2.1ModeFindA
+            ImageDown=GI,Bm.FormInfo2.1ModeFindD
+            ImageDisable=GI,Bm.FormInfo2.1ModeFindF
+
+            Help=FormInfo.HelpFind
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButNews
+            
+            Pos=77,433,1
+            Size=77,36
+
+            Kind=Disable
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo2.1NewsN
+            ImageNormalA=GI,Bm.FormInfo2.1NewsA
+            ImageDown=GI,Bm.FormInfo2.1NewsD
+            ImageDisable=GI,Bm.FormInfo2.1NewsF
+
+            Help=FormInfo.HelpNews
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButFormClose
+            
+            Pos=300,430,1
+            Size=60,33
+
+            Kind=Normal
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo2.1CloseN
+            ImageNormalA=GI,Bm.FormInfo2.1CloseA
+            ImageDown=GI,Bm.FormInfo2.1CloseD
+
+            Help=FormInfo.HelpNews
+        }
+
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButPrev
+            
+            Pos=35,74,1
+            Size=59,23
+
+            Kind=Disable
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo3.1PrevN
+            ImageNormalA=GI,Bm.FormInfo3.1PrevA
+            ImageDown=GI,Bm.FormInfo3.1PrevD
+            ImageDisable=GI,Bm.FormInfo3.1PrevH
+
+            Font=Font.1Ranger
+            Caption=FormInfo.ButPrev
+            CaptionColorNormal=171,198,207
+            CaptionColorNormalA=255,255,255
+            CaptionColorDown=255,255,255
+			CaptionColorDisable=171,198,207
+			CaptionColorDisableA=171,198,207
+            CaptionSme=0,-4,0,-3
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=ButNext
+            
+            Pos=294,74,1
+            Size=59,23
+
+            Kind=Disable
+            KindHit=Rect
+            UpOnlyDown=True
+
+            ImageNormal=GI,Bm.FormInfo3.1NextN
+            ImageNormalA=GI,Bm.FormInfo3.1NextA
+            ImageDown=GI,Bm.FormInfo3.1NextD
+            ImageDisable=GI,Bm.FormInfo3.1NextH
+
+            Font=Font.1Ranger
+            Caption=FormInfo.ButNext
+            CaptionColorNormal=171,198,207
+            CaptionColorNormalA=255,255,255
+            CaptionColorDown=255,255,255
+			CaptionColorDisable=171,198,207
+			CaptionColorDisableA=171,198,207
+            CaptionSme=2,-4,2,-3
+        }
+    }
+}

@@ -1,0 +1,2 @@
+1bg=data\FormPlanetNO\1bg.gi
+2bg=data\FormPlanetNO\2bg.gi

@@ -1,0 +1,3 @@
+Name=PanelSlot
+Pos=19,70,2
+Size=454,440

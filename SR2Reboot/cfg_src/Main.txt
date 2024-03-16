@@ -1,0 +1,35 @@
+BV {
+	BV=2.0
+//	EC=1ffa201f
+//8f5653d8
+	//26a560e8 1.6.1
+	//cb7d700d 1.6
+	//c8848f2e 1.5
+	//8d6a9be0 1.4
+}
+//User=cfg.txt {
+//}
+Graph=cfg\graph.txt {
+}
+//Lang {
+//    Rus=cfg\Rus\Main.txt {
+//    }
+//}
+ML {
+	R1=cfg\R1\ml.txt {
+		Style=cfg\Style.txt {
+		}
+    }
+    R2=cfg\R2\ml.txt {
+		Style=cfg\Style.txt {
+		}
+    }
+}
+Data=cfg\Data.txt {
+}
+CacheData=cfg\cachedata.txt {
+}
+Music=cfg\Music.txt {
+}
+ZPos=cfg\ZPos.txt {
+}

@@ -1,0 +1,10 @@
+DefShip=DefShip\DefShip.txt ^{
+}
+DefSystem=DefSystem\DefSystem.txt ^{
+}
+Info=Info\Info.txt ^{
+}
+KillShip=KillShip\KillShip.txt ^{
+}
+SendLetter=SendLetter\SendLetter.txt ^{
+}

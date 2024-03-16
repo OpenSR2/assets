@@ -1,0 +1,3 @@
+Name=Storage_12i
+Pos=16,232,0
+Size=39,39

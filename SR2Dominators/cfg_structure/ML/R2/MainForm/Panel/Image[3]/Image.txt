@@ -1,0 +1,3 @@
+Image=GI,Bm.FormMain2.2SubName
+Pos=641,201,47
+Size=146,9

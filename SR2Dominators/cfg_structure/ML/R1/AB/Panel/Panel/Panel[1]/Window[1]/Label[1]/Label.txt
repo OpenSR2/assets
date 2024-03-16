@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Small
+Name=InfoItemText
+Pos=8,47,8
+Size=188,65
+TextColor=255,255,255
+WordWrap=True

@@ -1,0 +1,11 @@
+Help=FormGalaxy.HelpButDel
+ImageDown=GI,Bm.FormGalaxy2.DelD
+ImageNormal=GI,Bm.FormGalaxy2.DelN
+ImageNormalA=GI,Bm.FormGalaxy2.DelA
+Kind=Normal
+KindHit=Rect
+MouseBlocking=True
+Name=ButDel
+Pos=369,567,-2
+Size=37,37
+Style=Style.GB.SoundNormal

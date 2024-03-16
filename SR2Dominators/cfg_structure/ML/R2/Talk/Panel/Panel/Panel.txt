@@ -1,0 +1,33 @@
+GAI=GAI\GAI.txt ^{
+}
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Image=Image[3]\Image.txt ^{
+}
+Image=Image[4]\Image.txt ^{
+}
+Image=Image[5]\Image.txt ^{
+}
+Image=Image[6]\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Name=PanelTalk
+PanelScrollBar=PanelScrollBar[0]\PanelScrollBar.txt ^{
+}
+PanelScrollBar=PanelScrollBar[1]\PanelScrollBar.txt ^{
+}
+Pos=607,0,-4
+Size=428,540

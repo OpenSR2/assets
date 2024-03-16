@@ -1,0 +1,16 @@
+2Blazer=data\Race\2EmBlazer.png
+2Fei=data\Race\2EmFei.png
+2Gaal=data\Race\2EmGaal.png
+2Keller=data\Race\2EmKeller.png
+2Kling=data\Race\2EmKling.png
+2Maloc=data\Race\2EmMaloc.png
+2None=data\Race\2EmNone.png
+2Peleng=data\Race\2EmPeleng.png
+2People=data\Race\2EmPeople.png
+2PirateClan=data\Race\PirateClan.png
+2PirateClanFei=data\Race\PirateClanFei.png
+2PirateClanGaal=data\Race\PirateClanGaal.png
+2PirateClanMaloc=data\Race\PirateClanMaloc.png
+2PirateClanPeleng=data\Race\PirateClanPeleng.png
+2PirateClanPeople=data\Race\PirateClanPeople.png
+2Terron=data\Race\2EmTerron.png

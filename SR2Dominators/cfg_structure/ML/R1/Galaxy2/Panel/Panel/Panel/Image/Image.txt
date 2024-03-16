@@ -1,0 +1,5 @@
+Image=GI,Bm.FormGalaxy2.1bg
+KindX=Center
+KindY=Center
+Pos=0,0,1000
+Size=600,414

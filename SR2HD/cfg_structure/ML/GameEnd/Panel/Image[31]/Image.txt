@@ -1,0 +1,4 @@
+Image=GI,Bm.FormEnd2.Final6
+Name=PirateWin6
+Pos=0,59,9
+Size=414,629

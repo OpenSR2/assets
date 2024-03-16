@@ -1,0 +1,11 @@
+AutoTalk=Yes
+DominatorsAlreadyDefeated=No
+FlyType=ToStar
+KlingInToStar=3,4,5,6,7,8,9,Many
+Priority=20
+Relations=Normal,Good,Best
+ShipRace=Any
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Ёй, <Player>! ћежду прочим, в системе <ToStar> наши реб€та сейчас пытаютс€ надавать доминаторам по микросхемам, а мы тут прохлаждаемс€. јйда со мной, нельз€ оставатьс€ в стороне!
+ToStarControlByKling=Any
+ToStarInBattle=Yes

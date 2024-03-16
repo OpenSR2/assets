@@ -1,0 +1,12 @@
+2Jar=data\FormAbout2\2Jar.gai
+2Jar2=data\FormAbout2\2Jar2.gai
+2Line=data\FormAbout2\2Line.gi
+2LogoElemental=data\FormAbout2\2Logo1C.gi
+2Peleng=data\FormAbout2\2Peleng.gai
+2Ship=data\FormAbout2\2Ship.gai
+Bg=data\FormAbout2\Bg.gi
+LogoPanel=data\FormAbout2\LogoPanel.gi
+Panel=data\FormAbout2\Panel.gi
+ShadeBottom=data\FormAbout2\ShadeBottom.gi
+ShadeTop=data\FormAbout2\ShadeTop.gi
+SubName=data\FormAbout2\SubName.gi

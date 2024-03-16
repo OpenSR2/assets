@@ -1,0 +1,3 @@
+Name=RankI2
+Pos=190,52,1
+Size=94,33

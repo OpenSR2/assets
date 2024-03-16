@@ -1,0 +1,27 @@
+Active=False
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Label=Label[3]\Label.txt ^{
+}
+Label=Label[4]\Label.txt ^{
+}
+Label=Label[5]\Label.txt ^{
+}
+Label=Label[6]\Label.txt ^{
+}
+Label=Label[7]\Label.txt ^{
+}
+Label=Label[8]\Label.txt ^{
+}
+MVUpdate=True
+MouseBlocking=False
+Name=InfoPanel
+Pos=5,5,-11
+Size=225,137
+Style=Style.Window.1Simple

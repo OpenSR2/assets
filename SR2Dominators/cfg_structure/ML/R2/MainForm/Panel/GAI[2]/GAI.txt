@@ -1,0 +1,7 @@
+Frame=[80,0-59]
+Image=Bm.FormMain2.2AnimCaptionA
+ImageFirst=Bm.FormMain2.2AnimCaption
+Name=AnimCaption
+PBuf=True
+Pos=397,22,48
+Size=623,174

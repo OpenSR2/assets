@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.2Normal
+MaxLen=30
+Name=M08Range
+Pos=312,329,0
+Size=72,17
+TextColor=0,0,0

@@ -1,0 +1,12 @@
+AutoTalk=Yes
+FlyType=ToPlanet
+LastPlanetInCurStar=No
+LastPlanetRace=People
+PlayerRace=Peleng,People,Fei,Gaal
+Priority=2
+Relations=Good,Best
+ShipRace=People
+ShipType=Ranger
+Text=Ќет, ну ты прикинь, <Player> - € везу на планету <ToPlanet> головоломку, подарок дл€ тамошнего правител€, который просто помешан на таких штучках. —амое удивительное это то, что планета малокска€! Ёти громилы мохнатые, оказываетс€, не такие и тупые, как считаетс€ - € сам уже восьмой день над этой головоломкой без толку бьюсь.
+ToPlanetGoverment=Dictatorship,Monarchy
+ToPlanetRace=Maloc

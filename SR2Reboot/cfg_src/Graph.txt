@@ -1,0 +1,43 @@
+Cursor {
+	Main {
+		Image=GAI,Bm.Cursor.Main
+		Sme=0,0
+	}
+	Scroll {
+		Image=GAI,Bm.Cursor.Scroll
+		Sme=16,16
+	}
+	Take {
+		Image=GAI,Bm.Cursor.Take
+		Sme=9,14
+	}
+	Enter {
+		Image=GAI,Bm.Cursor.Enter
+		Sme=16,0
+	}
+
+	FireFull {
+		Image=GAI,Bm.Cursor.FireFull
+		Sme=1,1
+	}
+	FireSmall {
+		Image=GAI,Bm.Cursor.FireSmall
+		Sme=1,1
+	}
+	ScanFull {
+		Image=GAI,Bm.Cursor.ScanFull
+		Sme=1,1
+	}
+	ScanSmall {
+		Image=GAI,Bm.Cursor.ScanSmall
+		Sme=1,1
+	}
+	TalkFull {
+		Image=GAI,Bm.Cursor.TalkFull
+		Sme=1,1
+	}
+	TalkSmall {
+		Image=GAI,Bm.Cursor.TalkSmall
+		Sme=1,1
+	}
+}

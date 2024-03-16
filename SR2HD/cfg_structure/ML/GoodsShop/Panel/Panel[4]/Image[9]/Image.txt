@@ -1,0 +1,4 @@
+Image=GI,Bm.FormGoods2.2Illegal
+Name=TovPermit2
+Pos=224,167,3
+Size=13,13

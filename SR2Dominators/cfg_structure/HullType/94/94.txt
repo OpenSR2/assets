@@ -1,0 +1,16 @@
+Artefact=4
+Cost=130
+Def=0
+Droid=0
+Forsage=1
+Hook=0
+Name=Мангуст
+Probability=10
+Race=Maloc,Peleng,Gaal
+Radar=0
+Scaner=0
+ShipType=Ranger
+Size=100
+Text=Идеальный корпус для активных полетов. Спроектирован по заказу сети центров рейнджеров.
+Weapon=0
+Year=0

@@ -1,0 +1,7 @@
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Name=Skill5c
+Pos=192,208,-1
+Size=23,34

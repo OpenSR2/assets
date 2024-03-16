@@ -1,0 +1,56 @@
+0=0\0.txt ^{
+}
+1=1\1.txt ^{
+}
+10=10\10.txt ^{
+}
+11=11\11.txt ^{
+}
+12=12\12.txt ^{
+}
+13=13\13.txt ^{
+}
+14=14\14.txt ^{
+}
+15=15\15.txt ^{
+}
+16=16\16.txt ^{
+}
+17=17\17.txt ^{
+}
+2=2\2.txt ^{
+}
+3=3\3.txt ^{
+}
+4=4\4.txt ^{
+}
+5=5\5.txt ^{
+}
+6=6\6.txt ^{
+}
+7=7\7.txt ^{
+}
+8=8\8.txt ^{
+}
+9=9\9.txt ^{
+}
+Asteroid=Asteroid\Asteroid.txt ^{
+}
+AuraEffect=AuraEffect\AuraEffect.txt ^{
+}
+Kamikaze=Kamikaze\Kamikaze.txt ^{
+}
+MissileHit=MissileHit\MissileHit.txt ^{
+}
+Nine=Nine\Nine.txt ^{
+}
+NoGraph=NoGraph\NoGraph.txt ^{
+}
+PDTurret=PDTurret\PDTurret.txt ^{
+}
+RadialEffect=RadialEffect\RadialEffect.txt ^{
+}
+Shock=Shock\Shock.txt ^{
+}
+Star=Star\Star.txt ^{
+}

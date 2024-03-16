@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormUnknown2.2CloseH
+ImageDown=GI,Bm.FormUnknown2.2CloseD
+ImageNormal=GI,Bm.FormUnknown2.2CloseN
+ImageNormalA=GI,Bm.FormUnknown2.2CloseA
+Kind=Disable
+KindHit=Graph
+Name=ButClose
+Pos=504,392,8
+Size=68,34
+Style=Style.GB.SoundNormal

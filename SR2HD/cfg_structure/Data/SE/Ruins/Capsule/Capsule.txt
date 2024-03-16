@@ -1,0 +1,4 @@
+Image=Bm.ItemsUseless.2Usl_CapsuleStukach_c
+ImageI=GI,Bm.ItemsUseless.2Usl_CapsuleStukach_s
+ImageMap=GI,Bm.Ship.SpecialMap
+PosZ=ShipLow

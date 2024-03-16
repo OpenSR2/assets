@@ -1,0 +1,16 @@
+Artefact=4
+Cost=110
+Def=0
+Droid=0
+Forsage=1
+Hook=0
+Name=Феникс Крю
+Probability=20
+Race=Fei
+Radar=0
+Scaner=1
+ShipType=Diplomat
+Size=70
+Text=Сделанная стариком Крю модификация малого фэянского транспорта, переоборудованного для ведения боя.
+Weapon=2
+Year=30

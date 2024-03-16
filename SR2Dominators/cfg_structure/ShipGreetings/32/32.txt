@@ -1,0 +1,17 @@
+AutoTalk=Any
+FlyType=Any
+Goods=Technics
+LastPlanetEconomy=Industrial
+LastPlanetGoodsSale=Mini,Small
+LastPlanetInCurStar=No
+LastPlanetIsHomePlanet=No
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerRank=Rookie,Cadet,Pilot
+PlayerRating=Mini,Small
+Priority=20
+Relations=Best
+ShipRace=People,Fei,Gaal
+ShipStatus=Trader
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=Вижу, вижу, новичок <Player>, хороший ты парень, но пока плохой рейнджер, судя по рейтингу.
+Text=Хотелось бы помочь, посодействовать, так сказать... Знаешь, я только что прибыл из системы <LastPlanetStar>. Там на известной техногенной планете <LastPlanet> все технические товары стоят просто копейки. Уж и не знаю, интересует ли тебя бизнес, но очень советую в любом случае.

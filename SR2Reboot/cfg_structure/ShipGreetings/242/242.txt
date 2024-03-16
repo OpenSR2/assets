@@ -1,0 +1,9 @@
+AutoTalk=Any
+FlyType=ToStar
+InFear=Any
+KlingInCurStar=4,5,6,7,8,9,Many
+Priority=10
+Relations=Normal,Good,Best
+ShipType=Transport,Liner,Diplomat
+Text=ѕолундра! “ы что, <Player>, разве не видишь - доминаторы вторглись в нашу систему. Ќе знаю, как ты, а € лично собираюсь сматыватьс€ отсюда в систему <ToStar>, где нет никаких желез€к.
+TransportInCurStar=3,4,5,6,7,8,9,Many

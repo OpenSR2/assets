@@ -1,0 +1,7 @@
+Color=0,0,0
+ColorFill=0,0,128
+Fill=True
+Kind=Rect
+Name=RewardRect
+Pos=0,0,3
+Size=410,402

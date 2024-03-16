@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Pos=191,149,0
+Size=200,20
+Text=FormInfo.MMObj
+TextColor=57,103,103

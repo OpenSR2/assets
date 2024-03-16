@@ -1,0 +1,6 @@
+FlyType=Any
+Relations=War,Bad
+ShipBadFlyToShip=Yes
+ShipBadType=Kling
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Несмотря на то, что отношения между нами паршивые, я вынужден признать, что доминаторы еще хуже, чем ты, <Player>. Давай вначале с ними разберемся, а потом уже между собой будем выяснять отношения.

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormIntro2.2On
+Name=ICW3
+Pos=329,702,2
+Size=9,9

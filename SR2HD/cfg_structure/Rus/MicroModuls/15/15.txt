@@ -1,0 +1,7 @@
+Cost=25
+Equipments=FuelTank,Engine,Radar,Scaner,Droid,Hook,DefGenerator,WEnergy,WSplinter,WMissile
+Name=Цент
+Priority=80
+Size=110
+Text=Микромодуль третьего уровня. Влияет на составляющую материала любого предмета (кроме корпуса), несколько увеличивая размер предмета. Стоимость, напротив, уменьшается в <clr>4<clrEnd> раза, что приводит к выгодности последующего ремонта.
+Text=Размер: <clr>+10%<clrEnd>

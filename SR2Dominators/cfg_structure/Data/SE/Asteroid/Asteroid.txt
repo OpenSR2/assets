@@ -1,0 +1,142 @@
+0=0\0.txt ^{
+}
+1=1\1.txt ^{
+}
+10=10\10.txt ^{
+}
+11=11\11.txt ^{
+}
+12=12\12.txt ^{
+}
+13=13\13.txt ^{
+}
+14=14\14.txt ^{
+}
+2=2\2.txt ^{
+}
+3=3\3.txt ^{
+}
+4=4\4.txt ^{
+}
+5=5\5.txt ^{
+}
+6=6\6.txt ^{
+}
+7=7\7.txt ^{
+}
+8=8\8.txt ^{
+}
+9=9\9.txt ^{
+}
+Blue00=Blue00\Blue00.txt ^{
+}
+Blue01=Blue01\Blue01.txt ^{
+}
+Blue02=Blue02\Blue02.txt ^{
+}
+Blue03=Blue03\Blue03.txt ^{
+}
+Blue04=Blue04\Blue04.txt ^{
+}
+Blue05=Blue05\Blue05.txt ^{
+}
+Blue06=Blue06\Blue06.txt ^{
+}
+Blue07=Blue07\Blue07.txt ^{
+}
+Blue08=Blue08\Blue08.txt ^{
+}
+Blue09=Blue09\Blue09.txt ^{
+}
+Blue10=Blue10\Blue10.txt ^{
+}
+Blue11=Blue11\Blue11.txt ^{
+}
+Blue12=Blue12\Blue12.txt ^{
+}
+Blue13=Blue13\Blue13.txt ^{
+}
+Blue14=Blue14\Blue14.txt ^{
+}
+Blue15=Blue15\Blue15.txt ^{
+}
+Blue16=Blue16\Blue16.txt ^{
+}
+Blue17=Blue17\Blue17.txt ^{
+}
+Blue18=Blue18\Blue18.txt ^{
+}
+Green00=Green00\Green00.txt ^{
+}
+Green01=Green01\Green01.txt ^{
+}
+Green02=Green02\Green02.txt ^{
+}
+Green03=Green03\Green03.txt ^{
+}
+Green04=Green04\Green04.txt ^{
+}
+Green05=Green05\Green05.txt ^{
+}
+Green06=Green06\Green06.txt ^{
+}
+Green07=Green07\Green07.txt ^{
+}
+Green08=Green08\Green08.txt ^{
+}
+Green09=Green09\Green09.txt ^{
+}
+Green10=Green10\Green10.txt ^{
+}
+Green11=Green11\Green11.txt ^{
+}
+Green12=Green12\Green12.txt ^{
+}
+Green13=Green13\Green13.txt ^{
+}
+Green14=Green14\Green14.txt ^{
+}
+Red00=Red00\Red00.txt ^{
+}
+Red01=Red01\Red01.txt ^{
+}
+Red02=Red02\Red02.txt ^{
+}
+Red03=Red03\Red03.txt ^{
+}
+Red04=Red04\Red04.txt ^{
+}
+Red05=Red05\Red05.txt ^{
+}
+Red06=Red06\Red06.txt ^{
+}
+Red07=Red07\Red07.txt ^{
+}
+Red08=Red08\Red08.txt ^{
+}
+Red09=Red09\Red09.txt ^{
+}
+Red10=Red10\Red10.txt ^{
+}
+Red11=Red11\Red11.txt ^{
+}
+Red12=Red12\Red12.txt ^{
+}
+Red13=Red13\Red13.txt ^{
+}
+Yellow00=Yellow00\Yellow00.txt ^{
+}
+Yellow01=Yellow01\Yellow01.txt ^{
+}
+Yellow02=Yellow02\Yellow02.txt ^{
+}
+Yellow03=Yellow03\Yellow03.txt ^{
+}
+Yellow04=Yellow04\Yellow04.txt ^{
+}
+Yellow05=Yellow05\Yellow05.txt ^{
+}
+Yellow06=Yellow06\Yellow06.txt ^{
+}
+Yellow07=Yellow07\Yellow07.txt ^{
+}

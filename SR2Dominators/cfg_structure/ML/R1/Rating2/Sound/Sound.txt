@@ -1,0 +1,2 @@
+Close=Sound.FormShipClose
+Open=Sound.FormShipOpen

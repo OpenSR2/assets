@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=Any
+InFear=Any
+PlayerRace=Peleng
+Priority=10
+Relations=Good,Best
+ShipBadFlyToShip=Yes
+ShipRace=Peleng
+ShipType=Transport,Liner,Diplomat
+Text=Эй, <Player>, зелень твоей луже! Капитан судна <Ship> просит поддержки!
+Text=Нас преследует чужак, <FullShipBad>. Не в наших пеленгских правилах помогать друг другу, но в виде исключения, эм-м?..

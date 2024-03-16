@@ -1,0 +1,5 @@
+Image=GI,Bm.FormShip2.1SkillPositive
+KindX=Left
+Name=Skill5p
+Pos=0,0,0
+Size=23,34

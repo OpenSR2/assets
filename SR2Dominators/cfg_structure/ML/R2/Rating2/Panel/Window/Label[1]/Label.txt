@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Small
+Name=RewardText
+Pos=5,64,8
+Size=250,83
+TextColor=255,255,255
+WordWrap=True

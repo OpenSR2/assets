@@ -1,0 +1,4 @@
+Image=GI,Bm.FormIntro2.PanelBottom
+Name=ImageBottom
+Pos=0,653,999
+Size=1024,115

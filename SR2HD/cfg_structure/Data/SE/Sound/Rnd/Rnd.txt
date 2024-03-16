@@ -1,0 +1,24 @@
+02 ^{
+}
+2Usl_CapsuleStukach_c ^{
+}
+Angel ^{
+}
+Comet ^{
+}
+Container ^{
+}
+FighterSwarm ^{
+}
+Gate ^{
+}
+Hole ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+Ruins=Ruins\Ruins.txt ^{
+}
+Ship=Ship\Ship.txt ^{
+}
+Star ^{
+}

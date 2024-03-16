@@ -1,0 +1,11 @@
+CurPlanetGoodsBuy=Big,Huge
+CurPlanetGoodsCnt=Zero,Mini,Small,Average
+CurPlanetGoodsPermit=No
+CurPlanetPirateClan=No
+CurPlanetRace=Gaal
+CurPlanetRaceIsPlayerRace=No
+CurPlanetRelations=Normal,Good,Best
+Goods=Narcotics
+PlayerRank=Rookie,Cadet,Pilot
+Priority=10
+Text=Ќаша раса давно сидит на игле...<br>Ёто вы, иноземцы, €вл€етесь причиной нашего постепенного вымирани€! ћы боремс€ с наркодельцами, но ничего не помогает. ÷ены станов€тс€ только выше и достигли уже <CurPlanetGoodsBuy> cr за одну условную единицу. ѕредупреждаем, чтобы ты, <Player>, не ввозил эту др€нь на нашу планету, иначе мы станем врагами.

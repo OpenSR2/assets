@@ -1,0 +1,4 @@
+Image=GI,Bm.PanelMain2.2WarningMoney
+Name=PM_WarningMoney
+Pos=622,53,8
+Size=98,24

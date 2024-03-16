@@ -1,0 +1,123 @@
+///////////////////////////////////////////////////////////////
+B1 {
+	SizeImage=128,128	
+	SmeImage=61,60
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1Blazer1
+	2ImageP=GI,Bm.ShipP.2Blazer1
+	Image=Bm.Ship.Blazer1
+	ImageS=Bm.Ship.Blazer1s
+
+	Anim {
+    	Normal=2,[70,49-49][70,0-48]
+	    0=1,[70,0-9][70,50-89]
+	}
+	AnimS {
+	    Normal=2,[70,49-49][70,0-48]
+	}
+}
+///////////////////////////////////////////////////////////////
+B2 {
+	SizeImage=128,128	
+	SmeImage=63,48
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=56,105
+	Tail2=67,105
+
+	1ImageP=GI,Bm.ShipP.1Blazer2
+	2ImageP=GI,Bm.ShipP.2Blazer2
+	Image=Bm.Ship.Blazer2
+	ImageS=Bm.Ship.Blazer2s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+B3 {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1Blazer3
+	2ImageP=GI,Bm.ShipP.2Blazer3
+	Image=Bm.Ship.Blazer3
+	ImageS=Bm.Ship.Blazer3s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+B4 {
+	SizeImage=128,128
+	SmeImage=64,73
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=64,97
+
+	1ImageP=GI,Bm.ShipP.1Blazer4
+	2ImageP=GI,Bm.ShipP.2Blazer4
+	Image=Bm.Ship.Blazer4
+	ImageS=Bm.Ship.Blazer4s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+B5 {
+	SizeImage=128,128	
+	SmeImage=63,54
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=62,88
+
+	1ImageP=GI,Bm.ShipP.1Blazer5
+	2ImageP=GI,Bm.ShipP.2Blazer5
+	Image=Bm.Ship.Blazer5
+	ImageS=Bm.Ship.Blazer5s
+
+	Anim {
+    	Normal=1,[70,0-49]
+	    0=1,[70,50-99]
+	}
+
+	AnimS {
+	    Normal=1,[70,0-49]
+	}
+}

@@ -1,0 +1,10 @@
+Help=FormInfo.HelpCopy
+ImageDown=GI,Bm.FormInfo3.CopyButD
+ImageNormal=GI,Bm.FormInfo3.CopyButN
+ImageNormalA=GI,Bm.FormInfo3.CopyButA
+Kind=Normal
+KindHit=Rect
+Name=ButCopy
+Pos=58,66,1
+Size=21,21
+Style=Style.GB.SoundNormal

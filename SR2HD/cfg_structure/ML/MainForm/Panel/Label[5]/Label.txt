@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Name=LQuest
+Pos=192,736,-20
+Size=200,20
+Text=FormMain.LQuest
+TextColor=255,239,132
+WordWrap=False

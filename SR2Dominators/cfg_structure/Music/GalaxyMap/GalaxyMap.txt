@@ -1,0 +1,2 @@
+1=Music\special\hymn.dat
+1=Music\fly\Theo-Inside.dat

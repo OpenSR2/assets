@@ -1,0 +1,5 @@
+FrameLoad=0
+Image=Bm.FormShip2.1ActivateAnim
+Name=GateAnim
+Pos=25,426,4
+Size=41,41

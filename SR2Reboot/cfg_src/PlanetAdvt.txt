@@ -1,0 +1,338 @@
+0 {
+	Info {
+		Pos=66,34
+		Image1=GI,Bm.PlanetAdvt.1border
+		Image2=GI,Bm.PlanetAdvt.2border
+	}
+	List {
+		1=01
+		1=02
+		1=03
+		1=04
+		1=05
+		1=06
+		1=07
+		1=08
+		1=09
+		1=10
+		1=11
+		1=12
+		1=13
+		1=14
+		1=15
+		1=16
+		1=17
+	}
+
+	01 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_01
+		Goods=Technics
+		War=-1
+	}
+	02 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_02
+		Goods=Technics
+		War=-1
+	}
+	03 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_03
+		Goods=Food
+		War=-1
+	}
+	04 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_04
+		Goods=Arms
+		War=-1
+	}
+	05 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_05
+		Goods=Alcohol
+		War=-1
+	}
+	06 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_06
+		Goods=Medicine
+	}
+	07 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_07
+		Owner=People
+		War=-1
+	}
+	08 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_08
+		Owner=People
+		War=-1
+	}
+	09 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_09
+		Owner=Gaal
+		War=-1
+	}
+	10 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_10
+		Owner=Maloc
+		War=-1
+	}
+	11 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_11
+		Owner=People,Fei,Gaal
+		War=-1
+	}
+	12 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_12
+		Owner=Peleng,People,Fei
+		War=-1
+	}
+	13 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_13
+		War=-1
+	}
+	14 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_14
+		Owner=People
+	}
+	15 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_15
+		Owner=Fei
+	}
+	16 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_16
+	}
+	17 {
+		Image2=GAI,Bm.PlanetAdvt.2_0_17
+		War=1
+	}
+}
+1 {
+	Info {
+		Pos=79,-10
+		Image1=GI,Bm.PlanetAdvt.1border
+		Image2=GI,Bm.PlanetAdvt.2border
+	}
+	List {
+		1=01
+		1=02
+		1=03
+		1=04
+		1=05
+		1=06
+		1=07
+		1=08
+		1=09
+		1=10
+		1=11
+		1=12
+		1=13
+		1=14
+		1=15
+		1=16
+		1=17
+
+//		2=Text,Change,Peleng,Medicine
+//		1=Change,Peleng
+//		1=Change,Text
+	}
+
+	01 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_01
+		Goods=Technics
+		War=-1
+	}
+	02 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_02
+		Goods=Technics
+		War=-1
+	}
+	03 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_03
+		Goods=Food
+		War=-1
+	}
+	04 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_04
+		Goods=Arms
+		War=-1
+	}
+	05 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_05
+		Goods=Alcohol
+		War=-1
+	}
+	06 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_06
+		Goods=Medicine
+	}
+	07 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_07
+		Owner=People
+		War=-1
+	}
+	08 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_08
+		Owner=People
+		War=-1
+	}
+	09 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_09
+		Owner=Gaal
+		War=-1
+	}
+	10 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_10
+		Owner=Maloc
+		War=-1
+	}
+	11 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_11
+		Owner=People,Fei,Gaal
+		War=-1
+	}
+	12 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_12
+		Owner=Peleng,People,Fei
+		War=-1
+	}
+	13 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_13
+		War=-1
+	}
+	14 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_14
+		Owner=People
+	}
+	15 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_15
+		Owner=Fei
+	}
+	16 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_16
+	}
+	17 {
+		Image2=GAI,Bm.PlanetAdvt.2_3_17
+		War=1
+	}
+
+//	Change {
+//		Image1=GAI,Bm.PlanetAdvt.1change
+//		Image2=GAI,Bm.PlanetAdvt.2change
+//	}
+//	Text {
+//		Image1=GAI,Bm.PlanetAdvt.1text
+//		Image2=GAI,Bm.PlanetAdvt.2text
+//	}
+//	Medicine {
+//		Goods=Medicine
+//		Image1=GAI,Bm.PlanetAdvt.1medicine
+//		Image2=GAI,Bm.PlanetAdvt.2medicine
+//	}
+//	Peleng {
+//		Owner=Peleng
+//		Image1=GAI,Bm.PlanetAdvt.1peleng
+//		Image2=GAI,Bm.PlanetAdvt.2peleng
+//	}
+}
+2 {
+	Info {
+		Pos=71,60
+		Image1=GI,Bm.PlanetAdvt.1border
+		Image2=GI,Bm.PlanetAdvt.2border
+	}
+	List {
+		1=01
+		1=02
+		1=03
+		1=04
+		1=05
+		1=06
+		1=07
+		1=08
+		1=09
+		1=10
+		1=11
+		1=12
+		1=13
+		1=14
+		1=15
+		1=16
+		1=17
+	}
+
+	01 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_01
+		Goods=Technics
+		War=-1
+	}
+	02 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_02
+		Goods=Technics
+		War=-1
+	}
+	03 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_03
+		Goods=Food
+		War=-1
+	}
+	04 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_04
+		Goods=Arms
+		War=-1
+	}
+	05 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_05
+		Goods=Alcohol
+		War=-1
+	}
+	06 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_06
+		Goods=Medicine
+	}
+	07 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_07
+		Owner=People
+		War=-1
+	}
+	08 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_08
+		Owner=People
+		War=-1
+	}
+	09 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_09
+		Owner=Gaal
+		War=-1
+	}
+	10 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_10
+		Owner=Maloc
+		War=-1
+	}
+	11 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_11
+		Owner=People,Fei,Gaal
+		War=-1
+	}
+	12 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_12
+		Owner=Peleng,People,Fei
+		War=-1
+	}
+	13 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_13
+		War=-1
+	}
+	14 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_14
+		Owner=People
+	}
+	15 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_15
+		Owner=Fei
+	}
+	16 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_16
+	}
+	17 {
+		Image2=GAI,Bm.PlanetAdvt.2_4_17
+		War=1
+	}
+}

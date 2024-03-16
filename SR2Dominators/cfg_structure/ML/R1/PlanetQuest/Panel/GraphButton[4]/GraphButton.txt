@@ -1,0 +1,10 @@
+Help=FormPQuest.HelpStyle3
+ImageDisable=GI,Bm.FormPQuest2.1Skin3D
+ImageDown=GI,Bm.FormPQuest2.1Skin3D
+ImageNormal=GI,Bm.FormPQuest2.1Skin3N
+ImageNormalA=GI,Bm.FormPQuest2.1Skin3A
+Kind=Disable
+KindHit=Rect
+Name=Style3
+Pos=440,579,2
+Size=13,13

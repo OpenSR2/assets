@@ -1,0 +1,4 @@
+Packages {
+	Package=Mods\Tweaks\SR2LoadingScreen\SR2LoadingScreen.pkg
+	Package=Mods\Tweaks\SR2LoadingScreen\SR2LoadingScreenRus.pkg
+}

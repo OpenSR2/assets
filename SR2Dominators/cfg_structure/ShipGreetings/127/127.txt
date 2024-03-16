@@ -1,0 +1,6 @@
+AutoTalk=No
+FlyType=ToPlanet
+Relations=Normal,Good,Best
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=Привет, <Player>!
+Text=Я следую на планету <ToPlanet>. Ты обращаешься по делу, или просто поболтать? В последнем случае ничем не могу помочь.

@@ -1,0 +1,155 @@
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+
+    Panel {
+        Name=MainPanel
+        Pos=512,384,-1
+		Sme=512,384
+        Size=1024,768
+	
+		MoveWorld=True
+
+		Panel=cfg\R2\PanelFilm.txt {
+			Pos=-270,310,ButtonNav
+		}
+
+		StarField {
+			Name=StarField
+			Pos=0,0,250
+			Size=1024,768
+			Sme=512,384
+			Image=Bm.BGO.bg0
+		}
+		SpaceImg {
+			Name=SpaceImg
+			Pos=0,0,SpaceImg
+			Size=1024,768
+			Sme=512,384
+		}
+		StarFieldM {
+			Name=StarFieldM
+			Pos=0,0,StarFieldM
+			Size=1024,768
+			Sme=512,384
+		}
+		StarFieldImg {
+			Name=StarFieldImg
+			Pos=0,0,StarFieldImg
+			Size=1024,768
+			Sme=512,384
+		}
+
+		Label {
+			Name=FPS
+			Pos=-50,-374,InfoPanel
+			Size=100,20
+			Font=Font.2Normal
+			WordWrap=False
+			AlignX=Left
+			AlignY=Center
+			MVUpdate=True
+		}
+
+		Image {
+			Pos=348,-384,MapPanelF
+			Size=164,204
+			Image=GI,Bm.PanelSpace2.2RadarF
+		}
+		GraphBuf {
+			Name=MapPanel
+			Pos=426,-299,MapPanel
+			Size=149,149
+			Sme=74,74
+			MouseBlocking=True
+		}
+        Image {
+            Name=MapPanelA
+            Pos=426,-299,MapPanelF
+            Size=149,149
+            Sme=74,74
+            Image=GI,Bm.PanelSpace2.2RadarA
+        }
+		GraphButton {
+			Name=CenterShip
+			Pos=475,-245,InfoPanel
+			Size=28,22
+			Help=Help.ButCenterShip
+
+			KindHit=Graph
+			Kind=Normal
+
+			ImageNormal=GI,Bm.PanelSpace2.2CenterN
+			ImageNormalA=GI,Bm.PanelSpace2.2CenterA
+			ImageDown=GI,Bm.PanelSpace2.2CenterD
+		}
+
+		Label {
+			Font=Font.2Normal
+			Pos=70,295,ButtonNav
+			Size=100,20
+			Text=Speed
+			MVUpdate=True
+			Active=False
+	    }
+		ScrollBar {
+			Style=Style.ScrollBar.H
+			Pos=170,295,ButtonNav
+			Size=300,20
+			Name=SBSpeed
+			Min=10
+			Max=60
+			PageSize=1
+			LargeChange=1
+			SmallChange=1
+			Position=20
+			Kind=x
+			KindCalc=0
+			MVUpdate=True
+			Active=False
+		}
+
+		Label {
+			Font=Font.2Normal
+			Pos=-512,295,ButtonNav
+			Size=100,20
+			Text=Frame
+			MVUpdate=True
+			Active=False
+	    }
+		ScrollBar {
+			Style=Style.ScrollBar.H
+			Pos=-412,295,ButtonNav
+			Size=300,20
+			Name=SBFrame
+			Min=1
+			Max=200
+			PageSize=1
+			LargeChange=1
+			SmallChange=1
+			Position=1
+			Kind=x
+			KindCalc=0
+			MVUpdate=True
+			Active=False
+		}
+
+//		ScrollBar {
+//			Style=Style.ScrollBar.H
+//			Pos=-362,324,ButtonNav
+//			Size=835,20
+//			Name=SBTurn
+//			Min=1
+//			Max=200
+//			PageSize=1
+//			LargeChange=1
+//			SmallChange=1
+//			Position=1
+//			Kind=x
+//			KindCalc=0
+//			MVUpdate=True
+//		}
+	}
+
+}

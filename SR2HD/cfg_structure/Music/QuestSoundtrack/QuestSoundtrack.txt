@@ -1,0 +1,12 @@
+ForQuest_Childville=ForQuest_Childville\ForQuest_Childville.txt ^{
+}
+ForQuest_Depth=ForQuest_Depth\ForQuest_Depth.txt ^{
+}
+ForQuest_Fighter=ForQuest_Fighter\ForQuest_Fighter.txt ^{
+}
+ForQuest_HYMN=ForQuest_HYMN\ForQuest_HYMN.txt ^{
+}
+ForQuest_Illuminator=ForQuest_Illuminator\ForQuest_Illuminator.txt ^{
+}
+ForQuest_Pulsar=ForQuest_Pulsar\ForQuest_Pulsar.txt ^{
+}

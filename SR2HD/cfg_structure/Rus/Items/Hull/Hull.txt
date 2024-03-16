@@ -1,0 +1,16 @@
+AverageSize=500
+Name=<Type> корпус <ShipType>
+ShipType=ShipType\ShipType.txt ^{
+}
+ShortName=Корпус
+Text=Стойкость корпуса: <Size> (<MaxSize>) единиц, обшивка блокирует до <HitProtect> единиц ущерба. Восприимчивость к урону:<br>Э:<FragilityE>%  О:<FragilityS>%  Р:<FragilityM>%.
+Type=Type\Type.txt ^{
+}
+mAlloy=1,2,3,4,5,6,7,8
+mFragilityByLevelEnergy=1.00, 1.00, 1.00, 1.05, 1.10, 1.00, 0.95, 0.85
+mFragilityByLevelMissile=1.05, 1.10, 1.00, 0.95, 0.90, 1.00, 1.05, 1.10
+mFragilityByLevelSplinter=0.95, 0.90, 1.00, 1.00, 1.00, 1.00, 1.00, 1.05
+mFragilityByOwnerEnergy=1.05, 1.05, 1.10, 0.90, 0.95, 1.00, 1.00, 0.95
+mFragilityByOwnerMissile=0.90, 1.05, 0.95, 1.05, 1.10, 1.00, 1.00, 0.95
+mFragilityByOwnerSplinter=1.05, 0.90, 0.95, 1.05, 0.95, 1.00, 1.00, 1.10
+mFragilityByShipType=1.0, 0.9, 1.1, 1.2, 1.1, 1.0, 1.0, 1.0, 0.9, 1.0, 0.9

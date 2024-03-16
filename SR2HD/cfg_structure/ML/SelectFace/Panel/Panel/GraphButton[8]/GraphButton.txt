@@ -1,0 +1,8 @@
+ImageDown=GI,Bm.FormMessageBox.2CancelD
+ImageNormalA=GI,Bm.FormMessageBox.2CancelA
+Kind=Normal
+KindHit=Graph
+Name=Cancel
+Pos=300,710,0
+Size=48,21
+Style=Style.GB.SoundNormal

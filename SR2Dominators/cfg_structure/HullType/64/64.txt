@@ -1,0 +1,16 @@
+Artefact=0
+Cost=90
+Def=-1
+Droid=0
+Forsage=-1
+Hook=0
+Name=Гнилой зуб
+Probability=10
+Race=Maloc,People,Gaal
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=130
+Text=Просторный корпус для пиратов низшего сословия. Поддержка форсажа и установка генератора поля не предусмотрена.
+Weapon=0
+Year=0

@@ -1,0 +1,15 @@
+Cost=130
+CustomTag=SuperHullSB
+Equipments=Hull
+KindGraph=3
+Name=Болид
+Size=100
+Special=1
+Text=Скорость двигателя: <bonSpeed> ед.
+Text=Дальность прыжка: <bonJump> ед.
+Text=Дальность радара: <bonRadar> ед..
+Text=Броня корпуса: <bonHull> ед.
+bonHull=-3
+bonJump=20
+bonRadar=1000
+bonSpeed=300

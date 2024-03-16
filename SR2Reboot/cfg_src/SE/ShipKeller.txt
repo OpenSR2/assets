@@ -1,0 +1,121 @@
+///////////////////////////////////////////////////////////////
+K1 {
+	SizeImage=128,128	
+	SmeImage=64,64
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1Keller1
+	2ImageP=GI,Bm.ShipP.2Keller1
+	Image=Bm.Ship.Keller1
+	ImageS=Bm.Ship.Keller1s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-98]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+K2 {
+	SizeImage=128,128	
+	SmeImage=64,51
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=56,105
+	Tail2=68,105
+
+	1ImageP=GI,Bm.ShipP.1Keller2
+	2ImageP=GI,Bm.ShipP.2Keller2
+	Image=Bm.Ship.Keller2
+	ImageS=Bm.Ship.Keller2s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+K3 {
+	SizeImage=128,128	
+	SmeImage=63,68
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	1ImageP=GI,Bm.ShipP.1Keller3
+	2ImageP=GI,Bm.ShipP.2Keller3
+	Image=Bm.Ship.Keller3
+	ImageS=Bm.Ship.Keller3s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-99]
+	}
+
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+K4 {
+	SizeImage=128,128
+	SmeImage=63,74
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=64,97
+
+	1ImageP=GI,Bm.ShipP.1Keller4
+	2ImageP=GI,Bm.ShipP.2Keller4
+	Image=Bm.Ship.Keller4
+	ImageS=Bm.Ship.Keller4s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,50-92][70,43-49]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}
+///////////////////////////////////////////////////////////////
+K5 {
+	SizeImage=128,128	
+	SmeImage=62,60
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.DominatorMap
+	SmeImageMap=2,2		
+	StateTime=2000		
+	Tail1=63,93
+
+	1ImageP=GI,Bm.ShipP.1Keller5
+	2ImageP=GI,Bm.ShipP.2Keller5
+	Image=Bm.Ship.Keller5
+	ImageS=Bm.Ship.Keller5s
+
+	Anim {
+    	Normal=2,[70,0-49]
+	    0=1,[70,0-0][70,50-98]
+	}
+	AnimS {
+	    Normal=2,[70,0-49]
+	}
+}

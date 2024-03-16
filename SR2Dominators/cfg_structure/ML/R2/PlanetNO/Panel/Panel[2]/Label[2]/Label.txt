@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Ranger
+Pos=467,47,8
+Size=125,17
+Text=FormPlanetNO.Hill
+TextColor=0,0,0
+WordWrap=True

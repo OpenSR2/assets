@@ -1,0 +1,10 @@
+Help=FormShip.HelpShipToStorage
+ImageDown=GI,Bm.FormShip2.ToStorageD
+ImageNormal=GI,Bm.FormShip2.ToStorageN
+ImageNormalA=GI,Bm.FormShip2.ToStorageA
+Kind=Disable
+KindHit=Rect
+Name=ShipToStorage
+Pos=103,9,3
+Size=41,24
+Style=Style.GB.SoundNormal

@@ -1,0 +1,398 @@
+Border=0,0,1024,768
+Panel {
+    Pos=0,0
+    Size=1024,768
+    MoveWorld=False
+    Name=MainPanel
+
+    Image {
+        Image=GI,Bm.FormOptions2.2Bg
+        Size=1024,768
+        Pos=0,0,9
+    }
+
+//  GraphBuf {
+//      Name=BGBuf
+//      Pos=0,0,9
+//      Size=1024,768
+//  }
+//  ShrLight {
+//      Pos=0,0,8
+//      Size=1024,768
+//      ShrLight=3
+//  }
+
+    Panel {
+        Size=748,663
+        Pos=138,33,7
+
+        Image {
+            Name=ModeLeft
+            Image=GI,Bm.FormOptions2.2Left
+            Pos=0,0,-2
+            Size=743,663
+        }
+        Image {
+            Name=ModeRight
+            Image=GI,Bm.FormOptions2.2Right
+            Pos=5,0,-2
+            Size=743,663
+        }
+
+        Panel {
+            Name=ModeLeftPanel
+            Pos=430,0,-1
+            Size=318,104
+
+            Image {
+                Name=ModeLeftSmall
+                Image=GI,Bm.FormOptions2.2LeftSmall
+                Pos=0,0,-1
+                Size=318,104
+            }
+            Image {
+                Name=ModeLeftButtonN
+                Image=GI,Bm.FormOptions2.2PlanetN
+                Pos=90,10,-3
+                Size=203,51
+            }
+            Image {
+                Name=ModeLeftButtonD
+                Image=GI,Bm.FormOptions2.2PlanetD
+                Pos=90,10,-3
+                Size=203,51
+            }
+            Label {
+                Name=ModeLeftName
+                Font=Font.2Ranger
+                TextColor=0,44,70
+                TextShadowColor=37,178,189
+                TextShadow=1
+                Pos=69,15,-4
+                Size=250,40
+                AlignX=Center
+                AlignY=CenterEx
+                WordWrap=True
+                Text=FormCfgSettings.ModePlanet
+            }
+        }
+
+        Panel {
+            Name=ModeRightPanel
+            Pos=-2,0,-1
+            Size=318,95
+
+            Image {
+                Name=ModeRightSmall
+                Image=GI,Bm.FormOptions2.2RightSmall
+                Pos=0,0,-1
+                Size=318,95
+            }
+            Image {
+                Name=ModeRightButtonN
+                Image=GI,Bm.FormOptions2.2SpaceN
+                Size=203,51
+                Pos=28,10,-3
+            }
+            Image {
+                Name=ModeRightButtonD
+                Image=GI,Bm.FormOptions2.2SpaceD
+                Size=203,51
+                Pos=28,10,-3
+            }
+            Label {
+                Name=ModeRightName
+                Font=Font.2Ranger
+                TextColor=0,44,70
+                TextShadowColor=37,178,189
+                TextShadow=1
+                Pos=1,15,-4
+                Size=250,40
+                AlignX=Center
+                AlignY=CenterEx
+                WordWrap=True
+                Text=FormCfgSettings.ModeSpace
+            }
+        }
+
+//      Image {
+//          Image=GI,Bm.FormOptions.2Arc
+//          Pos=42,524,-3
+//          Size=87,41
+//      }
+
+        GraphButton {
+            Name=ButGroup0
+            
+            Pos=69,159,-3
+            Size=124,25
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2PageN
+            ImageNormalA=GI,Bm.FormOptions2.2PageA
+            ImageDown=GI,Bm.FormOptions2.2PageD
+
+            Font=Font.2Ranger
+            Caption=FormCfgSettings.GMain
+            CaptionColorNormal=88,229,255
+            CaptionColorNormalA=88,229,255
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionSme=0,-2,0,-2
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=ButGroup1
+            
+            Pos=69,199,-3
+            Size=124,25
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2PageN
+            ImageNormalA=GI,Bm.FormOptions2.2PageA
+            ImageDown=GI,Bm.FormOptions2.2PageD
+
+            Font=Font.2Ranger
+            Caption=FormCfgSettings.GGraph
+            CaptionColorNormal=88,229,255
+            CaptionColorNormalA=88,229,255
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionSme=0,-2,0,-2
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=ButGroup2
+            
+            Pos=69,239,-3
+            Size=124,25
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2PageN
+            ImageNormalA=GI,Bm.FormOptions2.2PageA
+            ImageDown=GI,Bm.FormOptions2.2PageD
+
+            Font=Font.2Ranger
+            Caption=FormCfgSettings.GSound
+            CaptionColorNormal=88,229,255
+            CaptionColorNormalA=88,229,255
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionSme=0,-2,0,-2
+
+            Style=Style.GB.SoundNormal
+        }
+
+        GraphButton {
+            Name=ButGroup3
+            
+            Pos=69,279,-3
+            Size=124,25
+
+            Kind=Fix
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2PageN
+            ImageNormalA=GI,Bm.FormOptions2.2PageA
+            ImageDown=GI,Bm.FormOptions2.2PageD
+
+            Font=Font.2Ranger
+            Caption=FormCfgSettings.GMod
+            CaptionColorNormal=88,229,255
+            CaptionColorNormalA=88,229,255
+            CaptionColorDown=0,0,0
+            CaptionColorDownA=0,0,0
+            CaptionSme=0,-2,0,-2
+
+            Style=Style.GB.SoundNormal
+        }
+
+	    Label {
+        	Font=Font.2Small
+	        Pos=48,239,-3
+        	Size=169,200
+    	    AlignX=Left
+	        AlignY=Top
+        	WordWrap=True
+    	    Name=Warning
+			TextColor=255,0,0
+	    }
+
+	Label {
+		Font=Font.2Small
+		Pos=48,319,-3
+        	Size=169,200
+		AlignX=Left
+	        AlignY=Top
+        	WordWrap=True
+		Name=WarningMod
+		TextColor=255,0,0
+	    }
+
+        PanelScrollBar {
+            Name=PanelSet
+            Pos=265,110,-3
+            Size=385,488
+
+            StyleBarY=Style.ScrollBar.2V2
+            ActiveBarY=True
+            PosAutoBarY=False
+            RectBarY=690,149,707,589
+            MoveWorld=True
+            UnlimitedWorld=False
+            ExternalSB=True
+        }
+    }
+
+    Image {
+        Pos=86,0,8
+        Size=849,75
+        Image=GI,Bm.FormOptions2.2Top
+    }
+    Label {
+        Font=Font.2Ranger
+        TextColor=0,255,255
+        Pos=387,24,7
+        Size=250,40
+        AlignX=Center
+        AlignY=CenterEx
+        WordWrap=True
+        Text=FormCfgSettings.Caption
+    }
+
+    Panel {
+        Pos=94,682,8
+        Size=839,86
+        
+        Image {
+            Pos=0,0,9
+            Size=839,86
+            Image=GI,Bm.FormOptions2.2Bottom
+        }
+
+        GraphButton {
+            Name=ButAUp
+            
+            Pos=175,3,-3
+            Size=54,27
+
+            Kind=Normal
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormOptions2.2HighN
+            ImageNormalA=GI,Bm.FormOptions2.2HighA
+            ImageDown=GI,Bm.FormOptions2.2HighD
+
+            Help=FormCfgSettings.HelpButMax
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=ButAMiddle
+            
+            Pos=170,31,-3
+            Size=55,25
+
+            Kind=Normal
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormOptions2.2MediumN
+            ImageNormalA=GI,Bm.FormOptions2.2MediumA
+            ImageDown=GI,Bm.FormOptions2.2MediumD
+
+            Help=FormCfgSettings.HelpButMiddle
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=ButADown
+            
+            Pos=161,56,-3
+            Size=56,27
+
+            Kind=Normal
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormOptions2.2LowN
+            ImageNormalA=GI,Bm.FormOptions2.2LowA
+            ImageDown=GI,Bm.FormOptions2.2LowD
+
+            Help=FormCfgSettings.HelpButMin
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=ButAAuto
+            
+            Pos=101,21,-3
+            Size=67,45
+
+            Kind=Normal
+            KindHit=Graph
+
+            ImageNormal=GI,Bm.FormOptions2.2AutoN
+            ImageNormalA=GI,Bm.FormOptions2.2AutoA
+            ImageDown=GI,Bm.FormOptions2.2AutoD
+
+            Help=FormCfgSettings.HelpButAuto
+
+            Style=Style.GB.SoundNormal
+        }
+
+        GraphButton {
+            Name=Ok
+            
+            Pos=608,21,1
+            Size=66,45
+
+            Kind=Normal
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2OkN
+            ImageNormalA=GI,Bm.FormOptions2.2OkA
+            ImageDown=GI,Bm.FormOptions2.2OkD
+            ImageDisable=GI,Bm.FormOptions2.2OkH
+            
+            Help=FormCfgSettings.HelpButOk
+
+            Style=Style.GB.SoundNormal
+        }
+        GraphButton {
+            Name=Cancel
+            
+            Pos=675,21,2
+            Size=67,45
+
+            Kind=Normal
+            KindHit=Rect
+
+            ImageNormal=GI,Bm.FormOptions2.2CancelN
+            ImageNormalA=GI,Bm.FormOptions2.2CancelA
+            ImageDown=GI,Bm.FormOptions2.2CancelD
+
+            Help=FormCfgSettings.HelpButCancel
+
+            Style=Style.GB.SoundNormal
+        }
+
+        Label {
+            Pos=279,50,2
+            Size=280,31
+            Name=LabelHelp
+            Font=Font.2Ranger
+            AlignX=Center
+            AlignY=CenterEx
+            WordWrap=True
+            TextColor=0,255,255
+        }
+    }
+}
+

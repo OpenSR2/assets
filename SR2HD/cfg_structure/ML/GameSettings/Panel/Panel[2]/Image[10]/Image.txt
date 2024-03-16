@@ -1,0 +1,3 @@
+Name=ItemI8
+Pos=126,274,40
+Size=36,36

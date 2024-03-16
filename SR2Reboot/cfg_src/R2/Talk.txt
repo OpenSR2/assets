@@ -1,0 +1,223 @@
+Border=0,0,1024,768
+Panel {
+    Name=MainPanel
+    Pos=0,0
+    Size=1024,768
+    MoveWorld=False
+
+    GraphBuf {
+        Name=BGBuf
+        Pos=0,0,9
+        Size=1024,768
+    }
+//  ShrLight {
+//      Pos=0,0,8
+//      Size=1024,768
+//      ShrLight=-2
+//  }
+
+//  Image {
+//      Name=ObjArrow
+//      Pos=249,215,-3
+//      Size=80,79
+//      Image=GI,Bm.FormTalk.2Arrow
+//  }
+
+
+//      Panel {
+//          Name=MapPartner
+//          Pos=863,11,-10
+//          Size=151,152
+//      }
+        Image {
+            Pos=860,0,-8
+            Size=164,204
+            Image=GI,Bm.PanelSpace2.2RadarF
+        }
+        GraphBuf {
+            Name=MapPanel
+            Pos=938,85,-7
+            Size=149,149
+            Sme=74,74
+            MouseBlocking=True
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=CenterPlayer
+            Pos=987,139,-9
+            Size=28,22
+            Help=Help.ButCenterShip
+
+            KindHit=Graph
+            Kind=Normal
+
+            ImageNormal=GI,Bm.PanelSpace2.2CenterN
+            ImageNormalA=GI,Bm.PanelSpace2.2CenterA
+            ImageDown=GI,Bm.PanelSpace2.2CenterD
+        }
+    
+    Panel {
+        Name=PanelTalk
+        Pos=607,0,-4
+        Size=428,540
+
+        Image {
+            Name=ImageBGB
+            Pos=15,320,10
+            Size=361,145
+            Image=GI,Bm.FormTalk2.2BgB
+        }
+
+        Image {
+            Name=ImageBG
+            Pos=0,0,6
+            Size=428,540
+            Image=GI,Bm.FormTalk2.2Bg
+        }
+
+        Image {
+            Name=CaptainI
+            Pos=25,54,4
+            Size=97,108//99,110
+        }
+        GAI {
+            Name=CaptainA
+            Pos=25,54,3
+            Size=97,108
+            PBuf=True
+            KindX=Center
+            KindY=Center
+            TransColor=255,0,255
+        }
+
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=CenterShip
+            Pos=93,139,2
+            Size=28,22
+
+            Kind=Normal
+            KindHit=Rect
+            
+            ImageNormal=GI,Bm.FormTalk2.2CenterN
+            ImageNormalA=GI,Bm.FormTalk2.2CenterA
+            ImageDown=GI,Bm.FormTalk2.2CenterD
+        }
+
+        Label {
+            Name=TalkShip
+			Font=Font.2Ranger
+            Pos=128,59,4
+            Size=115,47
+            AlignX=Center 
+            AlignY=CenterEx 
+            WordWrap=True
+            TextColor=88,229,255//255,255,230
+        }
+
+        Label {
+            Name=TalkShipChar
+			Font=Font.2Ranger
+            Pos=136,104,4
+            Size=96,18
+            AlignX=Center 
+            AlignY=CenterEx 
+            WordWrap=True
+            TextColor=88,229,255//255,255,230
+        }
+
+        Image {
+            Pos=379,188,5
+            Size=17,22
+            Image=GI,Bm.SB.2V1_UpH
+        }
+        Image {
+            Pos=379,262,5
+            Size=17,22
+            Image=GI,Bm.SB.2V1_DownH
+        }
+
+        Image {
+            Pos=379,330,5
+            Size=17,22
+            Image=GI,Bm.SB.2V1_UpH
+        }
+        Image {
+            Pos=379,428,5
+            Size=17,22
+            Image=GI,Bm.SB.2V1_DownH
+        }
+
+        PanelScrollBar {
+            Name=TextScroll
+            Pos=29,185,4
+            //Size=330,166
+            Size=338,119
+
+            StyleBarY=Style.ScrollBar.2V1
+            ActiveBarY=True
+            PosAutoBarY=False
+            RectBarY=379,188,396,284
+            MoveWorld=True
+            UnlimitedWorld=False
+            ExternalSB=True
+
+            Label {
+                Name=TalkText
+                Style=Style.Label.2Normal
+                Pos=0,0,0,w
+                //Size=330,166
+                Size=338,119
+                AlignX=Auto //Left //Center //Auto
+                AlignY=Auto //CenterEx //Auto
+                WordWrap=True
+                TextColor=0,0,0//50,160,0
+            }
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=UserMsgAdd
+            Pos=369,292,3
+            Size=28,23
+
+            Kind=Disable
+            KindHit=Rect
+            
+            ImageNormal=GI,Bm.FormTalk2.2MemN
+            ImageNormalA=GI,Bm.FormTalk2.2MemA
+            ImageDown=GI,Bm.FormTalk2.2MemD
+            ImageDisable=GI,Bm.FormTalk2.2MemH
+        }
+        PanelScrollBar {
+            Name=TalkPA
+            Pos=17,334,9
+            Size=359,119
+
+            StyleBarY=Style.ScrollBar.2V1
+            ActiveBarY=True
+            PosAutoBarY=False
+            RectBarY=379,330,396,450
+            MoveWorld=True
+            UnlimitedWorld=False
+            ExternalSB=True
+        }
+        GraphButton {
+            Style=Style.GB.SoundNormal
+
+            Name=Close
+            Pos=292,463,3
+            Size=74,34
+
+            Kind=Disable
+            KindHit=Rect
+            
+            ImageNormal=GI,Bm.FormTalk2.2CloseN
+            ImageNormalA=GI,Bm.FormTalk2.2CloseA
+            ImageDown=GI,Bm.FormTalk2.2CloseD
+            ImageDisable=GI,Bm.FormTalk2.2CloseH
+        }
+    }
+}

@@ -1,0 +1,3 @@
+Name=CaptainI
+Pos=639,87,11
+Size=97,108

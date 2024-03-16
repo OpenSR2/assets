@@ -1,0 +1,4 @@
+Image=GI,Bm.Micromoduls.1MM3_Set
+Name=S_Scaner_0Set
+Pos=258,192,-2
+Size=27,28

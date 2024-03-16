@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=Center
+Font=Font.2Ranger
+Name=PLProgress
+Pos=497,644,6
+Size=75,17
+TextColor=255,255,255
+TextShadow=1
+TextShadowColor=0,0,0

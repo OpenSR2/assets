@@ -1,0 +1,13 @@
+CoalitionAlreadyDefeated=No
+CurPlanetPirateClan=Yes
+CurPlanetRaceIsPlayerRace=Yes
+CurPlanetRelations=Good,Best
+PlayerRank=Cadet,Pilot,Wingman,Leader,Ace,Commander, Admiral
+PlayerRating=Average,Big,Huge
+Priority=20
+Text=Здорово, рейнджер <Player>. Ты хороший рейнджер и это нам не нравится. Это намек, если что.
+Text=Кстати, тут пришла бумага из системы <ToStar>, что дескать тебя там разыскивают и хотят посадить в тюрьму. К сожалению, у нас недостаточно ресурсов, чтобы переправить тебя туда самостоятельно, так что радуйся. Вообще, я считаю, что всем рейнджерам место в тюряге, чтобы они на своей шкуре попробовали каково быть опущенным типом.
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal
+ToPlanetRaceIsPlayerRace=No
+ToPlanetRelations=War

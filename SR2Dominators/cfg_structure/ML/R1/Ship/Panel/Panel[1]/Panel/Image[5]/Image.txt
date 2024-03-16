@@ -1,0 +1,3 @@
+Name=Storage_4i
+Pos=46,39,0
+Size=30,30

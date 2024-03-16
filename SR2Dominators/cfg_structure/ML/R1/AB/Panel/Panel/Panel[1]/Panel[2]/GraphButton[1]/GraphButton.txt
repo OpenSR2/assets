@@ -1,0 +1,10 @@
+Help=Help.ButABPause
+ImageDown=GI,Bm.FormAB.1PauseD
+ImageNormal=GI,Bm.FormAB.1PauseN
+ImageNormalA=GI,Bm.FormAB.1PauseA
+Kind=Normal
+KindHit=Graph
+Name=ButPause
+Pos=25,4,1
+Size=94,53
+Style=Style.GB.SoundNormal

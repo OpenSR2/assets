@@ -1,0 +1,3 @@
+BGI=Bm.FormRuins.2DestroyerBridgebg
+PanelName=PanelPeopleHolo
+Table=Bm.FormRuins.2WBtable

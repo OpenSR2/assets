@@ -1,0 +1,6 @@
+CurPlanetPirateClan=Yes
+CurPlanetRelations=Bad,Normal,Good,Best
+CurStarInBattle=Any
+CurStarInBattlePirates=Yes
+Priority=10
+Text=¬ то врем€ как вы просиживаете здесь свои штаны, <Player>, наши внешние рубежи обороны подвергаютс€ атаке. ј ну-ка быстро за штурвал, и бегом помогать свободным пиратам отстаивать свою независимость.

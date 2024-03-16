@@ -1,0 +1,3 @@
+1=Music\special\hymn.dat
+10=Music\special\SpaceIsCalling.dat
+3=Music\fly\HyperDream2.dat

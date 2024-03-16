@@ -1,0 +1,15 @@
+AddText=Тип: <WeaponType>
+Broken=(не функционирует)
+BrokenInBattle=Внимание! В результате меткого попадания орудие <Name> выведено из строя.
+BrokenInUse=Во время стрельбы зафиксирована поломка орудия <Name>.
+Name=Name\Name.txt ^{
+}
+Rocket=Rocket\Rocket.txt ^{
+}
+Text=Text\Text.txt ^{
+}
+Torpedo=Torpedo\Torpedo.txt ^{
+}
+TypeEnergy=энергетическое
+TypeMissile=ракетное
+TypeSplinter=осколочное

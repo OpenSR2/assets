@@ -1,0 +1,1797 @@
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+	Name=MainPanel
+
+    Image {
+		Image=GI,Bm.FormGameSet2.2bg
+		Pos=0,0,1000
+		Size=1024,768
+	}
+
+    Image {
+		Image=GI,Bm.FormGameSet2.2Left
+		Pos=38,42,100
+		Size=481,665
+	}
+
+	Label {
+		Font=Font.2Ranger
+		TextColor=88,229,255
+		Pos=230,70,2
+		Size=100,20
+		Text=FormGameSet2.Common.Race
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=88,229,255
+		Pos=229,511,2
+		Size=100,20
+		Text=FormGameSet2.Common.Char
+		AlignX=Center
+		AlignY=Center
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=RaceMaloc
+		Pos=80,184,50
+		Size=193,95
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2RaceMalocA
+		ImageDown=GI,Bm.FormGameSet2.2RaceMalocD
+
+		Help=FormGameSet2.Common.HelpRaceMaloc
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=RacePeleng
+		Pos=128,119,50
+		Size=152,105
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2RacePelengA
+		ImageDown=GI,Bm.FormGameSet2.2RacePelengD
+
+		Help=FormGameSet2.Common.HelpRacePeleng
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=RacePeople
+		Pos=224,105,50
+		Size=114,119
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2RacePeopleA
+		ImageDown=GI,Bm.FormGameSet2.2RacePeopleD
+
+		Help=FormGameSet2.Common.HelpRacePeople
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=RaceFei
+		Pos=285,119,50
+		Size=148,105
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2RaceFeiA
+		ImageDown=GI,Bm.FormGameSet2.2RaceFeiD
+
+		Help=FormGameSet2.Common.HelpRaceFei
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=RaceGaal
+		Pos=291,184,50
+		Size=192,95
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2RaceGaalA
+		ImageDown=GI,Bm.FormGameSet2.2RaceGaalD
+
+		Help=FormGameSet2.Common.HelpRaceGaal
+	}
+
+	Label {
+		Font=Font.2Ranger
+		TextColor=88,229,255
+		Pos=80,250,2
+		Size=100,20
+		Text=FormGameSet2.Common.Maloc
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=88,229,255
+		Pos=138,177,2
+		Size=100,20
+		Text=FormGameSet2.Common.Peleng
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=88,229,255
+		Pos=228,153,2
+		Size=100,20
+		Text=FormGameSet2.Common.People
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=88,229,255
+		Pos=317,182,2
+		Size=100,20
+		Text=FormGameSet2.Common.Fei
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=88,229,255
+		Pos=380,246,2
+		Size=100,20
+		Text=FormGameSet2.Common.Gaal
+		AlignX=Center
+		AlignY=Center
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Char1
+		Pos=79,324,50
+		Size=192,95
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2Char1A
+		ImageDown=GI,Bm.FormGameSet2.2Char1D
+
+		Help=FormGameSet2.Common.HelpChar1
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Char2
+		Pos=127,379,50
+		Size=150,105
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2Char2A
+		ImageDown=GI,Bm.FormGameSet2.2Char2D
+
+		Help=FormGameSet2.Common.HelpChar2
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Char3
+		Pos=223,379,50
+		Size=114,119
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2Char3A
+		ImageDown=GI,Bm.FormGameSet2.2Char3D
+
+		Help=FormGameSet2.Common.HelpChar3
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Char4
+		Pos=284,379,50
+		Size=148,105
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2Char4A
+		ImageDown=GI,Bm.FormGameSet2.2Char4D
+
+		Help=FormGameSet2.Common.HelpChar4
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Char5
+		Pos=287,324,50
+		Size=192,95
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2Char5A
+		ImageDown=GI,Bm.FormGameSet2.2Char5D
+
+		Help=FormGameSet2.Common.HelpChar5
+	}
+
+	Label {
+		Font=Font.2Ranger
+		TextColor=174,203,60
+		Pos=81,376,2
+		Size=100,20
+		Text=FormGameSet2.Common.Char1
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=174,203,60
+		Pos=138,436,2
+		Size=100,20
+		Text=FormGameSet2.Common.Char2
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=174,203,60
+		Pos=228,465,2
+		Size=100,20
+		Text=FormGameSet2.Common.Char3
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=174,203,60
+		Pos=320,437,2
+		Size=100,20
+		Text=FormGameSet2.Common.Char4
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=174,203,60
+		Pos=377,373,2
+		Size=100,20
+		Text=FormGameSet2.Common.Char5
+		AlignX=Center
+		AlignY=Center
+	}
+
+	Image {
+		Name=CaptainI
+		Pos=232,246,1
+		Size=99,110
+		Help=FormGameSet2.Common.HelpFace
+	}
+	GAI {
+		Name=CaptainA
+		Pos=232,246,0
+		Size=99,110
+		PBuf=True
+		KindX=Center
+		KindY=Center
+		TransColor=255,0,255
+	}
+
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=FaceLeft
+		Pos=189,254,50
+		Size=39,94
+
+		Kind=Normal
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2PortLA
+		ImageDown=GI,Bm.FormGameSet2.2PortLD
+
+		Help=FormGameSet2.Common.HelpFaceChange
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=FaceRight
+		Pos=334,254,50
+		Size=39,94
+
+		Kind=Normal
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2PortRA
+		ImageDown=GI,Bm.FormGameSet2.2PortRD
+
+		Help=FormGameSet2.Common.HelpFaceChange
+	}
+
+    Image {
+		Image=GI,Bm.FormGameSet2.2Name
+		Pos=209,558,50
+		Size=122,21
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=97,149,168
+		Pos=84,558,2
+		Size=122,21
+		Text=FormGameSet2.Common.Name
+		AlignX=Right
+		AlignY=Center
+	}
+	Edit {
+		Name=PlayerName
+		Font=Font.2Normal //Ranger
+		Pos=209,558,2
+		Size=122,21
+		AlignX=Center
+		MaxLen=10
+		TextColor=247,148,29
+
+		Help=FormGameSet2.Common.HelpPlayerName
+	}
+
+	Label {
+		Name=Info
+		Font=Font.2Normal //Ranger
+		TextColor=88,229,255
+		Pos=160,583,2
+		Size=335,114
+		AlignX=Auto
+		AlignY=Top
+		WordWrap=True
+
+		Help=FormGameSet2.Common.HelpInfo
+	}
+
+    Image {
+		Image=GI,Bm.FormGameSet2.2Right
+		Pos=546,247,100
+		Size=453,384
+	}
+
+	Label {
+		Font=Font.2Ranger
+		TextColor=88,229,255
+		Pos=673,274,80
+		Size=200,20
+		Text=FormGameSet2.Common.Bonus
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=97,149,168
+		Pos=722,318,80
+		Size=100,20
+		Text=FormGameSet2.Common.Skill
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=97,149,168
+		Pos=723,419,80
+		Size=100,20
+		Text=FormGameSet2.Common.Item
+		AlignX=Center
+		AlignY=Center
+	}
+
+	Image {
+		Name=SkillCur
+		Image=GI,Bm.FormGameSet2.2CurMove
+		Size=42,42
+		Pos=614,356,70
+	}
+
+	Image {
+		Name=ItemCur
+		Image=GI,Bm.FormGameSet2.2CurMove
+		Size=42,42
+		Pos=614,457,70
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Skill1
+		Pos=617,359,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2Skill1A
+		ImageDown=GI,Bm.FormGameSet2.2Skill1D
+
+		Help=FormGameSet2.Common.HelpSkill1
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Skill2
+		Pos=672,359,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2Skill2A
+		ImageDown=GI,Bm.FormGameSet2.2Skill2D
+
+		Help=FormGameSet2.Common.HelpSkill2
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Skill3
+		Pos=728,359,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2Skill3A
+		ImageDown=GI,Bm.FormGameSet2.2Skill3D
+
+		Help=FormGameSet2.Common.HelpSkill3
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Skill4
+		Pos=782,359,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2Skill4A
+		ImageDown=GI,Bm.FormGameSet2.2Skill4D
+
+		Help=FormGameSet2.Common.HelpSkill4
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Skill5
+		Pos=837,359,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2Skill5A
+		ImageDown=GI,Bm.FormGameSet2.2Skill5D
+
+		Help=FormGameSet2.Common.HelpSkill5
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Skill6
+		Pos=892,359,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2Skill6A
+		ImageDown=GI,Bm.FormGameSet2.2Skill6D
+
+		Help=FormGameSet2.Common.HelpSkill6
+	}
+
+	Image {
+		Name=ItemI1
+		Pos=617,460,40
+		Size=36,36
+	}
+	Image {
+		Name=ItemI2
+		Pos=672,460,40
+		Size=36,36
+	}
+	Image {
+		Name=ItemI3
+		Pos=728,460,40
+		Size=36,36
+	}
+	Image {
+		Name=ItemI4
+		Pos=782,460,40
+		Size=36,36
+	}
+	Image {
+		Name=ItemI5
+		Pos=837,460,40
+		Size=36,36
+	}
+	Image {
+		Name=ItemI6
+		Pos=892,460,40
+		Size=36,36
+	}
+	Image {
+		Name=ItemI7
+		Pos=617,521,40
+		Size=36,36
+	}
+	Image {
+		Name=ItemI8
+		Pos=672,521,40
+		Size=36,36
+	}
+	Image {
+		Name=ItemI9
+		Pos=728,521,40
+		Size=36,36
+	}
+	Image {
+		Name=ItemI10
+		Pos=782,521,40
+		Size=36,36
+	}
+	Image {
+		Name=ItemI11
+		Pos=837,521,40
+		Size=36,36
+	}
+	Image {
+		Name=ItemI12
+		Pos=892,521,40
+		Size=36,36
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item1
+		Pos=617,460,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem1
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item2
+		Pos=672,460,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem2
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item3
+		Pos=728,460,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem3
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item4
+		Pos=782,460,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem4
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item5
+		Pos=837,460,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem5
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item6
+		Pos=892,460,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem6
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item7
+		Pos=617,521,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem7
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item8
+		Pos=672,521,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem8
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item9
+		Pos=728,521,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem9
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item10
+		Pos=782,521,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem10
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item11
+		Pos=837,521,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem11
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Item12
+		Pos=892,521,50
+		Size=36,36
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2ItemA
+		ImageDown=GI,Bm.FormGameSet2.2ItemD
+
+		Help=FormGameSet2.Common.HelpItem12
+	}
+
+    Image {
+		Image=GI,Bm.FormGameSet2.2LevelUp
+		Pos=533,44,10
+		Size=474,91
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Level1
+		Pos=587,92,5
+		Size=88,23
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+		ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+		Help=FormGameSet2.Common.HelpLevel1
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Level2
+		Pos=680,92,5
+		Size=88,23
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+		ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+		Help=FormGameSet2.Common.HelpLevel2
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Level3
+		Pos=773,92,5
+		Size=88,23
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+		ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+		Help=FormGameSet2.Common.HelpLevel3
+	}
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Level4
+		Pos=866,92,5
+		Size=88,23
+
+		Kind=Fix
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+		ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+		Help=FormGameSet2.Common.HelpLevel4
+	}
+
+	Label {
+		Font=Font.2Ranger
+		TextColor=88,229,255
+		Pos=721,53,4
+		Size=100,20
+		Text=FormGameSet2.Common.Level
+		AlignX=Center
+		AlignY=Center
+	}
+
+
+	Label {
+		Font=Font.2Ranger
+		TextColor=0,255,0
+		Pos=581,92,4
+		Size=100,20
+		Text=FormGameSet2.Common.Level1
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=254,255,255
+		Pos=673,92,4
+		Size=100,20
+		Text=FormGameSet2.Common.Level2
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=255,240,100
+		Pos=767,92,4
+		Size=100,20
+		Text=FormGameSet2.Common.Level3
+		AlignX=Center
+		AlignY=Center
+	}
+	Label {
+		Font=Font.2Ranger
+		TextColor=255,166,0
+		Pos=860,92,4
+		Size=100,20
+		Text=FormGameSet2.Common.Level4
+		AlignX=Center
+		AlignY=Center
+	}
+
+	Panel {
+		Pos=533,104,20
+		Size=474,546
+
+		Panel {
+			Name=PanelLevel
+			Pos=0,-449,10
+			Size=474,546
+			MouseBlocking=True
+
+		    Image {
+				Image=GI,Bm.FormGameSet2.2LevelDown
+				Pos=0,0,100
+				Size=474,546
+			}
+
+			Label {
+				Font=Font.2Ranger
+				TextColor=88,229,255
+				Pos=306,493,4
+				Size=100,20
+				Text=FormGameSet2.Common.LevelUser
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=88,229,255
+				Pos=62,492,4
+				Size=100,20
+				Name=LevelProc
+				AlignX=Center
+				AlignY=Center
+				Help=FormGameSet2.Common.HelpLevelProc
+			}
+
+			Label {
+				Font=Font.2Ranger
+				TextColor=97,149,168
+				Pos=172,34,4
+				Size=132,20
+				Text=FormGameSet2.Common.LevelGroup1
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=97,149,168
+				Pos=172,88,4
+				Size=132,20
+				Text=FormGameSet2.Common.LevelGroup2
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=97,149,168
+				Pos=172,143,4
+				Size=132,20
+				Text=FormGameSet2.Common.LevelGroup3
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=97,149,168
+				Pos=172,197,4
+				Size=132,20
+				Text=FormGameSet2.Common.LevelGroup4
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=97,149,168
+				Pos=172,251,4
+				Size=132,20
+				Text=FormGameSet2.Common.LevelGroup5
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=97,149,168
+				Pos=172,305,4
+				Size=132,20
+				Text=FormGameSet2.Common.LevelGroup6
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=97,149,168
+				Pos=172,359,4
+				Size=132,20
+				Text=FormGameSet2.Common.LevelGroup7
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=97,149,168
+				Pos=172,413,4
+				Size=132,20
+				Text=FormGameSet2.Common.LevelGroup8
+				AlignX=Center
+				AlignY=Center
+			}
+
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=LevelUser
+				Pos=311,492,50
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelUserA
+				ImageDown=GI,Bm.FormGameSet2.2LevelUserD
+
+				Help=FormGameSet2.Common.HelpLevelUser
+			}
+
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=LevelOpen
+				Pos=203,491,50
+				Size=70,41
+
+				Kind=Normal
+				KindHit=Graph
+
+				ImageNormal=GI,Bm.FormGameSet2.2LevelOpenN
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelOpenA
+				ImageDown=GI,Bm.FormGameSet2.2LevelOpenD
+
+				Help=FormGameSet2.Common.HelpLevelOpen
+			}
+
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=LevelClose
+				Pos=203,483,50
+				Size=70,41
+				Enabled=False
+
+				Kind=Normal
+				KindHit=Graph
+
+				ImageNormal=GI,Bm.FormGameSet2.2LevelCloseN
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelCloseA
+				ImageDown=GI,Bm.FormGameSet2.2LevelCloseD
+
+				Help=FormGameSet2.Common.HelpLevelClose
+			}
+
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level1_0
+				Pos=53,58,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup1Easy
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level2_0
+				Pos=146,58,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup1Normal
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level3_0
+				Pos=239,58,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup1Hard
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level4_0
+				Pos=332,58,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup1Expert
+			}
+
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level1_1
+				Pos=53,112,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup2Easy
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level2_1
+				Pos=146,112,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup2Normal
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level3_1
+				Pos=239,112,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup2Hard
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level4_1
+				Pos=332,112,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup2Expert
+			}
+
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level1_2
+				Pos=53,166,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup3Easy
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level2_2
+				Pos=146,166,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup3Normal
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level3_2
+				Pos=239,166,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup3Hard
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level4_2
+				Pos=332,166,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup3Expert
+			}
+
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level1_3
+				Pos=53,220,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup4Easy
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level2_3
+				Pos=146,220,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup4Normal
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level3_3
+				Pos=239,220,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup4Hard
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level4_3
+				Pos=332,220,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup4Expert
+			}
+
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level1_4
+				Pos=53,274,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup5Easy
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level2_4
+				Pos=146,274,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup5Normal
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level3_4
+				Pos=239,274,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup5Hard
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level4_4
+				Pos=332,274,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup5Expert
+			}
+
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level1_5
+				Pos=53,328,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup6Easy
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level2_5
+				Pos=146,328,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup6Normal
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level3_5
+				Pos=239,328,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup6Hard
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level4_5
+				Pos=332,328,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup6Expert
+			}
+
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level1_6
+				Pos=53,382,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup7Easy
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level2_6
+				Pos=146,382,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup7Normal
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level3_6
+				Pos=239,382,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup7Hard
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level4_6
+				Pos=332,382,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup7Expert
+			}
+
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level1_7
+				Pos=53,436,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup8Easy
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level2_7
+				Pos=146,436,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup8Normal
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level3_7
+				Pos=239,436,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup8Hard
+			}
+			GraphButton {
+				Style=Style.GB.SoundNormal
+				Name=Level4_7
+				Pos=332,436,5
+				Size=88,23
+
+				Kind=Fix
+				KindHit=Graph
+
+				ImageNormalA=GI,Bm.FormGameSet2.2LevelA
+				ImageDown=GI,Bm.FormGameSet2.2LevelD
+
+				Help=FormGameSet2.Common.HelpGroup8Expert
+			}
+
+			Label {
+				Font=Font.2Ranger
+				TextColor=0,255,0
+				Pos=48,58,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup1Easy
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=254,255,255
+				Pos=140,58,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup1Normal
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,240,100
+				Pos=234,58,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup1Hard
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,166,0
+				Pos=328,58,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup1Expert
+				AlignX=Center
+				AlignY=Center
+			}
+
+			Label {
+				Font=Font.2Ranger
+				TextColor=0,255,0
+				Pos=48,112,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup2Easy
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=254,255,255
+				Pos=140,112,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup2Normal
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,240,100
+				Pos=234,112,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup2Hard
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,166,0
+				Pos=328,112,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup2Expert
+				AlignX=Center
+				AlignY=Center
+			}
+
+			Label {
+				Font=Font.2Ranger
+				TextColor=0,255,0
+				Pos=48,166,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup3Easy
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=254,255,255
+				Pos=140,166,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup3Normal
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,240,100
+				Pos=234,166,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup3Hard
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,166,0
+				Pos=328,166,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup3Expert
+				AlignX=Center
+				AlignY=Center
+			}
+
+			Label {
+				Font=Font.2Ranger
+				TextColor=0,255,0
+				Pos=48,220,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup4Easy
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=254,255,255
+				Pos=140,220,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup4Normal
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,240,100
+				Pos=234,220,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup4Hard
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,166,0
+				Pos=328,220,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup4Expert
+				AlignX=Center
+				AlignY=Center
+			}
+
+			Label {
+				Font=Font.2Ranger
+				TextColor=0,255,0
+				Pos=48,274,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup5Easy
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=254,255,255
+				Pos=140,274,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup5Normal
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,240,100
+				Pos=234,274,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup5Hard
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,166,0
+				Pos=328,274,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup5Expert
+				AlignX=Center
+				AlignY=Center
+			}
+
+			Label {
+				Font=Font.2Ranger
+				TextColor=0,255,0
+				Pos=48,328,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup6Easy
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=254,255,255
+				Pos=140,328,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup6Normal
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,240,100
+				Pos=234,328,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup6Hard
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,166,0
+				Pos=328,328,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup6Expert
+				AlignX=Center
+				AlignY=Center
+			}
+
+			Label {
+				Font=Font.2Ranger
+				TextColor=0,255,0
+				Pos=48,382,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup7Easy
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=254,255,255
+				Pos=140,382,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup7Normal
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,240,100
+				Pos=234,382,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup7Hard
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,166,0
+				Pos=328,382,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup7Expert
+				AlignX=Center
+				AlignY=Center
+			}
+
+			Label {
+				Font=Font.2Ranger
+				TextColor=0,255,0
+				Pos=48,436,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup8Easy
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=254,255,255
+				Pos=140,436,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup8Normal
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,240,100
+				Pos=234,436,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup8Hard
+				AlignX=Center
+				AlignY=Center
+			}
+			Label {
+				Font=Font.2Ranger
+				TextColor=255,166,0
+				Pos=328,436,4
+				Size=100,20
+				Text=FormGameSet2.Common.NameGroup8Expert
+				AlignX=Center
+				AlignY=Center
+			}
+		}
+	}
+
+    Image {
+		Image=GI,Bm.FormGameSet2.2Help
+		Pos=609,700,60
+		Size=360,68
+	}
+
+    Image {
+		Image=GI,Bm.FormGameSet2.2Footer
+		Pos=0,665,50
+		Size=1024,103
+	}
+
+	Label {
+		Font=Font.2Ranger
+		TextColor=97,149,168
+		Pos=620,706,2
+		Size=274,40
+		AlignX=Center
+		AlignY=CenterEx
+		WordWrap=True
+		Name=LabelHelp
+
+		Help=FormGameSet2.Common.HelpHelp
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Cancel
+		Pos=18,686,40
+		Size=39,70
+
+		Kind=Normal
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2FooterLA
+		ImageDown=GI,Bm.FormGameSet2.2FooterLD
+
+		Help=FormGameSet2.Common.HelpCancel
+	}
+
+	GraphButton {
+		Style=Style.GB.SoundNormal
+		Name=Ok
+		Pos=967,686,40
+		Size=39,70
+
+		Kind=Disable
+		KindHit=Graph
+
+		ImageNormalA=GI,Bm.FormGameSet2.2FooterRA
+		ImageDown=GI,Bm.FormGameSet2.2FooterRD
+
+		Help=FormGameSet2.Common.HelpOk
+	}
+}

@@ -1,0 +1,224 @@
+Border=0,0,800,600
+Panel {
+	GraphBuf {
+		Name=BGBuf
+		Pos=0,0,9
+		Size=800,600
+	}
+	Name=MainPanel
+	Panel {
+		Edit {
+			AlignX=Center
+			Font=Font.1Normal
+			MaxLen=10
+			Name=PlayerName
+			Pos=163,434,2
+			Size=96,18
+			TextColor=247,148,29
+		}
+		GAI {
+			KindX=Center
+			KindY=Center
+			Name=CaptainA
+			PBuf=True
+			Pos=181,192,0
+			Size=77,86
+			TransColor=255,0,255
+		}
+		GraphButton {
+			ImageDown=GI,Bm.FormGameSet2.1PortLD
+			ImageNormalA=GI,Bm.FormGameSet2.1PortLA
+			Kind=Normal
+			KindHit=Graph
+			Name=FaceLeft
+			Pos=146,198,50
+			Size=33,75
+			Style=Style.GB.SoundNormal
+		}
+		GraphButton {
+			ImageDown=GI,Bm.FormGameSet2.1PortRD
+			ImageNormalA=GI,Bm.FormGameSet2.1PortRA
+			Kind=Normal
+			KindHit=Graph
+			Name=FaceRight
+			Pos=260,198,50
+			Size=33,75
+			Style=Style.GB.SoundNormal
+		}
+		GraphButton {
+			ImageDown=GI,Bm.FormGameSet2.1RaceMalocD
+			ImageNormalA=GI,Bm.FormGameSet2.1RaceMalocA
+			Kind=Fix
+			KindHit=Graph
+			Name=RaceMaloc
+			Pos=62,144,50
+			Size=152,74
+			Style=Style.GB.SoundNormal
+		}
+		GraphButton {
+			ImageDown=GI,Bm.FormGameSet2.1RacePelengD
+			ImageNormalA=GI,Bm.FormGameSet2.1RacePelengA
+			Kind=Fix
+			KindHit=Graph
+			Name=RacePeleng
+			Pos=100,93,50
+			Size=119,81
+			Style=Style.GB.SoundNormal
+		}
+		GraphButton {
+			ImageDown=GI,Bm.FormGameSet2.1RacePeopleD
+			ImageNormalA=GI,Bm.FormGameSet2.1RacePeopleA
+			Kind=Fix
+			KindHit=Graph
+			Name=RacePeople
+			Pos=174,82,50
+			Size=90,93
+			Style=Style.GB.SoundNormal
+		}
+		GraphButton {
+			ImageDown=GI,Bm.FormGameSet2.1RaceFeiD
+			ImageNormalA=GI,Bm.FormGameSet2.1RaceFeiA
+			Kind=Fix
+			KindHit=Graph
+			Name=RaceFei
+			Pos=222,93,50
+			Size=117,81
+			Style=Style.GB.SoundNormal
+		}
+		GraphButton {
+			ImageDown=GI,Bm.FormGameSet2.1RaceGaalD
+			ImageNormalA=GI,Bm.FormGameSet2.1RaceGaalA
+			Kind=Fix
+			KindHit=Graph
+			Name=RaceGaal
+			Pos=227,144,50
+			Size=150,74
+			Style=Style.GB.SoundNormal
+		}
+		GraphButton {
+			ImageDown=GI,Bm.FormMessageBox.1OkD
+			ImageNormalA=GI,Bm.FormMessageBox.1OkA
+			Kind=Normal
+			KindHit=Graph
+			Name=Ok
+			Pos=170,555,0
+			Size=38,17
+			Style=Style.GB.SoundNormal
+		}
+		GraphButton {
+			ImageDown=GI,Bm.FormMessageBox.1CancelD
+			ImageNormalA=GI,Bm.FormMessageBox.1CancelA
+			Kind=Normal
+			KindHit=Graph
+			Name=Cancel
+			Pos=270,555,0
+			Size=38,17
+			Style=Style.GB.SoundNormal
+		}
+		Image {
+			KindX=Center
+			KindY=Center
+			Name=CaptainI
+			Pos=181,192,0
+			Size=77,86
+		}
+		Image {
+			Image=GI,Bm.FormMessageBox.1OkN
+			Pos=170,555,0
+			Size=38,17
+		}
+		Image {
+			Image=GI,Bm.FormMessageBox.1CancelN
+			Pos=270,555,0
+			Size=38,17
+		}
+		Image {
+			Image=GI,Bm.FormGameSet2.1Left
+			Pos=29,32,100
+			Size=377,521
+		}
+		Image {
+			Image=GI,Bm.FormGameSet2.1Name
+			Pos=163,435,50
+			Size=96,18
+		}
+		Label {
+			AlignX=Right
+			AlignY=Center
+			Font=Font.1Ranger
+			Pos=66,436,2
+			Size=95,16
+			Text=FormGameSet2.Common.Name
+			TextColor=97,149,168
+		}
+		Label {
+			AlignX=Center
+			AlignY=Center
+			Font=Font.1Ranger
+			Pos=180,55,2
+			Size=78,16
+			Text=FormGameSet2.Common.Race
+			TextColor=88,229,255
+		}
+		Label {
+			AlignX=Center
+			AlignY=Center
+			Font=Font.1Ranger
+			Pos=65,195,2
+			Size=78,16
+			Text=FormGameSet2.Common.Maloc
+			TextColor=88,229,255
+		}
+		Label {
+			AlignX=Center
+			AlignY=Center
+			Font=Font.1Ranger
+			Pos=110,138,2
+			Size=78,16
+			Text=FormGameSet2.Common.Peleng
+			TextColor=88,229,255
+		}
+		Label {
+			AlignX=Center
+			AlignY=Center
+			Font=Font.1Ranger
+			Pos=178,120,2
+			Size=78,16
+			Text=FormGameSet2.Common.People
+			TextColor=88,229,255
+		}
+		Label {
+			AlignX=Center
+			AlignY=Center
+			Font=Font.1Ranger
+			Pos=249,142,2
+			Size=78,16
+			Text=FormGameSet2.Common.Fei
+			TextColor=88,229,255
+		}
+		Label {
+			AlignX=Center
+			AlignY=Center
+			Font=Font.1Ranger
+			Pos=301,192,2
+			Size=78,16
+			Text=FormGameSet2.Common.Gaal
+			TextColor=88,229,255
+		}
+		Label {
+			AlignX=Auto
+			AlignY=Top
+			Font=Font.1Normal
+			Name=Pact
+			Pos=125,455,2
+			Size=262,89
+			TextColor=191,185,128
+			WordWrap=True
+		}
+		Pos=0,0
+		Size=800,600
+	}
+Pos=0,0
+Size=800,600
+}
+

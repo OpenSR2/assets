@@ -1,0 +1,14 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Food
+LastPlanetRace=Peleng
+PlayerStatus=Pirate
+Priority=5
+Relations=Good,Best
+ShipGoodsCnt=Mini,Small,Average,Big
+ShipRace=Peleng
+ShipStatus=Pirate
+ShipType=Ranger,Pirate
+Text=Ашш-ш... Приветсс-ствую, <Player>! А я вот решш-шил завязать с разбоем и заняться частным извозом. Везу на планету <ToPlanet> болотную похлебку для церемонии перемужания... Заодно собираюсь сбыть свою партию жратвы - наверняка перед праздником цены на нее поднимутсс-ся.
+ToPlanetGoodsBuy=Average,Big,Huge
+ToPlanetRace=Peleng

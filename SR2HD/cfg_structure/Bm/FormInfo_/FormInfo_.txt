@@ -1,0 +1,17 @@
+2Anim0a=data\FormInfo\2Anim0.gai
+2Anim0i=data\FormInfo\2Anim0.gi
+2Anim1a=data\FormInfo\2Anim1.gai
+2Anim1i=data\FormInfo\2Anim1.gi
+2Anim2a=data\FormInfo\2Anim2.gai
+2Anim2i=data\FormInfo\2Anim2.gi
+2Anim3a=data\FormInfo\2Anim3.gai
+2Anim3i=data\FormInfo\2Anim3.gi
+2Line=data\FormInfo\2Line.gi
+2NewsA=data\FormInfo\2NewsA.gi
+2NewsD=data\FormInfo\2NewsD.gi
+2NewsN=data\FormInfo\2NewsN.gi
+2Search=data\FormInfo\2Search.gi
+2SearchA=data\FormInfo\2SearchA.gi
+2SearchD=data\FormInfo\2SearchD.gi
+2SearchN=data\FormInfo\2SearchN.gi
+2bg=data\FormInfo\2bg.gi

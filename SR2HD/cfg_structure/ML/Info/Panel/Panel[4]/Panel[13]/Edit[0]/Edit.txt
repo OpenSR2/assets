@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.2Normal
+MaxLen=30
+Name=M13Range
+Pos=313,212,0
+Size=71,17
+TextColor=0,0,0

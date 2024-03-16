@@ -1,0 +1,20 @@
+1Big=1Big\1Big.txt ^{
+}
+1GSTovC=1GSTovC\1GSTovC.txt ^{
+}
+1GSTovP=1GSTovP\1GSTovP.txt ^{
+}
+1Normal=1Normal\1Normal.txt ^{
+}
+1NormalBold=1NormalBold\1NormalBold.txt ^{
+}
+2Big=2Big\2Big.txt ^{
+}
+2GSTovC=2GSTovC\2GSTovC.txt ^{
+}
+2GSTovP=2GSTovP\2GSTovP.txt ^{
+}
+2Normal=2Normal\2Normal.txt ^{
+}
+2NormalBold=2NormalBold\2NormalBold.txt ^{
+}

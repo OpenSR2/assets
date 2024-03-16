@@ -1,0 +1,3 @@
+Name=S_CargoHook_0i
+Pos=142,329,0
+Size=75,61

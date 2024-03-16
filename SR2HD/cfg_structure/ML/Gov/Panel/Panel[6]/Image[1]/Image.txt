@@ -1,0 +1,4 @@
+Image=GI,Bm.Gov.2PeopleTable
+Name=Table
+Pos=0,0,-3
+Size=1200,341

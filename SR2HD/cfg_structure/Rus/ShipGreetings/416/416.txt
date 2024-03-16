@@ -1,0 +1,15 @@
+AutoTalk=Any
+FlyType=ToShip
+PlayerIsShipBad=Yes
+PlayerRank=Leader,Ace,Commander, Admiral
+PlayerStatus=Trader,Warrior
+PlayerStructure=Mini,Small,Average
+Priority=10
+Relations=War
+ShipBadFlyToShip=Any
+ShipFlyToPlayer=Yes
+ShipStatus=Pirate
+ShipTurnBeforeEndOrder=1,2,3,4
+ShipType=Ranger,Pirate
+StrengthShipWithPlayer=Average,Big,Huge
+Text=Ха, <Player>, похоже, что тебе конец. Ты, знаю, много нас, пиратов, замочил! Сейчас я прикончу тебя, и они будут отомщены!

@@ -1,0 +1,2 @@
+Color0=0.95,0.83,0.5
+GAI=Bm.Weapon.W09_yellow

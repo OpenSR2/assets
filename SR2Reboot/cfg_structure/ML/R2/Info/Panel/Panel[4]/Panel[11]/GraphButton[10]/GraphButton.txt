@@ -1,0 +1,12 @@
+Down=True
+ImageDown=GI,Bm.FormInfo3.2MCheckD
+ImageDownA=GI,Bm.FormInfo3.2MCheckC
+ImageNormal=GI,Bm.FormInfo3.2MCheckN
+ImageNormalA=GI,Bm.FormInfo3.2MCheckA
+Kind=Fix
+KindHit=Rect
+Name=M11TypePirat
+Pos=225,175,1
+Size=13,13
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

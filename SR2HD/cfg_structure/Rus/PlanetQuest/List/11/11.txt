@@ -1,0 +1,7 @@
+Access=9
+Dif=44
+Genre=логическая головоломка
+Group=0
+Image=Bm.PQI.Elus_00
+Length=2
+Name=Элус

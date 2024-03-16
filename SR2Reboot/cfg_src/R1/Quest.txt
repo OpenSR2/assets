@@ -1,0 +1,87 @@
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+	MoveWorld=False
+	Name=MainPanel
+
+	GraphBuf {
+		Name=BGBuf
+		Pos=0,0,9
+		Size=800,600
+	}
+	ShrLight {
+		Pos=0,0,8
+		Size=800,600
+		ShrLight=-2
+	}
+
+	Panel {
+		Size=340,440
+		Pos=230,80,7
+
+		Image {
+			Pos=0,0,-2
+			Size=340,440
+			Image=GI,Bm.FormQuest.2bg
+			KindX=LeftFill
+			KindY=TopFill
+		}
+
+		GraphButton {
+			Name=QuestExit
+			Pos=300,13,-3
+			Size=25,25
+
+			Kind=Normal
+			KindHit=Rect
+
+			ImageNormalA=GI,Bm.FormQuest.2CloseA
+			ImageDown=GI,Bm.FormQuest.2CloseD
+		}
+
+		PanelScrollBar {
+			Name=QuestPT
+			Pos=61,42,-3
+			Size=230,305
+
+			StyleBarY=Style.ScrollBar.FormMsg
+			ActiveBarY=True
+			PosAutoBarY=False
+			RectBarY=293,42,309,357
+			MoveWorld=True
+			UnlimitedWorld=False
+			ExternalSB=True
+		}
+
+		GraphButton {
+			Name=QuestRG
+			Pos=83,365,-3
+			Size=68,38
+			
+			Kind=Fix
+			KindHit=Rect
+
+			ImageNormal=GI,Bm.FormQuest.2New
+		}
+
+		Label {
+			Style=Style.Label.1Normal
+			Pos=155,366,-3
+			Size=200,15
+			AlignX=Left
+			AlignY=CenterEx
+			//Text=FormQuest.CurQuest
+			TextColor=255,255,230
+		}
+		Label {
+			Style=Style.Label.1Normal
+			Pos=104,387,-3
+			Size=200,15
+			AlignX=Left
+			AlignY=CenterEx
+			//Text=FormQuest.OldQuest
+			TextColor=255,255,230
+		}
+	}
+}
