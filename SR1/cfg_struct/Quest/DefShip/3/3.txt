@@ -1,0 +1,7 @@
+End=It's so nice to see such mutual aid! If not for you, <Ship> would certainly die. Thus, we have to pay you <Money> cr.
+InThisSystem=No
+PlanetRace=Peleng
+ShipType=Pirate
+Start=In the system of <InStar> there is a very much respected pilot <FShip>, by the way, he is a pirate like you. He honourable robs Human freighters and destroys Fayean passenger ships. But recently we got a SOS signal from him. Some scoundrels, probably from local anti-terrorist forces have got on his tail. And he is a respectable citizen and hero on <FromPlanet>.
+Start=We've heard that all pirates are brothers and are always ready to help each other out. Is this true? If <Ship> is still alive at least until <Date>, all of our community is going to be grateful. Well, possibly we will think of something else to reward you.
+Status=Pirate

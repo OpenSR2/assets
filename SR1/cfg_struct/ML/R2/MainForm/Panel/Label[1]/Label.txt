@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Name=LVersion
+Pos=11,711,-20
+Size=100,20
+TextColor=160,160,160
+WordWrap=False

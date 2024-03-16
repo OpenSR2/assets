@@ -1,0 +1,3 @@
+Name=TraderCaptainI
+Pos=97,290,1
+Size=77,86

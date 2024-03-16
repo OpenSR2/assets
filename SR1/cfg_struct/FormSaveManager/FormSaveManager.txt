@@ -1,0 +1,7 @@
+Cancel=Cancel
+CaptionLoad=Load game
+CaptionSave=Save game
+Load=Load
+LoadError=Game loading error
+Save=Save
+SaveError=Game saving error

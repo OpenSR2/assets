@@ -1,0 +1,24 @@
+ButFilm=Movie
+ButGalaxy=Galaxy map
+ButGoods=Trade center
+ButGov=Government
+ButHangar=Hangar
+ButInfo=Information center (not available)
+ButLogo=Menu
+ButPlanet=Planet
+ButQuest=Mission log
+ButScaner=Scan ship (<color=255,255,0>S</color>)
+ButSelAllWeapon=Select all weapons (<color=255,255,0>~</color>)
+ButShip=Ship
+ButShop=Equipment shop
+ButShowWeapon=Show/hide weapon
+ButTalk=Talk to ship (<color=255,255,0>T</color>)
+ButTurn=End of turn
+ButW0=Weapon <color=255,255,0>1</color>
+ButW1=Weapon <color=255,255,0>2</color>
+ButW2=Weapon <color=255,255,0>3</color>
+ButW3=Weapon <color=255,255,0>4</color>
+ButW4=Weapon <color=255,255,0>5</color>
+LabelDate=Current date
+LabelFreeSpace=Free volume onboard ship
+LabelMoney=Money

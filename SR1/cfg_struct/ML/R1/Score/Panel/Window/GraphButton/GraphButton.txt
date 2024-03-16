@@ -1,0 +1,8 @@
+Auto=Size
+ImageDown=GI,Bm.SI.1But2CancelD
+ImageNormal=GI,Bm.SI.1But2CancelN
+ImageNormalA=GI,Bm.SI.1But2CancelA
+Kind=Normal
+KindHit=Rect
+Name=PTSClose
+Pos=413,144,0

@@ -1,0 +1,9 @@
+ImageDisable=GI,Bm.FormGalaxy.2okH
+ImageDown=GI,Bm.FormGalaxy.2okD
+ImageNormalA=GI,Bm.FormGalaxy.2okA
+Kind=Disable
+KindHit=Rect
+MouseBlocking=True
+Name=ButJump
+Pos=658,558,-2
+Size=42,37

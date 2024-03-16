@@ -1,0 +1,5 @@
+End=At last, the priceless callice of Tschin dynasty is found! Thank you <Ranger>, we thought we would never see it again. But wait, what's that? Your back is all white! Looks like long contact with callice has put a curse on you after all. Too bad. You will be killed very soon, trust us. Well, maybe this money, <Money> cr, would be a bit of consolation.
+FromRace=Peleng
+Start=<Ranger>, you can surely do us a favour. A famous shaman from <ToPlanet> in the system of <ToStar> came to us to read a series of lectures in cyber-mnemonics, telepathy and common curses. When he was leaving, he accidentally (indeed, there was an accident) left his callice. But recently we have accidentally (indeed, there was another accident!) found it and now we want to return it to the owner. It is a very old and valuable thing. If you do not deliver the callice before <Date>, we will claim you a thief, besides keeping it close to you for a long time will negatively affect your bio field. You do not want to become a thief and a cursed one at that, do you?
+Status=Any
+ToRace=Any

@@ -1,0 +1,41 @@
+GAI=GAI[0]\GAI.txt ^{
+}
+GAI=GAI[1]\GAI.txt ^{
+}
+GAI=GAI[2]\GAI.txt ^{
+}
+GAI=GAI[3]\GAI.txt ^{
+}
+GAI=GAI[4]\GAI.txt ^{
+}
+GAI=GAI[5]\GAI.txt ^{
+}
+GAI=GAI[6]\GAI.txt ^{
+}
+GAI=GAI[7]\GAI.txt ^{
+}
+GAI=GAI[8]\GAI.txt ^{
+}
+GAI=GAI[9]\GAI.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Image=Image[3]\Image.txt ^{
+}
+Image=Image[4]\Image.txt ^{
+}
+Name=MainPanel
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Panel=Panel[2]\Panel.txt ^{
+}
+Panel=Panel[3]\Panel.txt ^{
+}
+Pos=0,0
+Size=1024,768

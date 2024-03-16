@@ -1,0 +1,6 @@
+End=The representative of antiviral centre "Bacterius Grocus" hopes that the contents of the container that you have delivered will help us defeat the disease. I wonder why should Pelengs start making medicines? Anyway, thank you very much and here is your <Money> cr.
+FromRace=Peleng
+Start=In the system of <ToStar>, <ToPlanet>, has been infected with a horrible disease. Our laboratories have developed a virus that will make it 100 per cent fatal. You, as a representative of creative community, can assist this dirty business by delivering the germs to our Human colleagues. Possibly, you think this is unethical, but life in itself is unethical and so are genetic experiments in survival. Besides, you can only get good money for dirty business.
+Start=The more days you need for the mission, the better container we have to supply for delivering the viruses. In this container they will stay alive for <Day> days. After this, you will not get a single poisonous Rabogam toad for it. Taking into account the cost of the container, your future profit is estimated as <Money> cr.
+Status=Pirate
+ToRace=People

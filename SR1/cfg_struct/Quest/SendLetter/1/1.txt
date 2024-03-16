@@ -1,0 +1,5 @@
+End=Great, the samples are here! You are a brave pilot and we hardly regret the necessity to pay you <Money> cr. Did you know that one of these cool guns "Gron-DoRM" is capable of killing a whole infantry regiment in one shot! Of course, if it is not broken like the one we got last time.
+FromRace=Maloc
+Start=Our most advanced factories are now constructing a unique weapon that is going to make a revolution in Maloqi industry. It is a super-compact infrared flame-thrower "Gron-DoRM". You need to deliver two experimental samples to the system of <ToStar>, to <ToPlanet>. We are conducting additional field tests there. Unfortunately, our competitors have found out about our research. As the result, we have already lost two transports. Now, you are an honourable and well-known fighter whom we respect. So you can take these samples onboard and deliver them to their destination point. We believe our competitors will not pay any attention to you, so the parcel will be with the addressee before <Date>. If not, forget about <Money> cr.
+Status=Warrior
+ToRace=Maloc

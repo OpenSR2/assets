@@ -1,0 +1,6 @@
+End=You've done excellent, really marvellous job during these <Day> days, and you have even outrun the leader by two points! Long live <Ranger>, the Pirate of the Year!
+End=Here is your prize, <Ranger>, <Money> cr. We are always glad to see you on <FromPlanet>.
+PlanetRace=Peleng
+Start=The system <FromStar> is now hosting a traditional tournament for the best pirate of the year, so you are given an excellent opportunity to take part in it. According to the rules that have remained unchanged for the last 120 years, it is open to any pilot having a military ship. His opponents are local lyakushas who act in the best Pelengan traditions, attacking freighters and other civil vessels. The action is as real as can be, and the task of the contestant is not to have any of the civil ships destroyed during the round (<Day> days). Cool, isn't it?
+Start=You will be the last contestant in our show. Your number is ten. We will evaluate your performance at the end of the round.
+Status=Pirate

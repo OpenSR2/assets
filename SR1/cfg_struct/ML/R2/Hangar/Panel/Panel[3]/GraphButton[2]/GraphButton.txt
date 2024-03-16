@@ -1,0 +1,9 @@
+Auto=Size
+Help=Help.ButTakeoff
+ImageDisable=GI,Bm.Hangar.2TakeOffD
+ImageDown=GI,Bm.Hangar.2TakeOffD
+ImageNormalA=GI,Bm.Hangar.2TakeOffA
+Kind=Disable
+KindHit=Rect
+Name=ButTakeOff
+Pos=356,14,8

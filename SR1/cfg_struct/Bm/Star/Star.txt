@@ -1,0 +1,10 @@
+00=data\Star\star00.gi
+00a=data\Star\star00.gai
+01=data\Star\star01.gi
+01a=data\Star\star01.gai
+02=data\Star\star02.gi
+02a=data\Star\star02.gai
+03=data\Star\star03.gi
+03a=data\Star\star03.gai
+MapStar1=data\Star\MapStar1.gi
+s01a=data\Star\star01s.gai

@@ -1,0 +1,5 @@
+AlignX=Center
+Font=Font.1NormalBold
+Name=I2S
+Pos=670,149,2
+Size=93,42

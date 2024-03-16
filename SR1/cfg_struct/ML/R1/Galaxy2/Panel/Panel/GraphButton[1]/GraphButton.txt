@@ -1,0 +1,8 @@
+ImageDown=GI,Bm.FormGalaxy.1cancelD
+ImageNormalA=GI,Bm.FormGalaxy.1cancelA
+Kind=Normal
+KindHit=Rect
+MouseBlocking=True
+Name=ButExit
+Pos=552,435,-2
+Size=34,30

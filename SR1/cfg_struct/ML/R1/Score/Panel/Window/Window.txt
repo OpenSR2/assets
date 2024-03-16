@@ -1,0 +1,9 @@
+Active=False
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+Name=PTS
+Pos=180,243,-5
+Size=469,176
+Style=Style.Window.1Normal2

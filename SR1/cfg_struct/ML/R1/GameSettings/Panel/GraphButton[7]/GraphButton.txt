@@ -1,0 +1,9 @@
+Auto=Size
+Help=FormGameSet.Common.HelpPrev
+ImageDown=GI,Bm.FormIntro.1ButLeftD
+ImageNormal=GI,Bm.FormIntro.1ButLeftN
+ImageNormalA=GI,Bm.FormIntro.1ButLeftA
+Kind=Normal
+KindHit=Rect
+Name=Cancel
+Pos=12,542,50

@@ -1,0 +1,243 @@
+
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+
+    SimpleImage {
+		Image=Bitmap.Background.BG1
+		Pos=0,0,10
+	}
+	Label {
+		Font=Font.Normal
+        Text=EquipmentShop
+		Pos=10,10,9
+		Size=300,20
+    }
+	TextButton {
+		Name=ButShip
+		Style=Style.Button.Normal
+		Pos=470,570,9
+		Size=150,20
+		Caption=Text.Ship.ButShip
+	}
+	TextButton {
+		Name=Planet
+		Style=Style.Button.Normal
+		Pos=630,570,9
+		Size=150,20
+		Caption=Text.EquipmentShop.Planet
+	}
+
+//////////////////////////////////////////////////////////
+	TextButton {
+		Name=ButHull
+		Style=Style.Button.Normal
+		Pos=50,50,9
+		Size=200,20
+		Caption=Equipment.Name.Hull
+	}
+	TextButton {
+		Name=ButEngine
+		Style=Style.Button.Normal
+		Pos=50,70,9
+		Size=200,20
+		Caption=Equipment.Name.Engine
+	}
+	TextButton {
+		Name=ButFuelTanks
+		Style=Style.Button.Normal
+		Pos=50,90,9
+		Size=200,20
+		Caption=Equipment.Name.FuelTanks
+	}
+	TextButton {
+		Name=ButRadar
+		Style=Style.Button.Normal
+		Pos=50,110,9
+		Size=200,20
+		Caption=Equipment.Name.Radar
+	}
+	TextButton {
+		Name=ButScaner
+		Style=Style.Button.Normal
+		Pos=50,130,9
+		Size=200,20
+		Caption=Equipment.Name.Scaner
+	}
+	TextButton {
+		Name=ButRepairRobot
+		Style=Style.Button.Normal
+		Pos=50,150,9
+		Size=200,20
+		Caption=Equipment.Name.RepairRobot
+	}
+	TextButton {
+		Name=ButCargoHook
+		Style=Style.Button.Normal
+		Pos=50,170,9
+		Size=200,20
+		Caption=Equipment.Name.CargoHook
+	}
+	TextButton {
+		Name=ButDefGenerator
+		Style=Style.Button.Normal
+		Pos=50,190,9
+		Size=200,20
+		Caption=Equipment.Name.DefGenerator
+	}
+	TextButton {
+		Name=ButWeapon
+		Style=Style.Button.Normal
+		Pos=50,230,9
+		Size=200,20
+		Caption=Equipment.Name.Weapon
+	}
+
+//////////////////////////////////////////////////////////////////
+    Panel {
+		Name=Hull
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+			Pos=0,0,-1
+			Size=800,600
+			ShrLight=2
+		}
+		Panel=cfg\Rus\RA\EquipmentShop\Hull.txt {
+			Pos=150,100,-3
+		}
+    }
+    Panel {
+		Name=Engine
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+			Pos=0,0,-1
+			Size=800,600
+			ShrLight=2
+		}
+		Panel=cfg\Rus\RA\EquipmentShop\Engine.txt {
+			Pos=150,100,-3
+		}
+    }
+    Panel {
+		Name=FuelTanks
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+		  Pos=0,0,-1
+		  Size=800,600
+		  ShrLight=2
+		}
+		Panel=cfg\Rus\RA\EquipmentShop\FuelTanks.txt {
+			Pos=150,100,-3
+		}
+    }
+    Panel {
+		Name=Radar
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+			Pos=0,0,-1
+			Size=800,600
+			ShrLight=2
+		}
+		Panel=cfg\Rus\RA\EquipmentShop\Radar.txt {
+			Pos=150,100,-3
+		}
+    }
+    Panel {
+		Name=Scaner
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+			Pos=0,0,-1
+			Size=800,600
+			ShrLight=2
+		}
+		Panel=cfg\Rus\RA\EquipmentShop\Scaner.txt {
+			Pos=150,100,-3
+	    }
+	}
+    Panel {
+		Name=RepairRobot
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+			Pos=0,0,-1
+			Size=800,600
+			ShrLight=2
+		}
+		Panel=cfg\Rus\RA\EquipmentShop\RepairRobot.txt {
+			Pos=150,100,-3
+		}
+    }
+    Panel {
+		Name=CargoHook
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+		  Pos=0,0,-1
+		  Size=800,600
+		  ShrLight=2
+		}
+		Panel=cfg\Rus\RA\EquipmentShop\CargoHook.txt {
+			Pos=150,100,-3
+		}
+    }
+    Panel {
+		Name=DefGenerator
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+		  Pos=0,0,-1
+		  Size=800,600
+		  ShrLight=2
+		}
+		Panel=cfg\Rus\RA\EquipmentShop\DefGenerator.txt {
+			Pos=150,100,-3
+		}
+    }
+////// Ship ///////////////////////////////////////////////////////
+    Panel {
+		Name=Ship
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+		  Pos=0,0,-1
+		  Size=800,600
+		  ShrLight=2
+		}
+		Panel=cfg\Rus\RA\Ship.txt {
+			Pos=45,60,-3
+		}
+    }
+}

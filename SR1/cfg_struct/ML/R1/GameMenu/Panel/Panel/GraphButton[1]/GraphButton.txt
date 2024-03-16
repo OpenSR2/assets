@@ -1,0 +1,9 @@
+Help=FormGameMenu.Save
+ImageHit=GI,Bm.FormMenu.1SaveH
+ImageNormalA=GI,Bm.FormMenu.1SaveA
+ImageNormalA_Pos=132,78
+Kind=Normal
+KindHit=ImageHit
+Name=Save
+Pos=74,56,-3
+Size=141,82

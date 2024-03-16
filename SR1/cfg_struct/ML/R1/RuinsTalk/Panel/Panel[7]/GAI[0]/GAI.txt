@@ -1,0 +1,10 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-100]
+Image=Bm.FormRuins.1PBAnim0a
+ImageFirst=Bm.FormRuins.1PBAnim0i
+Name=BP_PB_Anim0
+PBuf=True
+Pos=400,156,-2
+Size=354,444

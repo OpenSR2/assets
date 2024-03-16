@@ -1,0 +1,13 @@
+Help=Help.ButCenterShip
+ImageDown=GI,Bm.PanelSpace.1CenterD
+ImageDown_Pos=377,-183
+ImageHit=GI,Bm.PanelSpace.1CenterS
+ImageNormal=GI,Bm.PanelSpace.1CenterN
+ImageNormalA=GI,Bm.PanelSpace.1CenterA
+ImageNormalA_Pos=377,-183
+ImageNormal_Pos=377,-183
+Kind=Normal
+KindHit=ImageHit
+Name=CenterShip
+Pos=367,-190,InfoPanel
+Size=39,27

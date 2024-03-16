@@ -1,0 +1,7 @@
+1=Animating
+2=Parametric
+3=Metadiodic
+4=Sonar
+5=Fan
+6=Full-resolution
+7=Subtransfer

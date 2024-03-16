@@ -1,0 +1,8 @@
+Active=False
+FrameLoad=0
+Image=Bm.FormGameSet.2GaalA
+ImageFirst=Bm.FormGameSet.2GaalI
+Name=AnimGaal
+PBuf=True
+Pos=734,249,5
+Size=225,338

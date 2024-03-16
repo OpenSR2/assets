@@ -1,0 +1,3 @@
+Buy=Would you like to buy <Item>?
+NoMoney=Not enough money
+NoSize=Not enough free volume

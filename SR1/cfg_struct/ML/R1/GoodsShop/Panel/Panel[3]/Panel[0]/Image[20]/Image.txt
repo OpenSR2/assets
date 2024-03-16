@@ -1,0 +1,6 @@
+AlignX=Center
+AlignY=Center
+Image=GI,Bm.Items.1Luxury
+Name=Tov3i
+Pos=173,164,7
+Size=27,26

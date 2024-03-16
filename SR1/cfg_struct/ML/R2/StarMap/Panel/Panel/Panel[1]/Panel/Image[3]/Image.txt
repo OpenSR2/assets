@@ -1,0 +1,4 @@
+Name=PS_W2I
+Pos=61,7,7
+Size=44,44
+Sme=0,0

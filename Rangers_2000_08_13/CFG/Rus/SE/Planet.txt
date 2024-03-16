@@ -1,0 +1,217 @@
+Earth080 {
+	Mask=Bm.Planet.S.Mask080
+	Image=Bm.Planet.T.080Earth
+	ImageLight=Bm.Planet.S.Light080
+	SmeImage=80,80
+	ImageMap=Bm.Planet.M.Earth
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+
+Boloto060 {
+	Mask=Bm.Planet.S.Mask060
+	Image=Bm.Planet.T.060Boloto
+	ImageLight=Bm.Planet.S.Light060
+	SmeImage=60,60
+	ImageMap=Bm.Planet.M.Boloto
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Boloto080 {
+	Mask=Bm.Planet.S.Mask080
+	Image=Bm.Planet.T.080Boloto
+	ImageLight=Bm.Planet.S.Light080
+	SmeImage=80,80
+	ImageMap=Bm.Planet.M.Boloto
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Boloto100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Boloto
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Boloto
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Mars100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Mars
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Mars
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Lava100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Lava
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Lava
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Jupiter100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Jupiter
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Jupiter
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+North060 {
+	Mask=Bm.Planet.S.Mask060
+	Image=Bm.Planet.T.060North
+	ImageLight=Bm.Planet.S.Light060
+	SmeImage=60,60
+	ImageMap=Bm.Planet.M.North
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+North080 {
+	Mask=Bm.Planet.S.Mask080
+	Image=Bm.Planet.T.080North
+	ImageLight=Bm.Planet.S.Light080
+	SmeImage=80,80
+	ImageMap=Bm.Planet.M.North
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+North100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100North
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.North
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Venus070 {
+	Mask=Bm.Planet.S.Mask070
+	Image=Bm.Planet.T.070Venus
+	ImageLight=Bm.Planet.S.Light070
+	SmeImage=70,70
+	ImageMap=Bm.Planet.M.Venus
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Venus100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Venus
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Venus
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Fire100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Fire
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Fire
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Fire1_060 {
+	Mask=Bm.Planet.S.Mask060
+	Image=Bm.Planet.T.060Fire1
+	ImageLight=Bm.Planet.S.Light060
+	SmeImage=60,60
+	ImageMap=Bm.Planet.M.Fire1
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Fire1_100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Fire1
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Fire1
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Green100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Green
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Green
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Iron070 {
+	Mask=Bm.Planet.S.Mask070
+	Image=Bm.Planet.T.070Iron
+	ImageLight=Bm.Planet.S.Light070
+	SmeImage=70,70
+	ImageMap=Bm.Planet.M.Iron
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Iron100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Iron
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Iron
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Io060 {
+	Mask=Bm.Planet.S.Mask060
+	Image=Bm.Planet.T.060Io
+	ImageLight=Bm.Planet.S.Light060
+	SmeImage=60,60
+	ImageMap=Bm.Planet.M.Io
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Io100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Io
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Io
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Pluton070 {
+	Mask=Bm.Planet.S.Mask070
+	Image=Bm.Planet.T.070Pluton
+	ImageLight=Bm.Planet.S.Light070
+	SmeImage=70,70
+	ImageMap=Bm.Planet.M.Pluton
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Pluton090 {
+	Mask=Bm.Planet.S.Mask090
+	Image=Bm.Planet.T.090Pluton
+	ImageLight=Bm.Planet.S.Light090
+	SmeImage=90,90
+	ImageMap=Bm.Planet.M.Pluton
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Pluton100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Pluton
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Pluton
+	SmeImageMap=4,4
+	PosZ=Planet
+}
+Saturn100 {
+	Mask=Bm.Planet.S.Mask100
+	Image=Bm.Planet.T.100Saturn
+	ImageLight=Bm.Planet.S.Light100
+	SmeImage=100,100
+	ImageMap=Bm.Planet.M.Saturn
+	SmeImageMap=4,4
+	PosZ=Planet
+}

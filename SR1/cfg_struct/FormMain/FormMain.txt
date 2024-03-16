@@ -1,0 +1,9 @@
+About=Credits
+Demo=Demo
+Exit=Exit
+Help=Help
+Load=Load
+MsgExit=Exit the program?
+New=New game
+Options=Settings
+Rekord=Hall of fame

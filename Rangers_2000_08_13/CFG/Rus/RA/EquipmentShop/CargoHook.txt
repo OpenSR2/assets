@@ -1,0 +1,181 @@
+	Size=520,440
+
+	TransImage {
+		Pos=0,0,-2
+		Image=Bitmap.Interface.Panel1
+		HalfAlpha=True
+	}
+	TextButton {
+		Name=ButCargoHookCancel
+		Style=Style.Button.Normal
+		Pos=300,380,-3
+		Size=80,20
+		Caption=Text.EquipmentShop.Cancel
+	}
+	TextButton {
+		Name=ButCargoHookBuy
+		Style=Style.Button.Normal
+		Pos=390,380,-3
+		Size=80,20
+		Caption=Text.EquipmentShop.Buy
+	}
+	TextButton {
+		Name=ButCargoHookShip
+		Style=Style.Button.Normal
+		Pos=300,350,-3
+		Size=170,20
+		Caption=Text.Ship.ButShip
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=155,10,-3
+		Size=200,20
+		AlignX=Center
+		AlignY=Center
+		Text=Equipment.Name.CargoHook
+	}
+/// Radius /////////////////////////////////////////////////
+	Label {
+		Style=Style.Label.Normal
+		Pos=155,80,-3
+		Size=200,20
+		AlignX=Center
+		AlignY=Center
+		Text=Text.EquipmentShop.Radius
+	}
+    ScrollBar {
+		Style=Style.ScrollBar.Normal
+		Pos=130,100,-3
+		Size=250,20
+		Kind=x
+		Name=RadiusCargoHookSB
+    }
+	Label {
+		Style=Style.Label.Normal
+		Pos=90,100,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=RadiusCargoHookMin
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=380,100,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=RadiusCargoHookMax
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=235,120,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=RadiusCargoHookCur
+	}
+/// Size /////////////////////////////////////////////////
+	Label {
+		Style=Style.Label.Normal
+		Pos=205,180,-3
+		Size=100,20
+		AlignX=Center
+		AlignY=Center
+		Text=Text.EquipmentShop.Size
+	}
+    ScrollBar {
+		Style=Style.ScrollBar.Normal
+		Pos=130,200,-3
+		Size=250,20
+		Kind=x
+		Name=SizeCargoHookSB
+    }
+	Label {
+		Style=Style.Label.Normal
+		Pos=90,200,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=SizeCargoHookMin
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=380,200,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=SizeCargoHookMax
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=235,220,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=SizeCargoHookCur
+	}
+/////// Sum ////////////////////////////////////////////
+	Label {
+		Style=Style.Label.Normal
+		Pos=55,250,-3
+		Size=200,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.EquipmentShop.Maker
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=255,250,-3
+		Size=200,20
+		AlignX=Left
+		AlignY=Center
+		Name=CargoHookMaker
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=55,270,-3
+		Size=200,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.EquipmentShop.Price
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=255,270,-3
+		Size=200,20
+		AlignX=Left
+		AlignY=Center
+		Name=CargoHookPrice
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=55,290,-3
+		Size=200,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.EquipmentShop.Money
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=255,290,-3
+		Size=200,20
+		AlignX=Left
+		AlignY=Center
+		Name=CargoHookMoney
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=55,310,-3
+		Size=200,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.EquipmentShop.Ost
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=255,310,-3
+		Size=200,20
+		AlignX=Left
+		AlignY=Center
+		Name=CargoHookOst
+	}

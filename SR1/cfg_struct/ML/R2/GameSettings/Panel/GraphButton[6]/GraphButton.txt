@@ -1,0 +1,9 @@
+Help=FormGameSet.Common.HelpMoral
+ImageDown=GI,Bm.FormGameSet.2PirateD
+ImageNormal=GI,Bm.FormGameSet.2PirateN
+ImageNormalA=GI,Bm.FormGameSet.2PirateA
+Kind=Fix
+KindHit=Rect
+Name=MoralPirate
+Pos=420,64,50
+Size=30,30

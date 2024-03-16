@@ -1,0 +1,5 @@
+Image=Bm.FormGalaxy.2bg0l
+Name=StarField
+Pos=512,384,-1
+Size=1024,768
+Sme=512,384

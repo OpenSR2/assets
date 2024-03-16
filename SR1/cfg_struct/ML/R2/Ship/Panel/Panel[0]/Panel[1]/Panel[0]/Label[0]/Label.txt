@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=Top
+Name=Act0l
+Pos=455,347,0
+Size=110,40
+Style=Style.Label.2Normal
+Text=FormShip.Drop
+TextColor=88,68,7
+WordWrap=True

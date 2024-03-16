@@ -1,0 +1,3 @@
+Pirate=I'm <Name> and I lost my ship after attacking a Human passenger liner. I've heard that rangers get free brand-new ships... Gimme the fastest one please.
+Trader=Today I, <Name>, have decided to become a ranger in order to get richer by getting a free Commonwealth ship.
+Warrior=My name is <Name>, 20 years ago I tricked Maloqi fleet into a trap, they were surrounded and I became a national hero. I think I could use the same tactics with Klissans. At least, it's worth a try.

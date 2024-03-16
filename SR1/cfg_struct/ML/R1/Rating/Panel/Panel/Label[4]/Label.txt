@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Name=BestWarrior
+Pos=208,383,-3
+Size=148,17
+Style=Style.Label.1Normal
+TextColor=255,255,230
+WordWrap=True

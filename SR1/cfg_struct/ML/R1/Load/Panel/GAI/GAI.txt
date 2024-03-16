@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=Center
+Name=Intro
+PBuf=True
+Pos=0,0,-200
+Size=800,600
+TransColor=255,0,255

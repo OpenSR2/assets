@@ -1,0 +1,8 @@
+Active=False
+FrameLoad=0
+Image=Bm.FormGameSet.1MalocA
+ImageFirst=Bm.FormGameSet.1MalocI
+Name=AnimMaloc
+PBuf=True
+Pos=527,172,5
+Size=250,302

@@ -1,0 +1,9 @@
+Auto=Size
+Help=FormInfo.HelpSearch
+ImageDown=GI,Bm.SI.1But2OkD
+ImageNormal=GI,Bm.SI.1But2OkN
+ImageNormalA=GI,Bm.SI.1But2OkA
+Kind=Normal
+KindHit=Rect
+Name=OkSearch
+Pos=294,238,1

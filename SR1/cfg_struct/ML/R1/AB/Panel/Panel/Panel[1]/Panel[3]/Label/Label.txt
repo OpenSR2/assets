@@ -1,0 +1,12 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Intro
+Name=WinText
+Pos=0,10,8
+Size=800,40
+Text=FormAB.Win
+TextBorder=1
+TextBorderColor=150,150,50
+TextColor=255,255,230
+TextShadow=1
+TextShadowColor=0,0,255

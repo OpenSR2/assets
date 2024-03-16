@@ -1,0 +1,10 @@
+Help=Help.ButSelAllWeapon
+ImageDown=GI,Bm.PanelSpace.2WD
+ImageNormal=GI,Bm.PanelSpace.2WN
+ImageNormalA=GI,Bm.PanelSpace.2WA
+Kind=Normal
+KindHit=Graph
+Name=PS_WA
+Pos=69,73,5
+Size=32,32
+Style=Style.GB.SoundNormal

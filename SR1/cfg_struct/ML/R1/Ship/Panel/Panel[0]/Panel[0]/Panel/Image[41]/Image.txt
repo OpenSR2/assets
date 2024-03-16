@@ -1,0 +1,3 @@
+Name=S_Weapon_2i
+Pos=262,125,0
+Size=36,35

@@ -1,0 +1,8 @@
+AlignX=Right
+AlignY=CenterEx
+Pos=504,566,2
+Size=78,16
+Style=Style.Label.1Normal
+Text=FormGameSet.Common.Moral
+TextColor=255,255,230
+WordWrap=False

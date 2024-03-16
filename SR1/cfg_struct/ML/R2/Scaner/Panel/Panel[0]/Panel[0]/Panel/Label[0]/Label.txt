@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Pos=69,28,0
+Size=82,18
+Style=Style.Label.2Normal
+Text=FormShip.IDef
+TextColor=0,0,0

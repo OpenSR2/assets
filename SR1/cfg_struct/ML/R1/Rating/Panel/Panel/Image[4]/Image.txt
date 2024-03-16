@@ -1,0 +1,3 @@
+Name=WarriorCaptainI
+Pos=244,290,1
+Size=77,86

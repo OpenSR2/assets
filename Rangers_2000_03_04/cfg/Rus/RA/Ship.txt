@@ -1,0 +1,343 @@
+Size=712,473
+
+TransImage {
+	Pos=0,0,-2
+	Image=Bitmap.Interface.PanelShip
+	HalfAlpha=True
+}
+
+TextButton {
+	Name=ShipEquipment
+	Style=Style.Button.NoTrans
+	Pos=20,20,-3
+	Size=130,20
+    Kind=Ext
+	Caption=Text.Ship.Equipment
+}
+TextButton {
+	Name=ShipHold
+	Style=Style.Button.NoTrans
+	Pos=150,20,-3
+	Size=90,20
+    Kind=Ext
+	Caption=Text.Ship.Goods
+}
+TextButton {
+	Name=ShipArtefact
+	Style=Style.Button.NoTrans
+	Pos=240,20,-3
+	Size=90,20
+    Kind=Ext
+	Caption=Text.Ship.Artefact
+}
+TextButton {
+	Name=ShipBook
+	Style=Style.Button.NoTrans
+	Pos=330,20,-3
+	Size=90,20
+    Kind=Ext
+	Caption=Text.Ship.Book
+}
+TextButton {
+	Name=ShipJob
+	Style=Style.Button.NoTrans
+	Pos=420,20,-3
+	Size=90,20
+    Kind=Ext
+	Caption=Text.Ship.Job
+}
+
+TextButton {
+	Name=ShipExit
+	Style=Style.Button.NoTrans
+	Pos=595,405,-3
+	Size=100,20
+	Caption=Text.Ship.Exit
+}
+
+//// Info ////////////////////////////////////////////////////////////
+Panel {
+	Pos=50,400,-3
+	Size=470,60
+	Label {
+		Style=Style.Label.Normal
+		Pos=0,0,-3
+		Size=200,20
+		AlignX=Left
+		AlignY=Center
+		Text=Text.Ship.InfoMaxSize
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=200,0,-3
+		Size=50,20
+		AlignX=Left
+		AlignY=Center
+		Name=InfoMaxSize
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=0,20,-3
+		Size=200,20
+		AlignX=Left
+		AlignY=Center
+		Text=Text.Ship.InfoCurSize
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=200,20,-3
+		Size=50,20
+		AlignX=Left
+		AlignY=Center
+		Name=InfoCurSize
+	}
+
+	Label {
+		Style=Style.Label.Normal
+		Pos=300,0,-3
+		Size=100,20
+		AlignX=Left
+		AlignY=Center
+		Text=Text.Ship.InfoSpeed
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=400,0,-3
+		Size=100,20
+		AlignX=Left
+		AlignY=Center
+		Name=InfoSpeed
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=300,20,-3
+		Size=100,20
+		AlignX=Left
+		AlignY=Center
+		Text=Text.Ship.InfoMass
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=400,20,-3
+		Size=100,20
+		AlignX=Left
+		AlignY=Center
+		Name=InfoMass
+	}
+}
+
+//////////////////////////////////////////////////////////////////////
+Panel {
+	Pos=35,60,-3
+	Size=630,325
+	Name=ShipPageEquipment
+	Active=False
+
+	Panel {
+		Pos=270,0,-3
+		Size=355,325
+
+		Grid {
+			Name=GridES
+			Style=Style.Grid.Normal
+			Pos=0,0
+			Size=345,280
+			ActiveBarY=True
+			StyleBarY=Style.ScrollBar.Normal
+			GridType=Row
+			ActiveCellImage=Bitmap.Background.Steel
+			ActiveCellImageHalfAlpha=True
+			ActiveCell=1,1
+			RowSelect=True
+
+			CountX=2
+			CountY=0
+
+			GridX {
+				0=34
+				1=310
+			}
+		}
+		Image {
+			Pos=300,283
+			Size=32,32
+			Image=Trans,Bitmap.Interface.Bin
+			Name=SellOrBin
+		}
+	}
+
+	Panel {
+		Name=VS1
+		Pos=20,0,-3
+		Size=250,325
+	
+		Image {
+			Pos=0,0
+			Size=250,330
+			Image=Alpha,Bitmap.Ship.Equipment1
+		}
+		Panel {
+			Pos=20,60
+			Style=Style.Panel.ShipPlace
+			Frame {
+				Style=Style.Frame.ShipPlace
+				Name=VS1_Engine_0f
+			}
+			ShrLight {
+				Style=Style.ShrLight.ShipPlace
+			}   	
+			Image {
+				Style=Style.Image.ShipPlace
+				Name=VS1_Engine_0
+			}
+		}
+		Panel {
+			Pos=50,100
+			Style=Style.Panel.ShipPlace
+			Frame {
+				Style=Style.Frame.ShipPlace
+				Name=VS1_FuelTanks_0f
+			}
+			ShrLight {
+				Style=Style.ShrLight.ShipPlace
+			}   	
+			Image {
+				Style=Style.Image.ShipPlace
+				Name=VS1_FuelTanks_0
+			}
+		}
+		Panel {
+			Pos=130,160
+			Style=Style.Panel.ShipPlace
+			Frame {
+				Style=Style.Frame.ShipPlace
+				Name=VS1_Radar_0f
+			}
+			ShrLight {
+				Style=Style.ShrLight.ShipPlace
+			}
+			Image {
+				Style=Style.Image.ShipPlace
+				Name=VS1_Radar_0
+			}
+		}
+		Panel {
+			Pos=180,150
+			Style=Style.Panel.ShipPlace
+			Frame {
+				Style=Style.Frame.ShipPlace
+				Name=VS1_Scaner_0f
+			}   
+			ShrLight {
+				Style=Style.ShrLight.ShipPlace
+			}   
+			Image {
+				Style=Style.Image.ShipPlace
+				Name=VS1_Scaner_0
+			}
+		}
+		Panel {
+			Pos=140,85
+			Style=Style.Panel.ShipPlace
+			Frame {
+				Style=Style.Frame.ShipPlace
+				Name=VS1_RepairRobot_0f
+			}
+			ShrLight {
+				Style=Style.ShrLight.ShipPlace
+			}  
+			Image {
+				Style=Style.Image.ShipPlace
+				Name=VS1_RepairRobot_0
+			}
+		}
+		Panel {
+			Pos=30,185
+			Style=Style.Panel.ShipPlace
+			Frame {
+				Style=Style.Frame.ShipPlace
+				Name=VS1_CargoHook_0f
+			}
+			ShrLight {
+				Style=Style.ShrLight.ShipPlace
+			}
+			Image {
+				Style=Style.Image.ShipPlace
+				Name=VS1_CargoHook_0
+			}
+		}
+		Panel {
+			Pos=90,205
+			Style=Style.Panel.ShipPlace
+			Frame {
+				Style=Style.Frame.ShipPlace
+				Name=VS1_DefGenerator_0f
+			}
+			ShrLight {
+				Style=Style.ShrLight.ShipPlace
+			}
+			Image {
+				Style=Style.Image.ShipPlace
+				Name=VS1_DefGenerator_0
+			}
+		}
+	}
+}
+//////////////////////////////////////////////////////////////////////
+Panel {
+	Pos=35,60,-3
+	Size=630,325
+	Name=ShipPageHold
+	Active=False
+
+	Grid {
+		Name=ShipHold_GridGoods
+		Style=Style.Grid.Normal
+		Pos=50,0
+		Size=201,161
+		GridType=Row
+		ActiveCellImage=Bitmap.Background.Steel
+		ActiveCellImageHalfAlpha=True
+		ActiveCell=1,1
+		RowSelect=True
+
+		CountX=2
+		CountY=8
+
+		GridX {
+			0=150
+			1=50
+		}
+		GridY {
+            0=20
+            1=20
+            2=20
+            3=20
+            4=20
+            5=20
+            6=20
+            7=20
+        }
+	}
+}
+//////////////////////////////////////////////////////////////////////
+Panel {
+	Pos=35,60,-3
+	Size=630,325
+	Name=ShipPageArtefact
+	Active=False
+}
+//////////////////////////////////////////////////////////////////////
+Panel {
+	Pos=35,60,-3
+	Size=630,325
+	Name=ShipPageBook
+	Active=False
+}
+//////////////////////////////////////////////////////////////////////
+Panel {
+	Pos=35,60,-3
+	Size=630,325
+	Name=ShipPageJob
+	Active=False
+}

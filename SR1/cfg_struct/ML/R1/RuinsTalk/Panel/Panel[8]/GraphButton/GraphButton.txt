@@ -1,0 +1,8 @@
+Auto=Size
+ImageDown=GI,Bm.MsgPlayer.1UserD
+ImageNormal=GI,Bm.MsgPlayer.1UserN
+ImageNormalA=GI,Bm.MsgPlayer.1UserA
+Kind=Normal
+KindHit=Rect
+Name=UserMsgAdd
+Pos=266,333,1

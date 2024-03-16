@@ -1,0 +1,4 @@
+Auto=Size
+Image=GI,Bm.Items.2KlingCoor
+Name=KlingCoor
+Pos=545,110,-1

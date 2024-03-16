@@ -1,0 +1,3 @@
+Name=InfoPlanetImage
+Pos=16,16,8
+Size=24,24

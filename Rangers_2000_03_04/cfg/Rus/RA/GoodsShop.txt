@@ -1,0 +1,169 @@
+Size=520,440
+
+TransImage {
+	Pos=0,0,-2
+	Image=Bitmap.Interface.Panel1
+	HalfAlpha=True
+}
+TextButton {
+	Name=ButFSBCancel
+	Style=Style.Button.NoTrans
+	Pos=300,395,-3
+	Size=165,20
+	Caption=Text.GoodsShop.Cancel
+}
+TextButton {
+	Name=ButFSBShip
+	Style=Style.Button.NoTrans
+	Pos=300,365,-3
+	Size=165,20
+	Caption=Text.Ship.ButShip
+}
+Label {
+	Style=Style.Label.Normal
+	Pos=155,10,-3
+	Size=200,20
+	AlignX=Center
+	AlignY=Center
+	Name=FSBGoodsName
+}
+///////// Buy /////////////////////////////////////////////
+Panel {
+	Pos=10,40,-3
+	Size=500,160
+
+	Label {
+		Style=Style.Label.Normal
+		Pos=10,10
+		Size=200,20
+		AlignX=Left
+		AlignY=Center
+		Text=Text.GoodsShop.LBuy
+	}
+	TextButton {
+		Name=ButFSBBuy
+		Style=Style.Button.NoTrans
+		Pos=390,130
+		Size=100,20
+		Caption=Text.GoodsShop.Buy
+	}
+
+    ScrollBar {
+		Style=Style.ScrollBar.Normal
+		Pos=130,30
+		Size=250,20
+		Kind=x
+		Name=FSBBuySB
+    }
+	Label {
+		Style=Style.Label.Normal
+		Pos=90,30
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=FSBBuyMin
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=380,30
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=FSBBuyMax
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=235,50
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=FSBBuyCur
+	}
+
+	Label {
+		Style=Style.Label.Normal
+		Pos=300,80
+		Size=100,20
+		AlignX=Left
+		AlignY=Center
+		Text=Text.GoodsShop.Sum
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=400,80
+		Size=100,20
+		AlignX=Left
+		AlignY=Center
+		Name=FSBBuySum
+	}
+}
+///////// Sell /////////////////////////////////////////////
+Panel {
+	Pos=10,200,-3
+	Size=500,160
+
+	Label {
+		Style=Style.Label.Normal
+		Pos=10,10
+		Size=200,20
+		AlignX=Left
+		AlignY=Center
+		Text=Text.GoodsShop.LSell
+	}
+	TextButton {
+		Name=ButFSBSell
+		Style=Style.Button.NoTrans
+		Pos=390,130
+		Size=100,20
+		Caption=Text.GoodsShop.Sell
+	}
+
+    ScrollBar {
+		Style=Style.ScrollBar.Normal
+		Pos=130,30
+		Size=250,20
+		Kind=x
+		Name=FSBSellSB
+    }
+	Label {
+		Style=Style.Label.Normal
+		Pos=90,30
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=FSBSellMin
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=380,30
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=FSBSellMax
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=235,50
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=FSBSellCur
+	}
+
+	Label {
+		Style=Style.Label.Normal
+		Pos=300,80
+		Size=100,20
+		AlignX=Left
+		AlignY=Center
+		Text=Text.GoodsShop.Sum
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=400,80
+		Size=100,20
+		AlignX=Left
+		AlignY=Center
+		Name=FSBSellSum
+	}
+}

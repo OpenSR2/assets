@@ -1,0 +1,59 @@
+ArtefactAnalyzer=ArtefactAnalyzer\ArtefactAnalyzer.txt ^{
+}
+ArtefactAntigrav=ArtefactAntigrav\ArtefactAntigrav.txt ^{
+}
+ArtefactBomb=ArtefactBomb\ArtefactBomb.txt ^{
+}
+ArtefactDef=ArtefactDef\ArtefactDef.txt ^{
+}
+ArtefactDroid=ArtefactDroid\ArtefactDroid.txt ^{
+}
+ArtefactFuel=ArtefactFuel\ArtefactFuel.txt ^{
+}
+ArtefactHook=ArtefactHook\ArtefactHook.txt ^{
+}
+ArtefactHull=ArtefactHull[0]\ArtefactHull.txt ^{
+}
+ArtefactHull=ArtefactHull[1]\ArtefactHull.txt ^{
+}
+ArtefactMiniExpl=ArtefactMiniExpl\ArtefactMiniExpl.txt ^{
+}
+ArtefactNano=ArtefactNano\ArtefactNano.txt ^{
+}
+ArtefactPower=ArtefactPower\ArtefactPower.txt ^{
+}
+ArtefactRadar=ArtefactRadar\ArtefactRadar.txt ^{
+}
+ArtefactScaner=ArtefactScaner\ArtefactScaner.txt ^{
+}
+ArtefactSpeed=ArtefactSpeed\ArtefactSpeed.txt ^{
+}
+ArtefactTranclucator=ArtefactTranclucator\ArtefactTranclucator.txt ^{
+}
+ArtefactTransmitter=ArtefactTransmitter\ArtefactTransmitter.txt ^{
+}
+CargoHook=CargoHook\CargoHook.txt ^{
+}
+DefGenerator=DefGenerator\DefGenerator.txt ^{
+}
+Engine=Engine\Engine.txt ^{
+}
+Equpments=Equpments\Equpments.txt ^{
+}
+FuelTanks=FuelTanks\FuelTanks.txt ^{
+}
+Goods=Goods\Goods.txt ^{
+}
+Hull=Hull\Hull.txt ^{
+}
+Protoplasm=Protoplasm\Protoplasm.txt ^{
+}
+Radar=Radar\Radar.txt ^{
+}
+RepairRobot=RepairRobot\RepairRobot.txt ^{
+}
+Scaner=Scaner\Scaner.txt ^{
+}
+SmallInfo=Container
+Weapon=Weapon\Weapon.txt ^{
+}

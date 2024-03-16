@@ -1,0 +1,22 @@
+Accept=Accept
+Attack=Attack\Attack.txt ^{
+}
+Cancel=Cancel
+Exit=Exit talk
+Goods=Goods\Goods.txt ^{
+}
+Money=Money\Money.txt ^{
+}
+Partner=Partner\Partner.txt ^{
+}
+PlanetSay=Planet
+PlanetSay=<Name>
+Protect=Protect\Protect.txt ^{
+}
+Reject=Reject
+ShipSay=<Name>
+To= -->
+Tranclucator=Tranclucator\Tranclucator.txt ^{
+}
+Truce=Truce\Truce.txt ^{
+}

@@ -1,0 +1,12 @@
+Caption=FormSaveManager.Save
+CaptionColor=255,255,230
+CaptionSme=0,-2,1,0
+Font=Font.1Normal
+ImageDown=GI,Bm.SI.1ButD
+ImageNormal=GI,Bm.SI.1ButN
+ImageNormalA=GI,Bm.SI.1ButA
+Kind=Normal
+KindHit=Rect
+Name=ButSave
+Pos=522,559,1
+Size=134,37

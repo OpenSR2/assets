@@ -1,0 +1,16 @@
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+MVUpdate=True
+Name=PanelFilm
+Pos=-451,327,ButtonNav
+ScrollBar=ScrollBar\ScrollBar.txt ^{
+}
+Size=901,58

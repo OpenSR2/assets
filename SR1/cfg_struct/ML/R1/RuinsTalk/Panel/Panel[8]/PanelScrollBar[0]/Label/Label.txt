@@ -1,0 +1,8 @@
+AlignX=Auto
+AlignY=Auto
+Name=TalkText
+Pos=0,0,0,w
+Size=254,302
+Style=Style.Label.1Normal
+TextColor=255,255,230
+WordWrap=True

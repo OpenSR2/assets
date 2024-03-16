@@ -1,0 +1,3 @@
+CaptionColor=0,255,0
+Font=Font.1Normal
+Size=100,20

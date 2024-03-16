@@ -1,0 +1,5 @@
+Image=GI,Bm.FormLoad.1max
+KindX=Left
+Name=PBmax
+Pos=0,440,-12
+Size=800,123

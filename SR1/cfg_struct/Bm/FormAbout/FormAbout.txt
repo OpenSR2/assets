@@ -1,0 +1,10 @@
+1Line=data\FormAbout\1Line.gi
+1Logo1C=data\FormAbout\1Logo1C.gi
+1LogoElemental=data\FormAbout\1LogoElemental.gi
+1bg=data\FormAbout\1bg.gi
+2Code0=data\FormAbout\2Code0.gi
+2Image0=data\FormAbout\2Image0.gi
+2Line=data\FormAbout\2Line.gi
+2Logo1C=data\FormAbout\2Logo1C.gi
+2LogoElemental=data\FormAbout\2LogoElemental.gi
+2bg=data\FormAbout\2bg.gi

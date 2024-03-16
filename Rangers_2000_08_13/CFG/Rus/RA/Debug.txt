@@ -1,0 +1,129 @@
+Name=Debug
+Pos=300,220,-9999
+Size=440,345
+MouseBlocking=True
+Active=False
+
+SimpleImage {
+	Name=DebugImage
+	Image=Bitmap.Background.Wave
+	Pos=0,0,10
+	Size=440,345
+	KindX=LeftFill
+	KindY=TopFill
+	HalfAlpha=True
+    MVUpdate=True
+}
+Grid {
+	Name=DebugGrid
+	Style=Style.Grid.Normal
+	Pos=5,25,9
+	Size=420,305
+	ActiveBarX=True
+	ActiveBarY=True
+	StyleBarX=Style.ScrollBar.Normal
+	StyleBarY=Style.ScrollBar.Normal
+	GridType=Cell
+	ActiveCellImage=Bitmap.Background.Steel
+	ActiveCellImageHalfAlpha=True
+	ActiveCell=1,1
+	RowSelect=True
+           
+	CountX=4
+	CountY=5
+
+	GridX {
+		0=399
+		1=20
+		2=100
+		3=50
+	}
+}
+TextButton {
+	Name=DebugBut1
+	Style=Style.Button.NoTrans
+	Pos=5,5
+	Size=15,15
+    Kind=Ext
+	Caption=1
+}
+TextButton {
+	Name=DebugBut2
+	Style=Style.Button.NoTrans
+	Pos=25,5
+	Size=15,15
+    Kind=Ext
+	Caption=2
+}
+TextButton {
+	Name=DebugBut3
+	Style=Style.Button.NoTrans
+	Pos=45,5
+	Size=15,15
+    Kind=Ext
+	Caption=3
+}
+TextButton {
+	Name=DebugBut4
+	Style=Style.Button.NoTrans
+	Pos=65,5
+	Size=15,15
+    Kind=Ext
+	Caption=4
+}
+TextButton {
+	Name=DebugBut5
+	Style=Style.Button.NoTrans
+	Pos=85,5
+	Size=15,15
+    Kind=Ext
+	Caption=5
+}
+TextButton {
+	Name=DebugBut6
+	Style=Style.Button.NoTrans
+	Pos=105,5
+	Size=15,15
+    Kind=Ext
+	Caption=6
+}
+TextButton {
+	Name=DebugBut7
+	Style=Style.Button.NoTrans
+	Pos=125,5
+	Size=15,15
+    Kind=Ext
+	Caption=7
+}
+TextButton {
+	Name=DebugBut8
+	Style=Style.Button.NoTrans
+	Pos=145,5
+	Size=15,15
+    Kind=Ext
+	Caption=8
+}
+TextButton {
+	Name=DebugBut9
+	Style=Style.Button.NoTrans
+	Pos=165,5
+	Size=15,15
+    Kind=Ext
+	Caption=9
+}
+
+TextButton {
+	Name=DebugButUpdate
+	Style=Style.Button.NoTrans
+	Pos=300,5
+	Size=50,15
+	Caption=Update
+}
+TextButton {
+	Name=DebugButClear
+	Style=Style.Button.NoTrans
+	Pos=370,5
+	Size=50,15
+	Caption=Clear
+}
+

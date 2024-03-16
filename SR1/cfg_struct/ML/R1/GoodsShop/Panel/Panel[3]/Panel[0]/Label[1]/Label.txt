@@ -1,0 +1,3 @@
+Name=TovPrice0
+Pos=99,90,7
+Style=Style.Label.1GSTovP

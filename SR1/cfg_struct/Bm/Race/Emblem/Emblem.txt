@@ -1,0 +1,14 @@
+1Fei=data\Race\1EmFei.png
+1Gaal=data\Race\1EmGaal.png
+1Kling=data\Race\1EmKling.png
+1Maloc=data\Race\1EmMaloc.png
+1None=data\Race\1EmNone.png
+1Peleng=data\Race\1EmPeleng.png
+1People=data\Race\1EmPeople.png
+2Fei=data\Race\2EmFei.png
+2Gaal=data\Race\2EmGaal.png
+2Kling=data\Race\2EmKling.png
+2Maloc=data\Race\2EmMaloc.png
+2None=data\Race\2EmNone.png
+2Peleng=data\Race\2EmPeleng.png
+2People=data\Race\2EmPeople.png

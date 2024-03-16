@@ -1,0 +1,4 @@
+Name=Name\Name.txt ^{
+}
+Text=Text\Text.txt ^{
+}

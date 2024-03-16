@@ -1,0 +1,6 @@
+Image=GI,Bm.FormAB.1WF
+KindX=Left
+Name=W3A
+Pos=109,488,-5
+Size=34,34
+Sme=0,0

@@ -1,0 +1,9 @@
+Help=FormGameSet.Common.HelpMoral
+ImageDown=GI,Bm.FormGameSet.1TraderD
+ImageNormal=GI,Bm.FormGameSet.1TraderN
+ImageNormalA=GI,Bm.FormGameSet.1TraderA
+Kind=Fix
+KindHit=Rect
+Name=MoralTrader
+Pos=291,51,50
+Size=23,23

@@ -1,0 +1,3 @@
+Accepted=Mission accomplished, you only have to collect your money
+NotAccepted=Mission in progress
+NotQuests=No missions

@@ -1,0 +1,2 @@
+PlanetQuest=PlanetQuest\PlanetQuest.txt ^{
+}

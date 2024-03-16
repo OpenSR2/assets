@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.2e3B
+Name=S_CargoHook_0b
+Pos=150,331,1
+Size=45,44

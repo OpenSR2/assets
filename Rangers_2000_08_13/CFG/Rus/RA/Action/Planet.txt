@@ -1,0 +1,31 @@
+Pos=0,0,ButtonAction,w
+Size=100,100
+Sme=50,50
+Name=ActionPlanet
+Active=False
+MVUpdate=True
+			
+TextButton {
+	Name=ActionPlanetMove
+	Style=Style.Button.NoTrans
+	Pos=-20,-20,2
+	Size=20,20
+	Sme=10,10
+	Kind=Ext
+	Caption=M
+}
+TextButton {
+	Name=ActionPlanetLanding
+	Style=Style.Button.NoTrans
+	Pos=20,-20,2
+	Size=20,20
+	Sme=10,10
+	Kind=Ext
+	Caption=L
+}
+Label {
+	Font=Font.Normal
+   	Name=ActionPlanetCountTurn
+	Pos=-20,20,2
+	Size=40,20
+}

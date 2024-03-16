@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_Engine_0z
+Pos=149,145,0
+Size=45,44

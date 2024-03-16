@@ -1,0 +1,7 @@
+1=Electromagnetic
+2=Bipolar
+3=Pixelating
+4=Tecrane
+5=Duplex
+6=Trassion
+7=Vortex

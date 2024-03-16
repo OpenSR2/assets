@@ -1,0 +1,5 @@
+Image=GI,Bm.FormLoad.1min
+KindX=Right
+Name=PBmin
+Pos=0,440,-1
+Size=800,123

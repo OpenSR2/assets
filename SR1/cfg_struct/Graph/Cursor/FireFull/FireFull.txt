@@ -1,0 +1,2 @@
+Image=GAI,Bm.Cursor.FireFull
+Sme=1,1

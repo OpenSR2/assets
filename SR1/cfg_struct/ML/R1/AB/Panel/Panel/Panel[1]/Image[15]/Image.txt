@@ -1,0 +1,5 @@
+Image=GI,Bm.FormAB.1WA
+Name=W6
+Pos=109,556,-4
+Size=34,34
+Sme=17,17

@@ -1,0 +1,7 @@
+End=Very well, <Ranger>, it was an easy job for you, and we were so worried. Here is your <Money> cr. We would be glad to use your services in the future.
+InThisSystem=Yes
+PlanetRace=Gaal
+ShipType=Transport
+Start=We have built <FShip>, a cargo vessel, using ultra-modern technologies. Maloqi spying corporation "Qalagon", which has been working in our system for some time, has found it out. We cannot influence politically and on the other hand we are reluctant to use regular army since it would cause unnecessary confrontation. But we are still concerned that "Kalagon" can hire a group of terrorists or pirates to destroy <FShip>. We have done our best not to provoke the organisation and even did it some favours, but we are still suspicious. The destruction of this oveon is going to be a great loss for us, in every possible sense.
+Start=Your work is quite simple: ensure the security of the vessel for <Day> days. It is currently here, in the system of <InStar> and is getting ready for the flight. Please only resolve to force if you have no other option. Remember, we wish no deaths! Upon completing the contract we will compensate you with <Money> cr.
+Status=Warrior

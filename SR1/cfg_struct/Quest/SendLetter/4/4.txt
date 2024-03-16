@@ -1,0 +1,8 @@
+End=?, <Ranger>, you have delivered the anthem from <FromPlanet>! It is so nice of you. Let <Money> cr be your reward.
+End=...
+End=Hmmm, the tape is crumpled... What, you played it on your rusty tape recorder?! It is such a blow for us. Well, don't despair, most Fayeans have so little knowledge of Human music that they will think it sounds normal.
+FromRace=People
+Start=Planets <FromPlanet> and <ToPlanet> take part in twinning scheme and have achieved substantial degree of economic and cultural integration. To honour our friendship, poets and composers from our planet have written an anthem, "Let Peaceful Galaxy prosper" which glorifies the efforts of our peoples to establish peace and co-operation. Our planet has already had the ceremony of first performance of this anthem; now a similar ceremony has to take place on <ToPlanet> (system of <ToStar>).
+Start=They have everything ready for the ceremony, the only thing they need is a cassette with anthem recording. This is what we want to ask for, <Ranger>. It is necessary to do it as soon as possible, that is why the reward depends on the contract term. If you undertake to deliver the anthem in <Day> days, you will get <Money> cr on arrival.
+Status=Any
+ToRace=Fei

@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Normal
+Name=InfoPlanetGov
+Pos=125,110,8
+Size=130,15
+TextColor=255,245,80
+WordWrap=False

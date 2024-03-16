@@ -1,0 +1,134 @@
+BG=data\WS2\shop0000.jpg
+
+Weapon {
+	01=data\WS2\WEAPON\01_photon.png
+	02=data\WS2\WEAPON\02_ion.png
+	03=data\WS2\WEAPON\03_zip_gun.png
+	04=data\WS2\WEAPON\04_gravitonic.png
+	05=data\WS2\WEAPON\05_retractor.png
+	06=data\WS2\WEAPON\06_keller.png
+	07=data\WS2\WEAPON\07_aeonic.png
+	08=data\WS2\WEAPON\08_defibrillator.png
+	09=data\WS2\WEAPON\09_submesonic.png
+	10=data\WS2\WEAPON\10_field.png
+	11=data\WS2\WEAPON\11_tachyon_cleaver.png
+	12=data\WS2\WEAPON\12_wind.png
+}
+
+Door {
+	00=data\WS2\Door\00.png
+	01=data\WS2\Door\01.png
+	02=data\WS2\Door\02.png
+	03=data\WS2\Door\03.png
+	04=data\WS2\Door\04.png
+	05=data\WS2\Door\05.png
+	06=data\WS2\Door\06.png
+	07=data\WS2\Door\07.png
+	08=data\WS2\Door\08.png
+	09=data\WS2\Door\09.png
+	10=data\WS2\Door\10.png
+}
+
+Fan1 {
+	00=data\WS2\RAN\FAN1\02.png
+	01=data\WS2\RAN\FAN1\03.png
+	02=data\WS2\RAN\FAN1\04.png
+	03=data\WS2\RAN\FAN1\05.png
+	04=data\WS2\RAN\FAN1\06.png
+	05=data\WS2\RAN\FAN1\07.png
+	06=data\WS2\RAN\FAN1\08.png
+	07=data\WS2\RAN\FAN1\09.png
+	08=data\WS2\RAN\FAN1\10.png
+	09=data\WS2\RAN\FAN1\11.png
+}
+
+Fan2 {
+	00=data\WS2\RAN\FAN2\02.png
+	01=data\WS2\RAN\FAN2\03.png
+	02=data\WS2\RAN\FAN2\04.png
+	03=data\WS2\RAN\FAN2\05.png
+	04=data\WS2\RAN\FAN2\06.png
+	05=data\WS2\RAN\FAN2\07.png
+	06=data\WS2\RAN\FAN2\08.png
+	07=data\WS2\RAN\FAN2\09.png
+	08=data\WS2\RAN\FAN2\10.png
+	09=data\WS2\RAN\FAN2\11.png
+}
+
+Truba {
+	00=data\WS2\TRUBA\02.png
+	01=data\WS2\TRUBA\03.png
+	02=data\WS2\TRUBA\04.png
+	03=data\WS2\TRUBA\05.png
+	04=data\WS2\TRUBA\06.png
+	05=data\WS2\TRUBA\07.png
+	06=data\WS2\TRUBA\08.png
+	07=data\WS2\TRUBA\09.png
+	08=data\WS2\TRUBA\10.png
+	09=data\WS2\TRUBA\11.png
+}
+
+Ekran1 {
+	00=data\WS2\RAN\EKRAN1\1.png
+	01=data\WS2\RAN\EKRAN1\2.png
+	02=data\WS2\RAN\EKRAN1\3.png
+	03=data\WS2\RAN\EKRAN1\4.png
+	04=data\WS2\RAN\EKRAN1\5.png
+	05=data\WS2\RAN\EKRAN1\6.png
+}
+
+Ekran2 {
+	00=data\WS2\RAN\EKRAN2\1.png
+	01=data\WS2\RAN\EKRAN2\2.png
+	02=data\WS2\RAN\EKRAN2\3.png
+	03=data\WS2\RAN\EKRAN2\4.png
+	04=data\WS2\RAN\EKRAN2\5.png
+	05=data\WS2\RAN\EKRAN2\6.png
+}
+
+Display1 {
+	00=data\WS2\RAN\DISPLAY1\1.png
+	01=data\WS2\RAN\DISPLAY1\2.png
+	02=data\WS2\RAN\DISPLAY1\3.png
+	03=data\WS2\RAN\DISPLAY1\4.png
+	04=data\WS2\RAN\DISPLAY1\5.png
+	05=data\WS2\RAN\DISPLAY1\6.png
+}
+
+Display2 {
+	00=data\WS2\RAN\DISPLAY2\1.png
+	01=data\WS2\RAN\DISPLAY2\2.png
+	02=data\WS2\RAN\DISPLAY2\3.png
+	03=data\WS2\RAN\DISPLAY2\4.png
+	04=data\WS2\RAN\DISPLAY2\5.png
+	05=data\WS2\RAN\DISPLAY2\6.png
+}
+
+Display3 {
+	00=data\WS2\RAN\DISPLAY3\1.png
+	01=data\WS2\RAN\DISPLAY3\2.png
+	02=data\WS2\RAN\DISPLAY3\3.png
+	03=data\WS2\RAN\DISPLAY3\4.png
+	04=data\WS2\RAN\DISPLAY3\5.png
+	05=data\WS2\RAN\DISPLAY3\6.png
+}
+
+Indicator1 {
+	00=data\WS2\RAN\INDICATOR1\1.png
+	01=data\WS2\RAN\INDICATOR1\2.png
+}
+
+Indicator2 {
+	00=data\WS2\RAN\INDICATOR2\1.png
+	01=data\WS2\RAN\INDICATOR2\2.png
+}
+
+Indicator3 {
+	00=data\WS2\RAN\INDICATOR3\1.png
+	01=data\WS2\RAN\INDICATOR3\2.png
+}
+
+Indicator4 {
+	00=data\WS2\RAN\INDICATOR4\1.png
+	01=data\WS2\RAN\INDICATOR4\2.png
+}

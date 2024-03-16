@@ -1,0 +1,3 @@
+Name=PlayerI
+Pos=69,667,-6
+Size=77,77

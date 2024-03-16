@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Help=Help.LabelMoney
+Name=PM_Money
+Pos=767,48,8
+Size=95,22
+TextColor=255,255,230

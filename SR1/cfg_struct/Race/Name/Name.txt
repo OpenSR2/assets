@@ -1,0 +1,7 @@
+Fei=Fayeans
+Gaal=Gaals
+Kling=Klissans
+Maloc=Maloqs
+None=Unknown
+Peleng=Pelengs
+People=Humans

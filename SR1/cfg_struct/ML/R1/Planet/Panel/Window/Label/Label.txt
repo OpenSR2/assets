@@ -1,0 +1,8 @@
+AlignX=Auto
+AlignY=Auto
+Name=PanelInfo_Text
+Pos=10,10,8
+Size=280,180
+Style=Style.Label.1Normal
+TextColor=255,255,230
+WordWrap=False

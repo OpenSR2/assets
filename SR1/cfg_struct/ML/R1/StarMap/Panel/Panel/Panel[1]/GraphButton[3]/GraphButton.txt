@@ -1,0 +1,10 @@
+Help=Help.ButFilm
+ImageDown=GI,Bm.PanelSpace.1FilmD
+ImageNormal=GI,Bm.PanelSpace.1FilmN
+ImageNormalA=GI,Bm.PanelSpace.1FilmA
+Kind=Normal
+KindHit=Graph
+Name=PS_Film
+Pos=91,95,8
+Size=41,39
+Style=Style.GB.SoundNormal

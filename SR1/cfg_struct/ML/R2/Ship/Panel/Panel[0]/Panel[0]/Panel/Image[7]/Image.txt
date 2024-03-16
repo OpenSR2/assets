@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.2e1A
+Name=S_FuelTanks_0a
+Pos=112,191,1
+Size=45,44

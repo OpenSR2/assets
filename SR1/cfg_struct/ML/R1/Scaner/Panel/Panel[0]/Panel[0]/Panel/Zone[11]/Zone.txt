@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_Weapon_3z
+Pos=277,165,0
+Size=36,36

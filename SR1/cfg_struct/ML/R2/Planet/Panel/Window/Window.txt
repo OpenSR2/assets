@@ -1,0 +1,7 @@
+Active=True
+Label=Label\Label.txt ^{
+}
+Name=PanelInfo
+Pos=720,10,2
+Size=300,200
+Style=Style.Window.2Normal2

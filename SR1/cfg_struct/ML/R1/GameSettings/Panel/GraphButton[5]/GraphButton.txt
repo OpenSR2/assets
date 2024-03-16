@@ -1,0 +1,9 @@
+Help=FormGameSet.Common.HelpMoral
+ImageDown=GI,Bm.FormGameSet.1WarriorD
+ImageNormal=GI,Bm.FormGameSet.1WarriorN
+ImageNormalA=GI,Bm.FormGameSet.1WarriorA
+Kind=Fix
+KindHit=Rect
+Name=MoralWarrior
+Pos=311,19,50
+Size=23,23

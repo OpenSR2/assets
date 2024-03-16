@@ -1,0 +1,10 @@
+Help=Help.ButTalk
+ImageDown=GI,Bm.PanelSpace.2TalkD
+ImageNormal=GI,Bm.PanelSpace.2TalkN
+ImageNormalA=GI,Bm.PanelSpace.2TalkA
+Kind=Normal
+KindHit=Graph
+Name=PS_Talk
+Pos=59,137,8
+Size=50,47
+Style=Style.GB.SoundNormal

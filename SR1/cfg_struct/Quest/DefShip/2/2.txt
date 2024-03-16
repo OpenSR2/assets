@@ -1,0 +1,7 @@
+End=Your contract is complete and we pay you <Money> cr. Unfortunately, even before you arrived, the freighter had to give its cargo to the pirates. So we are going to take "GreenPeace Universal" to court. We hope, you can be our witness in the case?
+InThisSystem=No
+PlanetRace=Peleng
+ShipType=Transport
+Start=Our planet <FromPlanet> is known in entire Galaxy for our quality canned legs of Vygakh monster bugs. Not long ago transport <Ship> started from our planet and flew to <InStar>, carrying this most tasty delicacy onboard. Just as it reached the destination system, it was attacked by GreenPeace Universal (GPU), under the mask of pirates. In fact, they are real robbers even though they are calling themselves fighters for animal rights. On the gunpoint, they demanded us give them the load of cans, which would be a huge blow for our economy.
+Start=The cartel specialising in introducing new valuable bug breeds is ready to finance any pilot having a military ship and who is ready to ensure the safety of <Ship> for <Day> days. If you see anyone attacking our ship, just know that it is provocation from GPU scoundrels. The more scumbags you kill, the more money we will give you.
+Status=Any

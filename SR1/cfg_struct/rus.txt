@@ -1,0 +1,106 @@
+1DemoEdit=Cfg\Rus\1DemoEdit.txt
+2DemoEdit=Cfg\Rus\2DemoEdit.txt
+Asteroid=Asteroid\Asteroid.txt ^{
+}
+CaseConv=CaseConv\CaseConv.txt ^{
+}
+Constellations=Constellations\Constellations.txt ^{
+}
+DifLevel=DifLevel\DifLevel.txt ^{
+}
+Economy=Economy\Economy.txt ^{
+}
+FormAB=FormAB\FormAB.txt ^{
+}
+FormAbout=FormAbout\FormAbout.txt ~{
+}
+FormCfgSettings=FormCfgSettings\FormCfgSettings.txt ^{
+}
+FormGS=FormGS\FormGS.txt ^{
+}
+FormGalaxy=FormGalaxy\FormGalaxy.txt ^{
+}
+FormGameEnd=FormGameEnd\FormGameEnd.txt ^{
+}
+FormGameMenu=FormGameMenu\FormGameMenu.txt ^{
+}
+FormGameSet=FormGameSet\FormGameSet.txt ^{
+}
+FormGov=FormGov\FormGov.txt ^{
+}
+FormHangar=FormHangar\FormHangar.txt ^{
+}
+FormInfo=FormInfo\FormInfo.txt ^{
+}
+FormIntroduction=FormIntroduction\FormIntroduction.txt ^{
+}
+FormMain=FormMain\FormMain.txt ^{
+}
+FormRating=FormRating\FormRating.txt ^{
+}
+FormRuins=FormRuins\FormRuins.txt ^{
+}
+FormSaveManager=FormSaveManager\FormSaveManager.txt ^{
+}
+FormScore=FormScore\FormScore.txt ^{
+}
+FormShip=FormShip\FormShip.txt ^{
+}
+FormShop=FormShop\FormShop.txt ^{
+}
+GalaxyNews=GalaxyNews\GalaxyNews.txt ^{
+}
+GovGreetings=GovGreetings\GovGreetings.txt ^{
+}
+Goverment=Goverment\Goverment.txt ^{
+}
+Help=Help\Help.txt ^{
+}
+Items=Items\Items.txt ^{
+}
+Month=Month\Month.txt ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+PlanetCongratulations=PlanetCongratulations\PlanetCongratulations.txt ^{
+}
+PlanetName=PlanetName\PlanetName.txt ^{
+}
+PlanetQuest=PlanetQuest\PlanetQuest.txt ^{
+}
+Quest=Quest\Quest.txt ^{
+}
+Race=Race\Race.txt ^{
+}
+RangerInfo=RangerInfo\RangerInfo.txt ^{
+}
+Rank=Rank\Rank.txt ^{
+}
+Relations=Relations\Relations.txt ^{
+}
+Reward=Reward\Reward.txt ^{
+}
+RuinName=RuinName\RuinName.txt ^{
+}
+Script=Script\Script.txt ^{
+}
+ShipCharacter=ShipCharacter\ShipCharacter.txt ^{
+}
+ShipGreetings=ShipGreetings\ShipGreetings.txt ^{
+}
+ShipInfo=ShipInfo\ShipInfo.txt ^{
+}
+ShipName=ShipName\ShipName.txt ^{
+}
+ShipType=ShipType\ShipType.txt ^{
+}
+Skills=Skills\Skills.txt ^{
+}
+Star=Star\Star.txt ^{
+}
+Talk=Talk\Talk.txt ^{
+}
+Tips=Tips\Tips.txt ^{
+}
+UselessItems=UselessItems\UselessItems.txt ^{
+}

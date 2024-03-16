@@ -1,0 +1,3 @@
+Image=GI,Bm.FormOptions.2Point
+Pos=902,689,3
+Size=23,57

@@ -1,0 +1,9 @@
+Auto=Size
+Help=Help.ButRefuel
+ImageDisable=GI,Bm.Hangar.1RefuelD
+ImageDown=GI,Bm.Hangar.1RefuelD
+ImageNormalA=GI,Bm.Hangar.1RefuelA
+Kind=Disable
+KindHit=Rect
+Name=ButRefuel
+Pos=209,12,8

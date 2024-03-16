@@ -1,0 +1,6 @@
+AlignX=Center
+AlignY=Center
+Image=GI,Bm.Items.1Technics
+Name=Tov2i
+Pos=173,137,7
+Size=27,26

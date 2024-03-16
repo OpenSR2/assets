@@ -1,0 +1,10 @@
+Help=FormGameMenu.Settings
+ImageHit=GI,Bm.FormMenu.2SettingsH
+ImageNormalA=GI,Bm.FormMenu.2SettingsA
+ImageNormalA_Pos=148,310
+Kind=Normal
+KindHit=ImageHit
+Name=Settings
+Pos=70,276,-3
+Size=187,116
+Style=Style.GB.SoundNormal

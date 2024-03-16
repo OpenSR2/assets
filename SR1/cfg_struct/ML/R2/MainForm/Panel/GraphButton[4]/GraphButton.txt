@@ -1,0 +1,13 @@
+Auto=Pos,Size
+Caption=FormMain.About
+CaptionColor=255,255,255
+CaptionSme=1,2,2,3
+Font=Font.2Normal
+ImageDown=GI,Bm.FormMain.2but4n
+ImageNormal=GI,Bm.FormMain.2but4n
+ImageNormalA=GI,Bm.FormMain.2but4a
+Kind=Normal
+KindHit=Graph
+Name=About
+PosZ=20
+Style=Style.GB.SoundNormal

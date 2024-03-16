@@ -1,0 +1,14 @@
+PointForNextLevel=????????? ?????? <PointForNextLevel> ?????.
+TSkills=(sAccuracy,sMobility,sTechnical,sTrader,sCharm,sLeadership
+sAccuracy=sAccuracy\sAccuracy.txt ^{
+}
+sCharm=sCharm\sCharm.txt ^{
+}
+sLeadership=sLeadership\sLeadership.txt ^{
+}
+sMobility=sMobility\sMobility.txt ^{
+}
+sTechnical=sTechnical\sTechnical.txt ^{
+}
+sTrader=sTrader\sTrader.txt ^{
+}

@@ -1,0 +1,333 @@
+	Size=520,440
+
+	TransImage {
+		Pos=0,0,-2
+		Image=Bitmap.Interface.Panel1
+		HalfAlpha=True
+	}
+	TextButton {
+		Name=ButHullCancel
+		Style=Style.Button.Normal
+		Pos=300,380,-3
+		Size=80,20
+		Caption=Text.EquipmentShop.Cancel
+	}
+	TextButton {
+		Name=ButHullBuy
+		Style=Style.Button.Normal
+		Pos=390,380,-3
+		Size=80,20
+		Caption=Text.EquipmentShop.Buy
+	}
+	TextButton {
+		Name=ButHullShip
+		Style=Style.Button.Normal
+		Pos=300,350,-3
+		Size=170,20
+		Caption=Text.Ship.ButShip
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=155,10,-3
+		Size=200,20
+		AlignX=Center
+		AlignY=Center
+		Text=Equipment.Name.Hull
+	}
+////// Tip /////////////////////////////////////////////
+	GraphButton {
+		Pos=120,40,-3
+		Size=50,50
+        Kind=FixDisable
+		ImageNormal=Alpha,Bitmap.Alloy.01n
+		ImageDown=Alpha,Bitmap.Alloy.01a
+		ImageDisable=Alpha,Bitmap.Alloy.01h
+		Name=ButHullTip1
+	}
+	GraphButton {
+		Pos=180,40,-3
+		Size=50,50
+        Kind=FixDisable
+		ImageNormal=Alpha,Bitmap.Alloy.02n
+		ImageDown=Alpha,Bitmap.Alloy.02a
+		ImageDisable=Alpha,Bitmap.Alloy.02h
+		Name=ButHullTip2
+	}
+	GraphButton {
+		Pos=240,40,-3
+		Size=50,50
+        Kind=FixDisable
+		ImageNormal=Alpha,Bitmap.Alloy.03n
+		ImageDown=Alpha,Bitmap.Alloy.03a
+		ImageDisable=Alpha,Bitmap.Alloy.03h
+		Name=ButHullTip3
+	}
+	GraphButton {
+		Pos=300,40,-3
+		Size=50,50
+        Kind=FixDisable
+		ImageNormal=Alpha,Bitmap.Alloy.04n
+		ImageDown=Alpha,Bitmap.Alloy.04a
+		ImageDisable=Alpha,Bitmap.Alloy.04h
+		Name=ButHullTip4
+	}
+	GraphButton {
+		Pos=360,40,-3
+		Size=50,50
+        Kind=FixDisable
+		ImageNormal=Alpha,Bitmap.Alloy.05n
+		ImageDown=Alpha,Bitmap.Alloy.05a
+		ImageDisable=Alpha,Bitmap.Alloy.05h
+		Name=ButHullTip5
+	}
+	GraphButton {
+		Pos=120,90,-3
+		Size=50,50
+        Kind=FixDisable
+		ImageNormal=Alpha,Bitmap.Alloy.06n
+		ImageDown=Alpha,Bitmap.Alloy.06a
+		ImageDisable=Alpha,Bitmap.Alloy.06h
+		Name=ButHullTip6
+	}
+	GraphButton {
+		Pos=180,90,-3
+		Size=50,50
+        Kind=FixDisable
+		ImageNormal=Alpha,Bitmap.Alloy.07n
+		ImageDown=Alpha,Bitmap.Alloy.07a
+		ImageDisable=Alpha,Bitmap.Alloy.07h
+		Name=ButHullTip7
+	}
+	GraphButton {
+		Pos=240,90,-3
+		Size=50,50
+        Kind=FixDisable
+		ImageNormal=Alpha,Bitmap.Alloy.08n
+		ImageDown=Alpha,Bitmap.Alloy.08a
+		ImageDisable=Alpha,Bitmap.Alloy.08h
+		Name=ButHullTip8
+	}
+	GraphButton {
+		Pos=300,90,-3
+		Size=50,50
+        Kind=FixDisable
+		ImageNormal=Alpha,Bitmap.Alloy.09n
+		ImageDown=Alpha,Bitmap.Alloy.09a
+		ImageDisable=Alpha,Bitmap.Alloy.09h
+		Name=ButHullTip9
+	}
+	GraphButton {
+		Pos=360,90,-3
+		Size=50,50
+        Kind=FixDisable
+		ImageNormal=Alpha,Bitmap.Alloy.10n
+		ImageDown=Alpha,Bitmap.Alloy.10a
+		ImageDisable=Alpha,Bitmap.Alloy.10h
+		Name=ButHullTip10
+	}
+//// Size ///////////////////////////////////////////////
+	Label {
+		Style=Style.Label.Normal
+		Pos=205,170,-3
+		Size=100,20
+		AlignX=Center
+		AlignY=Center
+		Text=Text.EquipmentShop.Size
+	}
+    ScrollBar {
+		Style=Style.ScrollBar.Normal
+		Pos=130,190,-3
+		Size=250,20
+		Kind=x
+		Name=SizeHullSB
+    }
+	Label {
+		Style=Style.Label.Normal
+		Pos=90,190,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=SizeHullMin
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=380,190,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=SizeHullMax
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=235,210,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=SizeHullCur
+	}
+/// Sum ////////////////////////////////////////////////
+	Label {
+		Style=Style.Label.Normal
+		Pos=10,320,-3
+		Size=180,15
+		AlignX=Right
+		AlignY=Center
+		Text=Text.EquipmentShop.SumUpgrade
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=190,320,-3
+		Size=100,15
+		AlignX=Right
+		AlignY=Center
+		Name=HullSumUpgrade
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=40,335,-3
+		Size=150,15
+		AlignX=Right
+		AlignY=Center
+		Text=Text.EquipmentShop.Money
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=190,335,-3
+		Size=100,15
+		AlignX=Right
+		AlignY=Center
+		Name=HullMoney
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=40,350,-3
+		Size=150,15
+		AlignX=Right
+		AlignY=Center
+		Text=Text.EquipmentShop.Ost
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=190,350,-3
+		Size=100,15
+		AlignX=Right
+		AlignY=Center
+		Name=HullOst
+	}
+/// Info ////////////////////////////////////////////////
+	Label {
+		Style=Style.Label.Normal
+		Pos=170,235,-3
+		Size=150,15
+		AlignX=Center
+		AlignY=Center
+		Text=Text.EquipmentShop.OldHull
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=320,230,-3
+		Size=150,15
+		AlignX=Center
+		AlignY=Center
+		Text=Text.EquipmentShop.NewHull
+	}
+
+	Label {
+		Style=Style.Label.Normal
+		Pos=20,250,-3
+		Size=150,15
+		AlignX=Right
+		AlignY=Center
+		Text=Text.EquipmentShop.Maker
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=20,265,-3
+		Size=150,15
+		AlignX=Right
+		AlignY=Center
+		Text=Text.EquipmentShop.HullAlloy
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=20,280,-3
+		Size=150,15
+		AlignX=Right
+		AlignY=Center
+		Text=Text.EquipmentShop.Size
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=20,295,-3
+		Size=150,15
+		AlignX=Right
+		AlignY=Center
+		Text=Text.EquipmentShop.Price
+	}
+
+	Label {
+		Style=Style.Label.Normal
+		Pos=170,250,-3
+		Size=150,15
+		AlignX=Left
+		AlignY=Center
+		Name=HullMakerCur
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=170,265,-3
+		Size=150,15
+		AlignX=Left
+		AlignY=Center
+		Name=HullAlloyCur
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=170,280,-3
+		Size=150,15
+		AlignX=Left
+		AlignY=Center
+		Name=HullSizeCur
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=170,295,-3
+		Size=150,15
+		AlignX=Left
+		AlignY=Center
+		Name=HullPriceCur
+	}
+
+	Label {
+		Style=Style.Label.Normal
+		Pos=320,250,-3
+		Size=150,15
+		AlignX=Left
+		AlignY=Center
+		Name=HullMakerBuy
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=320,265,-3
+		Size=150,15
+		AlignX=Left
+		AlignY=Center
+		Name=HullAlloyBuy
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=320,280,-3
+		Size=150,15
+		AlignX=Left
+		AlignY=Center
+		Name=HullSizeBuy
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=320,295,-3
+		Size=150,15
+		AlignX=Left
+		AlignY=Center
+		Name=HullPriceBuy
+	}
+}

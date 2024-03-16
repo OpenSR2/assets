@@ -1,0 +1,3 @@
+0=Agricultural
+1=Mixed
+2=Industrial

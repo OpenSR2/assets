@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_2z
+Pos=167,347,0
+Size=31,30

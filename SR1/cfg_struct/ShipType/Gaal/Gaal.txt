@@ -1,0 +1,6 @@
+Diplomat=Gallit
+Liner=Pleocan
+Pirate=Renegal
+Ranger=Ranger
+Transport=Oveon
+Warrior=Getereogah

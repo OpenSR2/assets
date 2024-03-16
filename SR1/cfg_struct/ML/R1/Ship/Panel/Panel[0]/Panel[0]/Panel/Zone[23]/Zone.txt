@@ -1,0 +1,4 @@
+Kind=Circle
+Name=Ar10z
+Pos=297,256,-2
+Size=36,34

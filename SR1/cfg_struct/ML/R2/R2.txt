@@ -1,0 +1,66 @@
+AB=AB\AB.txt ^{
+}
+About=About\About.txt ^{
+}
+CfgSettings=CfgSettings\CfgSettings.txt ^{
+}
+EquipmentShop=EquipmentShop\EquipmentShop.txt ^{
+}
+Film=Film\Film.txt ^{
+}
+Galaxy=Galaxy\Galaxy.txt ^{
+}
+Galaxy2=Galaxy2\Galaxy2.txt ^{
+}
+GameEnd=GameEnd\GameEnd.txt ^{
+}
+GameLoad=GameLoad\GameLoad.txt ^{
+}
+GameMenu=GameMenu\GameMenu.txt ^{
+}
+GameSettings=GameSettings\GameSettings.txt ^{
+}
+GoodsShop=GoodsShop\GoodsShop.txt ^{
+}
+Gov=Gov\Gov.txt ^{
+}
+Hangar=Hangar\Hangar.txt ^{
+}
+Info=Info\Info.txt ^{
+}
+Introduction=Introduction\Introduction.txt ^{
+}
+Jump=Jump\Jump.txt ^{
+}
+Load=Load\Load.txt ^{
+}
+MainForm=MainForm\MainForm.txt ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+PlanetNO=PlanetNO\PlanetNO.txt ^{
+}
+PlanetQuest=PlanetQuest\PlanetQuest.txt ^{
+}
+Quest=Quest\Quest.txt ^{
+}
+Rating=Rating\Rating.txt ^{
+}
+Rewards=Rewards\Rewards.txt ^{
+}
+RuinsTalk=RuinsTalk\RuinsTalk.txt ^{
+}
+SaveManager=SaveManager\SaveManager.txt ^{
+}
+Scaner=Scaner\Scaner.txt ^{
+}
+Score=Score\Score.txt ^{
+}
+Ship=Ship\Ship.txt ^{
+}
+StarMap=StarMap\StarMap.txt ^{
+}
+Style=Style\Style.txt ^{
+}
+Talk=Talk\Talk.txt ^{
+}

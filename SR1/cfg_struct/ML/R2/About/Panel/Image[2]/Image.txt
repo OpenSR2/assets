@@ -1,0 +1,3 @@
+Auto=Size
+Image=GI,Bm.FormAbout.2LogoElemental
+Pos=950,700,20

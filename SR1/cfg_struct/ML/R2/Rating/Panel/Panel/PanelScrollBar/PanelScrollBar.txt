@@ -1,0 +1,10 @@
+ActiveBarY=True
+ExternalSB=True
+MoveWorld=True
+Name=PTable
+Pos=17,38,4
+PosAutoBarY=False
+RectBarY=671,39,692,329
+Size=652,292
+StyleBarY=Style.ScrollBar.2V0
+UnlimitedWorld=False

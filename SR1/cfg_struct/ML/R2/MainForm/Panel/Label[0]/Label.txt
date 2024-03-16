@@ -1,0 +1,10 @@
+AlignX=Center
+AlignY=Top
+Font=Font.2Title
+Pos=0,0,40
+Size=1024,125
+TextBorder=1
+TextBorderColor=128,128,128
+TextColor=35,58,120
+TextShadow=0
+WordWrap=False

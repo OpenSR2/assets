@@ -1,0 +1,6 @@
+Diplomat=Dalani
+Liner=Piolepteda
+Pirate=Fantome
+Ranger=Ranger
+Transport=Menacken
+Warrior=Aeckephar

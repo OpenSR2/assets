@@ -1,0 +1,3 @@
+Image=GI,Bm.FormShip.1iibg
+Pos=0,0,9
+Size=205,137

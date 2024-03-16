@@ -1,0 +1,6 @@
+BGO=BGO\BGO.txt ^{
+}
+BGO_HS=BGO_HS\BGO_HS.txt ^{
+}
+H1=H1\H1.txt ^{
+}

@@ -1,0 +1,31 @@
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+MoveWorld=True
+Name=MainPanel
+Panel=Panel\Panel.txt ^{
+}
+Pos=400,300,-1
+ScrollBar=ScrollBar[0]\ScrollBar.txt ^{
+}
+ScrollBar=ScrollBar[1]\ScrollBar.txt ^{
+}
+Size=800,600
+Sme=400,300
+SpaceImg=SpaceImg\SpaceImg.txt ^{
+}
+StarField=StarField\StarField.txt ^{
+}
+StarFieldImg=StarFieldImg\StarFieldImg.txt ^{
+}
+StarFieldM=StarFieldM\StarFieldM.txt ^{
+}

@@ -1,0 +1,9 @@
+Active=True
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1NormalPlus
+Name=MsgCreateWorld
+Pos=103,549,2
+Size=590,20
+Text=FormIntroduction.MsgCreateWorld
+TextColor=20,30,50

@@ -1,0 +1,6 @@
+End=Well, we are grateful to you for this delivery, even though our transport was ready to depart. Of course, we have no intention to treat or subjects for free; these silly Gaalians do not understand business at all. We are going to sell the device to Maloqs; they are ready to pay any money for health. And you can take your <Money> cr: charity is a good thing but money is always welcome.
+FromRace=Gaal
+Start=Ranger, if you happen to be in the vicinity of <ToStar>, please deliver this parcel to <ToPlanet>. This is a device for taking carbon dioxide out of Pelengan blood that they have ordered recently. The device is ready but the transport that Pelengs promised to send to collect it is late for some reason, so we have decided to ship it with a private pilot. It can be risky at times since some private hauliers have a tendency to steal valuable devices. However, you have a good record and we think you are worthy of our trust. Please, deliver the device on time, no later than <Date>.
+Start=<FromPlanet> Charitable Medical Bureau is a non-governmental humanitarian organisation aiming at developing all initiatives directed at improving the health of backward people. All kinds of technological and chemical bacteriological assistance, absolutely free.
+Status=Trader
+ToRace=Peleng

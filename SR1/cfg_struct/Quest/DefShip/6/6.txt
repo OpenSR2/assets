@@ -1,0 +1,6 @@
+End=You have defended <Ship>, and we are very grateful for this. Our technological secrets have stayed with us and the loss of valuable cargo has constituted 0.02 per cent, which is admissible for similar ships. Your reward is therefore <Money> cr. We hope you are content with it.
+InThisSystem=No
+PlanetRace=Fei
+ShipType=Transport
+Start=Our top-class multifunctional transport ship <Ship> has recently been attacked with frequency that is completely irrational. Upon completing careful calculations and research we have found out, who is responsible for this action. You see, the vessel was built using modern technologies of cargo carriage and storing highly sensitive goods, which are much sought after by some persons close to smugglers. The ship has escaped capture several times, but now it is again attacked in the system of <InStar>. Can you escort it for <Day> days? If you agree to these conditions and ensure the security of the object, you will get <Money> cr as your reward when you come back to <FromPlanet>. Now you must act urgently, while the ship is still in good shape.
+Status=Any

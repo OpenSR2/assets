@@ -1,0 +1,5 @@
+AlignX=Center
+Font=Font.1NormalBold
+Name=I4S
+Pos=670,234,2
+Size=93,42

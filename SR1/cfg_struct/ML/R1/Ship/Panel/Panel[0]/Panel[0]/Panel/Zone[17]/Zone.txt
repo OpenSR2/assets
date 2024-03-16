@@ -1,0 +1,4 @@
+Kind=Circle
+Name=Ar4z
+Pos=240,307,-2
+Size=36,34

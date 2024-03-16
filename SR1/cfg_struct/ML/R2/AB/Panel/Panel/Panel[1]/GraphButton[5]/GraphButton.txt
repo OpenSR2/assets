@@ -1,0 +1,12 @@
+Help=Help.ButAI
+ImageDown=GI,Bm.FormAB.2Key_N
+ImageDownA=GI,Bm.FormAB.2Key_A
+ImageNormal=GI,Bm.FormAB.2AI_N
+ImageNormalA=GI,Bm.FormAB.2AI_A
+Kind=Fix
+KindHit=Rect
+MouseBlocking=True
+Name=ButAI
+Pos=12,718,-7
+Size=37,30
+Style=Style.GB.SoundNormal

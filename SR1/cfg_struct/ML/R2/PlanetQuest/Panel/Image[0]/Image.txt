@@ -1,0 +1,3 @@
+Image=GI,Bm.FormPQuest.2bg2
+Pos=663,14,10
+Size=348,396

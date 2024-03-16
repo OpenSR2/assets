@@ -1,0 +1,150 @@
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[3]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[4]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[5]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[6]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[7]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[8]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[9]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[10]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[11]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[12]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[13]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[14]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[15]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[16]\GraphButton.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Image=Image[3]\Image.txt ^{
+}
+Image=Image[4]\Image.txt ^{
+}
+Image=Image[5]\Image.txt ^{
+}
+Image=Image[6]\Image.txt ^{
+}
+Image=Image[7]\Image.txt ^{
+}
+Image=Image[8]\Image.txt ^{
+}
+Image=Image[9]\Image.txt ^{
+}
+Image=Image[10]\Image.txt ^{
+}
+Image=Image[11]\Image.txt ^{
+}
+Image=Image[12]\Image.txt ^{
+}
+Image=Image[13]\Image.txt ^{
+}
+Image=Image[14]\Image.txt ^{
+}
+Image=Image[15]\Image.txt ^{
+}
+Image=Image[16]\Image.txt ^{
+}
+Image=Image[17]\Image.txt ^{
+}
+Image=Image[18]\Image.txt ^{
+}
+Image=Image[19]\Image.txt ^{
+}
+Image=Image[20]\Image.txt ^{
+}
+Image=Image[21]\Image.txt ^{
+}
+Image=Image[22]\Image.txt ^{
+}
+Image=Image[23]\Image.txt ^{
+}
+Image=Image[24]\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Label=Label[3]\Label.txt ^{
+}
+Label=Label[4]\Label.txt ^{
+}
+Label=Label[5]\Label.txt ^{
+}
+Label=Label[6]\Label.txt ^{
+}
+Label=Label[7]\Label.txt ^{
+}
+Label=Label[8]\Label.txt ^{
+}
+Label=Label[9]\Label.txt ^{
+}
+Label=Label[10]\Label.txt ^{
+}
+Label=Label[11]\Label.txt ^{
+}
+Label=Label[12]\Label.txt ^{
+}
+Label=Label[13]\Label.txt ^{
+}
+Label=Label[14]\Label.txt ^{
+}
+Label=Label[15]\Label.txt ^{
+}
+Label=Label[16]\Label.txt ^{
+}
+Label=Label[17]\Label.txt ^{
+}
+Label=Label[18]\Label.txt ^{
+}
+Label=Label[19]\Label.txt ^{
+}
+Label=Label[20]\Label.txt ^{
+}
+Label=Label[21]\Label.txt ^{
+}
+Label=Label[22]\Label.txt ^{
+}
+Label=Label[23]\Label.txt ^{
+}
+Label=Label[24]\Label.txt ^{
+}
+Label=Label[25]\Label.txt ^{
+}
+Label=Label[26]\Label.txt ^{
+}
+Label=Label[27]\Label.txt ^{
+}
+Label=Label[28]\Label.txt ^{
+}
+Label=Label[29]\Label.txt ^{
+}
+Label=Label[30]\Label.txt ^{
+}
+Label=Label[31]\Label.txt ^{
+}
+Pos=0,0,9
+Size=473,539

@@ -1,0 +1,4 @@
+DefShip=The contract on guarding ship <Ship> completed. You <Player> may head for your money to <Planet>.
+DefSystem=According to the contract with planet <Planet> you <Player> have successfully completed your task on guarding ships in system <Star>. Now you have to take your money.
+KillShip=Contract with planet <Planet> completed. Ship <Ship> is destroyed according to the time limits and you <Player> may have your reward.
+PlanetaryQuest=<Player>, you have successfully completed the mission on <ToPlanet> and now may go for your reward to <FromPlanet>.

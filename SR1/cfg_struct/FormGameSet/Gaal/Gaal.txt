@@ -1,0 +1,3 @@
+Pirate=My name's <Name> and I hope that, once I'm a ranger, I'll become a responsible and law-abiding citizen.
+Trader=Clearing star space has always been an important mission for my race. I'm <Name> and I'm going to really clean it up now that I've become a ranger.
+Warrior=Gaalian civilisation's values have always been a target for our enemies. But I, a warrior by name <Name>, have always been protecting my people. It's an honour for me to become a ranger.

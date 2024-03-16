@@ -1,0 +1,3 @@
+KlingTakeSystem=Attention!
+KlingTakeSystem=The Klissans has captured system <Star>.
+LiberationSystem=Klissans are driven from <Star> system! All ships that have taken part in the operation, please land on <Planet> for official reward ceremony.

@@ -1,0 +1,18 @@
+Cursor {
+	Main {
+		Image=Anim,Style.AImage.Cursor.Main
+		Sme=5,0
+	}
+	Scroll {
+		Image=Anim,Style.AImage.Cursor.Scroll
+		Sme=16,16
+	}
+	Take {
+		Image=Anim,Style.AImage.Cursor.Take
+		Sme=17,13
+	}
+	Enter {
+		Image=Anim,Style.AImage.Cursor.Enter
+		Sme=16,0
+	}
+}

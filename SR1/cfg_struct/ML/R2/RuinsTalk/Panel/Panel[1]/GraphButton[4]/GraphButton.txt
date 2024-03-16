@@ -1,0 +1,10 @@
+Help=Help.ButTakeoff
+ImageDown=GI,Bm.PanelPlanet.2TakeOffN
+ImageNormal=GI,Bm.PanelPlanet.2TakeOffN
+ImageNormalA=GI,Bm.PanelPlanet.2TakeOffA
+Kind=Normal
+KindHit=Graph
+Name=PR_Takeoff
+Pos=915,630,8
+Size=96,65
+Style=Style.GB.SoundNormal

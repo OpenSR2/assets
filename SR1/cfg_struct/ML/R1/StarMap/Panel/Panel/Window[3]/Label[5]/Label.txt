@@ -1,0 +1,8 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.1Normal
+Pos=0,98,8
+Size=100,12
+Text=FormInfo.IPRel
+TextColor=255,255,230
+WordWrap=False

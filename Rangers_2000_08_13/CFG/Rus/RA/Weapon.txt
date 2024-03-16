@@ -1,0 +1,278 @@
+	Size=520,440
+
+	TransImage {
+		Pos=0,0,-2
+		Image=Bitmap.Interface.Panel1
+		HalfAlpha=True
+	}
+	TextButton {
+		Name=ButWeaponCancel
+		Style=Style.Button.Normal
+		Pos=300,380,-3
+		Size=80,20
+		Caption=Text.WarShop.Cancel
+	}
+	TextButton {
+		Name=ButWeaponBuy
+		Style=Style.Button.Normal
+		Pos=390,380,-3
+		Size=80,20
+		Caption=Text.WarShop.Buy
+	}
+	TextButton {
+		Name=ButWeaponShip
+		Style=Style.Button.Normal
+		Pos=300,350,-3
+		Size=170,20
+		Caption=Text.Ship.ButShip
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=155,10,-3
+		Size=200,20
+		AlignX=Center
+		AlignY=Center
+		Name=NameWeapon
+	}
+//// TechLevel /////////////////////////////////////////////
+	TextButton {
+		Name=ButWeaponTL1
+		Style=Style.Button.Normal
+		Pos=20,80,-3
+		Size=110,20
+        Kind=Ext
+		Caption=Text.WarShop.TL1
+	}
+	TextButton {
+		Name=ButWeaponTL2
+		Style=Style.Button.Normal
+		Pos=20,100,-3
+		Size=110,20
+        Kind=Ext
+		Caption=Text.WarShop.TL2
+	}
+	TextButton {
+		Name=ButWeaponTL3
+		Style=Style.Button.Normal
+		Pos=20,120,-3
+		Size=110,20
+        Kind=Ext
+		Caption=Text.WarShop.TL3
+	}
+	TextButton {
+		Name=ButWeaponTL4
+		Style=Style.Button.Normal
+		Pos=20,140,-3
+		Size=110,20
+        Kind=Ext
+		Caption=Text.WarShop.TL4
+	}
+	TextButton {
+		Name=ButWeaponTL5
+		Style=Style.Button.Normal
+		Pos=20,160,-3
+		Size=110,20
+        Kind=Ext
+		Caption=Text.WarShop.TL5
+	}
+	TextButton {
+		Name=ButWeaponTL6
+		Style=Style.Button.Normal
+		Pos=20,180,-3
+		Size=110,20
+        Kind=Ext
+		Caption=Text.WarShop.TL6
+	}
+	TextButton {
+		Name=ButWeaponTL7
+		Style=Style.Button.Normal
+		Pos=20,200,-3
+		Size=110,20
+        Kind=Ext
+		Caption=Text.WarShop.TL7
+	}
+	TextButton {
+		Name=ButWeaponTL8
+		Style=Style.Button.Normal
+		Pos=20,220,-3
+		Size=110,20
+        Kind=Ext
+		Caption=Text.WarShop.TL8
+	}
+	TextButton {
+		Name=ButWeaponTL9
+		Style=Style.Button.Normal
+		Pos=20,240,-3
+		Size=110,20
+        Kind=Ext
+		Caption=Text.WarShop.TL9
+	}
+	TextButton {
+		Name=ButWeaponTL10
+		Style=Style.Button.Normal
+		Pos=20,260,-3
+		Size=110,20
+        Kind=Ext
+		Caption=Text.WarShop.TL10
+	}
+/// Radius /////////////////////////////////////////////////
+	Label {
+		Style=Style.Label.Normal
+		Pos=205,80,-3
+		Size=200,20
+		AlignX=Center
+		AlignY=Center
+		Text=Text.WarShop.Radius
+	}
+    ScrollBar {
+		Style=Style.ScrollBar.Normal
+		Pos=180,100,-3
+		Size=250,20
+		Kind=x
+		Name=RadiusWeaponSB
+    }
+	Label {
+		Style=Style.Label.Normal
+		Pos=140,100,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=RadiusWeaponMin
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=430,100,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=RadiusWeaponMax
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=285,120,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=RadiusWeaponCur
+	}
+/// Size /////////////////////////////////////////////////
+	Label {
+		Style=Style.Label.Normal
+		Pos=255,160,-3
+		Size=100,20
+		AlignX=Center
+		AlignY=Center
+		Text=Text.WarShop.Size
+	}
+    ScrollBar {
+		Style=Style.ScrollBar.Normal
+		Pos=180,180,-3
+		Size=250,20
+		Kind=x
+		Name=SizeWeaponSB
+    }
+	Label {
+		Style=Style.Label.Normal
+		Pos=140,180,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=SizeWeaponMin
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=430,180,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=SizeWeaponMax
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=285,200,-3
+		Size=40,20
+		AlignX=Center
+		AlignY=Center
+		Name=SizeWeaponCur
+	}
+/////// Sum ////////////////////////////////////////////
+	Label {
+		Style=Style.Label.Normal
+		Pos=85,230,-3
+		Size=180,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.WarShop.Action
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=265,230,-3
+		Size=220,20
+		AlignX=Left
+		AlignY=Center
+		Name=WeaponAction
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=85,250,-3
+		Size=180,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.WarShop.Maker
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=265,250,-3
+		Size=220,20
+		AlignX=Left
+		AlignY=Center
+		Name=WeaponMaker
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=85,270,-3
+		Size=180,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.WarShop.Price
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=265,270,-3
+		Size=220,20
+		AlignX=Left
+		AlignY=Center
+		Name=WeaponPrice
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=85,290,-3
+		Size=180,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.WarShop.Money
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=265,290,-3
+		Size=220,20
+		AlignX=Left
+		AlignY=Center
+		Name=WeaponMoney
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=85,310,-3
+		Size=180,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.WarShop.Ost
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=265,310,-3
+		Size=220,20
+		AlignX=Left
+		AlignY=Center
+		Name=WeaponOst
+	}

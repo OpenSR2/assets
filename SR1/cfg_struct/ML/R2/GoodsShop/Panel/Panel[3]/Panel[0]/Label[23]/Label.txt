@@ -1,0 +1,3 @@
+Name=TovPrice13
+Pos=356,220,7
+Style=Style.Label.2GSTovP

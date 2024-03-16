@@ -1,0 +1,9 @@
+Auto=Size
+Help=FormScore.HelpExit
+ImageDown=GI,Bm.FormIntro.1ButRightD
+ImageNormal=GI,Bm.FormIntro.1ButRightN
+ImageNormalA=GI,Bm.FormIntro.1ButRightA
+Kind=Normal
+KindHit=Rect
+Name=ButExit
+Pos=703,547,2

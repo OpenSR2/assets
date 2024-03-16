@@ -1,0 +1,5 @@
+AlignX=Right
+Font=Font.1Normal
+Name=I4
+Pos=384,234,2
+Size=277,42

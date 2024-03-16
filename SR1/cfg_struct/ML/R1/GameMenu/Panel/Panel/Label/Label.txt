@@ -1,0 +1,9 @@
+Active=True
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=LabelHelp
+Pos=115,160,-4
+Size=100,36
+TextColor=255,255,230
+WordWrap=True

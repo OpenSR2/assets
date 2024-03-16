@@ -1,0 +1,3 @@
+00=data\Hole\00.gai
+00o=data\Hole\00o.gai
+Map=data\Hole\Map.gi

@@ -1,0 +1,2 @@
+Ok=Yes, sir, at once. Wait for me and take me onboard.
+PlayerSend=Come back

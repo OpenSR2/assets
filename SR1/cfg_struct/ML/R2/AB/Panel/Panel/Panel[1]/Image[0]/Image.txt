@@ -1,0 +1,6 @@
+Image=GI,Bm.FormAB.2Left
+MVUpdate=True
+MouseBlocking=True
+Name=Player
+Pos=8,655,-4
+Size=193,101

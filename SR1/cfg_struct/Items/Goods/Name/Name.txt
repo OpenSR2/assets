@@ -1,0 +1,8 @@
+1=Foods
+2=Medicines
+3=Electroincs
+4=Luxury
+5=Minerals
+6=Alcohol
+7=Weapons
+8=Narcotics

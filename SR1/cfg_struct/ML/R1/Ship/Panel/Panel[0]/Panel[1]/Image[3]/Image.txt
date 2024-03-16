@@ -1,0 +1,4 @@
+Auto=Size
+Image=GI,Bm.FormShip.1NewRank
+Name=RankAdd
+Pos=339,90,1

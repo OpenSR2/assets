@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=Count
+Pos=117,29,8
+Size=76,18
+Text=FormGS.Count
+TextColor=255,255,230

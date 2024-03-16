@@ -1,0 +1,3 @@
+Name=TovCount7
+Pos=60,360,7
+Style=Style.Label.2GSTovC

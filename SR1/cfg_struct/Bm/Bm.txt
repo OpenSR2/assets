@@ -1,0 +1,134 @@
+1TitleEng=data\1TitleEng.png
+1TitleRus=data\1TitleRus.png
+2TitleEng=data\2TitleEng.png
+2TitleRus=data\2TitleRus.png
+AB=AB\AB.txt ^{
+}
+ABClot=ABClot\ABClot.txt ^{
+}
+ABItem=ABItem\ABItem.txt ^{
+}
+ABWall=ABWall\ABWall.txt ^{
+}
+AnimA=data\anim.gai
+AnimI=data\anim.gi
+Asteroid=Asteroid\Asteroid.txt ^{
+}
+BGO=BGO\BGO.txt ^{
+}
+BGO_HS=BGO_HS\BGO_HS.txt ^{
+}
+Captain=Captain\Captain.txt ^{
+}
+City=City\City.txt ^{
+}
+Container=Container\Container.txt ^{
+}
+Cursor=Cursor\Cursor.txt ^{
+}
+Developers=Developers\Developers.txt ^{
+}
+FormAB=FormAB\FormAB.txt ^{
+}
+FormAbout=FormAbout\FormAbout.txt ^{
+}
+FormGalaxy=FormGalaxy\FormGalaxy.txt ^{
+}
+FormGameSet=FormGameSet\FormGameSet.txt ^{
+}
+FormGoods=FormGoods\FormGoods.txt ^{
+}
+FormInfo=FormInfo\FormInfo.txt ^{
+}
+FormIntro=FormIntro\FormIntro.txt ^{
+}
+FormLoad=FormLoad\FormLoad.txt ^{
+}
+FormMain=FormMain\FormMain.txt ^{
+}
+FormMenu=FormMenu\FormMenu.txt ^{
+}
+FormOptions=FormOptions\FormOptions.txt ^{
+}
+FormPQuest=FormPQuest\FormPQuest.txt ^{
+}
+FormPlanetNO=FormPlanetNO\FormPlanetNO.txt ^{
+}
+FormRating=FormRating\FormRating.txt ^{
+}
+FormRewards=FormRewards\FormRewards.txt ^{
+}
+FormRuins=FormRuins\FormRuins.txt ^{
+}
+FormSave=FormSave\FormSave.txt ^{
+}
+FormScore=FormScore\FormScore.txt ^{
+}
+FormShip=FormShip\FormShip.txt ^{
+}
+FormShop=FormShop\FormShop.txt ^{
+}
+FormTalk=FormTalk\FormTalk.txt ^{
+}
+Garbage=Garbage\Garbage.txt ^{
+}
+Gate=Gate\Gate.txt ^{
+}
+Gov=Gov\Gov.txt ^{
+}
+Hangar=Hangar\Hangar.txt ^{
+}
+Hits=Hits\Hits.txt ^{
+}
+Hole=Hole\Hole.txt ^{
+}
+Items=Items\Items.txt ^{
+}
+ItemsUseless=ItemsUseless\ItemsUseless.txt ^{
+}
+Mineral=Mineral\Mineral.txt ^{
+}
+MsgPlayer=MsgPlayer\MsgPlayer.txt ^{
+}
+PI=PI\PI.txt ^{
+}
+PQI=PQI\PQI.txt ^{
+}
+PSPartner=PSPartner\PSPartner.txt ^{
+}
+PanelFilm=PanelFilm\PanelFilm.txt ^{
+}
+PanelMain=PanelMain\PanelMain.txt ^{
+}
+PanelPlanet=PanelPlanet\PanelPlanet.txt ^{
+}
+PanelSpace=PanelSpace\PanelSpace.txt ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+PlanetRing=PlanetRing\PlanetRing.txt ^{
+}
+Protoplasm=Protoplasm\Protoplasm.txt ^{
+}
+Race=Race\Race.txt ^{
+}
+Ruins=Ruins\Ruins.txt ^{
+}
+SB=SB\SB.txt ^{
+}
+SBNormal=SBNormal\SBNormal.txt ^{
+}
+SI=SI\SI.txt ^{
+}
+Ship=Ship\Ship.txt ^{
+}
+ShipP=ShipP\ShipP.txt ^{
+}
+Star=Star\Star.txt ^{
+}
+Tail=Tail\Tail.txt ^{
+}
+Weapon=Weapon\Weapon.txt ^{
+}
+vp00f=data\vp00f.gi
+vp00s=data\vp00s.gi

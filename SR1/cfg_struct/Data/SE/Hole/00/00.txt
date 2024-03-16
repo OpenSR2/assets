@@ -1,0 +1,4 @@
+Image=Bm.Hole.00
+ImageMap=GI,Bm.Hole.Map
+ImageO=Bm.Hole.00o
+PosZ=Hole

@@ -1,0 +1,93 @@
+CntRemains=8
+ExampleAsteroid=ExampleAsteroid\ExampleAsteroid.txt ^{
+}
+OperatedProbe=OperatedProbe\OperatedProbe.txt ^{
+}
+Remains_0=Remains_0\Remains_0.txt ^{
+}
+Remains_1=Remains_1\Remains_1.txt ^{
+}
+Remains_2=Remains_2\Remains_2.txt ^{
+}
+Remains_3=Remains_3\Remains_3.txt ^{
+}
+Remains_4=Remains_4\Remains_4.txt ^{
+}
+Remains_5=Remains_5\Remains_5.txt ^{
+}
+Remains_6=Remains_6\Remains_6.txt ^{
+}
+Remains_7=Remains_7\Remains_7.txt ^{
+}
+Usl_0=Usl_0\Usl_0.txt ^{
+}
+Usl_1=Usl_1\Usl_1.txt ^{
+}
+Usl_10=Usl_10\Usl_10.txt ^{
+}
+Usl_11=Usl_11\Usl_11.txt ^{
+}
+Usl_12=Usl_12\Usl_12.txt ^{
+}
+Usl_13=Usl_13\Usl_13.txt ^{
+}
+Usl_14=Usl_14\Usl_14.txt ^{
+}
+Usl_15=Usl_15\Usl_15.txt ^{
+}
+Usl_16=Usl_16\Usl_16.txt ^{
+}
+Usl_17=Usl_17\Usl_17.txt ^{
+}
+Usl_18=Usl_18\Usl_18.txt ^{
+}
+Usl_19=Usl_19\Usl_19.txt ^{
+}
+Usl_2=Usl_2\Usl_2.txt ^{
+}
+Usl_20=Usl_20\Usl_20.txt ^{
+}
+Usl_21=Usl_21\Usl_21.txt ^{
+}
+Usl_22=Usl_22\Usl_22.txt ^{
+}
+Usl_23=Usl_23\Usl_23.txt ^{
+}
+Usl_24=Usl_24\Usl_24.txt ^{
+}
+Usl_25=Usl_25\Usl_25.txt ^{
+}
+Usl_26=Usl_26\Usl_26.txt ^{
+}
+Usl_27=Usl_27\Usl_27.txt ^{
+}
+Usl_28=Usl_28\Usl_28.txt ^{
+}
+Usl_29=Usl_29\Usl_29.txt ^{
+}
+Usl_3=Usl_3\Usl_3.txt ^{
+}
+Usl_4=Usl_4\Usl_4.txt ^{
+}
+Usl_5=Usl_5\Usl_5.txt ^{
+}
+Usl_6=Usl_6\Usl_6.txt ^{
+}
+Usl_7=Usl_7\Usl_7.txt ^{
+}
+Usl_8=Usl_8\Usl_8.txt ^{
+}
+Usl_9=Usl_9\Usl_9.txt ^{
+}
+Usl_Doc=Usl_Doc\Usl_Doc.txt ^{
+}
+Usl_FishCont=Usl_FishCont\Usl_FishCont.txt ^{
+}
+Usl_GradDoc=Usl_GradDoc\Usl_GradDoc.txt ^{
+}
+Usl_HeadBowl=Usl_HeadBowl\Usl_HeadBowl.txt ^{
+}
+Usl_IdealPenchecryak=Usl_IdealPenchecryak\Usl_IdealPenchecryak.txt ^{
+}
+Usl_ScnDisc=Usl_ScnDisc\Usl_ScnDisc.txt ^{
+}

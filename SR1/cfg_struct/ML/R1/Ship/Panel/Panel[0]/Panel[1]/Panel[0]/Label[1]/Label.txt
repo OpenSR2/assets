@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=Top
+Name=Act1l
+Pos=353,0,0
+Size=90,30
+Style=Style.Label.1Normal
+Text=FormShip.Sell
+TextColor=88,68,7
+WordWrap=True

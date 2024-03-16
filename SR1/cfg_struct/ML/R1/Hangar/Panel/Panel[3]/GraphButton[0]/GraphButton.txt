@@ -1,0 +1,9 @@
+Auto=Size
+Help=Help.ButRepair
+ImageDisable=GI,Bm.Hangar.1RepairD
+ImageDown=GI,Bm.Hangar.1RepairD
+ImageNormalA=GI,Bm.Hangar.1RepairA
+Kind=Disable
+KindHit=Rect
+Name=ButRepair
+Pos=141,12,8

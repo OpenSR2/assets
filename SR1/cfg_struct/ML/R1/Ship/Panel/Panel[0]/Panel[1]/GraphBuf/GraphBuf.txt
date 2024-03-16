@@ -1,0 +1,3 @@
+Name=RewardsImg
+Pos=356,192,-1
+Size=77,17

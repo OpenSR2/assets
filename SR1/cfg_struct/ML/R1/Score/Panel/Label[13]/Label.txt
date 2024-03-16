@@ -1,0 +1,5 @@
+AlignX=Center
+Font=Font.1NormalBold
+Name=I6S
+Pos=670,321,2
+Size=93,42

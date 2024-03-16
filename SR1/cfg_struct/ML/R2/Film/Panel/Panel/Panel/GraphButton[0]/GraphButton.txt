@@ -1,0 +1,8 @@
+ImageDown=GI,Bm.PanelFilm.2PlayD
+ImageNormalA=GI,Bm.PanelFilm.2PlayA
+Kind=Normal
+KindHit=Rect
+Name=PF_Play
+Pos=42,9,8
+Size=43,44
+Style=Style.GB.SoundNormal

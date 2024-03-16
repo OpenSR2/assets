@@ -1,0 +1,39 @@
+Graph=cfg\graph.txt {
+    VideoMode=R2			// R1-800x600 R2-1024x768
+	Window=False
+	Debug=False
+    ShowSystemMouse=True
+}
+Lang {
+    Current=Rus
+    Rus=cfg\Rus\Lang.txt {
+    }
+    Eng=cfg\Rus\Lang.txt {
+    }
+}
+ML {
+    Rus {
+        R1=cfg\Rus\R1\ml.txt {
+			Style=cfg\Rus\RA\Style.txt {
+			}
+        }
+        R2=cfg\Rus\R2\ml.txt {
+			Style=cfg\Rus\RA\Style.txt {
+			}
+        }
+    }
+    Eng {
+        R1=cfg\Eng\R1\ml.txt {
+        }
+        R2=cfg\Eng\R2\ml.txt {
+        }
+    }
+}
+Data {
+    Rus=cfg\Rus\Data.txt {
+    }
+    Eng=cfg\Rus\Data.txt {
+    }
+}
+CacheData=cfg\cachedata.txt {
+}

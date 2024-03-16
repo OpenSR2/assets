@@ -1,0 +1,6 @@
+AlignX=Center
+Font=Font.1NormalBold
+Name=I10S
+Pos=670,493,2
+Size=93,42
+TextColor=219,219,86

@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2NormalPlus
+Pos=290,746,40
+Size=466,20
+Text=FormAbout.Tail
+TextColor=89,56,36
+WordWrap=False

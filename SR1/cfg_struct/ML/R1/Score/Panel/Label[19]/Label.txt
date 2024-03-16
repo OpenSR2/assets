@@ -1,0 +1,5 @@
+AlignX=Right
+Font=Font.1Normal
+Name=I10
+Pos=384,493,2
+Size=277,42

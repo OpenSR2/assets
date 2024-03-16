@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.2e0N
+Name=S_Engine_0n
+Pos=158,156,1
+Size=29,23

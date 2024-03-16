@@ -1,0 +1,16 @@
+Pos=0,0,ButtonAction,w
+Size=100,100
+Sme=50,50
+Name=ActionItem
+Active=False
+MVUpdate=True
+
+TextButton {
+	Name=ActionItemTake
+	Style=Style.Button.NoTrans
+	Pos=-25,-25,2
+	Size=20,20
+	Sme=10,10
+	Kind=Ext
+	Caption=T
+}

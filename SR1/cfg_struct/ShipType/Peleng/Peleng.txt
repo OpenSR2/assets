@@ -1,0 +1,6 @@
+Diplomat=Lyancher
+Liner=Pachryamba
+Pirate=Lyakusha
+Ranger=Ranger
+Transport=Cheska
+Warrior=Sharakesh

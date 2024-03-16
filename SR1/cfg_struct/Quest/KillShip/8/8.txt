@@ -1,0 +1,6 @@
+End=<Ranger>, you have possibly saved thousands of innocent lives. Don't you feel deep moral satisfaction? Though, we do not think you will reject to take <Money> cr on top of that. We are sure you will use it equally honourably.
+PlanetRace=Gaal
+ShipRace=Peleng
+ShipType=Transport
+Start=We are aware that Pelengan terrorist group "Shagash Rogtz" is planning a terrorist action using a super toxic gas Nergon-354. It is commonly believed that its presence cannot be detected by any scanners, however we are now certain that a load of this gas is currently onboard freighter <Ship>, which is currently moving to <InStar>. You ask, how dangerous this gas is? Well, a few metric ounces getting into the atmosphere of an average size planet can kill all living organisms in the radius of thousands miles. We do not want sufferings of innocent people but on the other hand the task is too dangerous to involve our regular military pilots. But we are ready to pay good money for destroying <Ship>. We will reward an experienced pilot with <Money> cr if he undertakes to destroy this ship before <Date>. Do not forget to collect your money on <FromPlanet>.
+Status=Warrior

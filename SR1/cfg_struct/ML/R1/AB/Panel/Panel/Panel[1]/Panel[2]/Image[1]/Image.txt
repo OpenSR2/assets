@@ -1,0 +1,3 @@
+Name=InfoItemEmRace
+Pos=157,100,8
+Size=27,27

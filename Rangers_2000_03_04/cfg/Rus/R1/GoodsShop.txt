@@ -1,0 +1,182 @@
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+
+    SimpleImage {
+		Image=Bitmap.Background.BG1
+		Pos=0,0,10
+	}
+	Label {
+		Font=Font.Normal
+        Text=GoodsShop
+		Pos=10,10,9
+		Size=300,20
+    }
+	TextButton {
+		Name=ButShip
+		Style=Style.Button.Normal
+		Pos=470,570,9
+		Size=150,20
+		Caption=Text.Ship.ButShip
+	}
+	TextButton {
+		Name=Planet
+		Style=Style.Button.Normal
+		Pos=630,570,9
+		Size=150,20
+		Caption=Text.GoodsShop.Planet
+	}
+///////////////////////////////////////////////////////////////////
+	TextButton {
+		Name=ButGoods0
+		Style=Style.Button.Normal
+		Pos=100,100,9
+		Size=150,20
+		Caption=Goods.Name.0
+	}
+	TextButton {
+		Name=ButGoods1
+		Style=Style.Button.Normal
+		Pos=100,120,9
+		Size=150,20
+		Caption=Goods.Name.1
+	}
+	TextButton {
+		Name=ButGoods2
+		Style=Style.Button.Normal
+		Pos=100,140,9
+		Size=150,20
+		Caption=Goods.Name.2
+	}
+	TextButton {
+		Name=ButGoods3
+		Style=Style.Button.Normal
+		Pos=100,160,9
+		Size=150,20
+		Caption=Goods.Name.3
+	}
+	TextButton {
+		Name=ButGoods4
+		Style=Style.Button.Normal
+		Pos=100,180,9
+		Size=150,20
+		Caption=Goods.Name.4
+	}
+	TextButton {
+		Name=ButGoods5
+		Style=Style.Button.Normal
+		Pos=100,200,9
+		Size=150,20
+		Caption=Goods.Name.5
+	}
+	TextButton {
+		Name=ButGoods6
+		Style=Style.Button.Normal
+		Pos=100,220,9
+		Size=150,20
+		Caption=Goods.Name.6
+	}
+	TextButton {
+		Name=ButGoods7
+		Style=Style.Button.Normal
+		Pos=100,240,9
+		Size=150,20
+		Caption=Goods.Name.7
+	}
+///////////////////////////////////////////////////////////////////
+	Grid {
+		Name=GridGoods
+		Style=Style.Grid.Normal
+		Pos=250,100,9
+		Size=301,161
+		GridType=Row
+		ActiveCellImage=Bitmap.Background.Steel
+		ActiveCellImageHalfAlpha=True
+		ActiveCell=1,1
+		RowSelect=True
+
+		CountX=3
+		CountY=8
+
+		GridX {
+			0=100
+			1=100
+            2=100
+		}
+		GridY {
+            0=20
+            1=20
+            2=20
+            3=20
+            4=20
+            5=20
+            6=20
+            7=20
+        }
+	}
+///////////////////////////////////////////////////////////////////
+	Grid {
+		Name=GridShip
+		Style=Style.Grid.Normal
+		Pos=550,350,9
+		Size=201,161
+		GridType=Row
+		ActiveCellImage=Bitmap.Background.Steel
+		ActiveCellImageHalfAlpha=True
+		ActiveCell=1,1
+		RowSelect=True
+
+		CountX=2
+		CountY=8
+
+		GridX {
+			0=150
+			1=50
+		}
+		GridY {
+            0=20
+            1=20
+            2=20
+            3=20
+            4=20
+            5=20
+            6=20
+            7=20
+        }
+	}
+////// From ///////////////////////////////////////////////////////
+    Panel {
+		Name=FSB
+		Pos=0,0,-1
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+			Pos=0,0,-1
+			Size=800,600
+			ShrLight=2
+		}
+		Panel=cfg\Rus\RA\GoodsShop.txt {
+			Pos=150,100,-3
+	    }
+	}
+////// Ship ///////////////////////////////////////////////////////
+    Panel {
+		Name=Ship
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+		  Pos=0,0,-1
+		  Size=800,600
+		  ShrLight=2
+		}
+		Panel=cfg\Rus\RA\Ship.txt {
+			Pos=45,60,-3
+		}
+    }
+}

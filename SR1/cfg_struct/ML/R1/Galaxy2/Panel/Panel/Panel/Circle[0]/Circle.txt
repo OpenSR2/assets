@@ -1,0 +1,6 @@
+Kind=MulLight
+Name=JampMaxShr
+Pos=0,0,12
+ShrLightInner=255
+ShrLightOuter=200
+Size=603,414

@@ -1,0 +1,7 @@
+ActiveBarX=False
+ActiveBarY=False
+MoveWorld=True
+Name=PanelGoods
+Pos=72,54,7
+Size=604,340
+UnlimitedWorld=False

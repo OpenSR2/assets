@@ -1,0 +1,3 @@
+Name=MapPartner
+Pos=346,-378,MapPartner
+Size=161,163

@@ -1,0 +1,58 @@
+PlanetQuest {
+
+	Prison=cfg\Rus\PlanetQuest\Prison.qm
+
+	0=cfg\Rus\PlanetQuest\Bank.qm
+	1=cfg\Rus\PlanetQuest\Boat.qm
+	2=cfg\Rus\PlanetQuest\Newflora.qm
+	3=cfg\Rus\PlanetQuest\Commando.qm
+	4=cfg\Rus\PlanetQuest\Diehard.qm
+	5=cfg\Rus\PlanetQuest\Examen.qm
+	6=cfg\Rus\PlanetQuest\Fishing.qm
+	7=cfg\Rus\PlanetQuest\Galaxy.qm
+	8=cfg\Rus\PlanetQuest\Ikebana.qm
+	9=cfg\Rus\PlanetQuest\Murder.qm
+	10=cfg\Rus\PlanetQuest\Penetrator.qm
+	11=cfg\Rus\PlanetQuest\Poroda.qm
+	12=cfg\Rus\PlanetQuest\Rush.qm
+	13=cfg\Rus\PlanetQuest\Spy.qm
+	14=cfg\Rus\PlanetQuest\Tomb.qm
+	15=cfg\Rus\PlanetQuest\Gladiator.qm
+	16=cfg\Rus\PlanetQuest\Hachball.qm
+	17=cfg\Rus\PlanetQuest\Energy.qm
+	18=cfg\Rus\PlanetQuest\Gobsaur.qm
+	19=cfg\Rus\PlanetQuest\Menzols.qm 
+	20=cfg\Rus\PlanetQuest\Siege.qm
+	21=cfg\Rus\PlanetQuest\Casino.qm
+	22=cfg\Rus\PlanetQuest\Bondiana.qm
+	23=cfg\Rus\PlanetQuest\Build.qm
+	24=cfg\Rus\PlanetQuest\Diamond.qm
+}
+
+ItemForPlanetQuest {
+	0=none
+	1=none
+	2=none
+	3=none
+	4=none
+	5=Usl_GradDoc
+	6=Usl_FishCont
+	7=none
+	8=none
+	9=none
+	10=none
+	11=Usl_IdealPenchecryak
+	12=none
+	13=none
+	14=none
+	15=Usl_HeadBowl
+	16=none
+	17=none
+	18=Usl_ScnDisc
+	19=none
+	20=none
+	21=Usl_Doc
+	22=none
+	23=none
+	24=none
+}

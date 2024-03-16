@@ -1,0 +1,17 @@
+1ImageP=GI,Bm.ShipP.1MalocR
+2ImageP=GI,Bm.ShipP.2MalocR
+Anim=Anim\Anim.txt ^{
+}
+AnimS=AnimS\AnimS.txt ^{
+}
+Image=Bm.Ship.MalocR
+ImageMap=Bm.Ship.MalocMap
+ImageS=Bm.Ship.MalocRs
+PosZ=Ship
+SizeImage=128,128
+SmeCenterImage=64,64
+SmeImage=65,76
+SmeImageMap=2,2
+StateTime=2000
+Tail1=49,117
+Tail2=73,117

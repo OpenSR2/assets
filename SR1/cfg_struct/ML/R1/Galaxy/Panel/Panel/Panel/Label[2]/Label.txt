@@ -1,0 +1,6 @@
+AlignX=Left
+AlignY=Center
+Name=Distance
+Pos=300,570,-3
+Size=100,20
+Style=Style.Label.1Normal

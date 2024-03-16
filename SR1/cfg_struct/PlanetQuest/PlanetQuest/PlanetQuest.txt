@@ -1,0 +1,10 @@
+0=cfg\Eng\PlanetQuest\Test.qm
+1=cfg\Eng\PlanetQuest\Test.qm
+2=cfg\Eng\PlanetQuest\Test.qm
+3=cfg\Eng\PlanetQuest\Test.qm
+4=cfg\Eng\PlanetQuest\Test.qm
+5=cfg\Eng\PlanetQuest\Test.qm
+6=cfg\Eng\PlanetQuest\Test.qm
+7=cfg\Eng\PlanetQuest\Test.qm
+8=cfg\Eng\PlanetQuest\Test.qm
+9=cfg\Eng\PlanetQuest\Test.qm

@@ -1,0 +1,3 @@
+Pirate=Pirate
+Trader=Trader
+Warrior=Warrior

@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Normal
+Name=InfoPirate
+Pos=140,125,8
+Size=120,20
+TextColor=255,255,0
+WordWrap=False

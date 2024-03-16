@@ -1,0 +1,15 @@
+ImageDecDown=GI,Bm.FormGoods.1TrackLeftD
+ImageDecNormal=GI,Bm.FormGoods.1TrackLeftN
+ImageDecNormalA=GI,Bm.FormGoods.1TrackLeftA
+ImageIncDown=GI,Bm.FormGoods.1TrackRightD
+ImageIncNormal=GI,Bm.FormGoods.1TrackRightN
+ImageIncNormalA=GI,Bm.FormGoods.1TrackRightA
+ImageTrackMax=GI,Bm.FormGoods.1TrackRight
+ImageTrackMin=GI,Bm.FormGoods.1TrackLeft
+ImageTrackPolDown=GI,Bm.FormGoods.1TrackPolD
+ImageTrackPolNormal=GI,Bm.FormGoods.1TrackPolN
+ImageTrackPolNormalA=GI,Bm.FormGoods.1TrackPolA
+Name=TrackCount
+Pos=121,53,8
+Size=131,13
+Sme=0,0

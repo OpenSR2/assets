@@ -1,0 +1,6 @@
+Image=GI,Bm.FormAB.1WF
+KindX=Left
+Name=W5A
+Pos=110,518,-5
+Size=34,34
+Sme=17,17

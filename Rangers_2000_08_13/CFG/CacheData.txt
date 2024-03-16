@@ -1,0 +1,306 @@
+Bm {
+	In {
+		PanelPl {
+			1Panel=data\PanelPl\1Panel.png
+			2Panel=data\PanelPl\2Panel.png
+		}
+	}
+	BGO=cfg\CD\BGO.txt {
+	}
+	Ship {
+		Maloc=cfg\CD\ShipMaloc.txt {
+		}
+		Peleng=cfg\CD\ShipPeleng.txt {
+		}
+		People=cfg\CD\ShipPeople.txt {
+		}
+		Fei=cfg\CD\ShipFei.txt {
+		}
+		Gaal=cfg\CD\ShipGaal.txt {
+		}
+		Kling=cfg\CD\ShipKling.txt {
+		}
+	}
+	Planet=cfg\CD\Planet.txt {
+	}
+	Cursor=cfg\CD\Cursor.txt {
+	}
+	WS1=cfg\CD\WS1.txt {
+	}
+	WS2=cfg\CD\WS2.txt {
+	}
+	WSO=cfg\CD\WSO.txt {
+	}
+}
+Bitmap {
+	UnitPath1=data\Path\UnitPath1.png
+	UnitPath2=data\Path\UnitPath2.png
+	UnitPath3=data\Path\UnitPath3.png
+	UnitPath4=data\Path\UnitPath4.png
+
+	UnitPathEnd_0=data\Path\UnitPathEnd_0000.png
+	UnitPathEnd_1=data\Path\UnitPathEnd_0001.png
+	UnitPathEnd_2=data\Path\UnitPathEnd_0002.png
+	UnitPathEnd_3=data\Path\UnitPathEnd_0003.png
+	UnitPathEnd_4=data\Path\UnitPathEnd_0004.png
+	UnitPathEnd_5=data\Path\UnitPathEnd_0005.png
+	UnitPathEnd_6=data\Path\UnitPathEnd_0006.png
+	UnitPathEnd_7=data\Path\UnitPathEnd_0007.png
+	UnitPathEnd_8=data\Path\UnitPathEnd_0008.png
+	UnitPathEnd_9=data\Path\UnitPathEnd_0009.png
+	UnitPathEnd_10=data\Path\UnitPathEnd_0010.png
+	UnitPathEnd_11=data\Path\UnitPathEnd_0011.png
+	UnitPathEnd_12=data\Path\UnitPathEnd_0012.png
+	UnitPathEnd_13=data\Path\UnitPathEnd_0013.png
+	UnitPathEnd_14=data\Path\UnitPathEnd_0014.png
+	UnitPathEnd_15=data\Path\UnitPathEnd_0015.png
+	UnitPathEnd_16=data\Path\UnitPathEnd_0016.png
+	UnitPathEnd_17=data\Path\UnitPathEnd_0017.png
+	UnitPathEnd_18=data\Path\UnitPathEnd_0018.png
+	UnitPathEnd_19=data\Path\UnitPathEnd_0019.png
+	UnitPathEnd_20=data\Path\UnitPathEnd_0020.png
+	UnitPathEnd_21=data\Path\UnitPathEnd_0021.png
+	UnitPathEnd_22=data\Path\UnitPathEnd_0022.png
+	UnitPathEnd_23=data\Path\UnitPathEnd_0023.png
+	UnitPathEnd_24=data\Path\UnitPathEnd_0024.png
+	UnitPathEnd_25=data\Path\UnitPathEnd_0025.png
+
+    Ship {
+		Equipment1=data\Interface\ShipEquipment1.png
+		MapShip1=data\Ship\MapShip1.png
+    }
+    Star {
+        Star1=data\Star\star1.png
+        Star2=data\Star\star2.png
+        BG1=data\Interface\stars_1.jpg
+		BG2=data\Interface\stars_1.jpg
+		MapStar1=data\Star\MapStar1.png
+		GalaxyStar1=data\Galaxy\GalaxyStar1.png
+    }
+	BGObj {
+		O1=data\BGObj\O1.png
+		O11=data\BGObj\O11.png
+		O12=data\BGObj\O12.png
+		O13=data\BGObj\O13.png
+		O14=data\BGObj\O14.png
+		O15=data\BGObj\O15.png
+		O2_0=data\BGObj\O2_0000.png
+		O2_1=data\BGObj\O2_0001.png
+		O2_2=data\BGObj\O2_0002.png
+		O2_3=data\BGObj\O2_0003.png
+		O2_4=data\BGObj\O2_0004.png
+		O2_5=data\BGObj\O2_0005.png
+		O2_6=data\BGObj\O2_0006.png
+		O2_7=data\BGObj\O2_0007.png
+		
+	}
+	Weapon {
+		L0_0=data\Weapon\L0_0000.png
+		L0_1=data\Weapon\L0_0001.png
+		L0_2=data\Weapon\L0_0002.png
+		L0_3=data\Weapon\L0_0003.png
+		L0_4=data\Weapon\L0_0004.png
+		L0_5=data\Weapon\L0_0005.png
+		L0_6=data\Weapon\L0_0006.png
+		L0_7=data\Weapon\L0_0007.png
+
+		H0_0=data\Weapon\H0_0000.png
+		H0_1=data\Weapon\H0_0001.png
+		H0_2=data\Weapon\H0_0002.png
+		H0_3=data\Weapon\H0_0003.png
+		H0_4=data\Weapon\H0_0004.png
+		H0_5=data\Weapon\H0_0005.png
+		H0_6=data\Weapon\H0_0006.png
+		H0_7=data\Weapon\H0_0007.png
+
+		E0_00=data\Weapon\E0_0000.png
+		E0_01=data\Weapon\E0_0001.png
+		E0_02=data\Weapon\E0_0002.png
+		E0_03=data\Weapon\E0_0003.png
+		E0_04=data\Weapon\E0_0004.png
+		E0_05=data\Weapon\E0_0005.png
+		E0_06=data\Weapon\E0_0006.png
+		E0_07=data\Weapon\E0_0007.png
+		E0_08=data\Weapon\E0_0008.png
+		E0_09=data\Weapon\E0_0009.png
+		E0_10=data\Weapon\E0_0010.png
+		E0_11=data\Weapon\E0_0011.png
+		E0_12=data\Weapon\E0_0012.png
+		E0_13=data\Weapon\E0_0013.png
+		E0_14=data\Weapon\E0_0014.png
+		E0_15=data\Weapon\E0_0015.png
+		E0_16=data\Weapon\E0_0016.png
+		E0_17=data\Weapon\E0_0017.png
+		E0_18=data\Weapon\E0_0018.png
+		E0_19=data\Weapon\E0_0019.png
+		E0_20=data\Weapon\E0_0020.png
+		E0_21=data\Weapon\E0_0021.png
+		E0_22=data\Weapon\E0_0022.png
+		E0_23=data\Weapon\E0_0023.png
+		E0_24=data\Weapon\E0_0024.png
+		E0_25=data\Weapon\E0_0025.png
+		E0_26=data\Weapon\E0_0026.png
+		E0_27=data\Weapon\E0_0027.png
+		E0_28=data\Weapon\E0_0028.png
+		E0_29=data\Weapon\E0_0029.png
+		E0_30=data\Weapon\E0_0030.png
+		E0_31=data\Weapon\E0_0031.png
+	}
+	Items {
+
+		ItemFuel_00=data\items\ico\i_fuel_00.png
+		ItemFuel_01=data\items\ico\i_fuel_01.png
+		ItemFuel_02=data\items\ico\i_fuel_02.png
+		ItemFuel_03=data\items\ico\i_fuel_03.png
+		ItemFuel_04=data\items\ico\i_fuel_04.png
+		ItemFuel_05=data\items\ico\i_fuel_05.png
+		ItemFuel_06=data\items\ico\i_fuel_06.png
+		ItemFuel_07=data\items\ico\i_fuel_07.png
+
+		ItemEngine_00=data\items\ico\i_engine_00.png
+		ItemEngine_01=data\items\ico\i_engine_01.png
+		ItemEngine_02=data\items\ico\i_engine_02.png
+		ItemEngine_03=data\items\ico\i_engine_03.png
+		ItemEngine_04=data\items\ico\i_engine_04.png
+		ItemEngine_05=data\items\ico\i_engine_05.png
+		ItemEngine_06=data\items\ico\i_engine_06.png
+		ItemEngine_07=data\items\ico\i_engine_07.png
+
+		ItemRadar_00=data\items\ico\i_radar_00.png
+		ItemRadar_01=data\items\ico\i_radar_01.png
+		ItemRadar_02=data\items\ico\i_radar_02.png
+		ItemRadar_03=data\items\ico\i_radar_03.png
+		ItemRadar_04=data\items\ico\i_radar_04.png
+		ItemRadar_05=data\items\ico\i_radar_05.png
+		ItemRadar_06=data\items\ico\i_radar_06.png
+		ItemRadar_07=data\items\ico\i_radar_07.png
+
+		ItemScaner_00=data\items\ico\i_scan_00.png
+		ItemScaner_01=data\items\ico\i_scan_01.png
+		ItemScaner_02=data\items\ico\i_scan_02.png
+		ItemScaner_03=data\items\ico\i_scan_03.png
+		ItemScaner_04=data\items\ico\i_scan_04.png
+		ItemScaner_05=data\items\ico\i_scan_05.png
+		ItemScaner_06=data\items\ico\i_scan_06.png
+		ItemScaner_07=data\items\ico\i_scan_07.png
+
+		ItemRepair_00=data\items\ico\i_droid_00.png
+		ItemRepair_01=data\items\ico\i_droid_01.png
+		ItemRepair_02=data\items\ico\i_droid_02.png
+		ItemRepair_03=data\items\ico\i_droid_03.png
+		ItemRepair_04=data\items\ico\i_droid_04.png
+		ItemRepair_05=data\items\ico\i_droid_05.png
+		ItemRepair_06=data\items\ico\i_droid_06.png
+		ItemRepair_07=data\items\ico\i_droid_07.png
+
+		ItemCargoHook_00=data\items\ico\i_zahvat_00.png
+		ItemCargoHook_01=data\items\ico\i_zahvat_01.png
+		ItemCargoHook_02=data\items\ico\i_zahvat_02.png
+		ItemCargoHook_03=data\items\ico\i_zahvat_03.png
+		ItemCargoHook_04=data\items\ico\i_zahvat_04.png
+		ItemCargoHook_05=data\items\ico\i_zahvat_05.png
+		ItemCargoHook_06=data\items\ico\i_zahvat_06.png
+		ItemCargoHook_07=data\items\ico\i_zahvat_07.png
+		ItemCargoHook_08=data\items\ico\i_zahvat_08.png
+		ItemCargoHook_09=data\items\ico\i_zahvat_09.png
+		ItemCargoHook_10=data\items\ico\i_zahvat_10.png
+
+		ItemGenerator_00=data\items\ico\i_gener_00.png
+		ItemGenerator_01=data\items\ico\i_gener_01.png
+		ItemGenerator_02=data\items\ico\i_gener_02.png
+		ItemGenerator_03=data\items\ico\i_gener_03.png
+		ItemGenerator_04=data\items\ico\i_gener_04.png
+		ItemGenerator_05=data\items\ico\i_gener_05.png
+		ItemGenerator_06=data\items\ico\i_gener_06.png
+		ItemGenerator_07=data\items\ico\i_gener_07.png
+
+		C1_00=data\items\C1_0000.png
+		C1_01=data\items\C1_0001.png
+		C1_02=data\items\C1_0002.png
+		C1_03=data\items\C1_0003.png
+		C1_04=data\items\C1_0004.png
+		C1_05=data\items\C1_0005.png
+		C1_06=data\items\C1_0006.png
+		C1_07=data\items\C1_0007.png
+		C1_08=data\items\C1_0008.png
+		C1_09=data\items\C1_0009.png
+		C1_10=data\items\C1_0010.png
+		C1_11=data\items\C1_0011.png
+		C1_12=data\items\C1_0012.png
+		C1_13=data\items\C1_0013.png
+		C1_14=data\items\C1_0014.png
+		C1_15=data\items\C1_0015.png
+		MapContainer1=data\Items\MapContainer1.png
+	}
+    Background {
+        BG1=data\Interface\bg.jpg
+		zastavka=data\Interface\zastavka.png
+		Stone=data\Interface\bg3.bmp
+		Wave=data\Interface\bg4.jpg
+		Steel=data\Interface\bg5.jpg
+    }
+    Interface {
+        Game {
+            BG=data\Interface\bg.jpg
+        }
+        BG1=data\Interface\bg3.bmp
+        BG2=data\Interface\bg4.jpg
+		BGMessageBox=data\Interface\stars_1.jpg
+		Panel1=data\Interface\Panel1.png
+		PanelShip=data\Interface\PanelShip.jpg
+		Bin=data\Interface\Bin.png
+		Load1=data\Interface\Load.jpg
+		Load2=data\Interface\Load.jpg
+		GalaxyMap1=data\Galaxy\GalaxyMap1.jpg
+		GalaxyMap2=data\Galaxy\GalaxyMap2.jpg
+    }
+	Alloy {
+		01n=data\Alloy\01_n.png
+		01a=data\Alloy\01_a.png
+		01h=data\Alloy\01_h.png
+		02n=data\Alloy\02_n.png
+		02a=data\Alloy\02_a.png
+		02h=data\Alloy\02_h.png
+		03n=data\Alloy\03_n.png
+		03a=data\Alloy\03_a.png
+		03h=data\Alloy\03_h.png
+		04n=data\Alloy\04_n.png
+		04a=data\Alloy\04_a.png
+		04h=data\Alloy\04_h.png
+		05n=data\Alloy\05_n.png
+		05a=data\Alloy\05_a.png
+		05h=data\Alloy\05_h.png
+		06n=data\Alloy\06_n.png
+		06a=data\Alloy\06_a.png
+		06h=data\Alloy\06_h.png
+		07n=data\Alloy\07_n.png
+		07a=data\Alloy\07_a.png
+		07h=data\Alloy\07_h.png
+		08n=data\Alloy\08_n.png
+		08a=data\Alloy\08_a.png
+		08h=data\Alloy\08_h.png
+		09n=data\Alloy\09_n.png
+		09a=data\Alloy\09_a.png
+		09h=data\Alloy\09_h.png
+		10n=data\Alloy\10_n.png
+		10a=data\Alloy\10_a.png
+		10h=data\Alloy\10_h.png
+	}
+	StatusBar {
+		Normal {
+			Left=data\StatusBar\S1_L.png
+			Middle=data\StatusBar\S1_M.png
+			Right=data\StatusBar\S1_R.png
+		}
+	}
+
+	Jump=data\Interface\Jump.jpg
+	Jump1=data\Interface\Jump1.jpg
+}
+
+Style=cfg\CD\Style.txt {
+}
+
+Font {
+    Normal=data\font\normal.fnt
+}

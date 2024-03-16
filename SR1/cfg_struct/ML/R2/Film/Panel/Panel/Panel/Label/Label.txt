@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Name=PF_Date
+Pos=124,3,8
+Size=145,19
+TextColor=255,255,230

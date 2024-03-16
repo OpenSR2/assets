@@ -1,0 +1,9 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.1Normal
+Name=ISWin
+Pos=0,109,8
+Size=100,12
+Text=FormInfo.ISWin
+TextColor=255,255,230
+WordWrap=False

@@ -1,0 +1,16 @@
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+MoveWorld=False
+Name=MainPanel
+Panel=Panel\Panel.txt ^{
+}
+Pos=0,0
+Size=1024,768

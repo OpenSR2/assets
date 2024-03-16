@@ -1,0 +1,9 @@
+Auto=Pos,Size
+Help=Help.ButTurn
+ImageDisable=GI,Bm.PanelMain.1BTurnD
+ImageDown=GI,Bm.PanelMain.1BTurnD
+ImageNormalA=GI,Bm.PanelMain.1BTurnA
+Kind=Disable
+KindHit=Graph
+Name=PM_EndTurn
+PosZ=8

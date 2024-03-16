@@ -1,0 +1,8 @@
+Help=Help.ButABPlay
+ImageDown=GI,Bm.FormAB.1PlayD
+ImageNormalA=GI,Bm.FormAB.1PlayA
+Kind=Normal
+KindHit=Graph
+Name=ButPlay
+Pos=25,4,2
+Size=94,53

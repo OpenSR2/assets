@@ -1,0 +1,10 @@
+Help=Help.ButGov
+ImageDown=GI,Bm.PanelPlanet.2GovD
+ImageNormal=GI,Bm.PanelPlanet.2GovN
+ImageNormalA=GI,Bm.PanelPlanet.2GovA
+Kind=Normal
+KindHit=Graph
+Name=PP_Gov
+Pos=0,72,8
+Size=50,47
+Style=Style.GB.SoundNormal

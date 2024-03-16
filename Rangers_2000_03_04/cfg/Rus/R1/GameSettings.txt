@@ -1,0 +1,31 @@
+
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+
+    SimpleImage {
+		Image=Bitmap.Background.BG1
+		Pos=0,0,1000
+	}
+	Label {
+		Font=Font.Normal
+        Text=GameSettings
+		Pos=10,10,999
+		Size=300,20
+    }
+    TextButton {
+		Name=Cancel
+		Style=Style.Button.Normal
+		Pos=470,570,2
+		Size=150,20
+		Caption=Text.GameSettings.Cancel
+	}
+   	TextButton {
+		Name=Ok
+		Style=Style.Button.Normal
+		Pos=630,570,2
+		Size=150,20
+		Caption=Text.GameSettings.Ok
+	}
+}

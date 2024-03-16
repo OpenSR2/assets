@@ -1,0 +1,13 @@
+Pos=0,0,ButtonAction,w
+Size=100,100
+Sme=50,50
+Name=ActionSpace
+Active=False
+MVUpdate=True
+
+Label {
+	Font=Font.Normal
+   	Name=ActionSpaceCountTurn
+	Pos=-20,20,2
+	Size=40,20
+}

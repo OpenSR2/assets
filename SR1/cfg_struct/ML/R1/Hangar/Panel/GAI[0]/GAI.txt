@@ -1,0 +1,8 @@
+Active=False
+Frame=[50,0-60]
+Image=Bm.Hangar.Maloc.1AnimL
+Name=HangarMalocL
+PBuf=True
+PosZ=1
+Stop=True
+TransColor=0,255,0

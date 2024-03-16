@@ -1,0 +1,10 @@
+BadDopInfo=You cannot visit:
+BadDopInfo= - equipment shop
+BadDopInfo= - trade center
+BadDopInfo= - information center
+TextAboutPlanet=Planet: <Planet>
+TextAboutPlanet=Inhabiting race: <Race>
+TextAboutPlanet=Population: <Population> mln.
+TextAboutPlanet=Economic type: <Economy>
+TextAboutPlanet=Political regime: <Goverment>
+TextAboutPlanet=Relation towards you: <Relation>

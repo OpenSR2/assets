@@ -1,0 +1,7 @@
+AlignX=Auto
+AlignY=CenterEx
+Font=Font.1Normal
+Pos=131,225,8
+Size=10,16
+Text=FormInfo.SearchStr
+TextColor=255,255,230

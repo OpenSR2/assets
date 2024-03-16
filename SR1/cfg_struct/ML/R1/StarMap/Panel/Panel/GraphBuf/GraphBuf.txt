@@ -1,0 +1,5 @@
+MouseBlocking=True
+Name=MapPanel
+Pos=330,-230,MapPanel
+Size=122,122
+Sme=61,61

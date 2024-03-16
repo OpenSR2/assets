@@ -1,0 +1,6 @@
+Diplomat=Consul
+Liner=Astroliner
+Pirate=Corsair
+Ranger=Ranger
+Transport=Trucker
+Warrior=Interceptor

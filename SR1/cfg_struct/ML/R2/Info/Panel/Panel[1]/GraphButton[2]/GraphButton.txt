@@ -1,0 +1,10 @@
+Help=Help.ButGoods
+ImageDown=GI,Bm.PanelPlanet.2GoodsD
+ImageNormal=GI,Bm.PanelPlanet.2GoodsN
+ImageNormalA=GI,Bm.PanelPlanet.2GoodsA
+Kind=Normal
+KindHit=Graph
+Name=PP_Goods
+Pos=59,1,8
+Size=50,47
+Style=Style.GB.SoundNormal

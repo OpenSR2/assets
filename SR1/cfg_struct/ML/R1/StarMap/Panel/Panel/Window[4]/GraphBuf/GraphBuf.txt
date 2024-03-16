@@ -1,0 +1,3 @@
+Name=InfoStarImage
+Pos=16,17,8
+Size=24,24

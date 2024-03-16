@@ -1,0 +1,9 @@
+Help=FormInfo.HelpNews
+ImageDown=GI,Bm.FormInfo.2NewsD
+ImageNormal=GI,Bm.FormInfo.2NewsN
+ImageNormalA=GI,Bm.FormInfo.2NewsA
+Kind=Normal
+KindHit=Rect
+Name=ButNews
+Pos=552,56,1
+Size=36,59

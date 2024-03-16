@@ -1,0 +1,3 @@
+Image=GI,Bm.FormInfo.1Search
+Pos=125,222,9
+Size=232,57

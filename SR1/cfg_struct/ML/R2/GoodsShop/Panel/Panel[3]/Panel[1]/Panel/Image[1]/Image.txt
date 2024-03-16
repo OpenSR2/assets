@@ -1,0 +1,3 @@
+Name=ImageCurGoods
+Pos=63,47
+Size=32,32

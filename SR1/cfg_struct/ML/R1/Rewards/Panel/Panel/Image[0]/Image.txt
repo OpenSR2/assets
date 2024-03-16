@@ -1,0 +1,3 @@
+Image=GI,Bm.FormRewards.1Down
+Pos=34,5,5
+Size=378,427

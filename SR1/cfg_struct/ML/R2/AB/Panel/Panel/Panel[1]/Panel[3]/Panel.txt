@@ -1,0 +1,11 @@
+Active=False
+Label=Label\Label.txt ^{
+}
+MVUpdate=True
+Name=PanelWin
+Panel=Panel\Panel.txt ^{
+}
+Pos=0,400,-11
+ShrLight=ShrLight\ShrLight.txt ^{
+}
+Size=1024,200

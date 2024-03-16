@@ -1,0 +1,12 @@
+ImageDisable=GI,Bm.FormAB.2WN
+ImageDown=GI,Bm.FormAB.2WA
+ImageNormal=GI,Bm.FormAB.2WN
+ImageNormalA=GI,Bm.FormAB.2WA
+Kind=FixDisable
+KindHit=Graph
+MVUpdate=True
+MouseBlocking=True
+MouseBlockingTest=False
+Name=W3
+Pos=140,625,-4
+Size=44,44

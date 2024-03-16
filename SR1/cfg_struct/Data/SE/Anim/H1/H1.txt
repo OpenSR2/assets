@@ -1,0 +1,13 @@
+0=Alpha,Bitmap.Weapon.H0_0
+1=Alpha,Bitmap.Weapon.H0_1
+2=Alpha,Bitmap.Weapon.H0_2
+3=Alpha,Bitmap.Weapon.H0_3
+4=Alpha,Bitmap.Weapon.H0_4
+5=Alpha,Bitmap.Weapon.H0_5
+6=Alpha,Bitmap.Weapon.H0_6
+7=Alpha,Bitmap.Weapon.H0_7
+HalfAnim=True
+LoopAnim=True
+PosZ=Hit
+SmeImage=16,16
+Time=100

@@ -1,0 +1,6 @@
+Image=GI,Bm.FormLoad.1Texture
+KindX=LeftFill
+KindY=Center
+Name=PI
+Pos=0,0,1
+Size=0,16

@@ -1,0 +1,3 @@
+DeadDefShip=The ship <Ship> guarded by you has died in system <Star>. As a result you <Player> have not fulfilled the contract terms and infamized your name among those people.
+DeadShipInDefSystem=In the system <Star> guarded by you there have died a ship <Ship>. As a result you <Player> have not completed the contract terms with planet <Planet>
+Time=The time provided for the mission of planet <Planet> has expired, the contract is abandoned.

@@ -1,0 +1,47 @@
+
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+	MoveWorld=False
+
+    SimpleImage {
+		Image=Bitmap.Star.BG2
+		Pos=0,0,1000
+	}
+
+    Panel {
+        Name=Map
+		Pos=0,0,1
+    	Size=1024,718
+
+		Image {
+			Name=PathCurPos
+			Size=32,32,-1
+			Sme=16,16
+			Image=Anim,Style.AImage.UnitPathEnd
+		}
+		Image {
+			Name=PathDesPos
+			Size=32,32,-1
+			Sme=16,16
+			Image=Anim,Style.AImage.UnitPathEnd
+			Active=False
+		}
+	}
+
+	TextButton {
+		Name=ButJump
+		Style=Style.Button.Normal
+		Pos=694,738,-3
+		Size=150,20
+		Caption=Text.Galaxy.Jump
+	}
+	TextButton {
+		Name=ButExit
+		Style=Style.Button.Normal
+		Pos=854,738,-3
+		Size=150,20
+		Caption=Text.Galaxy.Exit
+	}
+}

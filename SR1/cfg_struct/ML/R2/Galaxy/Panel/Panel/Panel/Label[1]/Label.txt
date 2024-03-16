@@ -1,0 +1,7 @@
+AlignX=Right
+AlignY=Center
+MVUpdate=True
+Pos=200,738,-3
+Size=200,20
+Style=Style.Label.2Normal
+Text=FormGalaxy.Distance

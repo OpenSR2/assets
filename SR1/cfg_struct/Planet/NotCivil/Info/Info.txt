@@ -1,0 +1,3 @@
+TextAboutPlanet=Planet: <Planet>
+TextAboutPlanet=Developed life forms not registered
+TextAboutPlanet=No spaceport

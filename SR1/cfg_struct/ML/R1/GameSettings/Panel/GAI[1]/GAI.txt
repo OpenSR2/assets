@@ -1,0 +1,8 @@
+Active=False
+FrameLoad=0
+Image=Bm.FormGameSet.1PelengA
+ImageFirst=Bm.FormGameSet.1PelengI
+Name=AnimPeleng
+PBuf=True
+Pos=568,188,5
+Size=189,277

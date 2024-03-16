@@ -1,0 +1,2 @@
+1=Music\planet\cosmic.dat
+1=Music\planet\cosmic2.dat

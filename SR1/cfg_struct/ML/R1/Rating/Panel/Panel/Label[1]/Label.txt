@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Pos=208,267,-3
+Size=148,17
+Style=Style.Label.1Normal
+Text=FormRating.BestWarrior
+TextColor=255,255,0
+WordWrap=False

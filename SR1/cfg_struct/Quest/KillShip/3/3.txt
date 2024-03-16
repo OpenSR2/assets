@@ -1,0 +1,7 @@
+End=Thank you for your co-operation, <Ranger>. It is wonderful to see such unanimity in pirates' brotherhood. This is what makes it so strong. And here is your <Money> cr, you've honestly earned it.
+PlanetRace=Peleng
+ShipRace=Fei
+ShipType=Transport
+Start=<Ranger>, we have been following your venerable feats for some time and now we wish to offer you a very, very, very attractive agreement. Some characters would think it is filthy, but certainly not you. Sure it's no big deal for you to butcher some Fayean ship? This is our answer to the murder of our renowned pirate Khert. Aren't you filled with rage at the news of the death of your famous colleague? Come on, don't hesitate! By taking revenge on this death you will serve the principles of honest piracy, which are nowadays so often questioned.
+Start=The target of our punitive action is their civil transport <Ship>. It has done us no wrong but since it is Fayean it certainly deserves it! And you must do it before <Date>! And we will be generous with the reward, sure. Pelengs never go back on their promises.
+Status=Pirate

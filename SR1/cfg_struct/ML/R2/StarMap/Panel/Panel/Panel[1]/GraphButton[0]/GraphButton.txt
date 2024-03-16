@@ -1,0 +1,10 @@
+Help=Help.ButShowWeapon
+ImageDown=GI,Bm.PanelSpace.2HideD
+ImageNormal=GI,Bm.PanelSpace.2HideN
+ImageNormalA=GI,Bm.PanelSpace.2HideA
+Kind=Normal
+KindHit=Graph
+Name=PS_Hide
+Pos=51,102,8
+Size=68,35
+Style=Style.GB.SoundNormal

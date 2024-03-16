@@ -1,0 +1,4 @@
+Color=255,255,255
+Kind=Rect
+Pos=0,0,-1
+Size=34,34

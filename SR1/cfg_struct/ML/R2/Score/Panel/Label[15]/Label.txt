@@ -1,0 +1,5 @@
+AlignX=Center
+Font=Font.2NormalBold
+Name=I7S
+Pos=857,466,2
+Size=119,54

@@ -1,0 +1,3 @@
+MsgContinue=Proceed
+MsgReplayQuest=Start quest once again
+MsgSuccess=Quest accomplished with success

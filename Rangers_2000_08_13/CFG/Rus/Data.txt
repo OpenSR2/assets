@@ -1,0 +1,172 @@
+SE=cfg\Rus\SE.txt {
+}
+
+Planet {
+	Boloto060 {
+		Graph=Planet.Boloto060
+		Radius=60
+	}
+	Fire1_060 {
+		Graph=Planet.Fire1_060
+		Radius=60
+	}
+	Io060 {
+		Graph=Planet.Io060
+		Radius=60
+	}
+	North060 {
+		Graph=Planet.North060
+		Radius=60
+	}
+
+	Iron070 {
+		Graph=Planet.Iron070
+		Radius=70
+	}
+	Venus070 {
+		Graph=Planet.Venus070
+		Radius=70
+	}
+	Pluton070 {
+		Graph=Planet.Pluton070
+		Radius=70
+	}
+
+	Earth080 {
+		Graph=Planet.Earth080
+		Radius=80
+	}
+	North080 {
+		Graph=Planet.North080
+		Radius=80
+	}
+
+	Pluton090 {
+		Graph=Planet.Pluton090
+		Radius=90
+	}
+
+	Mars100 {
+		Graph=Planet.Mars100
+		Radius=100
+	}
+	Boloto080 {
+		Graph=Planet.Boloto080
+		Radius=80
+	}
+	Boloto100 {
+		Graph=Planet.Boloto100
+		Radius=100
+	}
+	Lava100 {
+		Graph=Planet.Lava100
+		Radius=100
+	}
+	Jupiter100 {
+		Graph=Planet.Jupiter100
+		Radius=100
+	}
+	North100 {
+		Graph=Planet.North100
+		Radius=100
+	}
+	Venus100 {
+		Graph=Planet.Venus100
+		Radius=100
+	}
+	Fire100 {
+		Graph=Planet.Fire100
+		Radius=100
+	}
+	Fire1_100 {
+		Graph=Planet.Fire1_100
+		Radius=100
+	}
+
+	Green100 {
+		Graph=Planet.Green100
+		Radius=100
+	}
+	Iron100 {
+		Graph=Planet.Iron100
+		Radius=100
+	}
+	Io100 {
+		Graph=Planet.Io100
+		Radius=100
+	}
+	Pluton100 {
+		Graph=Planet.Pluton100
+		Radius=100
+	}
+	Saturn100 {
+		Graph=Planet.Saturn100
+		Radius=100
+	}
+
+}
+
+Star {
+	Normal {
+		SEGraph=Star.Normal
+		SEProcess=Process.Normal
+		ImageGalaxy=Alpha,Bitmap.Star.GalaxyStar1
+		Radius=250
+		SafeRadius=300
+		DamageRadius=270
+	}
+	Small {
+		SEGraph=Star.Small
+		SEProcess=Process.Normal
+		ImageGalaxy=Alpha,Bitmap.Star.GalaxyStar1
+		Radius=200
+		SafeRadius=250
+		DamageRadius=220
+	}
+}
+
+Ship {
+	Slot=cfg\Rus\ShipSlot.txt {
+	}
+	ViewSlot=VS1
+	RadiusStop=32
+}
+
+Item {
+	ItemFuel {
+		Image=Anim,Style.AImage.ItemFuel
+		Graph=Item.Container1
+	}
+	ItemEngine {
+		Image=Anim,Style.AImage.ItemEngine
+		Graph=Item.Container1
+	}
+	ItemRadar {
+		Image=Anim,Style.AImage.ItemRadar
+		Graph=Item.Container1
+	}
+	ItemScaner {
+		Image=Anim,Style.AImage.ItemScaner
+		Graph=Item.Container1
+	}
+	ItemRepair {
+		Image=Anim,Style.AImage.ItemRepair
+		Graph=Item.Container1
+	}
+	ItemCargoHook {
+		Image=Anim,Style.AImage.ItemCargoHook
+		Graph=Item.Container1
+	}
+	ItemGenerator {
+		Image=Anim,Style.AImage.ItemGenerator
+		Graph=Item.Container1
+	}
+	ItemWeapon {
+		Image=Anim,Style.AImage.ItemCargoHook
+		Graph=Item.Container1
+	}
+	ItemGoods {
+		Image=Anim,Style.AImage.ItemFuel
+		Graph=Item.Container1
+	}
+}

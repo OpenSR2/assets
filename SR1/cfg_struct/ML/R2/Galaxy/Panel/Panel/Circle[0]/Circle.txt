@@ -1,0 +1,7 @@
+Active=False
+Kind=ShrLight
+Name=JampMaxShr
+Pos=0,0,21
+ShrLightInner=0
+ShrLightOuter=1
+Size=1024,768

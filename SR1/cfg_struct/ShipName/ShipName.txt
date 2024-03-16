@@ -1,0 +1,6 @@
+Pirate=Pirate\Pirate.txt ^{
+}
+Ranger=Ranger\Ranger.txt ^{
+}
+Transport=Transport\Transport.txt ^{
+}

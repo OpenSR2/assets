@@ -1,0 +1,6 @@
+Image=GI,Bm.FormAB.1LeftA
+KindY=Bottom
+Name=PlayerA
+Pos=53,522,-5
+Size=61,60
+Sme=0,0

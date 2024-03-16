@@ -1,0 +1,6 @@
+Auto=Pos,Size
+FrameLoad=0
+Image=Bm.FormMain.2anim0
+Name=Anim0
+PBuf=True
+PosZ=40

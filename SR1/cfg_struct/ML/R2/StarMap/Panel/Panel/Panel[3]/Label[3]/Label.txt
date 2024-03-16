@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Normal
+Name=InfoItemPrice
+Pos=130,149,8
+Size=60,16
+TextColor=255,255,230

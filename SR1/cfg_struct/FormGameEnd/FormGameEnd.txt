@@ -1,0 +1,3 @@
+Loss=You dead ana lose. Thanks for game.
+Ok=Ok
+Win=Congratulations! Machpella dead. You won!!!

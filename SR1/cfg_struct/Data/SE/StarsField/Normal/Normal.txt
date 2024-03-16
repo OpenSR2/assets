@@ -1,0 +1,2 @@
+Image=Bitmap.Star.BG1
+PosZ=300

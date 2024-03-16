@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Help=FormGameSet.Common.HelpLevel
+Name=Level3
+Pos=0,80,2
+Size=250,20
+Style=Style.Label.2Normal
+Text=DifLevel.Name.3
+TextColor=255,255,230

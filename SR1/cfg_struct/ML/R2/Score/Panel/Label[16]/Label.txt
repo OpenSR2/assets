@@ -1,0 +1,5 @@
+AlignX=Center
+Font=Font.2NormalBold
+Name=I8S
+Pos=857,521,2
+Size=119,54

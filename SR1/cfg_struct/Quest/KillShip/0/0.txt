@@ -1,0 +1,6 @@
+End=Thank you, <Ranger>, for destroying this booze advocate. All these people are alcoholics. If not all of them, then the majority, doesn't matter. It is so disgusting! Had it not been for us, the Galaxy would have drowned in alcohol. Oh, yes, and here is your <Money> cr.
+PlanetRace=Maloc
+ShipRace=People
+ShipType=Transport
+Start=You are probably aware what Maloqi civilisation thinks of alcohol. We suffer so many losses and trouble due to smuggling this nauseating product. Just think of our young people's morals! The planets in the system of <FromStar> have started campaign "No more Booze". Its goal is to reduce and possibly terminate the flow of alcohol to our planets. In the framework of this campaign we are financing eliminating of the most impudent smugglers. On the first place in our black list is trucker <Ship>. Our trade authorities are really tired of playing hide and seek with this adventurer. So we do not want to hear of him any more, in our system or elsewhere. We will be glad to pay you <Money> cr if you take this pain out of our ass. Just do it before <Date>, this is our condition.
+Status=Warrior

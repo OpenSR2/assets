@@ -1,0 +1,6 @@
+Fei=11
+Gaal=12
+Kling=0
+Maloc=11
+Peleng=9
+People=12

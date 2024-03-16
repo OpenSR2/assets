@@ -1,0 +1,12 @@
+Auto=Pos,Size
+Caption=FormMain.Score
+CaptionColor=255,255,255
+CaptionSme=27,-5,28,-4
+Font=Font.1Normal
+ImageDown=GI,Bm.FormMain.1but1n
+ImageNormal=GI,Bm.FormMain.1but1n
+ImageNormalA=GI,Bm.FormMain.1but1a
+Kind=Normal
+KindHit=Graph
+Name=Score
+PosZ=20

@@ -1,0 +1,3 @@
+Name=Asteroid -<Number>-
+Text=Moving at speed <Speed> units
+Text=Mineral content up to <Count> units

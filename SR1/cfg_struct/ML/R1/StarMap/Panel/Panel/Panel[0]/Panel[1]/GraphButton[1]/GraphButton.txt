@@ -1,0 +1,9 @@
+Help=Help.ButGalaxy
+ImageDown=GI,Bm.PanelMain.1BGalD
+ImageNormal=GI,Bm.PanelMain.1BGalN
+ImageNormalA=GI,Bm.PanelMain.1BGalA
+Kind=Normal
+KindHit=Graph
+Name=PM_Gal
+Pos=658,0,8
+Size=41,39

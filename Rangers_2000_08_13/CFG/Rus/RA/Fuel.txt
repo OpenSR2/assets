@@ -1,0 +1,89 @@
+	Size=520,440
+
+	TransImage {
+		Pos=0,0,-2
+		Image=Bitmap.Interface.Panel1
+		HalfAlpha=True
+	}
+
+	Label {
+		Style=Style.Label.Normal
+		Pos=25,100,-3
+		Size=250,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.Hangar.Fuel_TanksCapacity
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=275,100,-3
+		Size=100,20
+		AlignX=Left
+		AlignY=Center
+		Name=FuelTanksCapacity
+	}
+
+	Label {
+		Style=Style.Label.Normal
+		Pos=25,130,-3
+		Size=250,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.Hangar.Fuel_Count
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=275,130,-3
+		Size=100,20
+		AlignX=Left
+		AlignY=Center
+		Name=FuelCount
+	}
+
+	StatusBar {
+		Pos=100,155,-3
+		Size=300,35
+		Style=Style.StatusBar.Normal
+		Cur=50
+		Name=FuelStatusBar
+	}
+
+	Label {
+		Style=Style.Label.Normal
+		Pos=25,190,-3
+		Size=250,20
+		AlignX=Right
+		AlignY=Center
+		Text=Text.Hangar.Fuel_Sum
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=275,190,-3
+		Size=100,20
+		AlignX=Left
+		AlignY=Center
+		Name=FuelSum
+	}
+
+	TextButton {
+		Name=FuelButRefuel
+		Style=Style.Button.Normal
+		Pos=300,300,-3
+		Size=150,20
+		Caption=Text.Hangar.Fuel_Refuel
+	}
+	TextButton {
+		Name=FuelButClose
+		Style=Style.Button.Normal
+		Pos=300,380,-3
+		Size=150,20
+		Caption=Text.Hangar.Fuel_Close
+	}
+	Label {
+		Style=Style.Label.Normal
+		Pos=155,10,-3
+		Size=200,20
+		AlignX=Center
+		AlignY=Center
+		Text=Text.Hangar.Fuel_Fuel
+	}

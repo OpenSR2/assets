@@ -1,0 +1,5 @@
+Active=False
+Image=GI,Bm.Hangar.Peleng.1bg
+Name=HangarPelengBG
+Pos=0,0,3
+Size=800,600

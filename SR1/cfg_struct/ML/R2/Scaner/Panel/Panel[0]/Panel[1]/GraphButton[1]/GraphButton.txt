@@ -1,0 +1,8 @@
+ImageDown=GI,Bm.FormShip.2closeD
+ImageNormalA=GI,Bm.FormShip.2closeA
+Kind=Normal
+KindHit=Rect
+Name=Exit
+Pos=524,489,1
+Size=42,37
+Style=Style.GB.SoundNormal

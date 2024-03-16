@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Name=TalkShip
+Pos=18,228,4
+Size=115,47
+Style=Style.Label.2Normal
+TextColor=255,255,230
+WordWrap=True

@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=NameAction
+Pos=0,3,8
+Size=129,30
+Text=FormGS.Buy
+TextColor=255,255,230
+WordWrap=True

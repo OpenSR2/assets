@@ -1,0 +1,10 @@
+Help=Help.ButScaner
+ImageDown=GI,Bm.PanelSpace.2ScanerD
+ImageNormal=GI,Bm.PanelSpace.2ScanerN
+ImageNormalA=GI,Bm.PanelSpace.2ScanerA
+Kind=Normal
+KindHit=Graph
+Name=PS_Scaner
+Pos=5,122,8
+Size=50,47
+Style=Style.GB.SoundNormal

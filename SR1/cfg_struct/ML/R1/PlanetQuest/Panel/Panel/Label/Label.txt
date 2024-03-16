@@ -1,0 +1,10 @@
+AlignX=Center
+AlignY=Center
+Name=ParamsShowWindow
+Pos=525,347,3
+Size=260,216
+Style=Style.Label.1Normal
+TextBorder=1
+TextBorderColor=60,60,60
+TextColor=219,218,156
+WordWrap=True

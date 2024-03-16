@@ -1,0 +1,9 @@
+Help=FormGameMenu.Resume
+ImageHit=GI,Bm.FormMenu.1ContinueH
+ImageNormalA=GI,Bm.FormMenu.1ContinueA
+ImageNormalA_Pos=55,155
+Kind=Normal
+KindHit=ImageHit
+Name=Resume
+Pos=35,94,-3
+Size=92,152

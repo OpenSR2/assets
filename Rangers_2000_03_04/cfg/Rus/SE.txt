@@ -1,0 +1,92 @@
+Process {
+	Normal {
+		Objects {
+			StarsField {
+				Type=StarsField.Normal
+				Size=0,0
+			}
+		}
+	}
+}
+
+Star {
+	Normal {
+		Image=Bitmap.Star.Star1
+		SmeImage=270,270
+		ImageMap=Bitmap.Star.MapStar1
+		SmeImageMap=8,8
+		PosZ=100
+	}
+	Small {
+		Image=Bitmap.Star.Star2
+		SmeImage=150,150
+		ImageMap=Bitmap.Star.MapStar1
+		SmeImageMap=8,8
+		PosZ=100
+	}
+}
+
+StarsField {
+	Normal {
+		Image=Bitmap.Star.BG1
+		PosZ=200
+	}
+}
+
+Planet {
+	Earth {
+		Mask=Bitmap.Planet.PlanetMask80
+		Image=Bitmap.Planet.Planet1
+		ImageLight=Bitmap.Planet.PlanetLight80
+		SmeImage=80,80
+		ImageMap=Bitmap.Planet.MapPlanet1
+		SmeImageMap=4,4
+		PosZ=99
+	}
+	Mars {
+		Mask=Bitmap.Planet.PlanetMask100
+		Image=Bitmap.Planet.Planet2
+		ImageLight=Bitmap.Planet.PlanetLight100
+		SmeImage=100,100
+		ImageMap=Bitmap.Planet.MapPlanet1
+		SmeImageMap=4,4
+		PosZ=99
+	}
+}
+
+Ship {
+	Player {
+		Image=Bitmap.Ship.Player.Normal
+		SmeImage=31,42
+		SizeImage=64,64
+		PosZ=10
+		ImageMap=Bitmap.Ship.MapShip1
+		SmeImageMap=2,2
+	}
+	Ranger {
+		Image=Bitmap.Ship.Ranger.Normal
+		SmeImage=31,42
+		SizeImage=64,64
+		PosZ=10
+		ImageMap=Bitmap.Ship.MapShip1
+		SmeImageMap=2,2
+	}
+	Trader {
+		Image=Bitmap.Ship.Trader.Normal
+		SmeImage=31,42
+		SizeImage=64,64
+		PosZ=10
+		ImageMap=Bitmap.Ship.MapShip1
+		SmeImageMap=2,2
+	}
+}
+
+Item {
+	Container1 {
+		Image=Anim,Style.AImage.Container1
+		SmeImage=16,16
+		PosZ=20
+		ImageMap=Bitmap.Items.MapContainer1
+		SmeImageMap=1,1
+	}
+}

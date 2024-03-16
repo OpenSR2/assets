@@ -1,0 +1,8 @@
+Active=False
+AlignX=Left
+AlignY=Center
+Name=Relation
+Pos=924,10,8
+Size=100,20
+Style=Style.Label.2Normal
+TextColor=255,0,0

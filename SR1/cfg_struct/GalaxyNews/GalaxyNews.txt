@@ -1,0 +1,6 @@
+Globals=Globals\Globals.txt ^{
+}
+Quest=Quest\Quest.txt ^{
+}
+RangersCenters=RangersCenters\RangersCenters.txt ^{
+}

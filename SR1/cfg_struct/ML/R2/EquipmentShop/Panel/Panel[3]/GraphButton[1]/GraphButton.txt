@@ -1,0 +1,8 @@
+ImageDown=GI,Bm.FormShop.2RightD
+ImageNormal=GI,Bm.FormShop.2RightN
+ImageNormalA=GI,Bm.FormShop.2RightA
+Kind=Disable
+KindHit=Rect
+Name=Right
+Pos=690,187,8
+Size=40,57

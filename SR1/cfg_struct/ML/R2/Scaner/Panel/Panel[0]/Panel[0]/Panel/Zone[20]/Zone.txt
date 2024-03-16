@@ -1,0 +1,4 @@
+Kind=Circle
+Name=Ar7z
+Pos=232,311,-2
+Size=46,44

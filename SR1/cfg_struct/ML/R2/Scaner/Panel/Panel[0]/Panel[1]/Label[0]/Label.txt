@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Center
+Name=ShipName
+Pos=434,30,0
+Size=137,65
+Style=Style.Label.2Normal
+TextColor=255,255,230
+WordWrap=True

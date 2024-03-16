@@ -1,0 +1,20 @@
+Enter=Enter\Enter.txt ^{
+}
+FireFull=FireFull\FireFull.txt ^{
+}
+FireSmall=FireSmall\FireSmall.txt ^{
+}
+Main=Main\Main.txt ^{
+}
+ScanFull=ScanFull\ScanFull.txt ^{
+}
+ScanSmall=ScanSmall\ScanSmall.txt ^{
+}
+Scroll=Scroll\Scroll.txt ^{
+}
+Take=Take\Take.txt ^{
+}
+TalkFull=TalkFull\TalkFull.txt ^{
+}
+TalkSmall=TalkSmall\TalkSmall.txt ^{
+}

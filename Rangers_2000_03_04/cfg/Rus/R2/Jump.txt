@@ -1,0 +1,19 @@
+
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+	MoveWorld=False
+
+    Image {
+		Image=Bitmap.Jump1
+		Pos=0,0,2
+		Size=1024,768
+	}
+	Label {
+		Font=Font.Normal
+	    Name=CurTurn
+		Pos=0,738,1
+		Size=100,20
+	}
+}

@@ -1,0 +1,12 @@
+1=Sound.FormHangar3
+2=Sound.FormHangar4
+3=Sound.FormHangar0
+3=Sound.FormHangar1
+3=Sound.FormHangar2
+3=Sound.FormHangar5
+3=Sound.FormHangar6
+3=Sound.FormHangar7
+3=Sound.FormHangar8
+3=Sound.FormHangar9
+3=Sound.FormHangar10
+NextTime=6000-10000

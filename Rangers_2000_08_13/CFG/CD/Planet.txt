@@ -1,0 +1,61 @@
+S {
+	Light060=data\Planet\Light060.png
+	Light070=data\Planet\Light070.png
+	Light080=data\Planet\Light080.png
+	Light090=data\Planet\Light090.png
+	Light100=data\Planet\Light100.png
+
+	Mask060=data\Planet\Mask060.png
+	Mask070=data\Planet\Mask070.png
+	Mask080=data\Planet\Mask080.png
+	Mask090=data\Planet\Mask090.png
+	Mask100=data\Planet\Mask100.png
+}
+
+T {
+	060Boloto=data\Planet\060Boloto.png
+	060Io=data\Planet\060Io.png
+	060Fire1=data\Planet\060Fire1.png
+	060North=data\Planet\060North.png
+
+	070Iron=data\Planet\070Iron.png
+	070Venus=data\Planet\070Venus.png
+	070Pluton=data\Planet\070Pluton.png
+
+	080Boloto=data\Planet\080Boloto.png
+	080Earth=data\Planet\080Earth.png
+	080North=data\Planet\080North.png
+
+	090Pluton=data\Planet\090Pluton.png
+
+	100Jupiter=data\Planet\100Jupiter.png
+	100North=data\Planet\100North.png
+	100Venus=data\Planet\100Venus.png
+	100Boloto=data\Planet\100Boloto.png
+	100Mars=data\Planet\100Mars.png
+	100Lava=data\Planet\100Lava.png
+	100Fire=data\Planet\100Fire.png
+	100Fire1=data\Planet\100Fire1.png
+	100Green=data\Planet\100Green.png
+	100Iron=data\Planet\100Iron.png
+	100Io=data\Planet\100Io.png
+	100Pluton=data\Planet\100Pluton.png
+	100Saturn=data\Planet\100Saturn.png
+}
+
+M {
+	Earth=data\Planet\MapEarth.png
+	Boloto=data\Planet\MapBoloto.png
+	Mars=data\Planet\MapMars.png
+	Lava=data\Planet\MapLava.png
+	Jupiter=data\Planet\MapJupiter.png
+	North=data\Planet\MapNorth.png
+	Venus=data\Planet\MapVenus.png
+	Fire=data\Planet\MapFire.png
+	Fire1=data\Planet\MapFire.png
+	Green=data\Planet\MapGreen.png
+	Iron=data\Planet\MapIron.png
+	Io=data\Planet\MapIo.png
+	Pluton=data\Planet\MapPluton.png
+	Saturn=data\Planet\MapJupiter.png
+}

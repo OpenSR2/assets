@@ -1,0 +1,7 @@
+1=Rail
+2=Wheeled
+3=Servo
+4=Pneumatic
+5=Dynamic
+6=Matrix
+7=Suspensor

@@ -1,0 +1,5 @@
+Active=False
+Image=GI,Bm.Hangar.Maloc.2bg
+Name=HangarMalocBG
+Pos=0,0,3
+Size=1024,768

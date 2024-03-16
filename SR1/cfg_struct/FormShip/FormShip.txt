@@ -1,0 +1,13 @@
+Drop=drop
+Repair=repair
+RepairMsg=Want to repair <Name> for <Price> cr?
+Sell=sell
+SellItem=Want to sell %s for %d cr?
+ThrowEngineError=You cannot drop the engine
+ThrowFuelTanksError=You cannot drop the fuel tank
+ThrowItem=Want to drop %s?
+Use=use
+UseADef=Artefact def text
+UseASpeed=Artefact speed text
+UseATranc=Artefact tranclucator text
+UseATrans=Artefact transmitter text

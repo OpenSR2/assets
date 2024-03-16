@@ -1,0 +1,9 @@
+Auto=Size
+Help=FormCfgSettings.HelpButMax
+ImageDown=GI,Bm.FormOptions.2AUpD
+ImageNormal=GI,Bm.FormOptions.2AUpN
+ImageNormalA=GI,Bm.FormOptions.2AUpA
+Kind=Normal
+KindHit=Graph
+Name=ButAUp
+Pos=14,369,-3

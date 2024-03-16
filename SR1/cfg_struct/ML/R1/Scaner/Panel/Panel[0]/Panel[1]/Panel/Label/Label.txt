@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Name=SkillFreePoints
+Pos=405,237,0
+Size=41,21
+Style=Style.Label.2Normal
+TextColor=255,255,230

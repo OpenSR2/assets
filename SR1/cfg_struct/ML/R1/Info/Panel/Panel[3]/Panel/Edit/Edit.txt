@@ -1,0 +1,6 @@
+AlignX=Left
+Font=Font.1Normal
+MaxLen=20
+Name=TextSearch
+Pos=160,243,2
+Size=121,15

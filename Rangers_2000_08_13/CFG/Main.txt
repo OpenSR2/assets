@@ -1,0 +1,40 @@
+User=cfg.txt {
+}
+Graph=cfg\graph.txt {
+}
+Lang {
+    Rus=cfg\Rus\Lang.txt {
+    }
+    Eng=cfg\Rus\Lang.txt {
+    }
+}
+ML {
+    Rus {
+        R1=cfg\Rus\R1\ml.txt {
+			Style=cfg\Rus\RA\Style.txt {
+			}
+        }
+        R2=cfg\Rus\R2\ml.txt {
+			Style=cfg\Rus\RA\Style.txt {
+			}
+        }
+    }
+    Eng {
+        R1=cfg\Eng\R1\ml.txt {
+        }
+        R2=cfg\Eng\R2\ml.txt {
+        }
+    }
+}
+Data {
+    Rus=cfg\Rus\Data.txt {
+    }
+    Eng=cfg\Rus\Data.txt {
+    }
+}
+CacheData=cfg\cachedata.txt {
+}
+Music=cfg\Music.txt {
+}
+ZPos=cfg\ZPos.txt {
+}

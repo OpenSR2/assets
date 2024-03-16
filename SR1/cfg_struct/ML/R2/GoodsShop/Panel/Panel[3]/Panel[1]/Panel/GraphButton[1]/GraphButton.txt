@@ -1,0 +1,12 @@
+Auto=Size
+Help=FormGS.HelpBuy
+ImageDisable=GI,Bm.SI.2But2OkN
+ImageDown=GI,Bm.SI.2But2OkD
+ImageNormal=GI,Bm.SI.2But2OkN
+ImageNormalA=GI,Bm.SI.2But2OkA
+Kind=Disable
+KindHit=Rect
+Name=Ok
+Pos=351,56,8
+SoundEnter=Sound.ButtonEnter
+SoundLeave=Sound.ButtonLeave

@@ -1,0 +1,7 @@
+ImageDown=GI,Bm.FormPQuest.1ExitD
+ImageNormalA=GI,Bm.FormPQuest.1ExitA
+Kind=Disable
+KindHit=Graph
+Name=ButtonExit
+Pos=718,570,2
+Size=82,30

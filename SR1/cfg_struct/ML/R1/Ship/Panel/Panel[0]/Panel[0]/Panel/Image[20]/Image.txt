@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.1e4B
+Name=S_DefGenerator_0b
+Pos=156,279,1
+Size=37,36

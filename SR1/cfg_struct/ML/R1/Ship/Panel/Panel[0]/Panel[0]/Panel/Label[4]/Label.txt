@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Name=IDef
+Pos=54,37,0
+Size=64,14
+Style=Style.Label.1Normal
+TextColor=0,0,0

@@ -1,0 +1,7 @@
+Close=Close\Close.txt ^{
+}
+Normal=Normal\Normal.txt ^{
+}
+Open=Open\Open.txt ^{
+}
+PosZ=Gate

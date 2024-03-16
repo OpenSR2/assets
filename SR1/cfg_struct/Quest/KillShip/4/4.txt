@@ -1,0 +1,6 @@
+End=Very well <Ranger>, Gap Tooth has finally left Galaxy in peace. Your reward is <Money> cr. Perhaps we should hire you on a permanent basis as a mobile executioner.
+PlanetRace=People
+ShipRace=Any
+ShipType=Pirate
+Start=Here is a contract for a pilot with iron nerves. A well-known maniac and terrorist Gap Tooth has been recently spotted by one of our ships. Police and special agents from our planet have been looking for him for a long time, but to no avail. But now we have absolutely reliable information that he is staying onboard <Ship> and is engaged in criminal activity in the system of <InStar>. We are ready to pay <Money> cr to anyone who destroys this guy in <Day> days. Should you fail to stay within the time frame we will have to turn to another pilot.
+Status=Any

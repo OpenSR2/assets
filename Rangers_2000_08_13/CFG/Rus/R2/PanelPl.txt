@@ -1,0 +1,13 @@
+Name=PanelPl
+Pos=0,0,-1
+Size=200,1024
+Active=True
+//MouseBlocking=True
+
+AlphaImage {
+	Pos=0,0,100
+	Size=200,768
+	Image=Bm.In.PanelPl.2Panel
+	AlignX=Left
+	AlignY=Top
+}

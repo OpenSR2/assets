@@ -1,0 +1,92 @@
+Fan1 {
+	99=Bm.WS2.Fan1.00
+	99=Bm.WS2.Fan1.01
+	99=Bm.WS2.Fan1.02
+	99=Bm.WS2.Fan1.03
+	99=Bm.WS2.Fan1.04
+	99=Bm.WS2.Fan1.05
+	99=Bm.WS2.Fan1.06
+	99=Bm.WS2.Fan1.07
+	99=Bm.WS2.Fan1.08
+	99=Bm.WS2.Fan1.09
+}
+Fan2 {
+	80=Bm.WS2.Fan2.00
+	80=Bm.WS2.Fan2.01
+	80=Bm.WS2.Fan2.02
+	80=Bm.WS2.Fan2.03
+	80=Bm.WS2.Fan2.04
+	80=Bm.WS2.Fan2.05
+	80=Bm.WS2.Fan2.06
+	80=Bm.WS2.Fan2.07
+	80=Bm.WS2.Fan2.08
+	80=Bm.WS2.Fan2.09
+}
+Truba {
+	80=Bm.WS2.Truba.00
+	80=Bm.WS2.Truba.01
+	80=Bm.WS2.Truba.02
+	80=Bm.WS2.Truba.03
+	80=Bm.WS2.Truba.04
+	80=Bm.WS2.Truba.05
+	80=Bm.WS2.Truba.06
+	80=Bm.WS2.Truba.07
+	80=Bm.WS2.Truba.08
+	500=Bm.WS2.Truba.09
+}
+Ekran1 {
+	4000=Bm.WS2.Ekran1.00
+	4000=Bm.WS2.Ekran1.01
+	4000=Bm.WS2.Ekran1.02
+	4000=Bm.WS2.Ekran1.03
+	4000=Bm.WS2.Ekran1.04
+	4000=Bm.WS2.Ekran1.05
+}
+Ekran2 {
+	5000=Bm.WS2.Ekran2.00
+	5000=Bm.WS2.Ekran2.01
+	5000=Bm.WS2.Ekran2.02
+	5000=Bm.WS2.Ekran2.03
+	5000=Bm.WS2.Ekran2.04
+	5000=Bm.WS2.Ekran2.05
+}
+Display1 {
+	2500=Bm.WS2.Display1.04
+	2500=Bm.WS2.Display1.01
+	2500=Bm.WS2.Display1.02
+	2500=Bm.WS2.Display1.00
+	2500=Bm.WS2.Display1.03
+	2500=Bm.WS2.Display1.05
+}
+Display2 {
+	2600=Bm.WS2.Display2.00
+	2600=Bm.WS2.Display2.01
+	2600=Bm.WS2.Display2.02
+	2600=Bm.WS2.Display2.03
+	2600=Bm.WS2.Display2.04
+	2600=Bm.WS2.Display2.05
+}
+Display3 {
+	2700=Bm.WS2.Display3.03
+	2700=Bm.WS2.Display3.01
+	2700=Bm.WS2.Display3.04
+	2700=Bm.WS2.Display3.02
+	2700=Bm.WS2.Display3.05
+	2700=Bm.WS2.Display3.00
+}
+Indicator1 {
+	100=Bm.WS2.Indicator1.00
+	100=Bm.WS2.Indicator1.01
+}
+Indicator2 {
+	100=Bm.WS2.Indicator2.00
+	100=Bm.WS2.Indicator2.01
+}
+Indicator3 {
+	50=Bm.WS2.Indicator3.00
+	50=Bm.WS2.Indicator3.01
+}
+Indicator4 {
+	50=Bm.WS2.Indicator4.00
+	50=Bm.WS2.Indicator4.01
+}

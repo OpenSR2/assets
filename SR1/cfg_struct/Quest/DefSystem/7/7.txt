@@ -1,0 +1,4 @@
+End=<Ranger>, you have successfully completed your task and <Money> cr is yours. Probably, you should think about changing your specialisation and become a warrior. Well, maybe it's not worth it, the Galaxy is already such a violent place.
+PlanetRace=Fei
+Start= <FromPlanet> is getting ready for a most important event, a seminar in the issues of nutrition and health care. We are expecting the arrival of many important and respected scientists, so we intend to increase the security forces in the whole system. We know that you do not really specialise in such operations, however the weapons that there are on your ship are quite sufficient for our mission. We believe that the sum of <Money> cr is adequate. Our only condition is that no civil ship, regardless of the race, is destroyed in the system until <Date>. If you make sure they are safe, the money is yours <Money> cr.
+Status=Trader

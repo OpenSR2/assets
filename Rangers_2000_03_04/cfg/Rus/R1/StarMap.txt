@@ -1,0 +1,129 @@
+
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+
+    Panel {
+        Name=MainPanel
+        Pos=400,300,-1
+		Sme=400,300
+        Size=800,600
+	
+		MoveWorld=True
+
+		Panel {
+			Name=MapPanelControl
+			Pos=190,-290
+			Size=200,200
+			Active=False
+
+			SimpleImage {
+				Image=Bitmap.Background.Wave
+				Pos=0,0,1
+				Size=200,200
+				KindX=LeftFill
+				KindY=TopFill
+				HalfAlpha=True
+			}
+			Panel {
+				Name=MapPanel
+				Pos=100,100,-1
+				Sme=100,100
+				Size=200,200
+				MoveWorld=False
+				MouseBlocking=True
+			}
+		}
+
+		Panel {
+			Pos=0,0,9,w
+			Size=100,100
+			Sme=50,50
+			Name=Action
+			Active=False
+			
+			TextButton {
+				Name=ActionMove
+				Style=Style.Button.NoTrans
+				Pos=-20,-20,2
+				Size=20,20
+				Sme=10,10
+				Kind=Ext
+				Caption=M
+			}
+			TextButton {
+				Name=ActionLanding
+				Style=Style.Button.NoTrans
+				Pos=20,-20,2
+				Size=20,20
+				Sme=10,10
+				Kind=Ext
+				Caption=L
+			}
+			Label {
+				Font=Font.Normal
+	        	Name=ActionCountTurn
+				Pos=-20,20,2
+				Size=40,20
+		    }
+		}
+
+		TextButton {
+			Name=ButGalaxy
+			Style=Style.Button.Normal
+			Pos=-90,270,2
+			Size=150,20
+			Caption=Text.StarMap.Galaxy
+			Active=False
+		}
+		TextButton {
+			Name=ButShip
+			Style=Style.Button.Normal
+			Pos=70,270,2
+			Size=150,20
+			Caption=Text.Ship.ButShip
+			Active=False
+		}
+		TextButton {
+			Name=EndTurn
+			Style=Style.Button.Normal
+			Pos=230,270,2
+			Size=150,20
+			Caption=Text.StarMap.EndTurn
+			Active=False
+		}
+	   	TextButton {
+			Name=BreakFlight
+			Style=Style.Button.NoTrans
+			Pos=230,270,2
+			Size=150,20
+			Caption=Text.StarMap.BreakFlight
+			Active=False
+		}
+
+		Label {
+			Font=Font.Normal
+	        Name=CurTurn
+			Pos=-400,270,2
+			Size=100,20
+	    }
+	}
+////// Ship ///////////////////////////////////////////////////////
+    Panel {
+		Name=Ship
+		Pos=0,0,-3
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+		  Pos=0,0,-1
+		  Size=800,600
+		  ShrLight=2
+		}
+		Panel=cfg\Rus\RA\Ship.txt {
+			Pos=45,60,-3
+		}
+    }
+}

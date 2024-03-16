@@ -1,0 +1,4 @@
+Name=PS_W0I
+Pos=6,55,7
+Size=35,35
+Sme=0,0

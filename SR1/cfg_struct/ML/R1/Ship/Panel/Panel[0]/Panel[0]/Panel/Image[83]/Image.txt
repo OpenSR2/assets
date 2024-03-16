@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.1ArtefactA
+Name=Ar8a
+Pos=84,287,-1
+Size=36,34

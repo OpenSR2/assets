@@ -1,0 +1,4 @@
+1Image=Bm.ItemsUseless.1OperatedProbe_c
+2Image=Bm.ItemsUseless.2OperatedProbe_c
+ImageMap=Bm.Container.Map0
+PosZ=Item

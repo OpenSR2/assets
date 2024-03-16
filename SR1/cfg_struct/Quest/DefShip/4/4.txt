@@ -1,0 +1,6 @@
+End=You have honourably completed the difficult task by defending trucker <Ship> and you deserve your reward, <Money> cr. You've served well the economy on <FromPlanet> and also our committee in ethical issues. We have decided to initiate court investigation of the latest incidents.
+InThisSystem=Yes
+PlanetRace=People
+ShipType=Transport
+Start=Insurance company "Willie and Maxie" that is dealing with insuring spaceships is on the way to bankruptcy. Recently, several ships have been destroyed by pirates, as the result of which the company had to pay the ship owners. It is a huge blow for our business. At the moment, the management believes that ship owners take their ships to hot spots on purpose so that they could get better compensation for their rusty washtubs. Your references are very good and we are ready to offer you a contract to the value of <Money> cr, to guard trucker <Ship> till <Date>, since it has just been insured for a huge sum. At the moment, the vessel is in our system.
+Status=Trader

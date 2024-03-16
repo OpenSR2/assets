@@ -1,0 +1,8 @@
+Auto=Size
+ImageDown=GI,Bm.FormIntro.2ButRightD
+ImageNormal=GI,Bm.FormIntro.2ButRightN
+ImageNormalA=GI,Bm.FormIntro.2ButRightA
+Kind=Normal
+KindHit=Rect
+Name=Ok
+Pos=940,686,2

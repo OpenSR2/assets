@@ -1,0 +1,8 @@
+Kling=Kling\Kling.txt ^{
+}
+Pirates=Pirates\Pirates.txt ^{
+}
+Rangers=Rangers\Rangers.txt ^{
+}
+Transport=Transport\Transport.txt ^{
+}

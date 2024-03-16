@@ -1,0 +1,8 @@
+Active=False
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=PM_Help
+Pos=70,39,8
+Size=280,16
+TextColor=255,255,230

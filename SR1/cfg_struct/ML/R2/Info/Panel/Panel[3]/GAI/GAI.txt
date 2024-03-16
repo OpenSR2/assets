@@ -1,0 +1,7 @@
+FrameLoad=0
+Image=Bm.FormInfo.2Anim0a
+ImageFirst=Bm.FormInfo.2Anim0i
+Name=ImageDict
+PBuf=True
+Pos=16,45,8
+Size=99,109

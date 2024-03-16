@@ -1,0 +1,8 @@
+Active=False
+Frame=[50,0-61]
+Image=Bm.Hangar.Fei.1AnimL
+Name=HangarFeiL
+PBuf=True
+PosZ=1
+Stop=True
+TransColor=0,255,0

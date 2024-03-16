@@ -1,0 +1,7 @@
+Cursor {
+	Arrow {
+//		Image=Trans,Bitmap.Cursor.Arrow
+		Image=Anim,Style.AImage.Cursor.Arrow
+		Sme=1,1
+	}
+}

@@ -1,0 +1,11 @@
+Caption=FormCfgSettings.GGraph
+CaptionColor=255,255,230
+CaptionSme=0,0,0,0
+Font=Font.2Big
+ImageDown=GI,Bm.FormOptions.2ButD
+ImageNormal=GI,Bm.FormOptions.2ButN
+Kind=Fix
+KindHit=Rect
+Name=ButGroup1
+Pos=1,175,-3
+Size=130,39

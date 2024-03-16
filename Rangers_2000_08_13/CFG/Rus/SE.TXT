@@ -1,0 +1,226 @@
+Process {
+	Normal {
+		Objects {
+//			StarsField {
+//				Type=StarsField.Normal
+//				Size=0,0
+//			}
+//			Laser {
+//				Type=Laser.W1
+//				Size=0,0
+//				Pos=0,0
+//				PosDes=800,800
+//				ManualAnim=Yes
+//			}
+//			Anim {
+//				Type=Anim.E1
+//				Size=0,0
+//				Sme=16,16
+//				Pos=100,100
+//			}
+		}
+	}
+}
+
+Star {
+	Normal {
+		Image=Bitmap.Star.Star1
+		SmeImage=270,270
+		ImageMap=Bitmap.Star.MapStar1
+		SmeImageMap=8,8
+		PosZ=Star
+	}
+	Small {
+		Image=Bitmap.Star.Star2
+		SmeImage=200,200
+		ImageMap=Bitmap.Star.MapStar1
+		SmeImageMap=8,8
+		PosZ=Star
+	}
+}
+
+StarsField {
+	Normal {
+		Image=Bitmap.Star.BG1
+		PosZ=300
+	}
+}
+
+Planet=cfg\Rus\SE\Planet.txt {
+}
+
+BGObj {
+	O1 {
+		Image=Alpha,Bitmap.BGObj.O1
+		PosZ=BGObj
+		Radius=50
+	}
+	O11 {
+		Image=Alpha,Bitmap.BGObj.O11
+		PosZ=BGObj
+		Radius=50
+	}
+	O12 {
+		Image=Alpha,Bitmap.BGObj.O12
+		PosZ=BGObj
+		Radius=50
+	}
+	O13 {
+		Image=Alpha,Bitmap.BGObj.O13
+		PosZ=BGObj
+		Radius=50
+	}
+	O14 {
+		Image=Alpha,Bitmap.BGObj.O14
+		PosZ=BGObj
+		Radius=50
+	}
+	O15 {
+		Image=Alpha,Bitmap.BGObj.O15
+		PosZ=BGObj
+		Radius=50
+	}
+
+//	O2 {
+//		Image=Anim,Style.AImage.BGObj2
+//		PosZ=BGObj
+//		Radius=0
+//	}
+	O3 {
+		Image=Simple,Bitmap.BGObj.O2_1
+		PosZ=BGObj
+		Radius=0
+	}
+	O4 {
+		Image=Simple,Bitmap.BGObj.O2_2
+		PosZ=BGObj
+		Radius=0
+	}
+	O5 {
+		Image=Simple,Bitmap.BGObj.O2_3
+		PosZ=BGObj
+		Radius=0
+	}
+	O6 {
+		Image=Simple,Bitmap.BGObj.O2_4
+		PosZ=BGObj
+		Radius=0
+	}
+	O7 {
+		Image=Simple,Bitmap.BGObj.O2_5
+		PosZ=BGObj
+		Radius=0
+	}
+	O8 {
+		Image=Simple,Bitmap.BGObj.O2_6
+		PosZ=BGObj
+		Radius=0
+	}
+}
+
+Ship {
+	Maloc=cfg\Rus\SE\ShipMaloc.txt {
+	}
+	Peleng=cfg\Rus\SE\ShipPeleng.txt {
+	}
+	People=cfg\Rus\SE\ShipPeople.txt {
+	}
+	Fei=cfg\Rus\SE\ShipFei.txt {
+	}
+	Gaal=cfg\Rus\SE\ShipGaal.txt {
+	}
+	Kling=cfg\Rus\SE\ShipKling.txt {
+	}
+}
+
+Item {
+	Container1 {
+		Image=Anim,Style.AImage.Container1
+		SmeImage=16,16
+		PosZ=Item
+		ImageMap=Bitmap.Items.MapContainer1
+		SmeImageMap=1,1
+	}
+}
+
+Laser {
+	W1 {
+		RadiusUnit=32
+		PosZ=Weapon
+		Time=50
+		0=Bitmap.Weapon.L0_0
+		1=Bitmap.Weapon.L0_1
+		2=Bitmap.Weapon.L0_2
+		3=Bitmap.Weapon.L0_3
+		4=Bitmap.Weapon.L0_4
+		5=Bitmap.Weapon.L0_5
+		6=Bitmap.Weapon.L0_6
+		7=Bitmap.Weapon.L0_7
+	}
+}
+
+Weapon {
+	PosZ=Weapon
+}
+
+Anim {
+	H1 {
+		LoopAnim=True
+		HalfAnim=True
+		SmeImage=16,16
+		PosZ=Hit
+		Time=100
+		0=Alpha,Bitmap.Weapon.H0_0
+		1=Alpha,Bitmap.Weapon.H0_1
+		2=Alpha,Bitmap.Weapon.H0_2
+		3=Alpha,Bitmap.Weapon.H0_3
+		4=Alpha,Bitmap.Weapon.H0_4
+		5=Alpha,Bitmap.Weapon.H0_5
+		6=Alpha,Bitmap.Weapon.H0_6
+		7=Alpha,Bitmap.Weapon.H0_7
+	}
+	E1 {
+		LoopAnim=True
+		HalfAnim=True
+		SmeImage=128,128
+		PosZ=Explosion
+		Time=25
+		0=Alpha,Bitmap.Weapon.E0_00
+		1=Alpha,Bitmap.Weapon.E0_01
+		2=Alpha,Bitmap.Weapon.E0_02
+		3=Alpha,Bitmap.Weapon.E0_03
+		4=Alpha,Bitmap.Weapon.E0_04
+		5=Alpha,Bitmap.Weapon.E0_05
+		6=Alpha,Bitmap.Weapon.E0_06
+		7=Alpha,Bitmap.Weapon.E0_07
+		8=Alpha,Bitmap.Weapon.E0_08
+		9=Alpha,Bitmap.Weapon.E0_09
+		10=Alpha,Bitmap.Weapon.E0_10
+		11=Alpha,Bitmap.Weapon.E0_11
+		12=Alpha,Bitmap.Weapon.E0_12
+		13=Alpha,Bitmap.Weapon.E0_13
+		14=Alpha,Bitmap.Weapon.E0_14
+		15=Alpha,Bitmap.Weapon.E0_15
+		16=Alpha,Bitmap.Weapon.E0_16
+		17=Alpha,Bitmap.Weapon.E0_17
+		18=Alpha,Bitmap.Weapon.E0_18
+		19=Alpha,Bitmap.Weapon.E0_19
+		20=Alpha,Bitmap.Weapon.E0_20
+		21=Alpha,Bitmap.Weapon.E0_21
+		22=Alpha,Bitmap.Weapon.E0_22
+		23=Alpha,Bitmap.Weapon.E0_23
+		24=Alpha,Bitmap.Weapon.E0_24
+		25=Alpha,Bitmap.Weapon.E0_25
+		26=Alpha,Bitmap.Weapon.E0_26
+		27=Alpha,Bitmap.Weapon.E0_27
+		28=Alpha,Bitmap.Weapon.E0_28
+		29=Alpha,Bitmap.Weapon.E0_29
+		30=Alpha,Bitmap.Weapon.E0_30
+		31=Alpha,Bitmap.Weapon.E0_31
+	}
+	BGO=cfg\Rus\SE\BGOAnim.txt {
+	}
+}
+
+BGO=cfg\Rus\SE\BGO.txt {
+}

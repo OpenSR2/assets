@@ -1,0 +1,77 @@
+Pos=0,0,ButtonAction,w
+Size=200,200
+Sme=100,100
+Name=ActionWeapon
+Active=False
+MVUpdate=True
+			
+TextButton {
+	Name=ActionWeaponB0
+	Style=Style.Button.NoTrans
+	Pos=-80,-80,2
+	Size=38,38
+	Sme=19,19
+	Kind=Ext
+}
+Image {
+	Name=ActionWeaponI0
+	Pos=-80,-80,1
+	Size=38,38
+	Sme=19,19
+}
+TextButton {
+	Name=ActionWeaponB1
+	Style=Style.Button.NoTrans
+	Pos=0,-80,2
+	Size=38,38
+	Sme=19,19
+	Kind=Ext
+}
+Image {
+	Name=ActionWeaponI1
+	Pos=0,-80,1
+	Size=38,38
+	Sme=19,19
+}
+TextButton {
+	Name=ActionWeaponB2
+	Style=Style.Button.NoTrans
+	Pos=80,-80,2
+	Size=38,38
+	Sme=19,19
+	Kind=Ext
+}
+Image {
+	Name=ActionWeaponI2
+	Pos=80,-80,1
+	Size=38,38
+	Sme=19,19
+}
+TextButton {
+	Name=ActionWeaponB3
+	Style=Style.Button.NoTrans
+	Pos=-80,80,2
+	Size=38,38
+	Sme=19,19
+	Kind=Ext
+}
+Image {
+	Name=ActionWeaponI3
+	Pos=-80,80,1
+	Size=38,38
+	Sme=19,19
+}
+TextButton {
+	Name=ActionWeaponB4
+	Style=Style.Button.NoTrans
+	Pos=80,80,2
+	Size=38,38
+	Sme=19,19
+	Kind=Ext
+}
+Image {
+	Name=ActionWeaponI4
+	Pos=80,80,1
+	Size=38,38
+	Sme=19,19
+}

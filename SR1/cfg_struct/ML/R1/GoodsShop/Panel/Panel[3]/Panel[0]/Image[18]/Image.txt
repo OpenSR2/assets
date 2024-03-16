@@ -1,0 +1,6 @@
+AlignX=Center
+AlignY=Center
+Image=GI,Bm.Items.1Medicine
+Name=Tov1i
+Pos=173,109,7
+Size=27,26

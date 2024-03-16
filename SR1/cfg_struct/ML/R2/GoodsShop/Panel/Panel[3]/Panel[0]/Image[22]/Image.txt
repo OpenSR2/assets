@@ -1,0 +1,6 @@
+AlignX=Center
+AlignY=Center
+Image=GI,Bm.Items.2Alcohol
+Name=Tov5i
+Pos=222,279,7
+Size=35,33

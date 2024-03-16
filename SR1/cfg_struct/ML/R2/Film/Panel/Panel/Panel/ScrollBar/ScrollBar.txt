@@ -1,0 +1,13 @@
+Kind=x
+KindCalc=0
+LargeChange=1
+MVUpdate=True
+Max=200
+Min=1
+Name=PF_SBTurn
+PageSize=1
+Pos=123,27,ButtonNav
+Position=1
+Size=637,26
+SmallChange=1
+Style=Style.ScrollBar.2Film

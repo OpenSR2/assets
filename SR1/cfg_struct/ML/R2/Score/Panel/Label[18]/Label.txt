@@ -1,0 +1,5 @@
+AlignX=Center
+Font=Font.2NormalBold
+Name=I9S
+Pos=857,576,2
+Size=119,54

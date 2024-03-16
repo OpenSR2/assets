@@ -1,0 +1,93 @@
+1DemoEdit=Cfg\Eng\1DemoEdit.txt
+2Demo=Cfg\Eng\2Demo1.txt
+2Demo=Cfg\Eng\2Demo2.txt
+2Demo=Cfg\Eng\2Demo3.txt
+2Demo=Cfg\Eng\2Demo4.txt
+2Demo=Cfg\Eng\2Demo5.txt
+2DemoEdit=Cfg\Eng\2DemoEdit.txt
+Asteroid=Asteroid\Asteroid.txt ^{
+}
+CaseConv=CaseConv\CaseConv.txt ^{
+}
+Constellations=Constellations\Constellations.txt ^{
+}
+DifLevel=DifLevel\DifLevel.txt ^{
+}
+Economy=Economy\Economy.txt ^{
+}
+FormCfgSettings=FormCfgSettings\FormCfgSettings.txt ^{
+}
+FormGS=FormGS\FormGS.txt ^{
+}
+FormGalaxy=FormGalaxy\FormGalaxy.txt ^{
+}
+FormGameEnd=FormGameEnd\FormGameEnd.txt ^{
+}
+FormGameMenu=FormGameMenu\FormGameMenu.txt ^{
+}
+FormGameSet=FormGameSet\FormGameSet.txt ^{
+}
+FormGov=FormGov\FormGov.txt ^{
+}
+FormHangar=FormHangar\FormHangar.txt ^{
+}
+FormIntroduction=FormIntroduction\FormIntroduction.txt ^{
+}
+FormMain=FormMain\FormMain.txt ^{
+}
+FormQuest=FormQuest\FormQuest.txt ^{
+}
+FormSaveManager=FormSaveManager\FormSaveManager.txt ^{
+}
+FormShip=FormShip\FormShip.txt ^{
+}
+FormShop=FormShop\FormShop.txt ^{
+}
+GalaxyNews=GalaxyNews\GalaxyNews.txt ^{
+}
+Goverment=Goverment\Goverment.txt ^{
+}
+Help=Help\Help.txt ^{
+}
+Items=Items\Items.txt ^{
+}
+Month=Month\Month.txt ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+PlanetCongratulationsLiberator=PlanetCongratulationsLiberator\PlanetCongratulationsLiberator.txt ^{
+}
+PlanetName=PlanetName\PlanetName.txt ^{
+}
+PlanetQuest=PlanetQuest\PlanetQuest.txt ^{
+}
+Quest=Quest\Quest.txt ^{
+}
+Race=Race\Race.txt ^{
+}
+RangerInfo=RangerInfo\RangerInfo.txt ^{
+}
+Rank=Rank\Rank.txt ^{
+}
+Relations=Relations\Relations.txt ^{
+}
+Reward.txt=Reward.txt\Reward.txt.txt ^{
+}
+RuinName=RuinName\RuinName.txt ^{
+}
+Script=Script\Script.txt ^{
+}
+ShipCharacter=ShipCharacter\ShipCharacter.txt ^{
+}
+ShipInfo=ShipInfo\ShipInfo.txt ^{
+}
+ShipName=ShipName\ShipName.txt ^{
+}
+ShipType=ShipType\ShipType.txt ^{
+}
+Skills=Skills\Skills.txt ^{
+}
+Star=Star\Star.txt ^{
+}
+Talk=Talk\Talk.txt ^{
+}

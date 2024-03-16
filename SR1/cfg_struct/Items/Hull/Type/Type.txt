@@ -1,0 +1,7 @@
+1=Titan
+2=Rhenium
+3=Selenine
+4=Aquadan
+5=Octaplax
+6=Gravicore
+7=Mesostructural

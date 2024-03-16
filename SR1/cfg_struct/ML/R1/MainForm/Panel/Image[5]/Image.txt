@@ -1,0 +1,3 @@
+Auto=Pos,Size
+Image=GI,Bm.FormMain.1bar
+PosZ=30

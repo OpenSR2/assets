@@ -1,0 +1,9 @@
+Help=FormGameSet.Common.HelpRace
+ImageDown=GI,Bm.FormGameSet.1up0n
+ImageNormal=GI,Bm.FormGameSet.1up0n
+ImageNormalA=GI,Bm.FormGameSet.1up0a
+Kind=Normal
+KindHit=Rect
+Name=R1
+Pos=295,362,30
+Size=95,84

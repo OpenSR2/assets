@@ -1,0 +1,4 @@
+Kind=Circle
+Name=Ar6z
+Pos=78,324,-2
+Size=46,44

@@ -1,0 +1,10 @@
+Help=Help.ButHangar
+ImageDown=GI,Bm.PanelPlanet.1HangarD
+ImageNormal=GI,Bm.PanelPlanet.1HangarN
+ImageNormalA=GI,Bm.PanelPlanet.1HangarA
+Kind=Normal
+KindHit=Graph
+Name=PP_Hangar
+Pos=25,90,8
+Size=41,38
+Style=Style.GB.SoundNormal

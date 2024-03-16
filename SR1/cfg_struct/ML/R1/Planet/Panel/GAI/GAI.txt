@@ -1,0 +1,4 @@
+Help=Help.ButSearchArtefact
+Name=SearchArtefact
+Pos=701,354,2
+Size=75,75

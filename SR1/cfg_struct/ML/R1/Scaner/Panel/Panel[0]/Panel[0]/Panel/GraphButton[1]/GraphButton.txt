@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormShip.1hRightH
+ImageDown=GI,Bm.FormShip.1hRightD
+ImageNormalA=GI,Bm.FormShip.1hRightA
+ImageNormalA_Pos=304,350
+Kind=Disable
+KindHit=Graph
+Name=S_Right
+Pos=302,348,1
+Size=23,28
+Style=Style.GB.SoundNormal

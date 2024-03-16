@@ -1,0 +1,4 @@
+Close=Sound.FormShipClose
+Group=Group\Group.txt ^{
+}
+Open=Sound.FormShipOpen

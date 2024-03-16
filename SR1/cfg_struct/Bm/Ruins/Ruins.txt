@@ -1,0 +1,9 @@
+Map=data\Ruins\map.gi
+PB=data\Ruins\PB.gai
+PBi=data\Ruins\PB.gi
+RC=data\Ruins\RC.gai
+RCi=data\Ruins\RC.gi
+SB=data\Ruins\SB.gai
+SBi=data\Ruins\SB.gi
+WB=data\Ruins\WB.gai
+WBi=data\Ruins\WB.gi

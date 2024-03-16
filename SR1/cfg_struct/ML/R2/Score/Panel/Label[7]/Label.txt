@@ -1,0 +1,5 @@
+AlignX=Center
+Font=Font.2NormalBold
+Name=I3S
+Pos=857,246,2
+Size=119,54

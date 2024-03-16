@@ -1,0 +1,9 @@
+Active=True
+AlignX=Left
+AlignY=Top
+Font=Font.2Normal
+Name=PTSLabel
+Pos=40,20,1
+Size=520,160
+TextColor=255,255,230
+WordWrap=True

@@ -1,0 +1,4 @@
+LiberationStar=LiberationStar\LiberationStar.txt ^{
+}
+Quest=Quest\Quest.txt ^{
+}

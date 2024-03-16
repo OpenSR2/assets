@@ -1,0 +1,8 @@
+Active=False
+FrameLoad=0
+Image=Bm.FormGameSet.1FeiA
+ImageFirst=Bm.FormGameSet.1FeiI
+Name=AnimFei
+PBuf=True
+Pos=605,202,5
+Size=102,249

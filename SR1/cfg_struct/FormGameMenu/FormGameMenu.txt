@@ -1,0 +1,6 @@
+Exit=Exit
+Load=Load
+QExit=Exit the game?
+Resume=Resume
+Save=Save
+Settings=Settings

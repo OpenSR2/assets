@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Name=RankName
+Pos=60,17,8
+Size=160,40
+TextColor=255,255,230
+WordWrap=True

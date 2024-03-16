@@ -1,0 +1,10 @@
+Help=Help.ButShop
+ImageDown=GI,Bm.PanelPlanet.1ShopD
+ImageNormal=GI,Bm.PanelPlanet.1ShopN
+ImageNormalA=GI,Bm.PanelPlanet.1ShopA
+Kind=Normal
+KindHit=Graph
+Name=PR_Shop
+Pos=0,0,8
+Size=41,38
+Style=Style.GB.SoundNormal

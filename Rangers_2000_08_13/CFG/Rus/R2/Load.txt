@@ -1,0 +1,26 @@
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+	MoveWorld=False
+
+    Image {
+		Image=Bitmap.Interface.Load2
+		Pos=0,0,2
+		Size=1024,768
+	}
+	Label {
+		Font=Font.Normal
+	    Name=CountAll
+		Pos=0,570,1
+		Size=100,20
+		AlignX=Left
+	}
+	Label {
+		Font=Font.Normal
+	    Name=LoadPath
+		Pos=100,570,1
+		Size=400,20
+		AlignX=Left
+	}
+}

@@ -1,0 +1,11 @@
+Help=Help.ButShip
+ImageDown=GI,Bm.PanelMain.2BShipD
+ImageNormal=GI,Bm.PanelMain.2BShipN
+ImageNormalA=GI,Bm.PanelMain.2BShipA
+Kind=Normal
+KindHit=Graph
+MouseBlocking=True
+Name=ButShip
+Pos=153,712,-7
+Size=52,48
+Style=Style.GB.SoundNormal

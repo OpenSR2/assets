@@ -1,0 +1,5 @@
+AlignX=Right
+Font=Font.2Normal
+Name=I9
+Pos=492,576,2
+Size=354,54

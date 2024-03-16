@@ -1,0 +1,4 @@
+Auto=Size
+Image=GI,Bm.Items.1KlingCom
+Name=KlingCom
+Pos=433,62,0

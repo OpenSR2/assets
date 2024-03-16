@@ -1,0 +1,592 @@
+///////////////////////////////////////////////////////////////
+Ranger {
+	SizeImage=128,128	
+	SmeImage=65,76		
+	SmeWeaponPos=63,44	
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.Maloc.Ranger.Map	
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	Image {
+
+
+		Normal {
+			Time=125	
+			Order=2		
+					
+			0=Bm.Ship.Maloc.Ranger.N0
+			1=Bm.Ship.Maloc.Ranger.N1
+			2=Bm.Ship.Maloc.Ranger.N2
+			3=Bm.Ship.Maloc.Ranger.N3
+			4=Bm.Ship.Maloc.Ranger.N4
+			5=Bm.Ship.Maloc.Ranger.N5
+			6=Bm.Ship.Maloc.Ranger.N6
+			7=Bm.Ship.Maloc.Ranger.N0
+			8=Bm.Ship.Maloc.Ranger.N1
+			9=Bm.Ship.Maloc.Ranger.N2
+			10=Bm.Ship.Maloc.Ranger.N3
+			11=Bm.Ship.Maloc.Ranger.N4
+			12=Bm.Ship.Maloc.Ranger.N5
+			13=Bm.Ship.Maloc.Ranger.N6
+			14=Bm.Ship.Maloc.Ranger.N0
+		}
+		Weapon {
+			Time=125
+			Order=0
+			0=Bm.Ship.Maloc.Ranger.N0
+			1=Bm.Ship.Maloc.Ranger.N1
+			2=Bm.Ship.Maloc.Ranger.N2
+			3=Bm.Ship.Maloc.Ranger.N3
+			4=Bm.Ship.Maloc.Ranger.N4
+			5=Bm.Ship.Maloc.Ranger.N5
+			6=Bm.Ship.Maloc.Ranger.N6
+		}
+		0 {
+			Time=130
+			Order=1
+			0=Bm.Ship.Maloc.Ranger.A00
+			1=Bm.Ship.Maloc.Ranger.A01
+			2=Bm.Ship.Maloc.Ranger.A02
+			3=Bm.Ship.Maloc.Ranger.A03
+			4=Bm.Ship.Maloc.Ranger.A04
+			5=Bm.Ship.Maloc.Ranger.A05
+			6=Bm.Ship.Maloc.Ranger.A06
+			7=Bm.Ship.Maloc.Ranger.A07
+			8=Bm.Ship.Maloc.Ranger.A08
+			9=Bm.Ship.Maloc.Ranger.A09
+			10=Bm.Ship.Maloc.Ranger.A10
+			11=Bm.Ship.Maloc.Ranger.A11
+		}
+		1 {
+			Time=130
+			Order=1
+			0=Bm.Ship.Maloc.Ranger.B00
+			1=Bm.Ship.Maloc.Ranger.B01
+			2=Bm.Ship.Maloc.Ranger.B02
+			3=Bm.Ship.Maloc.Ranger.B03
+			4=Bm.Ship.Maloc.Ranger.B04
+			5=Bm.Ship.Maloc.Ranger.B05
+			6=Bm.Ship.Maloc.Ranger.B06
+			7=Bm.Ship.Maloc.Ranger.B07
+			8=Bm.Ship.Maloc.Ranger.B08
+			9=Bm.Ship.Maloc.Ranger.B09
+			10=Bm.Ship.Maloc.Ranger.B10
+			11=Bm.Ship.Maloc.Ranger.B11
+		}
+		2 {
+			Time=130
+			Order=1
+			0=Bm.Ship.Maloc.Ranger.C00
+			1=Bm.Ship.Maloc.Ranger.C01
+			2=Bm.Ship.Maloc.Ranger.C02
+			3=Bm.Ship.Maloc.Ranger.C03
+			4=Bm.Ship.Maloc.Ranger.C04
+			5=Bm.Ship.Maloc.Ranger.C05
+			6=Bm.Ship.Maloc.Ranger.C06
+			7=Bm.Ship.Maloc.Ranger.C07
+			8=Bm.Ship.Maloc.Ranger.C08
+			9=Bm.Ship.Maloc.Ranger.C09
+			10=Bm.Ship.Maloc.Ranger.C10
+			11=Bm.Ship.Maloc.Ranger.C11
+			12=Bm.Ship.Maloc.Ranger.C12
+		}
+	}
+}
+///////////////////////////////////////////////////////////////
+Warrior {
+	SizeImage=128,128
+	SmeImage=65,76
+	SmeWeaponPos=66,32
+	SmeCenterImage=64,64
+	PosZ=Ship
+	ImageMap=Bitmap.Ship.MapShip1
+	SmeImageMap=2,2
+	StateTime=2000
+
+	Image {
+		Normal {
+			Time=100
+			Order=2
+			0=Bm.Ship.People.Warrior.N0
+			1=Bm.Ship.People.Warrior.N1
+			2=Bm.Ship.People.Warrior.N2
+			3=Bm.Ship.People.Warrior.N3
+			4=Bm.Ship.People.Warrior.N4
+			5=Bm.Ship.People.Warrior.N5
+			6=Bm.Ship.People.Warrior.N6
+			7=Bm.Ship.People.Warrior.N7
+			8=Bm.Ship.People.Warrior.N8
+			9=Bm.Ship.People.Warrior.N9
+		}
+		Weapon {
+			Time=100
+			Order=0
+			0=Bm.Ship.People.Warrior.N0
+			1=Bm.Ship.People.Warrior.N1
+			2=Bm.Ship.People.Warrior.N2
+			3=Bm.Ship.People.Warrior.N3
+			4=Bm.Ship.People.Warrior.N4
+			5=Bm.Ship.People.Warrior.N5
+			6=Bm.Ship.People.Warrior.N6
+			7=Bm.Ship.People.Warrior.N7
+			8=Bm.Ship.People.Warrior.N8
+			9=Bm.Ship.People.Warrior.N9
+		}
+		0 {
+			Time=100
+			Order=1
+			0=Bm.Ship.People.Warrior.A00
+			1=Bm.Ship.People.Warrior.A01
+			2=Bm.Ship.People.Warrior.A02
+			3=Bm.Ship.People.Warrior.A03
+			4=Bm.Ship.People.Warrior.A04
+			5=Bm.Ship.People.Warrior.A05
+			6=Bm.Ship.People.Warrior.A06
+			7=Bm.Ship.People.Warrior.A07
+			8=Bm.Ship.People.Warrior.A08
+			9=Bm.Ship.People.Warrior.A09
+			10=Bm.Ship.People.Warrior.A10
+			11=Bm.Ship.People.Warrior.A11
+			12=Bm.Ship.People.Warrior.A12
+			13=Bm.Ship.People.Warrior.A13
+			14=Bm.Ship.People.Warrior.A14
+			15=Bm.Ship.People.Warrior.A15
+			16=Bm.Ship.People.Warrior.A16
+		}
+		1 {
+			Time=100
+			Order=1
+			0=Bm.Ship.People.Warrior.B00
+			1=Bm.Ship.People.Warrior.B01
+			2=Bm.Ship.People.Warrior.B02
+			3=Bm.Ship.People.Warrior.B03
+			4=Bm.Ship.People.Warrior.B04
+			5=Bm.Ship.People.Warrior.B05
+			6=Bm.Ship.People.Warrior.B06
+			7=Bm.Ship.People.Warrior.B07
+			8=Bm.Ship.People.Warrior.B08
+			9=Bm.Ship.People.Warrior.B09
+			10=Bm.Ship.People.Warrior.B10
+			11=Bm.Ship.People.Warrior.B11
+			12=Bm.Ship.People.Warrior.B12
+			13=Bm.Ship.People.Warrior.B13
+			14=Bm.Ship.People.Warrior.B14
+			15=Bm.Ship.People.Warrior.B15
+			16=Bm.Ship.People.Warrior.B16
+			17=Bm.Ship.People.Warrior.B17
+			18=Bm.Ship.People.Warrior.B18
+		}
+		2 {
+			Time=100
+			Order=1
+			0=Bm.Ship.People.Warrior.C00
+			1=Bm.Ship.People.Warrior.C01
+			2=Bm.Ship.People.Warrior.C02
+			3=Bm.Ship.People.Warrior.C03
+			4=Bm.Ship.People.Warrior.C04
+			5=Bm.Ship.People.Warrior.C05
+			6=Bm.Ship.People.Warrior.C06
+			7=Bm.Ship.People.Warrior.C07
+			8=Bm.Ship.People.Warrior.C08
+			9=Bm.Ship.People.Warrior.C09
+			10=Bm.Ship.People.Warrior.C10
+			11=Bm.Ship.People.Warrior.C11
+			12=Bm.Ship.People.Warrior.C12
+			13=Bm.Ship.People.Warrior.C13
+			14=Bm.Ship.People.Warrior.C14
+			15=Bm.Ship.People.Warrior.C15
+			16=Bm.Ship.People.Warrior.C16
+			17=Bm.Ship.People.Warrior.C17
+		}
+	}
+}
+///////////////////////////////////////////////////////////////
+Pirate {
+	SizeImage=128,128	
+	SmeImage=65,76		
+	SmeWeaponPos=64,33	
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.People.Pirate.Map	
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	Image {
+
+
+		Normal {
+			Time=135	
+			Order=2		
+					
+			0=Bm.Ship.People.Pirate.N0
+			1=Bm.Ship.People.Pirate.N1
+			2=Bm.Ship.People.Pirate.N2
+			3=Bm.Ship.People.Pirate.N3
+			4=Bm.Ship.People.Pirate.N4
+			5=Bm.Ship.People.Pirate.N5
+			6=Bm.Ship.People.Pirate.N0
+			7=Bm.Ship.People.Pirate.N1
+			8=Bm.Ship.People.Pirate.N2
+			9=Bm.Ship.People.Pirate.N3
+			10=Bm.Ship.People.Pirate.N4
+			11=Bm.Ship.People.Pirate.N5
+			12=Bm.Ship.People.Pirate.N0
+		}
+		Weapon {
+			Time=130
+			Order=0
+			0=Bm.Ship.People.Pirate.N0
+			1=Bm.Ship.People.Pirate.N1
+			2=Bm.Ship.People.Pirate.N2
+			3=Bm.Ship.People.Pirate.N3
+			4=Bm.Ship.People.Pirate.N4
+			5=Bm.Ship.People.Pirate.N5
+		}
+		0 {
+			Time=135
+			Order=1
+			0=Bm.Ship.People.Pirate.A00
+			1=Bm.Ship.People.Pirate.A01
+			2=Bm.Ship.People.Pirate.A02
+			3=Bm.Ship.People.Pirate.A03
+			4=Bm.Ship.People.Pirate.A04
+			5=Bm.Ship.People.Pirate.A05
+			6=Bm.Ship.People.Pirate.A06
+			7=Bm.Ship.People.Pirate.A07
+			8=Bm.Ship.People.Pirate.A08
+			9=Bm.Ship.People.Pirate.A09
+			10=Bm.Ship.People.Pirate.A10
+			11=Bm.Ship.People.Pirate.A11
+			12=Bm.Ship.People.Pirate.A12
+			13=Bm.Ship.People.Pirate.A13
+		}
+		1 {
+			Time=130
+			Order=1
+			0=Bm.Ship.People.Pirate.B00
+			1=Bm.Ship.People.Pirate.B01
+			2=Bm.Ship.People.Pirate.B02
+			3=Bm.Ship.People.Pirate.B03
+			4=Bm.Ship.People.Pirate.B04
+			5=Bm.Ship.People.Pirate.B05
+			6=Bm.Ship.People.Pirate.B06
+			7=Bm.Ship.People.Pirate.B07
+			8=Bm.Ship.People.Pirate.B08
+			9=Bm.Ship.People.Pirate.B09
+			10=Bm.Ship.People.Pirate.B10
+			11=Bm.Ship.People.Pirate.B11
+			12=Bm.Ship.People.Pirate.B12
+		}
+		2 {
+			Time=130
+			Order=1
+			0=Bm.Ship.People.Pirate.C00
+			1=Bm.Ship.People.Pirate.C01
+			2=Bm.Ship.People.Pirate.C02
+			3=Bm.Ship.People.Pirate.C03
+			4=Bm.Ship.People.Pirate.C04
+			5=Bm.Ship.People.Pirate.C05
+			6=Bm.Ship.People.Pirate.C06
+			7=Bm.Ship.People.Pirate.C07
+			8=Bm.Ship.People.Pirate.C08
+			9=Bm.Ship.People.Pirate.C09
+			10=Bm.Ship.People.Pirate.C10
+			11=Bm.Ship.People.Pirate.C11
+		}
+	}	
+}
+///////////////////////////////////////////////////////////////
+Transport {
+	SizeImage=128,128	
+	SmeImage=65,76		
+	SmeWeaponPos=63,24	
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.Maloc.Transport.Map	
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	Image {
+
+
+		Normal {
+			Time=130	
+			Order=2		
+			0=Bm.Ship.Maloc.Transport.N0
+			1=Bm.Ship.Maloc.Transport.N1
+			2=Bm.Ship.Maloc.Transport.N2
+			3=Bm.Ship.Maloc.Transport.N3
+			4=Bm.Ship.Maloc.Transport.N4
+			5=Bm.Ship.Maloc.Transport.N5
+			6=Bm.Ship.Maloc.Transport.N6
+			7=Bm.Ship.Maloc.Transport.N0
+			8=Bm.Ship.Maloc.Transport.N1
+			9=Bm.Ship.Maloc.Transport.N2
+			10=Bm.Ship.Maloc.Transport.N3
+			11=Bm.Ship.Maloc.Transport.N4
+			12=Bm.Ship.Maloc.Transport.N5
+			13=Bm.Ship.Maloc.Transport.N6
+			14=Bm.Ship.Maloc.Transport.N0
+		}
+		Weapon {
+			Time=130
+			Order=0
+			0=Bm.Ship.Maloc.Transport.N0
+			1=Bm.Ship.Maloc.Transport.N1
+			2=Bm.Ship.Maloc.Transport.N2
+			3=Bm.Ship.Maloc.Transport.N3
+			4=Bm.Ship.Maloc.Transport.N4
+			5=Bm.Ship.Maloc.Transport.N5
+			6=Bm.Ship.Maloc.Transport.N6
+		}
+		0 {
+			Time=130
+			Order=1
+			0=Bm.Ship.Maloc.Transport.A00
+			1=Bm.Ship.Maloc.Transport.A01
+			2=Bm.Ship.Maloc.Transport.A02
+			3=Bm.Ship.Maloc.Transport.A03
+			4=Bm.Ship.Maloc.Transport.A04
+			5=Bm.Ship.Maloc.Transport.A05
+			6=Bm.Ship.Maloc.Transport.A06
+			7=Bm.Ship.Maloc.Transport.A07
+			8=Bm.Ship.Maloc.Transport.A08
+			9=Bm.Ship.Maloc.Transport.A09
+			10=Bm.Ship.Maloc.Transport.A10
+		}
+		1 {
+			Time=130
+			Order=1
+			0=Bm.Ship.Maloc.Transport.B00
+			1=Bm.Ship.Maloc.Transport.B01
+			2=Bm.Ship.Maloc.Transport.B02
+			3=Bm.Ship.Maloc.Transport.B03
+			4=Bm.Ship.Maloc.Transport.B04
+			5=Bm.Ship.Maloc.Transport.B05
+			6=Bm.Ship.Maloc.Transport.B06
+			7=Bm.Ship.Maloc.Transport.B07
+			8=Bm.Ship.Maloc.Transport.B08
+		}
+		2 {
+			Time=130
+			Order=1
+			0=Bm.Ship.Maloc.Transport.C00
+			1=Bm.Ship.Maloc.Transport.C01
+			2=Bm.Ship.Maloc.Transport.C02
+			3=Bm.Ship.Maloc.Transport.C03
+			4=Bm.Ship.Maloc.Transport.C04
+			5=Bm.Ship.Maloc.Transport.C05
+			6=Bm.Ship.Maloc.Transport.C06
+			7=Bm.Ship.Maloc.Transport.C07
+			8=Bm.Ship.Maloc.Transport.C08
+			9=Bm.Ship.Maloc.Transport.C09
+			10=Bm.Ship.Maloc.Transport.C10
+			11=Bm.Ship.Maloc.Transport.C11
+			12=Bm.Ship.Maloc.Transport.C12
+		}
+	}	
+}
+///////////////////////////////////////////////////////////////
+Liner {
+	SizeImage=128,128	
+	SmeImage=65,76		
+	SmeWeaponPos=60,4	
+	SmeCenterImage=64,64	
+	PosZ=Ship               
+	ImageMap=Bm.Ship.People.Liner.Map	
+	SmeImageMap=2,2		
+	StateTime=2000		
+
+	Image {
+
+
+		Normal {
+			Time=135	
+			Order=2		
+					
+			0=Bm.Ship.People.Liner.N0
+			1=Bm.Ship.People.Liner.N1
+			2=Bm.Ship.People.Liner.N2
+			3=Bm.Ship.People.Liner.N3
+			4=Bm.Ship.People.Liner.N4
+			5=Bm.Ship.People.Liner.N5
+			6=Bm.Ship.People.Liner.N6
+			7=Bm.Ship.People.Liner.N0
+			8=Bm.Ship.People.Liner.N1
+			9=Bm.Ship.People.Liner.N2
+			10=Bm.Ship.People.Liner.N3
+			11=Bm.Ship.People.Liner.N4
+			12=Bm.Ship.People.Liner.N5
+			13=Bm.Ship.People.Liner.N6
+			14=Bm.Ship.People.Liner.N0
+		}
+		Weapon {
+			Time=130
+			Order=0
+			0=Bm.Ship.People.Liner.N0
+			1=Bm.Ship.People.Liner.N1
+			2=Bm.Ship.People.Liner.N2
+			3=Bm.Ship.People.Liner.N3
+			4=Bm.Ship.People.Liner.N4
+			5=Bm.Ship.People.Liner.N5
+			6=Bm.Ship.People.Liner.N6
+		}
+		0 {
+			Time=130
+			Order=1
+			0=Bm.Ship.People.Liner.A00
+			1=Bm.Ship.People.Liner.A01
+			2=Bm.Ship.People.Liner.A02
+			3=Bm.Ship.People.Liner.A03
+			4=Bm.Ship.People.Liner.A04
+			5=Bm.Ship.People.Liner.A05
+			6=Bm.Ship.People.Liner.A06
+			7=Bm.Ship.People.Liner.A07
+			8=Bm.Ship.People.Liner.A08
+			9=Bm.Ship.People.Liner.A09
+			10=Bm.Ship.People.Liner.A10
+			11=Bm.Ship.People.Liner.A11
+		}
+		1 {
+			Time=130
+			Order=1
+			0=Bm.Ship.People.Liner.B00
+			1=Bm.Ship.People.Liner.B01
+			2=Bm.Ship.People.Liner.B02
+			3=Bm.Ship.People.Liner.B03
+			4=Bm.Ship.People.Liner.B04
+			5=Bm.Ship.People.Liner.B05
+			6=Bm.Ship.People.Liner.B06
+			7=Bm.Ship.People.Liner.B07
+			8=Bm.Ship.People.Liner.B08
+			9=Bm.Ship.People.Liner.B09
+			10=Bm.Ship.People.Liner.B10
+		}
+		2 {
+			Time=130
+			Order=1
+			0=Bm.Ship.People.Liner.C00
+			1=Bm.Ship.People.Liner.C01
+			2=Bm.Ship.People.Liner.C02
+			3=Bm.Ship.People.Liner.C03
+			4=Bm.Ship.People.Liner.C04
+			5=Bm.Ship.People.Liner.C05
+			6=Bm.Ship.People.Liner.C06
+			7=Bm.Ship.People.Liner.C07
+			8=Bm.Ship.People.Liner.C08
+			9=Bm.Ship.People.Liner.C09
+			10=Bm.Ship.People.Liner.C10
+			11=Bm.Ship.People.Liner.C11
+		}
+	}	
+}
+///////////////////////////////////////////////////////////////
+Diplomat {
+	SizeImage=128,128
+	SmeImage=65,76
+	SmeWeaponPos=66,32
+	SmeCenterImage=64,64
+	PosZ=Ship
+	ImageMap=Bitmap.Ship.MapShip1
+	SmeImageMap=2,2
+	StateTime=2000
+
+	Image {
+		Normal {
+			Time=100
+			Order=2
+			0=Bm.Ship.People.Warrior.N0
+			1=Bm.Ship.People.Warrior.N1
+			2=Bm.Ship.People.Warrior.N2
+			3=Bm.Ship.People.Warrior.N3
+			4=Bm.Ship.People.Warrior.N4
+			5=Bm.Ship.People.Warrior.N5
+			6=Bm.Ship.People.Warrior.N6
+			7=Bm.Ship.People.Warrior.N7
+			8=Bm.Ship.People.Warrior.N8
+			9=Bm.Ship.People.Warrior.N9
+		}
+		Weapon {
+			Time=100
+			Order=0
+			0=Bm.Ship.People.Warrior.N0
+			1=Bm.Ship.People.Warrior.N1
+			2=Bm.Ship.People.Warrior.N2
+			3=Bm.Ship.People.Warrior.N3
+			4=Bm.Ship.People.Warrior.N4
+			5=Bm.Ship.People.Warrior.N5
+			6=Bm.Ship.People.Warrior.N6
+			7=Bm.Ship.People.Warrior.N7
+			8=Bm.Ship.People.Warrior.N8
+			9=Bm.Ship.People.Warrior.N9
+		}
+		0 {
+			Time=100
+			Order=1
+			0=Bm.Ship.People.Warrior.A00
+			1=Bm.Ship.People.Warrior.A01
+			2=Bm.Ship.People.Warrior.A02
+			3=Bm.Ship.People.Warrior.A03
+			4=Bm.Ship.People.Warrior.A04
+			5=Bm.Ship.People.Warrior.A05
+			6=Bm.Ship.People.Warrior.A06
+			7=Bm.Ship.People.Warrior.A07
+			8=Bm.Ship.People.Warrior.A08
+			9=Bm.Ship.People.Warrior.A09
+			10=Bm.Ship.People.Warrior.A10
+			11=Bm.Ship.People.Warrior.A11
+			12=Bm.Ship.People.Warrior.A12
+			13=Bm.Ship.People.Warrior.A13
+			14=Bm.Ship.People.Warrior.A14
+			15=Bm.Ship.People.Warrior.A15
+			16=Bm.Ship.People.Warrior.A16
+		}
+		1 {
+			Time=100
+			Order=1
+			0=Bm.Ship.People.Warrior.B00
+			1=Bm.Ship.People.Warrior.B01
+			2=Bm.Ship.People.Warrior.B02
+			3=Bm.Ship.People.Warrior.B03
+			4=Bm.Ship.People.Warrior.B04
+			5=Bm.Ship.People.Warrior.B05
+			6=Bm.Ship.People.Warrior.B06
+			7=Bm.Ship.People.Warrior.B07
+			8=Bm.Ship.People.Warrior.B08
+			9=Bm.Ship.People.Warrior.B09
+			10=Bm.Ship.People.Warrior.B10
+			11=Bm.Ship.People.Warrior.B11
+			12=Bm.Ship.People.Warrior.B12
+			13=Bm.Ship.People.Warrior.B13
+			14=Bm.Ship.People.Warrior.B14
+			15=Bm.Ship.People.Warrior.B15
+			16=Bm.Ship.People.Warrior.B16
+			17=Bm.Ship.People.Warrior.B17
+			18=Bm.Ship.People.Warrior.B18
+		}
+		2 {
+			Time=100
+			Order=1
+			0=Bm.Ship.People.Warrior.C00
+			1=Bm.Ship.People.Warrior.C01
+			2=Bm.Ship.People.Warrior.C02
+			3=Bm.Ship.People.Warrior.C03
+			4=Bm.Ship.People.Warrior.C04
+			5=Bm.Ship.People.Warrior.C05
+			6=Bm.Ship.People.Warrior.C06
+			7=Bm.Ship.People.Warrior.C07
+			8=Bm.Ship.People.Warrior.C08
+			9=Bm.Ship.People.Warrior.C09
+			10=Bm.Ship.People.Warrior.C10
+			11=Bm.Ship.People.Warrior.C11
+			12=Bm.Ship.People.Warrior.C12
+			13=Bm.Ship.People.Warrior.C13
+			14=Bm.Ship.People.Warrior.C14
+			15=Bm.Ship.People.Warrior.C15
+			16=Bm.Ship.People.Warrior.C16
+			17=Bm.Ship.People.Warrior.C17
+		}
+	}
+}

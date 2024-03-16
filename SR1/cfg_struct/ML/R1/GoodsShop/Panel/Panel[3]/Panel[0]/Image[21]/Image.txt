@@ -1,0 +1,6 @@
+AlignX=Center
+AlignY=Center
+Image=GI,Bm.Items.1Minerals
+Name=Tov4i
+Pos=173,189,7
+Size=27,26

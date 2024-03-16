@@ -1,0 +1,4 @@
+End=<Ranger>, you have successfully completed your contract for patrolling the system of <FromStar>; according to clause 4 of the contract Ministry of Defence on <FromPlanet> pays you <Money> cr. Your co-operation is highly valued.
+PlanetRace=People
+Start=Human military doctrine, Chapter 5, Article 23, envisages using civil specialists in law enforcement activities. According to this regulation, Ministry of Defence on <FromPlanet> invites pilots to patrolling on contract basis. The contract clauses are as follows:
+Status=Warrior

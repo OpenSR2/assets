@@ -1,0 +1,15 @@
+1=Photon gun
+10=Field annihilator
+11=Tachyon blade
+12=Vortex projector
+13=Ultimate matrix
+14=Hellwave
+15=Eyes of Machpella
+2=Industrial laser
+3=Zipgun
+4=Graviton beamer
+5=Retractor
+6=Kelller's phaser
+7=Aeonic blaster
+8=X-defibrillator
+9=Submesonic cannon

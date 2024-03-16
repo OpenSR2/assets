@@ -1,0 +1,7 @@
+Active=False
+AlignX=Center
+Font=Font.1Normal
+Name=CaptionSave
+Pos=525,12,2
+Size=234,20
+Text=FormSaveManager.CaptionSave

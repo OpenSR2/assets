@@ -1,0 +1,5 @@
+ButQuest=Missions
+CountDay=Days left: <Day>
+CurQuest=Current missions
+Exit=Close
+OldQuest=Past missions

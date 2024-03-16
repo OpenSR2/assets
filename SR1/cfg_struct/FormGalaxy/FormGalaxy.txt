@@ -1,0 +1,4 @@
+Distance=Distance:
+Exit=Exit
+Jump=Jump
+NotFuel=Not enough fuel

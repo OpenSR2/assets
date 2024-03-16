@@ -1,0 +1,15 @@
+1=Inflicts <MinDamage>-<MaxDamage> points of damage at range <Radius>
+10=Creates a field near the target inflicting <MaxDamage> points of damage at range <Radius>
+11=Cuts the target at range <Radius> inflicting up to <MinDamage>-<MaxDamage> points of damage
+12=Vortex projector can inflict <MinDamage>-<MaxDamage> points of damage at range <Radius>
+13=Destroys <MinDamage>-<MaxDamage>% of equipment of all vessels at range <Radius>
+14=Inflicts <MinDamage>-<MaxDamage> points of damage to all targets at range <Radius>
+15=Inflicts <MinDamage>-<MaxDamage> points of damage at range <Radius>
+2=Cracks asteroids at range <Radius>, inflicted damage <MinDamage>-<MaxDamage> units
+3=Inflicts up to <MaxDamage> points of damage at range <Radius>
+4=Inflicts <MinDamage>-<MaxDamage> points of damage at range <Radius>
+5=Slows down movement at <MinDamage>-<MaxDamage>% at range <Radius>
+6=Inflicts <MinDamage>-<MaxDamage> points of damage at range <Radius>
+7=Inflicts <MinDamage>-<MaxDamage> points of damage at range <Radius>
+8=Damages <MinDamage>-<MaxDamage>% of equipment at range <Radius>
+9=Inflicts <MinDamage>-<MaxDamage> points of damage to both the target and objects surrounding it at range <Radius>

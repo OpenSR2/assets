@@ -1,0 +1,125 @@
+MainForm {
+    Border=0,0,1024,768
+    Panel {
+        Pos=0,0
+        Size=1024,768
+		Name=MainPanel
+
+		SimpleImage {
+			Image=Bitmap.Background.zastavka
+			Pos=0,0,200
+			TimeTakt=25
+		}
+
+		PSRay {
+			Pos=100,300
+			PosDes=300,500
+			MaxRadius=2
+		}
+
+//		Frame {
+//			Pos=0,0,199
+//			Size=1024,768
+//			ColorFill=255,255,255
+//			Fill=True
+//		}
+//		GraphBuf {
+//			Pos=0,0,198
+//			CacheRGBA=Bitmap.Star.Star1?RGBA
+//			Size=550,550
+//		}
+//		AlphaImage {
+//			Pos=550,0,197
+//			Size=550,550
+//			Image=Bitmap.Star.Star1
+//		}
+
+
+        Panel {
+			Pos=600,300,1
+			Size=200,300
+
+	        TextButton {
+				Name=New
+				Style=Style.Button.Normal
+				Pos=50,10
+				Caption=Text.MainMenu.New
+			}
+	        TextButton {
+				Name=Load
+				Style=Style.Button.Normal
+				Pos=50,50
+				Caption=Text.MainMenu.Load
+			}
+	        TextButton {
+				Name=Rekord
+				Style=Style.Button.Normal
+				Pos=50,90
+				Caption=Text.MainMenu.Rekord
+			}
+	        TextButton {
+				Name=Help
+				Style=Style.Button.Normal
+				Pos=50,130
+				Caption=Text.MainMenu.Help
+			}
+	        TextButton {
+				Name=About
+				Style=Style.Button.Normal
+				Pos=50,170
+				Caption=Text.MainMenu.About
+			}
+	        TextButton {
+				Name=Options
+				Style=Style.Button.Normal
+				Pos=50,210
+				Caption=Text.MainMenu.Options
+			}
+	        TextButton {
+				Name=Exit
+				Style=Style.Button.Normal
+				Pos=50,250
+				Caption=Text.MainMenu.Exit
+			}
+		}
+    }
+}
+
+GameSettings=cfg\Rus\R2\GameSettings.txt {
+}
+
+Hangar=cfg\Rus\R2\Hangar.txt {
+}
+
+Planet=cfg\Rus\R2\Planet.txt {
+}
+
+PlanetNO=cfg\Rus\R2\PlanetNO.txt {
+}
+
+EquipmentShop=cfg\Rus\R2\EquipmentShop.txt {
+}
+
+WarShop=cfg\Rus\R2\WarShop.txt {
+}
+
+GoodsShop=cfg\Rus\R2\GoodsShop.txt {
+}
+
+StarMap=cfg\Rus\R2\StarMap.txt {
+}
+
+Galaxy=cfg\Rus\R2\Galaxy.txt {
+}
+
+Jump=cfg\Rus\R2\Jump.txt {
+}
+
+Load=cfg\Rus\R2\Load.txt {
+}
+
+SaveManager=cfg\Rus\R2\SaveManager.txt {
+}
+
+GameLoad=cfg\Rus\R2\GameLoad.txt {
+}

@@ -1,0 +1,12 @@
+Auto=Pos,Size
+Caption=FormMain.Load
+CaptionColor=255,255,255
+CaptionSme=-6,-14,-5,-13
+Font=Font.1Normal
+ImageDown=GI,Bm.FormMain.1but2n
+ImageNormal=GI,Bm.FormMain.1but2n
+ImageNormalA=GI,Bm.FormMain.1but2a
+Kind=Normal
+KindHit=Graph
+Name=Load
+PosZ=20

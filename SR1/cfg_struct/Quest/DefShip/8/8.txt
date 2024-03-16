@@ -1,0 +1,6 @@
+End=<Ranger>, we are grateful to you for successfully completing the mission. <Money> cr is yours. We hope we have proved it to Pelengs that <Ship> constitutes no threat for them and their suspicions are totally groundless. We deeply regret that there is still so much distrust and suspicion in the Galaxy.
+InThisSystem=Yes
+PlanetRace=Gaal
+ShipType=Transport
+Start=We have a cargo ship <Ship>, which is built using non-standard schemes. This fact has caused Pelengan intelligence to believe that <Ship> is in fact a spy base under the mask of a freighter. We failed to assure them that it is just experimental design, no more. We are seriously concerned with the security of this vessel since it now needs to depart with some extremely important cargo. We cannot hire a guard who is a recognised warrior since Pelengan intelligence knows all such pilots and will certainly come to the conclusion that we are, indeed, hiding something. That is why we have put forward information that the cargo would be shipped by two vessels, <Ship> and another hired trader. You, <Ranger> are ideal for this role since you are known as peaceful trader and are unlikely to cause suspicion. And you could help our ship in case of danger. We offer you <Money> cr for this operation. The contract expires on <Date>.
+Status=Trader

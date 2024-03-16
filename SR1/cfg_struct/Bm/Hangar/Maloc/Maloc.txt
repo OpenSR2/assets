@@ -1,0 +1,6 @@
+1AnimF=data\Hangar\Maloc\1AnimF.gai
+1AnimL=data\Hangar\Maloc\1AnimL.gai
+1bg=data\Hangar\Maloc\1bg.gi
+2AnimF=data\Hangar\Maloc\2AnimF.gai
+2AnimL=data\Hangar\Maloc\2AnimL.gai
+2bg=data\Hangar\Maloc\2bg.gi

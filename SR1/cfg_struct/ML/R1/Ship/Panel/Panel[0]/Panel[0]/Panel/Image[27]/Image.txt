@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.1e6A
+Name=S_Scaner_0a
+Pos=252,253,1
+Size=36,35

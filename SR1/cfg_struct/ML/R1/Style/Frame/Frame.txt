@@ -1,0 +1,2 @@
+ShipPlace=ShipPlace\ShipPlace.txt ^{
+}

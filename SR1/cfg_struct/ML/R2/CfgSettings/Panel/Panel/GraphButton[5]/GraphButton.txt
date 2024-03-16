@@ -1,0 +1,9 @@
+Auto=Size
+Help=FormCfgSettings.HelpButMin
+ImageDown=GI,Bm.FormOptions.2ADownD
+ImageNormal=GI,Bm.FormOptions.2ADownN
+ImageNormalA=GI,Bm.FormOptions.2ADownA
+Kind=Normal
+KindHit=Graph
+Name=ButADown
+Pos=38,453,-3

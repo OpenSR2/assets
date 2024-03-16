@@ -1,0 +1,5 @@
+Image=GI,Bm.FormGoods.2Best
+KindX=Left
+Name=Tov3b
+Pos=205,223,6
+Size=67,16

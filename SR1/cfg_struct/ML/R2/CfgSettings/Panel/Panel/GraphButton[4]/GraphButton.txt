@@ -1,0 +1,9 @@
+Auto=Size
+Help=FormCfgSettings.HelpButMiddle
+ImageDown=GI,Bm.FormOptions.2AMiddleD
+ImageNormal=GI,Bm.FormOptions.2AMiddleN
+ImageNormalA=GI,Bm.FormOptions.2AMiddleA
+Kind=Normal
+KindHit=Graph
+Name=ButAMiddle
+Pos=33,428,-3

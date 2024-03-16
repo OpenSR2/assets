@@ -1,0 +1,266 @@
+
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+	Name=MainPanel
+
+    SimpleImage {
+		Image=Bm.WS1.BG
+		Pos=0,0,100
+	}
+
+////////////////////////////////////////////////
+//	Image {
+//		Image=Anim,Style.AImage.WS1.Fan1
+//		Size=120,27
+//		Pos=481,12,99
+//	}
+//	Image {
+//		Image=Anim,Style.AImage.WS1.Fan2
+//		Size=106,19
+//		Pos=172,12,99
+//	}
+	Door {
+		Name=DoorPlanet
+		StepTime=50
+		Size=73,112
+		Pos=8,120,98
+		Image {
+			0=Bm.WS1.Door.00
+			1=Bm.WS1.Door.01
+			2=Bm.WS1.Door.02
+			3=Bm.WS1.Door.03
+			4=Bm.WS1.Door.04
+			5=Bm.WS1.Door.05
+			6=Bm.WS1.Door.06
+			7=Bm.WS1.Door.07
+			8=Bm.WS1.Door.08
+			9=Bm.WS1.Door.09
+			10=Bm.WS1.Door.10
+		}
+	}
+	Image {
+		Image=Anim,Style.AImage.WS1.Truba
+		Size=50,55
+		Pos=252,257,99
+	}
+	Image {
+		Image=Anim,Style.AImage.WS1.Ekran1
+		Size=129,76
+		Pos=376,93,99
+	}
+	Image {
+		Image=Anim,Style.AImage.WS1.Ekran2
+		Size=164,84
+		Pos=593,94,99
+	}
+	Image {
+		Image=Anim,Style.AImage.WS1.Display1
+		Size=28,16
+		Pos=121,168,99
+	}
+	Image {
+		Image=Anim,Style.AImage.WS1.Display2
+		Size=35,16
+		Pos=505,177,99
+	}
+	Image {
+		Image=Anim,Style.AImage.WS1.Display3
+		Size=35,16
+		Pos=548,179,99
+	}
+	Image {
+		Image=Anim,Style.AImage.WS1.Indicator1
+		Size=9,2
+		Pos=155,69,99
+	}
+	Image {
+		Image=Anim,Style.AImage.WS1.Indicator2
+		Size=9,2
+		Pos=166,73,99
+	}
+	Image {
+		Image=Anim,Style.AImage.WS1.Indicator3
+		Size=2,1
+		Pos=240,68,99
+	}
+	Image {
+		Image=Anim,Style.AImage.WS1.Indicator4
+		Size=3,2
+		Pos=251,72,99
+	}
+
+////////////////////////////////////////////////
+	Image {
+		Name=ImageWeapon1
+		Image=Alpha,Bm.WS1.Weapon.01
+		Size=181,65
+		Pos=271,12,90
+	}
+	Image {
+		Name=ImageWeapon2
+		Image=Alpha,Bm.WS1.Weapon.02
+		Size=154,72
+		Pos=274,109,90
+	}
+	Image {
+		Name=ImageWeapon3
+		Image=Alpha,Bm.WS1.Weapon.03
+		Size=215,100
+		Pos=131,293,90
+	}
+	Image {
+		Name=ImageWeapon4
+		Image=Alpha,Bm.WS1.Weapon.04
+		Size=164,45
+		Pos=8,31,90
+	}
+	Image {
+		Name=ImageWeapon5
+		Image=Alpha,Bm.WS1.Weapon.05
+		Size=185,105
+		Pos=355,297,90
+	}
+	Image {
+		Name=ImageWeapon6
+		Image=Alpha,Bm.WS1.Weapon.06
+		Size=134,57
+		Pos=354,202,90
+	}
+	Image {
+		Name=ImageWeapon7
+		Image=Alpha,Bm.WS1.Weapon.07
+		Size=109,88
+		Pos=495,182,90
+	}
+	Image {
+		Name=ImageWeapon8
+		Image=Alpha,Bm.WS1.Weapon.08
+		Size=162,77
+		Pos=19,113,90
+	}
+	Image {
+		Name=ImageWeapon9
+		Image=Alpha,Bm.WS1.Weapon.09
+		Size=125,101
+		Pos=623,177,90
+	}
+	Image {
+		Name=ImageWeapon10
+		Image=Alpha,Bm.WS1.Weapon.10
+		Size=162,103
+		Pos=625,38,90
+	}
+	Image {
+		Name=ImageWeapon11
+		Image=Alpha,Bm.WS1.Weapon.11
+		Size=241,172
+		Pos=527,341,90
+	}
+	Image {
+		Name=ImageWeapon12
+		Image=Alpha,Bm.WS1.Weapon.12
+		Size=179,74
+		Pos=145,199,90
+	}
+
+////////////////////////////////////////////////
+	InfoWeapon {
+		Caption=Weapon.Name.
+		Image=Anim,Style.AImage.WSO.Weapon
+		Text=Text.WarShop.Weapon
+	}
+
+	Panel {
+		Name=PanelWeapon
+		Size=330,480
+		Pos=5,5,80
+		Active=False
+
+		SimpleImage {
+			Image=Bitmap.Background.Wave
+			Pos=0,0,10
+			Size=330,480
+			KindX=LeftFill
+			KindY=TopFill
+		}
+		Label {
+			Font=Font.Normal
+	        Text=Weapon.Name.1
+			Name=PanelWeaponCaption
+			Pos=5,5,9
+			Size=320,20
+	    }
+		Image {
+			Image=Anim,Style.AImage.WSO.Weapon1
+			Name=PanelWeaponImage
+			Size=320,240
+			Pos=5,30,9
+		}
+		Label {
+			Font=Font.Normal
+	        Text=Text.WarShop.Weapon1
+			Name=PanelWeaponText
+			Pos=5,280,9
+			Size=320,190
+			WordWrap=True
+			AlignX=Auto
+			AlignY=Top
+	    }
+	}
+
+////////////////////////////////////////////////
+	TextButton {
+		Name=ButShip
+		Style=Style.Button.Normal
+		Pos=470,570,9
+		Size=150,20
+		Caption=Text.Ship.ButShip
+	}
+	TextButton {
+		Name=Planet
+		Style=Style.Button.Normal
+		Pos=630,570,9
+		Size=150,20
+		Caption=Text.WarShop.Planet
+	}
+
+
+//////////////////////////////////////////////////////////////////
+    Panel {
+		Name=Weapon
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+			Pos=0,0,-1
+			Size=800,600
+			ShrLight=2
+		}
+		Panel=cfg\Rus\RA\Weapon.txt {
+			Pos=150,100,-3
+		}
+    }
+//////////////////////////////////////////////////////////////////
+
+////// Ship ///////////////////////////////////////////////////////
+    Panel {
+		Name=Ship
+		Pos=0,0
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+		  Pos=0,0,-1
+		  Size=800,600
+		  ShrLight=2
+		}
+		Panel=cfg\Rus\RA\Ship.txt {
+			Pos=45,60,-3
+		}
+    }
+}

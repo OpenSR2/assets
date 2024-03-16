@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=Sum
+Pos=181,29,8
+Size=76,18
+Text=FormGS.Sum
+TextColor=255,255,230

@@ -1,0 +1,5 @@
+Active=False
+Image=GI,Bm.Hangar.Fei.2bg
+Name=HangarFeiBG
+Pos=0,0,3
+Size=1024,768

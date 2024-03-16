@@ -1,0 +1,4 @@
+CurQuests=CurQuests\CurQuests.txt ^{
+}
+OldQuests=OldQuests\OldQuests.txt ^{
+}

@@ -1,0 +1,6 @@
+Image=Bm.Planet.T.118
+ImageMap=Bm.Planet.M.0
+PosZ=Planet
+Radius=100
+SmeImage=100,100
+SmeImageMap=4,4

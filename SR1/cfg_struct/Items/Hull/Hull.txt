@@ -1,0 +1,5 @@
+Name=<Type> hull
+ShortName=Hull
+Text=Endurance of the hull is <Size> (<MaxSize>) units, cover can block up to <Damage> points of damage
+Type=Type\Type.txt ^{
+}

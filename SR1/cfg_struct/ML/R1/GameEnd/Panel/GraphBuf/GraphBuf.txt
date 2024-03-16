@@ -1,0 +1,3 @@
+Name=GBText
+Pos=39,10,5
+Size=722,10

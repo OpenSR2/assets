@@ -1,0 +1,6 @@
+End=Producers' and composers' Association from <FromPlanet> thanks you heartily for adhering to contract terms. Here is your <Money> cr. Never forget about the beautiful, listen to music. Remember: Beauty will save the Galaxy!
+InThisSystem=Yes
+PlanetRace=People
+ShipType=Liner
+Start=Tomorrow is the start of annual song festival, "Galactic melody" which is traditionally held onboard space cruiser <Ship>. The festival is attended by the best singers in our system and the liner will visit planets hosting traditional musical events within the festival program. By the end of the cruise, musical awards in seven nominations will have been given. We do not want the festive atmosphere to be spoilt so we have to think of ship's security. We offer you a contract that envisages <Day> days of escorting the ship and subsequent remuneration of <Money> cr. The ship has already started and you will have to catch up with it.
+Status=Any

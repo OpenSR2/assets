@@ -1,0 +1,9 @@
+Help=Help.ButRating
+ImageDown=GI,Bm.PanelMain.1BQuestD
+ImageNormal=GI,Bm.PanelMain.1BQuestN
+ImageNormalA=GI,Bm.PanelMain.1BQuestA
+Kind=Normal
+KindHit=Graph
+Name=PM_Quest
+Pos=619,0,8
+Size=41,39

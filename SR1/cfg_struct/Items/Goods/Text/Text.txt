@@ -1,0 +1,8 @@
+1=Various kinds of food in tetrogen packs
+2=Goods for medical and prophylactic purposes
+3=Electronics, home and factory equipment
+4=Precious goods, items of art, and other luxury
+5=Minerals, precious metals, and other rare elements
+6=Alcohol drinks and all products of drug nutrition
+7=All kinds of weapons: hand, infantry, nuclear, mental, etc
+8=Forbidden gaosteroids and all types of narcotics

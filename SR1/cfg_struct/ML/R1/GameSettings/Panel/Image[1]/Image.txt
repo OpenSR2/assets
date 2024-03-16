@@ -1,0 +1,3 @@
+Image=GI,Bm.FormGameSet.1panel
+Pos=59,141,10
+Size=366,319

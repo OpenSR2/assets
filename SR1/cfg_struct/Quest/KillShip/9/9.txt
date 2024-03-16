@@ -1,0 +1,6 @@
+End=We are grateful to you, <Ranger>, that you have solved this irksome problem. You can see that even among Gaalians there are characters without principles. Fortunately, they are very rare. Believe us, <Money> cr that you have earned is a very good reward.
+PlanetRace=Gaal
+ShipRace=Gaal
+ShipType=Ranger
+Start=Some time ago we have given ranger's licence to some vessel named <Ship>. However, instead of fighting Klissans or otherwise serving our interests in other parts of the Galaxy, he started doing quite the opposite, namely destroying our own ships. We have no idea why this apparently absolutely normal Gaalian would get engaged in such activity. It is possible that he has been recruited by Pelengan or Maloqi agents. But in any case we cannot accept this ranger to continue his activity. On the other hand, we cannot start official action on the incident since this will greatly undermine the trust of other races to our rangers. All this makes us turn to you, an illegal pilot. Let a pirate kill a pirate, there would be nothing unusual about it. If you do it before <Date>, we'll pay you <Money> cr.
+Status=Pirate

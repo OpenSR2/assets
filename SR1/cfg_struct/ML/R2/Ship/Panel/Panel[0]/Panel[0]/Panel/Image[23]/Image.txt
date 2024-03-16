@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.2e5A
+Name=S_Radar_0a
+Pos=272,354,1
+Size=45,44

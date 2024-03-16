@@ -1,0 +1,5 @@
+AlignX=Right
+Font=Font.2Normal
+Name=I5
+Pos=492,356,2
+Size=354,54

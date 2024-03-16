@@ -1,0 +1,9 @@
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+MoveWorld=False
+Pos=0,0
+Size=1024,768

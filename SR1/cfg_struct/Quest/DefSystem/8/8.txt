@@ -1,0 +1,4 @@
+End=<Ranger>, you have honestly earned your <Money> cr. You have all chances for rehabilitation, but only if you forget about crime. Follow the way to improvement and we would be glad if the Galaxy has one pirate less.
+PlanetRace=Gaal
+Start=<Ranger>, we know of your past crimes and also that law and rights of intelligent beings is all empty talk for you. However, we believe that you might have a wish to apply your energy in a more honourable way than piracy. We are giving you this chance because we believe that even difficult cases like you are curable. We will hire you as law enforcement officer. If no civil ship is destroyed in the system of <FromStar> before <Date>, we will pay you <Money> cr and also improve our attitude to you.
+Status=Pirate

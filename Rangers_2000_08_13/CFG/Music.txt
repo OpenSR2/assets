@@ -1,0 +1,86 @@
+Test0=Music\Ruber\rangers3.mp3
+Test1=Music\Denis\longway.mp3
+//Test1=Music\test.mp3
+Test2=Music\Denis\Boy1.mp3
+
+Base {
+	1=Music\Ruber\rangers3.mp3
+}
+GalaxyMap {
+	1=Music\Denis\longway.mp3
+}
+Battle {
+	2=Music\Denis\Boy1.mp3
+}
+Nation {
+	Maloc {
+		Planet {
+			1=Music\Gregory\Cosmic.mp3
+ 			1=Music\Ruber\rangers3.mp3
+		}
+		Space {
+			1=Music\Denis\longway.mp3
+ 			1=Music\Ruber\rangers1.mp3
+		}
+	}
+	Peleng {
+		Planet {
+			1=Music\Gregory\Cosmic.mp3
+ 			1=Music\Ruber\rangers3.mp3
+		}
+		Space {
+			1=Music\Denis\longway.mp3
+ 			1=Music\Ruber\rangers1.mp3
+		}
+	}
+	People {
+		Planet {
+			1=Music\Gregory\Cosmic.mp3
+ 			1=Music\Ruber\rangers3.mp3
+		}
+		Space {
+			1=Music\Denis\longway.mp3
+ 			1=Music\Ruber\rangers1.mp3
+		}
+	}
+	Fei {
+		Planet {
+			1=Music\Gregory\Cosmic.mp3
+ 			1=Music\Ruber\rangers3.mp3
+		}
+		Space {
+			1=Music\Denis\longway.mp3
+ 			1=Music\Ruber\rangers1.mp3
+		}
+	}
+	Gaal {
+		Planet {
+			1=Music\Gregory\Cosmic.mp3
+ 			1=Music\Ruber\rangers3.mp3
+		}
+		Space {
+			1=Music\Denis\longway.mp3
+ 			1=Music\Ruber\rangers1.mp3
+		}
+	}
+	Kling {
+		Planet {
+			1=Music\Gregory\Cosmic.mp3
+ 			1=Music\Ruber\rangers3.mp3
+		}
+		Space {
+			1=Music\Denis\longway.mp3
+ 			1=Music\Ruber\rangers1.mp3
+		}
+	}
+	None {
+		Planet {
+			1=Music\Gregory\Cosmic.mp3
+ 			1=Music\Ruber\rangers3.mp3
+		}
+		Space {
+			1=Music\Denis\longway.mp3
+ 			1=Music\Ruber\rangers1.mp3
+		}
+	}
+}

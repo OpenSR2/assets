@@ -1,0 +1,9 @@
+Auto=Pos,Size
+Help=Help.ButLogo
+ImageDown=GI,Bm.PanelMain.2BLogoD
+ImageNormalA=GI,Bm.PanelMain.2BLogoA
+Kind=Normal
+KindHit=Graph
+Name=PM_Logo
+PosZ=8
+Style=Style.GB.SoundNormal

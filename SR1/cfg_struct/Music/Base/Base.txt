@@ -1,0 +1,3 @@
+1=Music\special\hymn.dat
+1=Music\fly\Beyond_reach.dat
+10=Music\fly\fly12.dat

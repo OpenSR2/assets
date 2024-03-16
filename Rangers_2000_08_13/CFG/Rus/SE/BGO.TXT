@@ -1,0 +1,4 @@
+1=Anim.BGO.0
+1=Anim.BGO.1
+1=Anim.BGO.2
+1=Anim.BGO.3

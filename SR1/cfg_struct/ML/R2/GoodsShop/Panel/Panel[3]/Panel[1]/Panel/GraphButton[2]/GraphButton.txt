@@ -1,0 +1,12 @@
+Auto=Size
+Help=FormGS.HelpCancel
+ImageDown=GI,Bm.SI.2But2CancelD
+ImageNormal=GI,Bm.SI.2But2CancelN
+ImageNormalA=GI,Bm.SI.2But2CancelA
+Kind=Normal
+KindHit=Rect
+Name=Cancel
+Pos=405,56,8
+SoundClick=Sound.FormShipClose
+SoundEnter=Sound.ButtonEnter
+SoundLeave=Sound.ButtonLeave

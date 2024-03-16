@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.1h3
+Name=S_3f
+Pos=201,347,1
+Size=30,30

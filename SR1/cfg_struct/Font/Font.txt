@@ -1,0 +1,13 @@
+1Authors=data\Font\Verdana_14_2.aft
+1Big=data\font\Verdana_12bold_2.aft
+1Intro=data\Font\Verdana_12bold_2.aft
+1Normal=data\font\Arial_09.aft
+1NormalBold=data\font\Arial_09bold.aft
+1NormalPlus=data\font\Univers Condensed_14.aft
+2Authors=data\Font\Verdana_16_2.aft
+2Big=data\font\Verdana_14_2.aft
+2Intro=data\Font\Verdana_16_2.aft
+2Normal=data\font\Arial_11_4.aft
+2NormalBold=data\font\Arial_11bold_3.aft
+2NormalPlus=data\font\Univers Condensed_16.aft
+2Title=data\Font\Georgia_Bold_72.aft

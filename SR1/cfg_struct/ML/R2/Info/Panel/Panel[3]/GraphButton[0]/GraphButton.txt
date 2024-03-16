@@ -1,0 +1,9 @@
+Help=FormInfo.HelpFind
+ImageDown=GI,Bm.FormInfo.2SearchD
+ImageNormal=GI,Bm.FormInfo.2SearchN
+ImageNormalA=GI,Bm.FormInfo.2SearchA
+Kind=Normal
+KindHit=Rect
+Name=ButSearch
+Pos=552,56,1
+Size=36,59

@@ -1,0 +1,3 @@
+Auto=Size
+Image=GI,Bm.FormAbout.1Logo1C
+Pos=16,555,20

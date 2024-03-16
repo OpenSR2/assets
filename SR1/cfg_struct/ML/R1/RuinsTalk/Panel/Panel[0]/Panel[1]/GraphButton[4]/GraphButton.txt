@@ -1,0 +1,10 @@
+Active=True
+Auto=Pos,Size
+ImageDisable=GI,Bm.PanelMain.1BBreakD
+ImageDown=GI,Bm.PanelMain.1BBreakD
+ImageNormal=GI,Bm.PanelMain.1BBreakN
+ImageNormalA=GI,Bm.PanelMain.1BBreakA
+Kind=Disable
+KindHit=Graph
+Name=PM_Break
+PosZ=8

@@ -1,0 +1,10 @@
+Auto=Size
+Help=FormGS.HelpMax
+ImageDown=GI,Bm.SI.1ButMaxD
+ImageNormal=GI,Bm.SI.1ButMaxN
+ImageNormalA=GI,Bm.SI.1ButMaxA
+Kind=Normal
+KindHit=Rect
+Name=Max
+Pos=285,18,8
+Style=Style.GB.SoundNormal

@@ -1,0 +1,18 @@
+Fei=Fei\Fei.txt ^{
+}
+Gaal=Gaal\Gaal.txt ^{
+}
+HS=HS\HS.txt ^{
+}
+Kling=Kling\Kling.txt ^{
+}
+Maloc=Maloc\Maloc.txt ^{
+}
+Peleng=Peleng\Peleng.txt ^{
+}
+People=People\People.txt ^{
+}
+Tranclucator=Tranclucator\Tranclucator.txt ^{
+}
+X=X\X.txt ^{
+}

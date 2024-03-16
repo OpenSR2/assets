@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=Center
+Name=RewardLabel
+Pos=480,272,0
+Size=44,20
+Style=Style.Label.2Normal
+Text=18
+TextColor=255,255,230
+WordWrap=True

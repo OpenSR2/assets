@@ -1,0 +1,3 @@
+Image=GI,Bm.FormScore.1bg2
+Pos=354,58,1
+Size=31,482

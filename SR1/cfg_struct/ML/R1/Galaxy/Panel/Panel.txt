@@ -1,0 +1,6 @@
+MoveWorld=False
+Name=MainPanel
+Panel=Panel\Panel.txt ^{
+}
+Pos=0,0
+Size=800,600

@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=InfoName
+Pos=47,13,8
+Size=133,31
+TextColor=255,255,230
+WordWrap=True

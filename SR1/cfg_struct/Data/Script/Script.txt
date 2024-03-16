@@ -1,0 +1,14 @@
+MS_AboutGaal=1,Script.MS_AboutGaal
+MS_AboutRachehan=1,Script.MS_AboutRachehan
+MS_AboutRachehan2=1,Script.MS_AboutRachehan2
+MS_First=1,Script.MS_First
+MS_Machpella=1,Script.MS_Machpella
+MS_Report=1,Script.MS_Report
+Script02=1,Script.Script02
+Script03=1,Script.Script03
+Script03_1=1,Script.Script03_1
+Script03_2=1,Script.Script03_2
+Script04=1,Script.Script04
+Script05=1,Script.Script05
+ill=1,Script.ill
+test=1,Script.test

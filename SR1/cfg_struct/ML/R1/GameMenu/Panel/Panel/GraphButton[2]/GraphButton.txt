@@ -1,0 +1,9 @@
+Help=FormGameMenu.Load
+ImageHit=GI,Bm.FormMenu.1OpenH
+ImageNormalA=GI,Bm.FormMenu.1OpenA
+ImageNormalA_Pos=217,110
+Kind=Normal
+KindHit=ImageHit
+Name=Load
+Pos=178,65,-3
+Size=110,116

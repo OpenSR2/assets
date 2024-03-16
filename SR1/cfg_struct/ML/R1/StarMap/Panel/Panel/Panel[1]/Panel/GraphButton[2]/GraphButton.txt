@@ -1,0 +1,11 @@
+Help=Help.ButW2
+ImageDown=GI,Bm.PanelSpace.1W2D
+ImageDownA=GI,Bm.PanelSpace.1W2B
+ImageNormal=GI,Bm.PanelSpace.1W2N
+ImageNormalA=GI,Bm.PanelSpace.1W2A
+Kind=Fix
+KindHit=Graph
+Name=PS_W2
+Pos=49,7,8
+Size=36,36
+Style=Style.GB.SoundNormal

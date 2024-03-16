@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.2right
+Name=RightOpen
+Pos=402,0,2
+Size=203,539

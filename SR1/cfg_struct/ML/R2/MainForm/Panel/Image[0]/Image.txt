@@ -1,0 +1,5 @@
+Image=GI,Bm.FormMain.2fon
+KindX=LeftFill
+Name=Fon
+Pos=0,168,99
+Size=7606,473

@@ -1,0 +1,7 @@
+AlignX=Center
+Font=Font.2Authors
+MaxLen=10
+Name=PlayerName
+Pos=380,713,2
+Size=250,30
+TextColor=255,245,80

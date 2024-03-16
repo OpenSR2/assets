@@ -1,0 +1,4 @@
+Kind=Rect
+Name=Skill2z
+Pos=459,387,0
+Size=115,16

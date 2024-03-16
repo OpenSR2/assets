@@ -1,0 +1,7 @@
+1=Reactor
+2=Phase
+3=Impulse
+4=Cryogen
+5=Plasma
+6=Annihilating
+7=Singular

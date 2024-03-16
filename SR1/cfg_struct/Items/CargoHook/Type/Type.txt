@@ -1,0 +1,7 @@
+1=Radiomagnetic
+2=Rapane
+3=Gluegen
+4=Pseudovacuum
+5=Trek
+6=Cryomeral
+7=Telecinetic

@@ -1,0 +1,6 @@
+Image=GI,Bm.FormAB.2WF
+KindX=Left
+Name=W0A
+Pos=16,662,-5
+Size=44,44
+Sme=0,0

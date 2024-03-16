@@ -1,0 +1,4 @@
+Font=Font.1Normal
+Name=CurTurn
+Pos=0,570,1
+Size=100,20

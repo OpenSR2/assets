@@ -1,0 +1,14 @@
+Ace=Ace\Ace.txt ^{
+}
+Cadet=Cadet\Cadet.txt ^{
+}
+Commander=Commander\Commander.txt ^{
+}
+Leader=Leader\Leader.txt ^{
+}
+Pilot=Pilot\Pilot.txt ^{
+}
+Rookie=Rookie\Rookie.txt ^{
+}
+Wingman=Wingman\Wingman.txt ^{
+}

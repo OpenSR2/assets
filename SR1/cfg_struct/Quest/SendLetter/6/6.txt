@@ -1,0 +1,6 @@
+End="Express Galactica" representative expresses his gratitude for the delivery and hopes that <Money> cr will compensate your expenses. However, we have to warn you that competing with such super monopoly as ourselves is completely useless.
+FromRace=Fei
+Start=Fayean division of Galactic mail service "Express Galactica" is overloaded with cargo flow, the situation is especially difficult with distant and expensive haulage. You are an experienced haulier so you could help us and deliver a few parcels to the system of <ToStar>, they are expected on <ToPlanet>.
+Start=We have to remind you that our service is the fastest and the most popular in the Galaxy. In order to uphold our reputation you need to deliver the parcels in <Day> days, upon which our representative will pay you <Money> cr.
+Status=Trader
+ToRace=Any

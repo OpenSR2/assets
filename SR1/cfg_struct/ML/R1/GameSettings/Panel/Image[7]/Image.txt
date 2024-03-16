@@ -1,0 +1,5 @@
+Image=GI,Bm.FormGameSet.1Level
+KindX=Center
+KindY=Center
+Name=ImageLevel
+PosZ=3

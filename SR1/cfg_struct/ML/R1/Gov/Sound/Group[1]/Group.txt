@@ -1,0 +1,7 @@
+1=Sound.FormGovPeleng0
+1=Sound.FormGovPeleng1
+1=Sound.FormGovPeleng2
+1=Sound.FormGovPeleng3
+1=Sound.FormGovPeleng4
+NextTime=4000-6000
+Section=2

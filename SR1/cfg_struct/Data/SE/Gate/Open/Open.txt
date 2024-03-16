@@ -1,0 +1,11 @@
+0=Bm.Gate.00
+1=Bm.Gate.01
+2=Bm.Gate.02
+3=Bm.Gate.03
+4=Bm.Gate.04
+5=Bm.Gate.05
+6=Bm.Gate.06
+7=Bm.Gate.07
+8=Bm.Gate.08
+9=Bm.Gate.09
+Time=50

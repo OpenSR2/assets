@@ -1,0 +1,5 @@
+1=Sound.FormGovGaal0
+1=Sound.FormGovGaal1
+1=Sound.FormGovGaal2
+NextTime=4000-6000
+Section=5

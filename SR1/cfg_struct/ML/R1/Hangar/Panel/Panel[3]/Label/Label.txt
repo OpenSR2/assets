@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Center
+Font=Font.1NormalPlus
+Name=ActionText
+Pos=362,12,-3
+Size=228,41
+TextColor=209,209,234
+WordWrap=True

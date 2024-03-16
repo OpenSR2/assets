@@ -1,0 +1,5 @@
+AlignX=Right
+Font=Font.2Normal
+Name=I3
+Pos=492,246,2
+Size=354,54

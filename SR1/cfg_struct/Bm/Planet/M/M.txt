@@ -1,0 +1,8 @@
+0=data\Planet\Map0.png
+Fei=data\Planet\MapFei.png
+Gaal=data\Planet\MapGaal.png
+Kling=data\Planet\MapKling.png
+Maloc=data\Planet\MapMaloc.png
+None=data\Planet\MapNone.png
+Peleng=data\Planet\MapPeleng.png
+People=data\Planet\MapPeople.png

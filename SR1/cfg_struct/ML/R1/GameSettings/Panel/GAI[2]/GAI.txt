@@ -1,0 +1,8 @@
+Active=False
+FrameLoad=0
+Image=Bm.FormGameSet.1PeopleA
+ImageFirst=Bm.FormGameSet.1PeopleI
+Name=AnimPeople
+PBuf=True
+Pos=620,178,5
+Size=103,302

@@ -1,0 +1,6 @@
+AlignX=Center
+Font=Font.1Normal
+Name=CaptionLoad
+Pos=525,12,2
+Size=234,20
+Text=FormSaveManager.CaptionLoad

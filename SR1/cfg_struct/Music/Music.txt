@@ -1,0 +1,25 @@
+1C=1C\1C.txt ^{
+}
+All=All\All.txt ^{
+}
+ArcadeBattle=ArcadeBattle\ArcadeBattle.txt ^{
+}
+Base=Base\Base.txt ^{
+}
+Battle=Battle\Battle.txt ^{
+}
+GalaxyMap=GalaxyMap\GalaxyMap.txt ^{
+}
+Introduction=Introduction\Introduction.txt ^{
+}
+Loss=Loss\Loss.txt ^{
+}
+Nation=Nation\Nation.txt ^{
+}
+StarMap=StarMap\StarMap.txt ^{
+}
+Test0=Music\battle\Boy1.dat
+Test1=Music\battle\psr_track02.dat
+Test2=Music\battle\Boy1.dat
+Win=Win\Win.txt ^{
+}

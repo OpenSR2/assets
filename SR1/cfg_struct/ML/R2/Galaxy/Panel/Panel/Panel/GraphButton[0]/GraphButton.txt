@@ -1,0 +1,14 @@
+Caption=x2
+CaptionColor=234,220,45
+CaptionSme=0,-3,1,-1
+Font=Font.2Normal
+ImageDown=GI,Bm.SI.2ButD
+ImageNormal=GI,Bm.SI.2ButN
+ImageNormalA=GI,Bm.SI.2ButA
+Kind=Fix
+KindHit=Rect
+MVUpdate=True
+MouseBlocking=True
+Name=Scale2
+Pos=10,723,-3
+Size=170,45

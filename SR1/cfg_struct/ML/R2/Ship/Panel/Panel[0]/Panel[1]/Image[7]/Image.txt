@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.2rewardBG
+Name=RewardBG
+Pos=481,272,1
+Size=48,25

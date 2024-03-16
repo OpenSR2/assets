@@ -1,0 +1,17 @@
+00=data\Asteroid\00.gai
+01=data\Asteroid\01.gai
+02=data\Asteroid\02.gai
+03=data\Asteroid\03.gai
+04=data\Asteroid\04.gai
+05=data\Asteroid\05.gai
+06=data\Asteroid\06.gai
+07=data\Asteroid\07.gai
+08=data\Asteroid\08.gai
+09=data\Asteroid\09.gai
+10=data\Asteroid\10.gai
+11=data\Asteroid\11.gai
+12=data\Asteroid\12.gai
+13=data\Asteroid\13.gai
+14=data\Asteroid\14.gai
+Des=data\Asteroid\Des.gai
+Map=data\Asteroid\map.png

@@ -1,0 +1,12 @@
+Caption=FormSaveManager.Load
+CaptionColor=255,255,230
+CaptionSme=0,-3,1,-1
+Font=Font.2Normal
+ImageDown=GI,Bm.SI.2ButD
+ImageNormal=GI,Bm.SI.2ButN
+ImageNormalA=GI,Bm.SI.2ButA
+Kind=Normal
+KindHit=Rect
+Name=ButLoad
+Pos=668,715,1
+Size=170,45

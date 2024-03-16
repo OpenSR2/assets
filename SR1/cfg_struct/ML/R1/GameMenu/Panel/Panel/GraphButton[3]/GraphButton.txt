@@ -1,0 +1,9 @@
+Help=FormGameMenu.Settings
+ImageHit=GI,Bm.FormMenu.1SettingsH
+ImageNormalA=GI,Bm.FormMenu.1SettingsA
+ImageNormalA_Pos=114,241
+Kind=Normal
+KindHit=ImageHit
+Name=Settings
+Pos=52,213,-3
+Size=151,96

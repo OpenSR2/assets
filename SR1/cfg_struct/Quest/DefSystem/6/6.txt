@@ -1,0 +1,5 @@
+End=Excellent, <Ranger>! You have proven to be a true crime fighter, which has earned you gratitude of <FromPlanet> government and also a reward of <Money> cr.
+PlanetRace=Fei
+Start=At the latest meeting of our Supreme Government a wise decision was taken, namely to tighten measures on precluding criminal actions in the system of <FromStar>. We are a highly developed peace-loving civilisation, but when our security is at stake we are ready to give criminals an adequate response. And we will do it whenever it is necessary, we have stated that a number of times at all inter-racial symposia.
+Start=Thus, all pilots, including you, <Ranger>, can sign a contract which entitles you to destroy any pirate ships that are interfering with the activity of civil vessels in our system. Term of contract is until <Date>; your reward is <Money> cr. Your help will be very much valued.
+Status=Any

@@ -1,0 +1,6 @@
+AlignX=Center
+AlignY=Center
+Image=GI,Bm.Items.2Narcotics
+Name=Tov7i
+Pos=222,353,7
+Size=35,33

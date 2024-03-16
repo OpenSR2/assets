@@ -1,0 +1,9 @@
+Auto=Size
+Help=FormScore.HelpClear
+ImageDown=GI,Bm.FormScore.2ClearD
+ImageNormal=GI,Bm.FormScore.2ClearN
+ImageNormalA=GI,Bm.FormScore.2ClearA
+Kind=Normal
+KindHit=Rect
+Name=ButClear
+Pos=812,698,1

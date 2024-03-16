@@ -1,0 +1,5 @@
+AlignX=Right
+Font=Font.1Normal
+Name=I7
+Pos=384,364,2
+Size=277,42

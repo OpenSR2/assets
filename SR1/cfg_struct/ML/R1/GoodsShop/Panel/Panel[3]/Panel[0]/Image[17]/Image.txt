@@ -1,0 +1,6 @@
+AlignX=Center
+AlignY=Center
+Image=GI,Bm.Items.1Food
+Name=Tov0i
+Pos=173,83,7
+Size=27,26

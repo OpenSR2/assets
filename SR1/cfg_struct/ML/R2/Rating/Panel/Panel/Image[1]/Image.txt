@@ -1,0 +1,3 @@
+Image=GI,Bm.FormRating.2Empty
+Pos=123,370,2
+Size=99,110

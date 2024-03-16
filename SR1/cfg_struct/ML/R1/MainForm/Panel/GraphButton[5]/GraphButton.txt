@@ -1,0 +1,12 @@
+Auto=Pos,Size
+Caption=FormMain.Exit
+CaptionColor=255,255,255
+CaptionSme=-4,-4,-3,-3
+Font=Font.1Normal
+ImageDown=GI,Bm.FormMain.1but5n
+ImageNormal=GI,Bm.FormMain.1but5n
+ImageNormalA=GI,Bm.FormMain.1but5a
+Kind=Normal
+KindHit=Graph
+Name=Exit
+PosZ=20

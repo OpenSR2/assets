@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Center
+Help=Help.LabelDate
+Name=Turn
+Name=LInfo
+Pos=24,72,-3
+Size=153,19
+Style=Style.Label.2Normal

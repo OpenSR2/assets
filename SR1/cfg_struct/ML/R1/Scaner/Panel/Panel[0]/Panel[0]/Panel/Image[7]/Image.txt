@@ -1,0 +1,3 @@
+Name=S_RepairRobot_0i
+Pos=92,222,0
+Size=36,36

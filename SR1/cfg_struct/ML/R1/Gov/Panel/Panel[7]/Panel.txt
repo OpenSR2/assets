@@ -1,0 +1,10 @@
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+PanelScrollBar=PanelScrollBar[0]\PanelScrollBar.txt ^{
+}
+PanelScrollBar=PanelScrollBar[1]\PanelScrollBar.txt ^{
+}
+Pos=55,70,9
+Size=420,456

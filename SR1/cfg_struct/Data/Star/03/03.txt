@@ -1,0 +1,5 @@
+DamageRadius=290
+Radius=250
+SEGraph=Star.03
+SEProcess=Process.Normal
+SafeRadius=300

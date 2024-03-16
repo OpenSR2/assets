@@ -1,0 +1,4 @@
+Kind=Circle
+Name=Ar12z
+Pos=162,248,-2
+Size=46,44

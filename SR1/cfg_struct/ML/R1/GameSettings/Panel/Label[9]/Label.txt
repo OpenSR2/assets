@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Name=LabelHelp
+Pos=133,559,2
+Size=156,16
+Style=Style.Label.1Normal
+TextColor=255,255,230
+WordWrap=False

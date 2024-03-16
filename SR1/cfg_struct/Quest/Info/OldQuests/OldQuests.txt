@@ -1,0 +1,3 @@
+Accepted=Mission accomplished successfully
+NotAccepted=Mission failed
+NotQuests=No missions

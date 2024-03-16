@@ -1,0 +1,10 @@
+Help=Help.ButRating
+ImageDown=GI,Bm.PanelMain.2BQuestD
+ImageNormal=GI,Bm.PanelMain.2BQuestN
+ImageNormalA=GI,Bm.PanelMain.2BQuestA
+Kind=Normal
+KindHit=Graph
+Name=PM_Quest
+Pos=792,0,8
+Size=52,48
+Style=Style.GB.SoundNormal

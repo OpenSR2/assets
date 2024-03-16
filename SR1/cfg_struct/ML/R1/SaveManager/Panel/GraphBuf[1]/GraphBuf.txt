@@ -1,0 +1,4 @@
+HalfAlpha=False
+Name=GameImage
+Pos=529,52,2
+Size=234,176

@@ -1,0 +1,6 @@
+End=It is so good to see our device in one piece! It is a very valuable thing. We use it for executions: we put mines deep into the ground and then drive the criminals into the tunnel. A most effective and ecologically sound method. We wish you would never try it on your own skin.
+End=<Ranger>, we are paying you <Money> cr for speedy delivery.
+FromRace=Maloc
+Start=<Ranger>, we want you to take this device to <ToPlanet>, in the system of <ToStar>. It is a miniature grip-exploder for putting mines underground. It is packed so that it would easily fit under pilot's chair so do not worry about the space. Our partners will wait for it until <Date>. If you are slow, you will never see your <Money> cr.
+Status=Any
+ToRace=Maloc

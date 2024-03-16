@@ -1,0 +1,6 @@
+AlignX=Center
+AlignY=Center
+Image=GI,Bm.Items.1Arms
+Name=Tov6i
+Pos=173,245,7
+Size=27,26

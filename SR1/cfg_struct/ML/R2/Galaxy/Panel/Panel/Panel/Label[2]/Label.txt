@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=Center
+MVUpdate=True
+Name=Distance
+Pos=400,738,-3
+Size=100,20
+Style=Style.Label.2Normal

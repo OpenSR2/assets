@@ -1,0 +1,6 @@
+Active=False
+Auto=Size
+FrameLoad=0
+Image=Bm.PI.PathEndMove
+Name=ShipPathEnd
+PosZ=23

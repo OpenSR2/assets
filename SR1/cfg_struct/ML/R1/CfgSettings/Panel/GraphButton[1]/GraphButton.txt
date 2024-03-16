@@ -1,0 +1,9 @@
+Auto=Size
+Help=FormCfgSettings.HelpButCancel
+ImageDown=GI,Bm.FormOptions.1CancelD
+ImageNormal=GI,Bm.FormOptions.1CancelN
+ImageNormalA=GI,Bm.FormOptions.1CancelA
+Kind=Normal
+KindHit=Rect
+Name=Cancel
+Pos=719,535,2

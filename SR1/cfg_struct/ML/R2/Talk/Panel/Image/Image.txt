@@ -1,0 +1,4 @@
+Image=GI,Bm.FormTalk.2Arrow
+Name=ObjArrow
+Pos=249,215,-3
+Size=80,79

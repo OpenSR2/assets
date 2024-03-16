@@ -1,0 +1,64 @@
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+	MoveWorld=False
+
+    Image {
+		Image=Bitmap.Background.BG1
+		Pos=0,0,999
+		Size=800,600
+	}
+
+	Label {
+		Font=Font.Normal
+		Name=CaptionLoad
+	    Text=Text.SaveManager.CaptionLoad
+		Pos=10,10,2
+		Size=200,20
+		AlignX=Left
+	}
+	Label {
+		Font=Font.Normal
+		Name=CaptionSave
+	    Text=Text.SaveManager.CaptionSave
+		Pos=10,10,2
+		Size=200,20
+		AlignX=Left
+		Active=False
+	}
+
+    TextButton {
+		Name=ButCancel
+		Style=Style.Button.Normal
+		Pos=470,570,2
+		Size=150,20
+		Caption=Text.SaveManager.Cancel
+	}
+   	TextButton {
+		Name=ButSave
+		Style=Style.Button.Normal
+		Pos=630,570,2
+		Size=150,20
+		Caption=Text.SaveManager.Save
+	}
+   	TextButton {
+		Name=ButLoad
+		Style=Style.Button.Normal
+		Pos=630,570,2
+		Size=150,20
+		Caption=Text.SaveManager.Load
+	}
+
+
+	PanelScrollBar {
+		Name=PanelSlot
+		Pos=10,40,2
+		Size=440,550
+		ActiveBarY=True
+		StyleBarY=Style.ScrollBar.Normal
+		ExternalSB=True
+		UnlimitedWorld=False
+		MoveWorld=True
+	}
+}

@@ -1,0 +1,14 @@
+Caption=FormGalaxy.Jump
+CaptionColor=234,220,45
+CaptionSme=0,-2,1,0
+Font=Font.1Normal
+ImageDown=GI,Bm.SI.1ButD
+ImageNormal=GI,Bm.SI.1ButN
+ImageNormalA=GI,Bm.SI.1ButA
+Kind=Normal
+KindHit=Rect
+MVUpdate=True
+MouseBlocking=True
+Name=ButJump
+Pos=470,563,-3
+Size=134,37

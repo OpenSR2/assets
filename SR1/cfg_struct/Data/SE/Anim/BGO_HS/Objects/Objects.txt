@@ -1,0 +1,3 @@
+AngelCount=2,3
+CometCount=8,16
+MeteoriteCount=0,0

@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Name=ISpeed
+Pos=333,47,0
+Size=89,18
+Style=Style.Label.2Normal
+TextColor=0,0,0

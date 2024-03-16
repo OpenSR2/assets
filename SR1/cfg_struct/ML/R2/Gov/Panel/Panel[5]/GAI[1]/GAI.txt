@@ -1,0 +1,10 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-100]
+Image=Bm.Gov.2FeiAnim1a
+ImageFirst=Bm.Gov.2FeiAnim1i
+Name=GovFeiAnim1
+PBuf=True
+Pos=541,126,-2
+Size=450,642

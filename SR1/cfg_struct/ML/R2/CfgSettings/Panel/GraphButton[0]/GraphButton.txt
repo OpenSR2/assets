@@ -1,0 +1,9 @@
+Auto=Size
+Help=FormCfgSettings.HelpButOk
+ImageDown=GI,Bm.FormOptions.2OkD
+ImageNormal=GI,Bm.FormOptions.2OkN
+ImageNormalA=GI,Bm.FormOptions.2OkA
+Kind=Normal
+KindHit=Rect
+Name=Ok
+Pos=835,685,1

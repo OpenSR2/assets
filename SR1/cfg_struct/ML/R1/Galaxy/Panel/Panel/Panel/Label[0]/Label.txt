@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=Center
+Font=Font.1Normal
+MVUpdate=True
+Name=FPS
+Pos=350,0,-2
+Size=100,20
+WordWrap=False

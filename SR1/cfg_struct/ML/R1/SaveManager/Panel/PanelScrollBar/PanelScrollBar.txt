@@ -1,0 +1,7 @@
+ActiveBarY=False
+ExternalSB=True
+MoveWorld=False
+Name=PanelSlot
+Pos=37,63,2
+Size=420,463
+UnlimitedWorld=False

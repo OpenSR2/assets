@@ -1,0 +1,3 @@
+Name=Ship3D
+Pos=133,137,1
+Size=133,133

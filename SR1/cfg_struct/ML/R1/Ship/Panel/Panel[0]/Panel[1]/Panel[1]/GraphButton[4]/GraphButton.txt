@@ -1,0 +1,8 @@
+ImageDown=GI,Bm.FormShip.1skillAddA
+ImageNormal=GI,Bm.FormShip.1skillAddN
+ImageNormalA=GI,Bm.FormShip.1skillAddA
+Kind=Normal
+KindHit=Rect
+Name=Skill4Add
+Pos=435,336,-1
+Size=11,11

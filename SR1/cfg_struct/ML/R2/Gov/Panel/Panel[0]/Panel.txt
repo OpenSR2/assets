@@ -1,0 +1,9 @@
+Name=PanelMain
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Pos=0,0,1
+Size=1024,768
+Window=Window\Window.txt ^{
+}

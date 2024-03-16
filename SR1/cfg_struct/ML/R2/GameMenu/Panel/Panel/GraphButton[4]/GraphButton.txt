@@ -1,0 +1,10 @@
+Help=FormGameMenu.Exit
+ImageHit=GI,Bm.FormMenu.2ExitH
+ImageNormalA=GI,Bm.FormMenu.2ExitA
+ImageNormalA_Pos=265,283
+Kind=Normal
+KindHit=ImageHit
+Name=Exit
+Pos=227,226,-3
+Size=134,161
+Style=Style.GB.SoundNormal

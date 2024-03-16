@@ -1,0 +1,3 @@
+Image=GI,Bm.FormOptions.2Arc
+Pos=42,524
+Size=87,41,-3

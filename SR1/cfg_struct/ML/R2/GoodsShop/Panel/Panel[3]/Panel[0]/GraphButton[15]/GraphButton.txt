@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormGoods.2TovRightN
+ImageDown=GI,Bm.FormGoods.2TovRightD
+ImageNormal=GI,Bm.FormGoods.2TovRightN
+ImageNormalA=GI,Bm.FormGoods.2TovRightA
+Kind=FixDisable
+KindHit=Rect
+Name=Tov17
+Pos=274,360,8
+Size=159,25
+Style=Style.GB.SoundNormal

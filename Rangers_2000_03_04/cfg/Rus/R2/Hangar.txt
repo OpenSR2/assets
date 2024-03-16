@@ -1,0 +1,63 @@
+
+Border=0,0,1024,768
+Panel {
+	Pos=0,0
+    Size=1024,768
+
+    SimpleImage {
+		Image=Bitmap.Background.BG1
+		Pos=0,0,3
+	}
+	Label {
+		Font=Font.Normal
+        Text=Hangar
+		Pos=10,10,2
+		Size=300,20
+    }
+	TextButton {
+		Name=Refuel
+		Style=Style.Button.Normal
+		Pos=150,150,2
+		Size=300,20
+		Caption=Text.Hangar.Refuel
+	}
+
+    TextButton {
+		Name=Planet
+		Style=Style.Button.Normal
+		Pos=694,738,2
+		Size=150,20
+		Caption=Text.Hangar.Planet
+	}
+    TextButton {
+		Name=TakeOff
+		Style=Style.Button.Normal
+		Pos=854,738,2
+		Size=150,20
+		Caption=Text.Hangar.TakeOff
+	}
+////// Ship ///////////////////////////////////////////////////////
+	TextButton {
+		Name=ButShip
+		Style=Style.Button.Normal
+		Pos=534,738,2
+		Size=150,20
+		Caption=Text.Ship.ButShip
+	}
+    Panel {
+		Name=Ship
+		Pos=0,0,-3
+		Size=1024,768
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+		  Pos=0,0,-1
+		  Size=1024,768
+		  ShrLight=2
+		}
+		Panel=cfg\Rus\RA\Ship.txt {
+			Pos=157,144,-3
+		}
+    }
+}

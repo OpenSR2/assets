@@ -1,0 +1,4 @@
+GAI=Bm.AB.expl0_f
+GAI=Bm.AB.expl0_s
+GAI=Bm.AB.hit00_f
+GAI=Bm.AB.hit00_s

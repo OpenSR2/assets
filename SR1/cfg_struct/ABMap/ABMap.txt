@@ -1,0 +1,8 @@
+02_1=data\ABMap\02_1.map
+02_1_=data\ABMap\02_1.opt
+04_1=data\ABMap\04_1.map
+04_1_=data\ABMap\04_1.opt
+04_2=data\ABMap\04_2.map
+04_2_=data\ABMap\04_2.opt
+04_3=data\ABMap\04_3.map
+04_3_=data\ABMap\04_3.opt

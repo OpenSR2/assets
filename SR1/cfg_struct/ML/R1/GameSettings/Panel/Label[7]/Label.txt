@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Name=LabelRace
+Pos=582,551,2
+Size=78,16
+Style=Style.Label.1Normal
+TextColor=255,255,230
+WordWrap=False

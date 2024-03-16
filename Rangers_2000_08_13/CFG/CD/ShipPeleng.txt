@@ -1,0 +1,12 @@
+Ranger {
+}
+Warrior {
+}
+Pirate {
+}
+Transport {
+}
+Liner {
+}
+Diplomat {
+}

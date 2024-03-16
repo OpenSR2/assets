@@ -1,0 +1,24 @@
+O1=O1\O1.txt ^{
+}
+O11=O11\O11.txt ^{
+}
+O12=O12\O12.txt ^{
+}
+O13=O13\O13.txt ^{
+}
+O14=O14\O14.txt ^{
+}
+O15=O15\O15.txt ^{
+}
+O3=O3\O3.txt ^{
+}
+O4=O4\O4.txt ^{
+}
+O5=O5\O5.txt ^{
+}
+O6=O6\O6.txt ^{
+}
+O7=O7\O7.txt ^{
+}
+O8=O8\O8.txt ^{
+}

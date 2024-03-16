@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.2Action
+Name=Act0i
+Pos=490,311,1
+Size=41,41

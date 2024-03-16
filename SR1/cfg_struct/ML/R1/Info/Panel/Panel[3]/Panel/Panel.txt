@@ -1,0 +1,11 @@
+Edit=Edit\Edit.txt ^{
+}
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+Name=PanelSearch
+Pos=26,0,7
+Size=440,310

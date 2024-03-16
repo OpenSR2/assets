@@ -1,0 +1,159 @@
+ScrollBar {
+    Normal {
+    }
+}
+CheckBox {
+    Normal {
+		Size=16,16
+    }
+}
+RadioGroup {
+    Normal {
+    }
+}
+Label {
+	Normal {
+		Font=Font.Normal
+	}
+}
+Grid {
+	Normal {
+		Font=Font.Normal
+	}
+}
+Button {
+	Normal {
+    	Font=Font.Normal
+		CaptionColor=0,255,0
+		Size=100,20
+	}
+	NoTrans {
+    	Font=Font.Normal
+		CaptionColor=0,255,0
+		Size=100,20
+		Image=Bitmap.Background.Wave
+	}
+
+    Ex {
+	}
+}
+AImage {
+	Item1 {
+		150=Alpha,Bitmap.Items.Item1_0
+		150=Alpha,Bitmap.Items.Item1_1
+		150=Alpha,Bitmap.Items.Item1_2
+		150=Alpha,Bitmap.Items.Item1_3
+		150=Alpha,Bitmap.Items.Item1_4
+		150=Alpha,Bitmap.Items.Item1_5
+		150=Alpha,Bitmap.Items.Item1_6
+		150=Alpha,Bitmap.Items.Item1_7
+	}
+	Container1 {
+		100=Alpha,Bitmap.Items.C1_00
+		100=Alpha,Bitmap.Items.C1_01
+		100=Alpha,Bitmap.Items.C1_02
+		100=Alpha,Bitmap.Items.C1_03
+		100=Alpha,Bitmap.Items.C1_04
+		100=Alpha,Bitmap.Items.C1_05
+		100=Alpha,Bitmap.Items.C1_06
+		100=Alpha,Bitmap.Items.C1_07
+		100=Alpha,Bitmap.Items.C1_08
+		100=Alpha,Bitmap.Items.C1_09
+		100=Alpha,Bitmap.Items.C1_10
+		100=Alpha,Bitmap.Items.C1_11
+		100=Alpha,Bitmap.Items.C1_12
+		100=Alpha,Bitmap.Items.C1_13
+		100=Alpha,Bitmap.Items.C1_14
+		100=Alpha,Bitmap.Items.C1_15
+	}
+	Cursor {
+		Arrow {
+			100=Alpha,Bitmap.Cursor.Arrow_00
+			100=Alpha,Bitmap.Cursor.Arrow_01
+			100=Alpha,Bitmap.Cursor.Arrow_02
+			100=Alpha,Bitmap.Cursor.Arrow_03
+			100=Alpha,Bitmap.Cursor.Arrow_04
+			100=Alpha,Bitmap.Cursor.Arrow_05
+			100=Alpha,Bitmap.Cursor.Arrow_06
+			100=Alpha,Bitmap.Cursor.Arrow_07
+			100=Alpha,Bitmap.Cursor.Arrow_08
+			100=Alpha,Bitmap.Cursor.Arrow_09
+			100=Alpha,Bitmap.Cursor.Arrow_10
+			100=Alpha,Bitmap.Cursor.Arrow_11
+			100=Alpha,Bitmap.Cursor.Arrow_12
+			100=Alpha,Bitmap.Cursor.Arrow_13
+			100=Alpha,Bitmap.Cursor.Arrow_14
+			100=Alpha,Bitmap.Cursor.Arrow_15
+		}
+	}
+	UnitPathEnd {
+		100=Alpha,Bitmap.UnitPathEnd_0
+		100=Alpha,Bitmap.UnitPathEnd_1
+		100=Alpha,Bitmap.UnitPathEnd_2
+		100=Alpha,Bitmap.UnitPathEnd_3
+		100=Alpha,Bitmap.UnitPathEnd_4
+		100=Alpha,Bitmap.UnitPathEnd_5
+		100=Alpha,Bitmap.UnitPathEnd_6
+	}
+	Jump {
+		10=Bitmap.Jump00
+		10=Bitmap.Jump01
+		10=Bitmap.Jump02
+		10=Bitmap.Jump03
+		10=Bitmap.Jump04
+		10=Bitmap.Jump05
+		10=Bitmap.Jump06
+		10=Bitmap.Jump07
+		10=Bitmap.Jump08
+		10=Bitmap.Jump09
+		10=Bitmap.Jump10
+		10=Bitmap.Jump11
+		10=Bitmap.Jump12
+		10=Bitmap.Jump13
+		10=Bitmap.Jump14
+		10=Bitmap.Jump15
+		10=Bitmap.Jump16
+		10=Bitmap.Jump17
+		10=Bitmap.Jump18
+		10=Bitmap.Jump19
+		10=Bitmap.Jump20
+		10=Bitmap.Jump21
+		10=Bitmap.Jump22
+		10=Bitmap.Jump23
+		10=Bitmap.Jump24
+		10=Bitmap.Jump25
+		10=Bitmap.Jump26
+		10=Bitmap.Jump27
+		10=Bitmap.Jump28
+		10=Bitmap.Jump29
+		10=Bitmap.Jump30
+		10=Bitmap.Jump31
+	}
+}
+Panel {
+	ShipPlace {
+		Pos=0,0,-4
+		Size=34,34
+	}
+}
+Image {
+	ShipPlace {
+		Pos=1,1,-3
+		Size=32,32
+	}
+}
+ShrLight {
+	ShipPlace {
+		Pos=1,1,-2
+		Size=32,32
+		ShrLight=1
+	}
+}
+Frame {
+	ShipPlace {
+		Pos=0,0,-1
+		Size=34,34
+		Kind=Rect
+		Color=255,255,255
+	}
+}

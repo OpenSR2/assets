@@ -1,0 +1,4 @@
+Image=GI,Bm.FormGoods.2TovC1
+Name=Tov1c
+Pos=220,149,8
+Size=37,16

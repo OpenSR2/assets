@@ -1,0 +1,4 @@
+End=Your work, <Ranger>, is most valued. We are glad to pay <Money> cr to a person who values law and civil rights. You have to agree that these notions are vital for a society that wishes to be successful. And this is what we wish to you personally.
+PlanetRace=Gaal
+Start=In the system of <FromStar> there is now a very dangerous immoral character that is now gathering a criminal team around him. We are very disappointed with this and want to ask you, honourable ranger, to drive all criminals out of our system. You have the right to use your weapons against them, but only if it comes to the worst. Should all civil ships be safe until <Date>, we would be glad to pay you <Money> cr for your service.
+Status=Trader

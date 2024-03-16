@@ -1,0 +1,9 @@
+Help=FormGameMenu.Exit
+ImageHit=GI,Bm.FormMenu.1ExitH
+ImageNormalA=GI,Bm.FormMenu.1ExitA
+ImageNormalA_Pos=207,221
+Kind=Normal
+KindHit=ImageHit
+Name=Exit
+Pos=175,174,-3
+Size=109,131

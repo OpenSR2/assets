@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip.2e2N
+Name=S_RepairRobot_0n
+Pos=124,291,1
+Size=32,31

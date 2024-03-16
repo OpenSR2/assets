@@ -1,0 +1,4 @@
+Name=PS_W4I
+Pos=117,68,7
+Size=44,44
+Sme=0,0

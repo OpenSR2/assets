@@ -1,0 +1,189 @@
+
+Border=0,0,800,600
+Panel {
+	Pos=0,0
+    Size=800,600
+
+    Panel {
+        Name=MainPanel
+        Pos=400,300,-1
+		Sme=400,300
+        Size=800,600
+	
+		MoveWorld=True
+
+		StarField {
+			Name=StarField
+			Pos=0,0,StarField
+			Size=800,600
+			Sme=400,300
+			Image=Bitmap.Star.BG1
+		}
+
+		Panel {
+			Name=MapPanelControl
+			Pos=190,-290,MapPanel
+			Size=200,200
+			Active=False
+			ScrollUpdate=True
+			MVUpdate=True
+
+			SimpleImage {
+				Image=Bitmap.Background.Wave
+				Pos=0,0,1
+				Size=200,200
+				KindX=LeftFill
+				KindY=TopFill
+				HalfAlpha=True
+			}
+			Panel {
+				Name=MapPanel
+				Pos=100,100,-1
+				Sme=100,100
+				Size=200,200
+				MoveWorld=False
+				MouseBlocking=True
+			}
+			Circle {
+				Name=MapPanelCircleActionShr
+				Kind=ShrLight
+				Pos=100,100,-2
+				Sme=100,100
+				Size=200,200
+				ShrLightInner=0
+				ShrLightOuter=1
+				Active=False
+			}
+			Circle {
+				Name=MapPanelCircleActionColor
+				Kind=Circle
+				Pos=100,100,-3
+				Sme=100,100
+				Size=200,200
+				Active=False
+			}
+		}
+
+		Circle {
+			Name=CircleActionShr
+			Kind=ShrLight
+			Pos=-400,-300,CircleActionShr
+			Size=800,600
+			ShrLightInner=0
+			ShrLightOuter=1
+			Active=False
+		}
+		Circle {
+			Name=CircleActionColor
+			Kind=Circle
+			Pos=-400,-300,CircleActionColor
+			Size=800,600
+			Active=False
+		}
+
+		Panel {
+			Name=Info
+			Active=False
+			Pos=-390,-290,InfoPanel
+			Size=200,200
+			MouseBlocking=False
+			MVUpdate=True
+
+			SimpleImage {
+				Name=InfoImage
+				Image=Bitmap.Background.Wave
+				Pos=0,0,1
+				Size=200,200
+				KindX=LeftFill
+				KindY=TopFill
+				HalfAlpha=True
+			}
+			Label {
+				Name=InfoText
+				Pos=10,10,-1
+				Size=180,180
+				Font=Font.Normal
+				WordWrap=False
+				AlignX=Auto
+				AlignY=Auto
+				Text=Test
+			}
+		}
+
+		Panel=cfg\Rus\RA\Action\Planet.txt {
+		}
+		Panel=cfg\Rus\RA\Action\Item.txt {
+		}
+		Panel=cfg\Rus\RA\Action\Space.txt {
+		}
+		Panel=cfg\Rus\RA\Action\Ship.txt {
+		}
+		Panel=cfg\Rus\RA\Action\Weapon.txt {
+		}
+
+		TextButton {
+			Name=ButGalaxy
+			Style=Style.Button.Normal
+			Pos=-90,270,ButtonNav
+			Size=150,20
+			Caption=Text.StarMap.Galaxy
+			Active=False
+			MVUpdate=True
+		}
+		TextButton {
+			Name=ButShip
+			Style=Style.Button.Normal
+			Pos=70,270,ButtonNav
+			Size=150,20
+			Caption=Text.Ship.ButShip
+			Active=False
+			MVUpdate=True
+		}
+		TextButton {
+			Name=EndTurn
+			Style=Style.Button.Normal
+			Pos=230,270,ButtonNav
+			Size=150,20
+			Caption=Text.StarMap.EndTurn
+			Active=False
+			MVUpdate=True
+		}
+	   	TextButton {
+			Name=BreakFlight
+			Style=Style.Button.NoTrans
+			Pos=230,270,ButtonNav
+			Size=150,20
+			Caption=Text.StarMap.BreakFlight
+			Active=False
+			MVUpdate=True
+		}
+
+		Label {
+			Font=Font.Normal
+	        Name=CurTurn
+			Pos=-400,270,ButtonNav
+			Size=100,20
+			MVUpdate=True
+	    }
+	}
+////// Ship ///////////////////////////////////////////////////////
+    Panel {
+		Name=Ship
+		Pos=0,0,ShipPanel
+		Size=800,600
+		Active=False
+		MouseBlocking=True
+
+		ShrLight {
+		  Pos=0,0,-1
+		  Size=800,600
+		  ShrLight=2
+		}
+		Panel=cfg\Rus\RA\Ship.txt {
+			Pos=45,60,-3
+		}
+    }
+////// Debug ///////////////////////////////////////////////////////
+//	Panel=cfg\Rus\RA\Debug.txt {
+//	}
+}

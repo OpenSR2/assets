@@ -1,0 +1,9 @@
+Help=Help.ButShip
+ImageDown=GI,Bm.PanelMain.1BShipD
+ImageNormal=GI,Bm.PanelMain.1BShipN
+ImageNormalA=GI,Bm.PanelMain.1BShipA
+Kind=Normal
+KindHit=Graph
+Name=ButShip
+Pos=121,557,-7
+Size=41,39

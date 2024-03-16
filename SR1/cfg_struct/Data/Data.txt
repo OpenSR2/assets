@@ -1,0 +1,28 @@
+ABMap=ABMap\ABMap.txt ^{
+}
+ABSound=ABSound\ABSound.txt ^{
+}
+BGImage=BGImage\BGImage.txt ^{
+}
+Captain=Captain\Captain.txt ^{
+}
+GalaxyStar=GalaxyStar\GalaxyStar.txt ^{
+}
+Load=Load\Load.txt ^{
+}
+PQI=PQI\PQI.txt ^{
+}
+Race=Race\Race.txt ^{
+}
+SE=SE\SE.txt ^{
+}
+Script=Script\Script.txt ^{
+}
+SpaceImg=SpaceImg\SpaceImg.txt ^{
+}
+Star=Star\Star.txt ^{
+}
+StarFieldImg=StarFieldImg\StarFieldImg.txt ^{
+}
+Weapon=Weapon\Weapon.txt ^{
+}

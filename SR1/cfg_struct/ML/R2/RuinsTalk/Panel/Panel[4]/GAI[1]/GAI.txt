@@ -1,0 +1,10 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-100]
+Image=Bm.FormRuins.2PBAnim1a
+ImageFirst=Bm.FormRuins.2PBAnim1i
+Name=PanelPeople_Anim1
+PBuf=True
+Pos=502,202,-2
+Size=516,566

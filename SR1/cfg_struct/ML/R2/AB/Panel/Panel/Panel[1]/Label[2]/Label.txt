@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=Center
+Font=Font.2Normal
+MVUpdate=True
+Name=LHelp
+Pos=0,728,-3
+Size=1014,20

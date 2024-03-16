@@ -1,0 +1,11 @@
+Help=Help.ButW4
+ImageDown=GI,Bm.PanelSpace.2W4D
+ImageDownA=GI,Bm.PanelSpace.2W4B
+ImageNormal=GI,Bm.PanelSpace.2W4N
+ImageNormalA=GI,Bm.PanelSpace.2W4A
+Kind=Fix
+KindHit=Graph
+Name=PS_W4
+Pos=117,68,8
+Size=44,44
+Style=Style.GB.SoundNormal

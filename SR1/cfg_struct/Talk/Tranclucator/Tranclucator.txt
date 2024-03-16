@@ -1,0 +1,5 @@
+Attack=Attack\Attack.txt ^{
+}
+Greeting=All my weapons are at your disposal, master. My guns are ready for battly, wait for your order.
+Return=Return\Return.txt ^{
+}

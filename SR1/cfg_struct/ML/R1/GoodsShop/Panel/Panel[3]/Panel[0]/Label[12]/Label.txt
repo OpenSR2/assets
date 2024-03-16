@@ -1,0 +1,3 @@
+Name=TovCount6
+Pos=47,254,7
+Style=Style.Label.1GSTovC

@@ -1,0 +1,4 @@
+Image=GI,Bm.Developers.2face0
+Name=Dev0
+Pos=320,198,31
+Size=380,570

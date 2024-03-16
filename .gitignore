@@ -6,4 +6,13 @@
 *.exe
 *.dll
 *.log
+*.le.config
+*.dmp
+*.vdo
 /.idea/
+/Rangers_2000_03_04/Screenshots/
+/Rangers_2000_03_04/ddraw.ini
+/Rangers_2000_08_13/Save/
+/SR1/cfg_dist/
+/SR1/music/
+/SR1/Sound/

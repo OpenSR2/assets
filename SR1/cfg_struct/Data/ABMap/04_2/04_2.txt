@@ -1,0 +1,3 @@
+Path=ABMap.04_2
+Portal=1
+Priority=50

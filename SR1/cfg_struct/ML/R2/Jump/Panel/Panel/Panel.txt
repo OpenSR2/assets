@@ -1,0 +1,5 @@
+Image=Image\Image.txt ^{
+}
+Name=PP
+Pos=263,605,1
+Size=500,20

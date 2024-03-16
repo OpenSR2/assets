@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormShip.2rewardD
+ImageNormal=GI,Bm.FormShip.2rewardN
+ImageNormalA=GI,Bm.FormShip.2rewardA
+Kind=Normal
+KindHit=Rect
+Name=RewardBut
+Pos=446,271,1
+Size=40,40
+Style=Style.GB.SoundNormal

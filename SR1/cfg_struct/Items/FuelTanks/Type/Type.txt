@@ -1,0 +1,7 @@
+1=Static
+2=Inertia
+3=Collector
+4=Whirl
+5=Aquapuncture
+6=Correlating
+7=Hyperaquatic

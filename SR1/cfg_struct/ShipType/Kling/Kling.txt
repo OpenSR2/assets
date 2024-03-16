@@ -1,0 +1,6 @@
+0=Machpella
+1=Egemon
+2=Nondus
+3=Catauri
+4=Monchik
+5=Mutonie

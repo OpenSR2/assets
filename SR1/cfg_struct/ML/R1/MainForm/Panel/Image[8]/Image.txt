@@ -1,0 +1,4 @@
+Image=GI,Bm.Developers.1face2
+Name=Dev2
+Pos=21,173,31
+Size=256,427

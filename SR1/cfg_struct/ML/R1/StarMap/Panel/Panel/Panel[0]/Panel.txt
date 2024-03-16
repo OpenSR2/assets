@@ -1,0 +1,10 @@
+Active=True
+Name=PanelMain
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Pos=-400,-300,ButtonNav
+Size=800,600
+Window=Window\Window.txt ^{
+}

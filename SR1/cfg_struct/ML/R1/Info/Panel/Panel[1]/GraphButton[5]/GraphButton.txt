@@ -1,0 +1,10 @@
+Help=Help.ButPlanet
+ImageDown=GI,Bm.PanelPlanet.1PlanetD
+ImageNormal=GI,Bm.PanelPlanet.1PlanetN
+ImageNormalA=GI,Bm.PanelPlanet.1PlanetA
+Kind=Normal
+KindHit=Graph
+Name=PP_Planet
+Pos=38,40,7
+Size=52,49
+Style=Style.GB.SoundNormal

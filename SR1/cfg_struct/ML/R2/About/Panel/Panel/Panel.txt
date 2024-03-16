@@ -1,0 +1,5 @@
+Name=PAbout
+Panel=Panel\Panel.txt ^{
+}
+Pos=290,135,50
+Size=466,555

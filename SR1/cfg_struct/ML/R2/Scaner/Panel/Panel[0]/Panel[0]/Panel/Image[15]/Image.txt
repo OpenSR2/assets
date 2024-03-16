@@ -1,0 +1,3 @@
+Name=S_Scaner_0i
+Pos=322,324,0
+Size=45,44

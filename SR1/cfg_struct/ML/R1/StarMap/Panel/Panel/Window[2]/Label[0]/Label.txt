@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=InfoShipName
+Pos=47,8,8
+Size=133,41
+TextColor=255,255,230
+WordWrap=True

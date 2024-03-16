@@ -1,0 +1,11 @@
+Active=False
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Name=RankWnd
+Pos=585,125,5
+Size=205,137
+Style=Style.Window.1Info

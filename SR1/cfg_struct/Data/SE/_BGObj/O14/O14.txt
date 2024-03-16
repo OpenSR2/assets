@@ -1,0 +1,3 @@
+Image=Alpha,Bitmap.BGObj.O14
+PosZ=BGObj
+Radius=50

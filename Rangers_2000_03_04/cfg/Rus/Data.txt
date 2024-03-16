@@ -1,0 +1,77 @@
+SE=cfg\Rus\SE.txt {
+}
+
+Planet {
+	Mars {
+		Graph=Planet.Mars
+		Radius=100
+	}
+	Mars {
+		Graph=Planet.Earth
+		Radius=80
+	}
+}
+
+Star {
+	Normal {
+		SEGraph=Star.Normal
+		SEProcess=Process.Normal
+		ImageGalaxy=Alpha,Bitmap.Star.GalaxyStar1
+		Radius=250
+	}
+	Small {
+		SEGraph=Star.Small
+		SEProcess=Process.Normal
+		ImageGalaxy=Alpha,Bitmap.Star.GalaxyStar1
+		Radius=150
+	}
+}
+
+Ship {
+	Player {
+		Slot {
+			Engine=1
+			FuelTanks=1
+			Radar=1
+			Scaner=1
+            RepairRobot=1
+            CargoHook=1
+            DefGenerator=1
+		}
+		ViewSlot=VS1
+		Graph=Ship.Player
+	}
+	Ranger {
+		Slot {
+			Engine=1
+			FuelTanks=1
+			Radar=1
+			Scaner=1
+            RepairRobot=1
+            CargoHook=1
+            DefGenerator=1
+		}
+		ViewSlot=VS1
+		Graph=Ship.Ranger
+	}
+	Trader {
+		Slot {
+			Engine=1
+			FuelTanks=1
+			Radar=1
+			Scaner=1
+            RepairRobot=1
+            CargoHook=1
+            DefGenerator=1
+		}
+		ViewSlot=VS1
+		Graph=Ship.Trader
+	}
+}
+
+Item {
+	Item1 {
+		Image=Anim,Style.AImage.Item1
+		Graph=Item.Container1
+	}
+}

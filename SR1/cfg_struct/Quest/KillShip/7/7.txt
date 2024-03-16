@@ -1,0 +1,8 @@
+End=<Ranger>, you were too late! Even though you killed Rangol, he had already destroyed liner "Anhenih". This happened a day after you departed. This is a tragedy for the people of <FromPlanet>! Regretfully, this is surely going to have negative consequences for our relations with Gaalians.
+End=Of course, we realise that you just could not get there on time. Since you have still completed the mission, we are paying you <Money> cr. Thank you for your help, <Ranger>.
+PlanetRace=Fei
+ShipRace=Peleng
+ShipType=Pirate
+Start=Our psy-centre used to investigate an especially aggressive character, a Pelengan pirate Rangol. And recently Gaalians persuaded him to take part in their program for correcting pirate behaviour by labour therapy and offered him a contract for escorting their liner "Anhenih". A delegation of our compatriots is on this liner. We have already protested using such irrational and violent subject in escorting civil ships. According to our data, Rangol is 87 per cent likely to destroy the liner himself. But of course Gaalians wouldn't listen.
+Start=We cannot accept such developments so we suggest you to destroy Rangol. He uses ship <Ship> and is currently on his way to <InStar>. Act as fast as you can: with every passing minute the danger to the liner increases. If you do it in <Day> days, you can count on getting <Money> cr when you return.
+Status=Warrior

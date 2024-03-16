@@ -1,0 +1,150 @@
+Bitmap {
+	UnitPath1=data\UnitPath1.png
+	UnitPath2=data\UnitPath2.png
+	UnitPathEnd_0=data\UnitPathEnd_0000.png
+	UnitPathEnd_1=data\UnitPathEnd_0001.png
+	UnitPathEnd_2=data\UnitPathEnd_0002.png
+	UnitPathEnd_3=data\UnitPathEnd_0003.png
+	UnitPathEnd_4=data\UnitPathEnd_0004.png
+	UnitPathEnd_5=data\UnitPathEnd_0005.png
+	UnitPathEnd_6=data\UnitPathEnd_0006.png
+	LandingRus=data\LandingRus.png
+
+    Ship {
+        Player {
+            Normal=data\Ship1.png
+        }
+        Ranger {
+            Normal=data\Ship2.png
+        }
+        Trader {
+            Normal=data\Ship3.png
+        }
+		Equipment1=data\ShipEquipment1.png
+		MapShip1=data\MapShip1.png
+    }
+    Star {
+        Star1=data\star1.png
+        Star2=data\star2.png
+        BG1=data\stars_1.jpg
+		BG2=data\stars_2.jpg
+		MapStar1=data\MapStar1.png
+		GalaxyStar1=data\GalaxyStar1.png
+    }
+    Planet {
+        Planet1=data\Planet1.png
+		Planet2=data\Planet2.png
+		PlanetBut1=data\PlanetBut1.png
+		PlanetBut2=data\PlanetBut2.png
+        PlanetLight32=data\PlanetLight32.png
+        PlanetLight80=data\PlanetLight80.png
+        PlanetLight100=data\PlanetLight100.png
+        PlanetMask80=data\PlanetMask80.png
+        PlanetMask100=data\PlanetMask100.png
+		MapPlanet1=data\MapPlanet1.png
+    }
+	Items {
+		Item1_0=data\items\I1_0000.png
+		Item1_1=data\items\I1_0001.png
+		Item1_2=data\items\I1_0002.png
+		Item1_3=data\items\I1_0003.png
+		Item1_4=data\items\I1_0004.png
+		Item1_5=data\items\I1_0005.png
+		Item1_6=data\items\I1_0006.png
+		Item1_7=data\items\I1_0007.png
+		C1_00=data\items\C1_0000.png
+		C1_01=data\items\C1_0001.png
+		C1_02=data\items\C1_0002.png
+		C1_03=data\items\C1_0003.png
+		C1_04=data\items\C1_0004.png
+		C1_05=data\items\C1_0005.png
+		C1_06=data\items\C1_0006.png
+		C1_07=data\items\C1_0007.png
+		C1_08=data\items\C1_0008.png
+		C1_09=data\items\C1_0009.png
+		C1_10=data\items\C1_0010.png
+		C1_11=data\items\C1_0011.png
+		C1_12=data\items\C1_0012.png
+		C1_13=data\items\C1_0013.png
+		C1_14=data\items\C1_0014.png
+		C1_15=data\items\C1_0015.png
+		MapContainer1=data\MapContainer1.png
+	}
+	Cursor {
+		Arrow_00=data\Cursor\Arrow1_0000.png
+		Arrow_01=data\Cursor\Arrow1_0001.png
+		Arrow_02=data\Cursor\Arrow1_0002.png
+		Arrow_03=data\Cursor\Arrow1_0003.png
+		Arrow_04=data\Cursor\Arrow1_0004.png
+		Arrow_05=data\Cursor\Arrow1_0005.png
+		Arrow_06=data\Cursor\Arrow1_0006.png
+		Arrow_07=data\Cursor\Arrow1_0007.png
+		Arrow_08=data\Cursor\Arrow1_0008.png
+		Arrow_09=data\Cursor\Arrow1_0009.png
+		Arrow_10=data\Cursor\Arrow1_0010.png
+		Arrow_11=data\Cursor\Arrow1_0011.png
+		Arrow_12=data\Cursor\Arrow1_0012.png
+		Arrow_13=data\Cursor\Arrow1_0013.png
+		Arrow_14=data\Cursor\Arrow1_0014.png
+		Arrow_15=data\Cursor\Arrow1_0015.png
+	}
+    Background {
+        BG1=data\bg.jpg
+		Stone=data\bg3.bmp
+		Wave=data\bg4.jpg
+		Steel=data\bg5.jpg
+    }
+    Interface {
+        Game {
+            BG=data\bg.jpg
+        }
+        BG1=data\bg3.bmp
+        BG2=data\bg4.jpg
+		BGMessageBox=data\stars_1.jpg
+		Panel1=data\Panel1.png
+		PanelShip=data\PanelShip2.png
+		Bin=data\Bin.png
+    }
+	Alloy {
+		01n=data\Alloy\01_n.png
+		01a=data\Alloy\01_a.png
+		01h=data\Alloy\01_h.png
+		02n=data\Alloy\02_n.png
+		02a=data\Alloy\02_a.png
+		02h=data\Alloy\02_h.png
+		03n=data\Alloy\03_n.png
+		03a=data\Alloy\03_a.png
+		03h=data\Alloy\03_h.png
+		04n=data\Alloy\04_n.png
+		04a=data\Alloy\04_a.png
+		04h=data\Alloy\04_h.png
+		05n=data\Alloy\05_n.png
+		05a=data\Alloy\05_a.png
+		05h=data\Alloy\05_h.png
+		06n=data\Alloy\06_n.png
+		06a=data\Alloy\06_a.png
+		06h=data\Alloy\06_h.png
+		07n=data\Alloy\07_n.png
+		07a=data\Alloy\07_a.png
+		07h=data\Alloy\07_h.png
+		08n=data\Alloy\08_n.png
+		08a=data\Alloy\08_a.png
+		08h=data\Alloy\08_h.png
+		09n=data\Alloy\09_n.png
+		09a=data\Alloy\09_a.png
+		09h=data\Alloy\09_h.png
+		10n=data\Alloy\10_n.png
+		10a=data\Alloy\10_a.png
+		10h=data\Alloy\10_h.png
+	}
+
+	Jump=data\Jump.jpg
+	Jump1=data\Jump1.jpg
+}
+
+Style=cfg\CD_Style.txt {
+}
+
+Font {
+    Normal=data\font\normal.fnt
+}

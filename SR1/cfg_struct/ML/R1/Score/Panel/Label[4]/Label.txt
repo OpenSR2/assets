@@ -1,0 +1,5 @@
+AlignX=Right
+Font=Font.1Normal
+Name=I2
+Pos=384,149,2
+Size=277,42

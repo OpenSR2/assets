@@ -1,0 +1,4 @@
+Name=PS_W1I
+Pos=19,25,7
+Size=44,44
+Sme=0,0

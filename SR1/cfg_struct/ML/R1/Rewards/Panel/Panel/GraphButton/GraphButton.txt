@@ -1,0 +1,9 @@
+Auto=Size
+ImageDown=GI,Bm.SI.1But2CancelD
+ImageNormal=GI,Bm.SI.1But2CancelN
+ImageNormalA=GI,Bm.SI.1But2CancelA
+Kind=Normal
+KindHit=Rect
+MouseBlocking=True
+Name=ButExit
+Pos=354,383,-6

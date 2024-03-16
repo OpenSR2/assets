@@ -1,0 +1,12 @@
+ActiveBarY=True
+ExternalSB=True
+Label=Label\Label.txt ^{
+}
+MoveWorld=True
+Name=TextScroll
+Pos=120,26,4
+PosAutoBarY=False
+RectBarY=385,26,398,155
+Size=260,130
+StyleBarY=Style.ScrollBar.1V0
+UnlimitedWorld=False

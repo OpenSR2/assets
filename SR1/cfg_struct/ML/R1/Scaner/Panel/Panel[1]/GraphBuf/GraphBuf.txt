@@ -1,0 +1,3 @@
+Name=InfoImage2
+Pos=12,13,8
+Size=30,30
