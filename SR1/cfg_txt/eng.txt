@@ -1,0 +1,3980 @@
+1DemoEdit=Cfg\Eng\1DemoEdit.txt
+2Demo=Cfg\Eng\2Demo1.txt
+2Demo=Cfg\Eng\2Demo2.txt
+2Demo=Cfg\Eng\2Demo3.txt
+2Demo=Cfg\Eng\2Demo4.txt
+2Demo=Cfg\Eng\2Demo5.txt
+2DemoEdit=Cfg\Eng\2DemoEdit.txt
+Asteroid ^{
+    Name=Asteroid -<Number>-
+    Text=Moving at speed <Speed> units
+    Text=Mineral content up to <Count> units
+}
+CaseConv ^{
+    a=A
+    b=B
+    c=C
+    d=D
+    e=E
+    f=F
+    g=G
+    h=H
+    i=I
+    j=J
+    k=K
+    l=L
+    m=M
+    n=N
+    o=O
+    p=P
+    q=Q
+    r=R
+    s=S
+    t=T
+    u=U
+    v=V
+    w=W
+    x=X
+    y=Y
+    z=Z
+    а=А
+    б=Б
+    в=В
+    г=Г
+    д=Д
+    е=Е
+    ж=Ж
+    з=З
+    и=И
+    й=Й
+    к=К
+    л=Л
+    м=М
+    н=Н
+    о=О
+    п=П
+    р=Р
+    с=С
+    т=Т
+    у=У
+    ф=Ф
+    х=Х
+    ц=Ц
+    ч=Ч
+    ш=Ш
+    щ=Щ
+    ъ=Ъ
+    ы=Ы
+    ь=Ь
+    э=Э
+    ю=Ю
+    я=Я
+}
+Constellations ^{
+    Name ^{
+        0=Теka
+        1=Лей
+        10=Кэт6
+        11=Кэт7
+        12=Кэт8
+        13=Кэт9
+        14=Кэт10
+        15=Кэт11
+        16=Кэт12
+        17=Кэт13
+        18=Кэт14
+        19=Кэт15
+        2=Элум
+        20=Кэт16
+        3=Фа
+        4=Кэт
+        5=Кэт1
+        6=Кэт2
+        7=Кэт3
+        8=Кэт4
+        9=Кэт5
+    }
+}
+DifLevel ^{
+    Name ^{
+        0=Trainig
+        1=Easy game
+        2=Normal game
+        3=Expert mode
+    }
+}
+Economy ^{
+    Name ^{
+        0=Agricultural
+        1=Mixed
+        2=Industrial
+    }
+}
+FormCfgSettings ^{
+    AnimGov=Animated government:
+    AnimHangar=Animated hangar:
+    AnimItem=Animated equipment:
+    AnimShip=Animated ships:
+    AnimShipFull=Full
+    AnimShipSmall=Restricted
+    AnimStar=Animated stars:
+    BGImage=Background:
+    CacheSize=Cache size (Mb):
+    Cancel=Cancel
+    CircleAction=Advanced action radius:
+    CountFilmSave=Days in movie:
+    Lang=Language:
+    Music=Music:
+    MusicInSpace=Music in space:
+    MusicVolume=Music volume:
+    No=No
+    Ok=Apply
+    Resolution=Resolution:
+    Resolution1024=1024x768
+    Resolution800=800x600
+    ScrollSpeed=Scrolling speed:
+    ShowFPS=FPS:
+    Sound=Sounds:
+    SoundInSpace=Sounds in space:
+    SoundVolume=Sound volume:
+    SpaceImage=Nebulae:
+    SputnikShow=Satellites:
+    Yes=Yes
+}
+FormGS ^{
+    Buy=Buying
+    Count=Quantity
+    NotPermitGoods=Make a contraband deal?
+    Sell=Selling
+    Sum=Cost
+}
+FormGalaxy ^{
+    Distance=Distance:
+    Exit=Exit
+    Jump=Jump
+    NotFuel=Not enough fuel
+}
+FormGameEnd ^{
+    Loss=You dead ana lose. Thanks for game.
+    Ok=Ok
+    Win=Congratulations! Machpella dead. You won!!!
+}
+FormGameMenu ^{
+    Exit=Exit
+    Load=Load
+    QExit=Exit the game?
+    Resume=Resume
+    Save=Save
+    Settings=Settings
+}
+FormGameSet ^{
+    Fei ^{
+        Pirate=I'm <Name>, I specialise in drug trafficking. By becoming a ranger, I hope to get more clients.
+        Trader=I'm <Name> and I'm ready to abandon my business to become a ranger and save the Galaxy.
+        Warrior=I'm called <Name>. As a new ranger, I promise to do my part in fighting Klissans.
+    }
+    Gaal ^{
+        Pirate=My name's <Name> and I hope that, once I'm a ranger, I'll become a responsible and law-abiding citizen.
+        Trader=Clearing star space has always been an important mission for my race. I'm <Name> and I'm going to really clean it up now that I've become a ranger.
+        Warrior=Gaalian civilisation's values have always been a target for our enemies. But I, a warrior by name <Name>, have always been protecting my people. It's an honour for me to become a ranger.
+    }
+    Maloc ^{
+        Pirate=My name is <Name>. I rip through time and space. I'm ready to become a ranger, for glory and profit.
+        Trader=I, <Name>, have long been engaged in trading, real shame for a Maloq. But now I want to rehabilitate myself by becoming a ranger and proving that I am still worth something.
+        Warrior=I'm called <Name> and I've been thrown out of regular army, for constant drinking and fights. I want to take part in the military action, if only as a ranger.
+    }
+    Peleng ^{
+        Pirate=I'm <Name> and I lost my ship after attacking a Human passenger liner. I've heard that rangers get free brand-new ships... Gimme the fastest one please.
+        Trader=Today I, <Name>, have decided to become a ranger in order to get richer by getting a free Commonwealth ship.
+        Warrior=My name is <Name>, 20 years ago I tricked Maloqi fleet into a trap, they were surrounded and I became a national hero. I think I could use the same tactics with Klissans. At least, it's worth a try.
+    }
+    People ^{
+        Pirate=I'm a well known pirate <Name>. I was born on planet Earth in 2978. I want to become a ranger to get a licence for killing and robbery.
+        Trader=I'm a humble realtor, my name is <Name>. I cannot sleep well while I know that Klissans are conquering our Galaxy. I want to help our army.
+        Warrior=I'm <Name>. I'm an old soldier and I left the army long ago. I've got nothing to lose, so I want to become a ranger and drive Klissans out of our Galaxy.
+    }
+}
+FormGov ^{
+    AfterPlayerTakeQuest=Мы заключили сделку. Постарайтесь выполнить условия договора в срок.
+    BuyMap ^{
+        GovAfterNo=Если не устраивает цена, обратитесь в другое место. :-(
+        GovAfterOk=Информация о координатах звездных системах передана на ваш терминал. Ваши звездные карты обновлены.
+        GovAfterOk=Что-нибудь еще?
+        GovAsk=Мы можем предложить вам карту созвездия <Name> всего за <Money> cr. Берете ?
+        I_BuyMap=Приобрести звездную карту
+        PlayerNO=Спасибо, обойдусь
+        PlayerOk=Да, конечно
+    }
+    CheckQuest ^{
+        Difficult=Тяжелей условия, зато больше вознаграждение.
+        Easy=Чем легче условия, тем меньше будет вознаграждение.
+    }
+    DontQuest ^{
+        Distrust=Мы заключаем сделки только с теми рейнджерами, с которыми имеем отличные отношения. Вы можете внести на наш счет деньги, чтобы быстро исправить свою репутацию на нашей планете.
+        KlingInSystem=На нашу систему напали клисаны! Пока ты здесь прохлаждаешься, другие корабли на орбите погибают. Ты должен срочно вступить в бой!
+        WeDontHaveQuest=Сейчас у нас нет для вас заданий. Возможно, что-нибудь появится завтра.
+        YouHaveQuest=Вы еще не выполнили наше предыдущее задание. Не теряйте времени.
+    }
+    Enter ^{
+        Relation ^{
+            Bad=Ваша деятельность, <Ranger>, нас отнюдь не вдохновляет. Вам запрещается заниматься какой-либо коммерческой деятельностью на нашей планете.
+            Best=Всегда рады вас видеть, <Ranger>. Хотите кофейку или секретное задание?
+            Good=Для нас честь видеть вас здесь, <Ranger>!
+            Normal=С чем пожаловали, господин <Ranger>?
+            Normal=Может, хотите обворовать нас, а?
+            War=К вашему сведению, <Ranger>, мы находимся в состоянии войны. Мы сейчас как раз думаем над тем, как вас казнить, пока вы не успели улететь.
+        }
+    }
+    I_AfterScript=Что хотите ?
+    I_Bribe=Дать взятку
+    I_BribeNo=Нет
+    I_BribeYes=Платить
+    I_Continue=Продолжить
+    I_Exit=Пока
+    I_QueryQuest=Есть ли для меня задание?
+    I_QuestAccept=Я берусь за это задание
+    I_QuestDifficult=Потруднее
+    I_QuestEasy=Полегче
+    I_QuestReject=Мне надо подумать
+    PlayerDontTakeQuest=Нет проблем.
+    Relation=Отношение:
+    Relations ^{
+        AlreadyGoodRelations=Куда же нам еще улучшать отношения? :-)
+        DontHaveMoney=Чтобы поднять отношение до <Relation>, вам надо иметь <Money>  cr.
+        Question=Чтобы отношение к вам мы могли расценивать как <Relation>, вы должны заплатить <Money> cr.
+    }
+}
+FormHangar ^{
+    AnswerCancel=Я передумал
+    AnswerFullTanks=Полный бак, пожалуйста
+    AnswerNotMoney=У меня нет таких денег
+    AnswerRepairHull=Плачу
+    AnswerSmallMoney=Залейте мне на <Money> cr
+    Damaged=damaged
+    DispatcherRefuel=Дозаправка обойдется вам в <Money> cr
+    DispatcherRepairHull=Починка корпуса обойдется вам в <Money> cr
+    EmptyFuelTanks=empty
+    Good=ок
+    I_Planet=Exit hangar
+    I_Refuel=Refuel
+    I_TakeOff=Take off
+    NeedAdditionalFuel=Refuelling recommended
+    NeedFuel=Ship needs refuelling
+    NonEngine=Engine not installed
+    NonFuelTanks=Fuel tanks not installed
+    ShipOvercharging=Ship overloaded
+    ShipOvercharging=You have to leave part of your cargo
+    ShipReady=Ship ready to take off
+    TestAllEqupments=Testing all systems:
+    Total=Result:
+}
+FormIntroduction ^{
+    Fei=    Our Galaxy is now at the very edge of chaos: Klissans, unknown aggressors have already entered our borders. Unfortunately, we do not know what they want, we do not know how numerous they are or even what technology they possess. We have decided not to rely solely on regular army, and thus Galaxy Council forms regiments of volunteers, space rangers. In the capacity of one of them you, <Player> are given a difficult but realistic task of finding out weak spots of Klissans and the right strategy for destroying them, and therefore put an end to their aggression.
+    Fei=    You have the right to be engaged in any form of commercial activity, so that you have no problems in acquiring the products of new technology. A special information system has been developed to serve as a tool for coordinating the activity of all rangers. Be sure to use it often, it will help you to make right decisions. Be careful and thoughtful; remember that you cannot achieve everything by force only.
+    Fei=    There are still lots of criminals out in space, especially among the pesky Pelengs. Do not waste an excellent opportunity to free the Galaxy from such embarrassing phenomena. Strive to bring good to your people and the Commonwealth with all your heart. You are possibly their last hope.
+    Gaal=    At the borders of the Galaxy an unexpected danger has been reported: Klissans. So far, our information about them is limited to a bare minimum, and it does not allow any inferences as to their objectives or abilities. We cannot tell yet how to counteract them. At present, Galaxy Council has taken a decision to call for volunteers, space rangers, whose task will be to stop Klissans.
+    Gaal=    <Player>, your goal in the beginning will be to find the most adequate way to conduct military action against Klissans. In order for you to be able to improve your ship's equipment you get the right to be engaged in interplanetary trade as well as any other legal activities.
+    Gaal=    While the universal solution is unavailable, make your actions suited to tactical requirements. Be sure to use information centers for coordinating your action with the progress of other rangers. It is possible that you will be able to find a peaceful solution to the problem and there will be no more unnecessary casualties. In any case, remember that you are fully bound by the commitment to defend Galaxy from the aggressors.
+    Gaal=    The peoples of the Commonwealth do not want to live in peace with each other, however, you as a son of the oldest civilization should make every effort to be above petty political and racial quarrels. Respect the dignity of all ships and citizens, with no exception. However, if you see someone to cinically disregard the space law, you have the full right to bring them to justice.
+    Gaal=    Good luck, <Player>!
+    Maloc=    The world is in deadly danger. The whole Commonwealth of intelligent races seeks the ways for counteracting unknown enemy by the name of Klissans. According to the decision of Galaxy Council, you join the ranks of hundreds of other volunteers who will henceforth be known as space rangers. This is indeed a title of honor, but also a great responsibility.
+    Maloc=    At present, no effective means of stopping Klissans have been found. Their technology is much more advanced than ours, and it is likely that they exceed us in numbers. We do not know their principles of development or even their objectives. You have to find the answers to these questions, develop the tactics for destroying their ships and find a way to exterminate their civilization.
+    Maloc=    In order for you to be able to accomplish these objectives, we give you a free trade licence, which will enable you to replenish your finance. Trade is dirty work, we are aware of that, but in addition to that you also have the right to destroy pirate ships that violate the laws of our civilization. Our information centers will supply you with information on other rangers. Besides, you have the right to negotiate with representatives of other civilizations.
+    Maloc=    Serve your people well, treasure the honor of Maloq and be sure to help our ships in need. We will follow your actions closely, and hope that it is you, <Player>, who is going to become our Hero.
+    MsgCreateWorld=Creating universe, please wait...
+    Ok=Start game
+    Peleng=    Most races in our Galaxy believe that Klissans, these enigmatic aggressors, present a threat to the existence of the whole Commonwealth. Though we know very little of them, it is evident that they are in possession of significant military force. Even if this is indeed so, our fleets are surely quite adequate to deal with them.
+    Peleng=    However, Galaxy Council decided to be safer than safe and gave a call for volunteer fighters, space rangers, to go against Klissans. <Player>, here you have an excellent opportunity to show your personal abilities. Your objective is to find out what the weak spots of Klissans are and assist our regular regiments in destroying the enemy. If you wish, you can find out all about action of other rangers in the specialized information centers.
+    Peleng=    The finance is going to be no problem. You are free to conduct any kind of commercial activity. However, should the circumstances allow it, be flexible with the law. In short, act as a true Peleng. Try to use the potential of the new situation to bring prosperity to your people: only if we are together, we will achieve success in this cruel galactic community, where there are enemies behind every asteroid ring. The Commonwealth is still dominated by Humans and Fayeans, but we believe that if you manage to jump ahead of them and destroy Klissans all by yourself, our race will finally gain a worthy place in the Galaxy. Good luck, <Player>!
+    People=    The peoples of the Galaxy have encountered an unknown enemy, Klissans. We do not know anything either about their abilities or intentions. The attempts to negotiate resulted in failure.
+    People=    <Player>, you are now entering the force of space rangers, volunteer fighters, upon whom great hope is placed by Galaxy Council. From this moment your most important objective is to find out the ways of conducting effective combat against Klissans, develop effective tactics and then destroy the enemy. In order to be able to modernize your ship's equipment, you get a free hand in trade activity and financial operations.
+    People=    Remember, for achieving the ultimate goal all the rangers have to work in coordination, and we have created specialized information centers to serve this end. The general cause is all-important, and not just individual success. So do not be too ambitious, but be wise and diplomatic, seek active interaction with other civilizations and rangers. Should the circumstances permit you restrain pirates, however, this will be a valuable service to law enforcement ships.
+    People=    Remember that being a ranger is a huge responsibility. Be honest while trading, respect the laws of your race and those of all others. The Humanity counts on you. Good luck!
+}
+FormMain ^{
+    About=Credits
+    Demo=Demo
+    Exit=Exit
+    Help=Help
+    Load=Load
+    MsgExit=Exit the program?
+    New=New game
+    Options=Settings
+    Rekord=Hall of fame
+}
+FormQuest ^{
+    ButQuest=Missions
+    CountDay=Days left: <Day>
+    CurQuest=Current missions
+    Exit=Close
+    OldQuest=Past missions
+}
+FormSaveManager ^{
+    Cancel=Cancel
+    CaptionLoad=Load game
+    CaptionSave=Save game
+    Load=Load
+    LoadError=Game loading error
+    Save=Save
+    SaveError=Game saving error
+}
+FormShip ^{
+    Drop=drop
+    Repair=repair
+    RepairMsg=Want to repair <Name> for <Price> cr?
+    Sell=sell
+    SellItem=Want to sell %s for %d cr?
+    ThrowEngineError=You cannot drop the engine
+    ThrowFuelTanksError=You cannot drop the fuel tank
+    ThrowItem=Want to drop %s?
+    Use=use
+    UseADef=Artefact def text
+    UseASpeed=Artefact speed text
+    UseATranc=Artefact tranclucator text
+    UseATrans=Artefact transmitter text
+}
+FormShop ^{
+    Buy=Would you like to buy <Item>?
+    NoMoney=Not enough money
+    NoSize=Not enough free volume
+}
+GalaxyNews ^{
+    Globals ^{
+        KlingTakeSystem=Attention!
+        KlingTakeSystem=The Klissans has captured system <Star>.
+        LiberationSystem=Klissans are driven from <Star> system! All ships that have taken part in the operation, please land on <Planet> for official reward ceremony.
+    }
+    Quest ^{
+        Failure ^{
+            DeadDefShip=The ship <Ship> guarded by you has died in system <Star>. As a result you <Player> have not fulfilled the contract terms and infamized your name among those people.
+            DeadShipInDefSystem=In the system <Star> guarded by you there have died a ship <Ship>. As a result you <Player> have not completed the contract terms with planet <Planet>
+            Time=The time provided for the mission of planet <Planet> has expired, the contract is abandoned.
+        }
+        Successful ^{
+            DefShip=The contract on guarding ship <Ship> completed. You <Player> may head for your money to <Planet>.
+            DefSystem=According to the contract with planet <Planet> you <Player> have successfully completed your task on guarding ships in system <Star>. Now you have to take your money.
+            KillShip=Contract with planet <Planet> completed. Ship <Ship> is destroyed according to the time limits and you <Player> may have your reward.
+            PlanetaryQuest=<Player>, you have successfully completed the mission on <ToPlanet> and now may go for your reward to <FromPlanet>.
+        }
+    }
+    RangersCenters ^{
+        Create=Внимание всем рейнджерам:
+        Create=По многочисленным заявкам открылся новый центр рейнджеров в системе <Star>. Производится автоматическое обновление информации у всех владельцев галактических карт. Спасибо за внимание.
+    }
+}
+Goverment ^{
+    Type ^{
+        0=Анархия
+        1=Диктатура
+        2=Монархия
+        3=Республика
+        4=Демократия
+    }
+}
+Help ^{
+    ButFilm=Movie
+    ButGalaxy=Galaxy map
+    ButGoods=Trade center
+    ButGov=Government
+    ButHangar=Hangar
+    ButInfo=Information center (not available)
+    ButLogo=Menu
+    ButPlanet=Planet
+    ButQuest=Mission log
+    ButScaner=Scan ship (<color=255,255,0>S</color>)
+    ButSelAllWeapon=Select all weapons (<color=255,255,0>~</color>)
+    ButShip=Ship
+    ButShop=Equipment shop
+    ButShowWeapon=Show/hide weapon
+    ButTalk=Talk to ship (<color=255,255,0>T</color>)
+    ButTurn=End of turn
+    ButW0=Weapon <color=255,255,0>1</color>
+    ButW1=Weapon <color=255,255,0>2</color>
+    ButW2=Weapon <color=255,255,0>3</color>
+    ButW3=Weapon <color=255,255,0>4</color>
+    ButW4=Weapon <color=255,255,0>5</color>
+    LabelDate=Current date
+    LabelFreeSpace=Free volume onboard ship
+    LabelMoney=Money
+}
+Items ^{
+    ArtefactAnalyzer ^{
+        Broken=(не работает)
+        BrokenInBattle=Внимание! Прямое попадание повредило несколько блоков бортовых систем. Вероятностный анализатор более не функционирует. Вам придется принимать решения без его помощи, до тех пор, пока он не будет переинсталлирован.
+        BrokenInUse=Программа вероятностного анализатора совершила недопустимую операцию и будет закрыта. Вам придется принимать решения без его помощи, до тех пор, пока он не будет переинсталлирован.
+        Description=Вероятностный анализатор позволяет с высокой точностью предсказывать исход боев. Инсталлируется в бортовую систему корабля.
+        Name=Вероятностный анализатор
+        Text=Рассчитывает вероятность победы над противником
+        TextToRadar=Вероятность победы: <ChanceToWin>%
+    }
+    ArtefactAntigrav ^{
+        Broken=(испорчен)
+        BrokenInBattle=Антигравитатор не выдержал колебаний силовых полей во время боя и вышел из строя.
+        BrokenInUse=Подошел к концу эксплуатационный срок антигравитатора. Он нуждается в ремонте.
+        Description=Антигравитатор - устройство, создающее пузырь, в который нагнетается отрицательная кинетика по принципу Гнука-Эйнштейна. Внутри пузыря константы массы и объема искривляются.
+        Name=Антигравитатор
+        Text=Создает собственное гравитационное поле, уменьшая фактическую массу корабля
+    }
+    ArtefactBomb ^{
+        Broken=not use
+        BrokenInBattle=not use
+        BrokenInUse=not use
+        Description=Кварковая бомба - крайне дорогое устройство, начиненное невероятно разрушительной смесью. Бомбу следует выбросить из корабля, максимально отдалиться и взорвать одним выстрелом. Далее действуйте по обстоятельствам (если, конечно, останетесь живы).
+        Name=Кварковая бомба
+        Text=При взрыве наносит всем материальным объектам значительные повреждения.
+    }
+    ArtefactDef ^{
+        Broken=(не работает)
+        BrokenInBattle=В бою была сбита фокусировка поляризатора. Электроны, смешавшись с защитным полем, нейтрализуют его, оставив корабль без защиты. Требуется срочное вмешательство специалистов.
+        BrokenInUse=Внимание! Сломан поляризатор. Его электроны, поменяв свой импульс, смешались с защитным полем и нейтрализуют его. Корабль остался без защиты.
+        Description=Это уникальное устройство - источник высокоактивных субатомных систем, которые взаимодействуют с защитным полем и усиливают его.
+        Name=Поляризатор
+        Text=Испускает электроны, усиливающие защитное поле
+    }
+    ArtefactDroid ^{
+        Broken=(испорчен)
+        BrokenInBattle=Внимание! Младший дроид был поврежден в бою. Требуется ремонт.
+        BrokenInUse=Младший дроид долго работал в невыносимых условиях и сломался. Требуется ремонт.
+        Description=Младший дроид - облегченный вариант основного дроида, при помощи специальной системы синхронизации подключаемый к общему кабелю. Работает вместе с основным дроидом, ускоряя в результате скорость ремонтных работ на корабле.
+        Name=Дроид младший
+        Text=Помогает старшему дроиду восстанавливать корпус корабля
+    }
+    ArtefactFuel ^{
+        Broken=(ресурс исчерпан)
+        BrokenInBattle=Ужас! Вражеский выстрел попал прямо в черную жижу. Топливо более не прибавляется.
+        BrokenInUse=Черная жижа исчерпала свои ресурсы. Необходимо заправить ее. Но чем?
+        Description=Черная жижа - смесь, полученная учеными древности. Формула черной жижы безвозвратно утеряна, но несколько порций до сих пор находятся в Галактике. Помещенная в топливный бак, действует как катализатор - количество топлива постепенно увеличивается.
+        Name=Черная жижа
+        Text=Вырабатывает топливо, постепенно наполняя топливный бак
+    }
+    ArtefactHook ^{
+        Broken=(нормально не функционирует)
+        BrokenInBattle=В бою с эриметра был сбит поляризующий наконечник. Устройство вышло из строя и мешает функционированию захвата.
+        BrokenInUse=Длительная эксплуатация эриметра подошла к концу. Он срочно требует ремонта, так как мешает функционированию захвата.
+        Description=Фокусирует луч захвата, благодаря чему его направленность резко сужается, и КПД увеличивается. В итоге луч захвата может притягивать предметы с массой больше расчетной.
+        Name=Эриметр
+        Text=Позволяет лучу захвата притягивать предметы с массой больше расчетной
+    }
+    ArtefactHull ^{
+        Broken=(жупи в коме)
+        BrokenInBattle=Матка ваших жупи была повреждена в бою. Колония более не размножается. Вылечить матку жупи может только чудо.
+        BrokenInUse=Матка жупи тяжело заболела. Колония более не размножается. Говорят, что вылечить матку жупи можно только чудом.
+        Description=
+        Name=Железные жупи
+        Text=Продукты жизнедеятельности жупи укрепляют обшивку корабля
+    }
+    ArtefactHull ^{
+        Broken=(жупи в коме)
+        BrokenInBattle=Матка ваших жупи повреждена в бою. Колония более не размножается. Вылечить матку может только чудо.
+        BrokenInUse=Матка жупи тяжело заболела. Колония более не размножается. Говорят, что вылечить матку жупи может только чудо.
+        Description=Железные жупи поселяются на обшивке корабля и после внесения питательного раствора начинают выделять жупинум - особый продукт, придающий обшивке прочность и эластичность. Колония контролируется и пополняется маткой.
+        Name=Железные жупи
+        Text=Колония железных жупи во главе с маткой укрепляет корпус корабля
+    }
+    ArtefactMiniExpl ^{
+        Broken=(не функционирует)
+        BrokenInBattle=Внимание! В бою был задет и поврежден локализатор взрывной волны. Будет лучше прекратить его эксплуатацию, пока он не локализовал взрывную волну на вашем же корабле.
+        BrokenInUse=В результате долгой эксплуатации в локализатор взрывной волны забилось слишком много космической пыли, и он стал давать сбои. Сервисная программа приняла решение отключить прибор, чтобы случайно он не локализовал взрывную волну на вашем же корабле.
+        Description=При нанесении смертельного выстрела локализатор отводит его энергию на внешнюю поверхность корабля, чтобы при взрыве пострадало как можно меньше оборудования.
+        Name=Локализатор взрывной волны
+        Text=Препятствует разрушению оборудования внутри вражеского корабля
+    }
+    ArtefactNano ^{
+        Broken=(программный сбой)
+        BrokenInBattle=В бою были сбиты программы нанитоидов, и вместо того чтобы чинить корабль, они принялись портить его! Если вы не в состоянии сменить программное обеспечение нанитоидов, то лучше избавиться от них.
+        BrokenInUse=Нанитоиды исправно чинили ваше оборудование, но вы забыли об их продвинутом программном интеллекте. Среди популяции появились особо развитые особи, не желающие работать даром. Они не только прекратили свою работу, но стали причинять вред, используя ваше оборудования в собственных корыстных целях. Вам следует как можно быстрее очистить банки памяти нанитоидов, пока они не захватили весь корабль.
+        Description=Интеллектуально развитые миниатюрные роботы. При помощи уникальной программы способны ремонтировать даже неизвестные им предметы. Постоянно самообучаются и совершенствуются.
+        Name=Нанитоиды
+        RepairItem=Хорошая новость - нанитоиды подлатали <Name>!
+        Text=Мини-роботы, способные восстанавливать поврежденные предметы
+    }
+    ArtefactPower ^{
+        Broken=(перегрелись)
+        BrokenInBattle=Внимание! Двигатель сильно перегрелся в бою. Отморозки не смогли скомпенсировать тепловое излучение и как один собрались в снежный ком. Разморозить их можно только в лабораторных условиях.
+        BrokenInUse=Колония отморозков долгое время пыталась отморозить двигатель, но их усилия были напрасны: двигатель продолжает греть!!! Бросив свою работу, отморозки собрались в снежный ком. Разморозить их можно только в лабораторных условиях.
+        Description=Отморозки - сверххолодные бактерии. Живут на любой теплой поверхности. При помещении колонии на двигателе, стараются охладить его, тем самым стабилизируя скорость корабля в жарком бою.
+        Name=Отморозки
+        Text=Охлаждают любые теплые предметы. Используются как охладители двигателей
+    }
+    ArtefactRadar ^{
+        Broken=(сломан)
+        BrokenInBattle=Внимание! Пролонгер разбился от прямого попадания. Требуется ремонт.
+        BrokenInUse=Пролонгер зашкалило от поступающих сигналов. Вместо усиления сигнала он стал выдавать помехи, поэтому радар переключился на стандартный режим работы. Требуется калибровка основной антенны.
+        Description=Это чрезвычайно продвинутый прибор для увеличения радиуса действия радара. Усиливает и расшифровывает сигналы, поступающие от удаленных объектов
+        Name=Пролонгер
+        Text=Насадка на радар, увеличивающая его радиус действия
+    }
+    ArtefactScaner ^{
+        Broken=(не функционирует)
+        BrokenInBattle=Внимание! Сканерный кэш поврежден в бою, его микросхемы имеют физические повреждения. Устройство более не функционирует и нуждается в ремонте.
+        BrokenInUse=Сканерный кэш работал достаточно долго, и его память полностью заполнена. К сожалению, разработчики не предусмотрели возможность ее периодической очистки. Вам стоит обратиться к специалистам - возможно, им удастся что-то сделать.
+        Description=Сканерный кэш - экспериментальное устройство, разработанное с целью ускорить алгоритмы расшифровки путем кэширования сигналов в режиме реального времени. Имеет собственный буфер, где формирует базу данных по уже расшифрованным типам сигналов.
+        Name=Сканерный кэш
+        Text=Программный усилитель вычислительной мощности сканера
+    }
+    ArtefactSpeed ^{
+        Broken=(сознание вне пространства)
+        BrokenInBattle=Пси-ускоритель не выдержал эмоционального всплеска боя и отсоединился от нашего пространства. Чтобы вернуть его сознание назад, нужно доставить его на научную базу.
+        BrokenInUse=Биоускоритель долго работал на вас. Он устал и отсоединился от нашего пространства. Чтобы вернуть его сознание назад, нужно доставить его на научную базу.
+        Description=При помощи собственного мощного сознания пси-ускоритель настраивается на общую пси-волну с двигателем. Пространство вокруг корабля преобразуется, и обеспечивается лучшая проходимость сквозь любые материальные формы.
+        Name=Пси-ускоритель материи
+        Text=Вступает в психический симбиоз с двигателем, обеспечивая увеличение скорости
+    }
+    ArtefactTranclucator ^{
+        Broken=not use
+        BrokenInBattle=not use
+        BrokenInUse=not use
+        Description=Транклюкатор представляет собой уникальное автономное устройство, предназначенное для защиты хозяина. При выбросе в космос транклюкатор активируется и следит за происходящими вокруг событиями. Если хозяину, по мнению транклюкатора, угрожает опасность, он обрушивает на врага всю свою огневую мощь. Обладателям таких устройств не страшен сам черт, потому что транклюкатор никогда не подводит.
+        Name=Транклюкатор
+        Text=Боевой дроид, защищающий своего хозяина.
+    }
+    ArtefactTransmitter ^{
+        Broken=(разряжен)
+        BrokenInBattle=not use
+        BrokenInUse=Трансмиттер полностью разрядился. Нужны новые клис-батареи.
+        Description=Это крайне ценная вещь, за которую отдали жизни многие рейнджеры. При активации данный прибор передает в подпространство запись голоса умирающего клисана. Слышавшие его клисаны не могут устоять перед вызовом и даже вылетают из подпространства.
+        Name=Подпространственный передатчик
+        Text=Передает в подпространство голос умирающего клисана.
+    }
+    CargoHook ^{
+        BrokenInBattle=Внимание! Во время боя был поврежден захват. Вы не сможете поднимать предметы, пока не отремонтируете его.
+        BrokenInUse=Это было последнее, что вы смогли захватить. Дело в том, что захват износился и требует ремонта.
+        Name=<Type> hook
+        ShortName=Cargo Hook
+        Text=Allows to pick objects of size up to <Size> units
+        Type ^{
+            1=Radiomagnetic
+            2=Rapane
+            3=Gluegen
+            4=Pseudovacuum
+            5=Trek
+            6=Cryomeral
+            7=Telecinetic
+        }
+    }
+    DefGenerator ^{
+        BrokenInBattle=Опасность! Генератор защиты был поврежден прямым попаданием. Защитное поле более не функционирует.  Нужен срочный ремонт!
+        BrokenInUse=Генератор защиты сломался. Надо своевременно производить ремонт.
+        Name=<Type> shield generator
+        ShortName=Shield Generator
+        Text=Blocks <Percent>% of inflicted damage
+        Type ^{
+            1=Dot-line
+            2=Cluster
+            3=Antimeasure
+            4=Vector
+            5=Phleximile
+            6=Screening
+            7=Octogen
+        }
+    }
+    Engine ^{
+        BrokenInBattle=Внимание! Прямое попадание в двигатель вывело его из строя. Рекомендуется выти из боя и на последнем импульсе дотянуть до ближайшей базы.
+        BrokenInUse=Двигатель совсем плох и требует ремонта. Надо своевременно производить ремонт.
+        Name=<Type> engine
+        ShortName=Engine
+        Text=Позволяет развивать скорость до <Speed> единиц и совершать гиперпрыжок на <Parsec> парсек.
+        Type ^{
+            1=Reactor
+            2=Phase
+            3=Impulse
+            4=Cryogen
+            5=Plasma
+            6=Annihilating
+            7=Singular
+        }
+    }
+    Equpments ^{
+        AverageDuration=(более 50% повреждений)
+        Broken=(поломка)
+        SmallDuration=(на грани поломки)
+    }
+    FuelTanks ^{
+        BrokenInBattle=Внимание! Прямое попадание в топливный бак вывело его из строя! Он протекает.
+        BrokenInUse=Топливный бак не выдержал нагрузок и сломался. Рекомендуется совершить посадку и сделать ремонт, т.к. полеты с протекающим топливным баком опасны.
+        LostFuel=Из пробитого бака вытекло немного топлива
+        Name=<Type> fuel tank
+        ShortName=Fuel tank
+        Text=Вместимость бака <MaxFuel>. Количество топлива <Fuel> единиц.
+        Type ^{
+            1=Static
+            2=Inertia
+            3=Collector
+            4=Whirl
+            5=Aquapuncture
+            6=Correlating
+            7=Hyperaquatic
+        }
+    }
+    Goods ^{
+        Name ^{
+            1=Foods
+            2=Medicines
+            3=Electroincs
+            4=Luxury
+            5=Minerals
+            6=Alcohol
+            7=Weapons
+            8=Narcotics
+        }
+        Text ^{
+            1=Various kinds of food in tetrogen packs
+            2=Goods for medical and prophylactic purposes
+            3=Electronics, home and factory equipment
+            4=Precious goods, items of art, and other luxury
+            5=Minerals, precious metals, and other rare elements
+            6=Alcohol drinks and all products of drug nutrition
+            7=All kinds of weapons: hand, infantry, nuclear, mental, etc
+            8=Forbidden gaosteroids and all types of narcotics
+        }
+    }
+    Hull ^{
+        Name=<Type> hull
+        ShortName=Hull
+        Text=Endurance of the hull is <Size> (<MaxSize>) units, cover can block up to <Damage> points of damage
+        Type ^{
+            1=Titan
+            2=Rhenium
+            3=Selenine
+            4=Aquadan
+            5=Octaplax
+            6=Gravicore
+            7=Mesostructural
+        }
+    }
+    Protoplasm ^{
+        Name=Протоплазма
+        Text=Биологическая субстанция. Продукт разложения клисанов.
+    }
+    Radar ^{
+        BrokenInBattle=Внимание! Зафиксировано попадание в радар и он более не функционирует. Нужен срочный ремонт.
+        BrokenInUse=Радар сломался. Надо своевременно производить ремонт.
+        Name=<Type> radar
+        ShortName=Radar
+        Text=Allows to collect information on space objects at distance up to <Radius> mln.km
+        Type ^{
+            1=Animating
+            2=Parametric
+            3=Metadiodic
+            4=Sonar
+            5=Fan
+            6=Full-resolution
+            7=Subtransfer
+        }
+    }
+    RepairRobot ^{
+        BrokenInBattle=Внимание! Дроид поврежден! Он больше не способен чинить обшивку и требует ремонта.
+        BrokenInUse=Дроид перетрудился. У него сгорели все микросхемы. Он требует ремонта.
+        Name=<Type> droid
+        ShortName=Droid
+        Text=Restores <Size> units of damaged ship hull
+        Type ^{
+            1=Rail
+            2=Wheeled
+            3=Servo
+            4=Pneumatic
+            5=Dynamic
+            6=Matrix
+            7=Suspensor
+        }
+    }
+    Scaner ^{
+        BrokenInBattle=Внимание! Прямое попадание в сканер. Он сломан и требует ремонта. Сканирование кораблей не представляется возможным.
+        BrokenInUse=Сканер отработал свой эксплуатационный срок. Требуется ремонт или полная замена.
+        Name=<Type> scanner
+        ShortName=Scanner
+        Text=Scans vessels with defense field less than <Percent>%
+        Type ^{
+            1=Electromagnetic
+            2=Bipolar
+            3=Pixelating
+            4=Tecrane
+            5=Duplex
+            6=Trassion
+            7=Vortex
+        }
+    }
+    SmallInfo=Container
+    Weapon ^{
+        BrokenInBattle=Внимание! Прямое попадание вывело <Name> из строя.
+        BrokenInUse=Во время стрельбы зафиксирована поломка орудия <Name>.
+        Name ^{
+            1=Photon gun
+            10=Field annihilator
+            11=Tachyon blade
+            12=Vortex projector
+            13=Ultimate matrix
+            14=Hellwave
+            15=Eyes of Machpella
+            2=Industrial laser
+            3=Zipgun
+            4=Graviton beamer
+            5=Retractor
+            6=Kelller's phaser
+            7=Aeonic blaster
+            8=X-defibrillator
+            9=Submesonic cannon
+        }
+        Text ^{
+            1=Inflicts <MinDamage>-<MaxDamage> points of damage at range <Radius>
+            10=Creates a field near the target inflicting <MaxDamage> points of damage at range <Radius>
+            11=Cuts the target at range <Radius> inflicting up to <MinDamage>-<MaxDamage> points of damage
+            12=Vortex projector can inflict <MinDamage>-<MaxDamage> points of damage at range <Radius>
+            13=Destroys <MinDamage>-<MaxDamage>% of equipment of all vessels at range <Radius>
+            14=Inflicts <MinDamage>-<MaxDamage> points of damage to all targets at range <Radius>
+            15=Inflicts <MinDamage>-<MaxDamage> points of damage at range <Radius>
+            2=Cracks asteroids at range <Radius>, inflicted damage <MinDamage>-<MaxDamage> units
+            3=Inflicts up to <MaxDamage> points of damage at range <Radius>
+            4=Inflicts <MinDamage>-<MaxDamage> points of damage at range <Radius>
+            5=Slows down movement at <MinDamage>-<MaxDamage>% at range <Radius>
+            6=Inflicts <MinDamage>-<MaxDamage> points of damage at range <Radius>
+            7=Inflicts <MinDamage>-<MaxDamage> points of damage at range <Radius>
+            8=Damages <MinDamage>-<MaxDamage>% of equipment at range <Radius>
+            9=Inflicts <MinDamage>-<MaxDamage> points of damage to both the target and objects surrounding it at range <Radius>
+        }
+    }
+}
+Month ^{
+    01=January
+    02=February
+    03=March
+    04=April
+    05=May
+    06=June
+    07=July
+    08=August
+    09=September
+    10=October
+    11=November
+    12=December
+}
+Planet ^{
+    Civil ^{
+        Info ^{
+            BadDopInfo=You cannot visit:
+            BadDopInfo= - equipment shop
+            BadDopInfo= - trade center
+            BadDopInfo= - information center
+            TextAboutPlanet=Planet: <Planet>
+            TextAboutPlanet=Inhabiting race: <Race>
+            TextAboutPlanet=Population: <Population> mln.
+            TextAboutPlanet=Economic type: <Economy>
+            TextAboutPlanet=Political regime: <Goverment>
+            TextAboutPlanet=Relation towards you: <Relation>
+        }
+    }
+    Kling ^{
+        Info ^{
+            TextAboutPlanet=Planet: <Planet>
+            TextAboutPlanet=Inhabiting race: <Race>
+            TextAboutPlanet=Population: <Population> mln.
+            TextAboutPlanet=Relation towards you: <Relation>
+            TextAboutPlanet=Planet captured by Klissans
+            TextAboutPlanet=Landing impossible
+        }
+    }
+    NotCivil ^{
+        Info ^{
+            TextAboutPlanet=Planet: <Planet>
+            TextAboutPlanet=Developed life forms not registered
+            TextAboutPlanet=No spaceport
+        }
+        QuestPlay ^{
+            MsgContinue=Proceed
+            MsgReplayQuest=Start quest once again
+            MsgSuccess=Quest accomplished with success
+        }
+    }
+}
+PlanetCongratulationsLiberator ^{
+    Fei ^{
+        TextCongratulations=Блестящая схватка, блестящая победа, и имя <Ranger> увековечено в анналах системы <Star>. Мы предполагаем, что вы продолжите вашу деятельность в столь же замечательных традициях. <Reward> - награда, достойная лучших бойцов, и теперь она принадлежит вам.
+    }
+    Gaal ^{
+        TextCongratulations=<Ranger>, мы не смели и сомневаться, что такой отважный лидер, как вы, освободит нашу прекрасную систему. От имени народа системы <Star> позвольте вручить вам награду: <Reward>. Если вы довольны, то и мы счастливы. Спасибо вам, и удачи!
+    }
+    Maloc ^{
+        TextCongratulations=Мы рады приветствовать такого великого воина, как <Ranger>! За освобождение нашей системы <Star> грозные малоки салютуют вам и выдают награду: <Reward>. Для вас это честь, и вам наша благодарность.
+    }
+    Peleng ^{
+        TextCongratulations=<Ranger>, какой замечательный пример героизма и отваги вы подали нашей молодежи! Мы стремимся следовать вашему образцу. За освобождение системы <Star> вы удостаиваетесь награды <Reward>. Пожалуйста, носите на здоровье.
+    }
+    People ^{
+        TextCongratulations=Да здравствует великий воин <Ranger>, разбивший полчища клисанов и освободивший систему <Star>! Мы выражаем вам искреннюю благодарность и признательность. Уверены, что эта награда - <Reward> - точно соответствует вашим талантам.
+    }
+}
+PlanetName ^{
+    Fei ^{
+        1=Aeipentac
+        10=Ahandish
+        11=Onnde
+        12=Ushalla
+        13=Inderon
+        14=Aeimanapolon
+        15=Alganac
+        16=Ummadan
+        17=Aeyfe
+        18=Aeshninc
+        19=Alyanoneeh
+        2=Umeeh
+        20=Egmer
+        21=Itniklei
+        22=Aeidna
+        23=Umartanish
+        24=Asasot
+        25=Unnun
+        26=Igmeirit
+        27=Inclada
+        28=Ammarc
+        29=Uzunie
+        3=Aeilanc
+        30=Irinia
+        31=Aefaimel
+        32=Aidango
+        35=Ihinshe
+        36=Ornalish
+        37=Aemzema
+        38=Asian
+        39=Ilgadac
+        4=Aprish
+        40=Ullialian
+        41=Aizagondin
+        42=Ishgibnul
+        43=Aefmma
+        44=Uccunai
+        45=Aezeban
+        46=Ominena
+        47=Agleia
+        48=Onderansh
+        49=Ulgeuni
+        5=Aeneickal
+        50=Ilgos
+        51=Agunnish
+        52=Aezilenc
+        53=Undanca
+        54=Izhaita
+        55=Oprenin
+        56=Affam
+        57=Ontacalo
+        58=Uditamir
+        59=Upranai
+        6=Aellenta
+        60=Aesshicul
+        61=Angolaio
+        62=Omiala
+        63=Aezhidan
+        64=Uglaha
+        65=Izitrie
+        66=Aelcada
+        67=Alis
+        68=Unganamerun
+        69=Aerpagai
+        7=Omdei
+        70=Apre
+        8=Antibeeh
+        9=Iniand
+    }
+    Gaal ^{
+        1=Gaal-ot
+        10=Goholanah
+        11=Zahah
+        12=Dwedeh
+        13=Redehah
+        14=Pweneh
+        15=Almahan
+        16=Toltigah
+        17=Riholkih
+        18=Udlanah
+        19=Aha-paltehoh
+        2=Zeman
+        20=Zapargah
+        21=Orogen
+        22=Ilohok-aynah
+        23=Prohon
+        24=Enorohin
+        25=Favap
+        26=Liyenayah
+        27=Keyneh
+        28=Ehuruhat
+        29=Calihontoh
+        3=Banaha-init
+        30=Ahashogih
+        31=Sitradeh
+        32=Glasseh
+        33=Otorarah
+        34=Ungal
+        35=Gapoh
+        36=Sholohanih
+        37=Gahilon
+        38=Iltayah
+        39=Silohoh
+        4=Bohoz
+        40=Luputruh
+        41=Zavaih
+        42=Elleh
+        43=Lusyan
+        44=Ongeham
+        45=Avihineh
+        46=Abkhevah
+        47=Ulrint
+        48=Artillig
+        49=Breddeh
+        5=Zoholat
+        50=Swalih
+        51=Rohol
+        52=Danayah
+        53=Gasyain
+        54=Litumiyah
+        55=Danioh
+        56=Elwanah
+        57=Lineh
+        58=Rantonah
+        59=Gainah
+        6=Rahalit
+        60=Siallah
+        61=Aurumeah
+        62=Iasan
+        63=Galtaiah
+        64=Alogleh
+        65=Pudru-oih
+        66=Omakih
+        67=Letamin
+        68=Rantahas
+        69=Gashtik-chinah
+        7=Meder
+        70=Lipa-iuh
+        8=Rohokah
+        9=Menuk
+    }
+    Maloc ^{
+        1=Ramgatru
+        10=Graneqa
+        11=Monglar
+        12=Khanoi
+        13=Trad Rragoe
+        14=Aikharru
+        15=Arraqa Gatroe
+        16=Qnetort
+        17=Gradog
+        18=Ursana Guss
+        19=Mabell
+        2=Arnashta Gorgh
+        20=Oiqnur Badh
+        21=Shega Qrigiz
+        22=Mannire
+        23=Urda Galge
+        24=Mugadun
+        25=Garand
+        26=Umanite
+        27=Ugrar Latoe
+        28=Zunassode
+        29=Arragide
+        3=Pampiri
+        30=Samtaru
+        31=Dagode
+        32=Predide
+        33=Daqott
+        34=Sabezda
+        35=Irgera
+        36=Iruzgartode
+        37=Gont Marin
+        38=Vaxalrant
+        39=Zadlort
+        4=Dradanaziz
+        40=Agmanoire
+        41=Modwan
+        42=Gdulon
+        43=Ellatna Markir
+        44=Zagdite
+        45=Qmertile
+        46=Pran Abnite
+        47=Khazenna
+        48=Wirte
+        49=Innire Aqrenli
+        5=Zentaq
+        50=Qiramas
+        51=Gragodr
+        52=Brobis
+        53=Udwarta
+        54=Raptenti
+        55=Barraqart
+        56=Tristag
+        57=Wagditai
+        58=Aprigga
+        59=Khracundoe
+        6=Orustund
+        60=Berinar Dagga
+        61=Waqtos
+        62=Drashta Rongi
+        63=Gemerte
+        64=Mirroq
+        65=Qudladra
+        66=Zushturre
+        67=Ansher
+        68=Lestag
+        69=Praqinroi
+        7=Tant Tampart
+        70=Garzex
+        8=Gordill Pratt
+        9=Oyder Amarod
+    }
+    None ^{
+        1=Hartis
+        10=Amiclus
+        100=Purkator
+        101=Mepla
+        102=Luncune
+        103=Pustarga
+        104=Backhus
+        105=Saanori
+        106=Jistine
+        107=Azadagra
+        108=Mercatori
+        109=Pinna
+        11=Cinea
+        110=Camut
+        111=Leina
+        112=Bazaar
+        113=Pressimo
+        114=Raptis
+        115=Big Chimek
+        116=Rhice
+        117=Lylashe
+        118=Phiolet
+        119=Brapchor
+        12=Ysasse
+        120=Khanaputra
+        121=Izginya
+        122=Lecalos
+        123=Donsche
+        124=Rapakha
+        125=Daewoo Assorri
+        126=Nuwi
+        127=Vevas
+        128=Tlalak
+        129=Khottashei
+        13=Paraceldoe
+        130=Arnaul
+        131=Dimezda
+        132=Ikka
+        133=Rusimet
+        134=Chakulus
+        135=Chuiki
+        136=Curl
+        137=Punissae
+        138=Drador
+        139=Bashna
+        14=Zharnoo
+        140=Pereplett
+        141=Ibez
+        142=Uchkundin
+        143=Kershi
+        144=Vinette
+        145=Cladis
+        146=Betchus
+        147=Larlori
+        148=Ascasinash
+        149=Zone
+        15=Ranepron
+        150=Sussick
+        151=Dieter
+        152=Robarra
+        153=Prusag
+        154=Luminior
+        155=Avven
+        156=Clacla
+        157=Huberidas
+        158=Dora
+        159=Ezmeralda
+        16=Merisis
+        160=Pinkie
+        161=Ferfex
+        162=Bulba
+        163=Siamin
+        164=Chelemsan
+        165=Xinochi
+        166=Seleu-dangan
+        167=Ernedis
+        168=Pirrikaka
+        169=Zukkar
+        17=Mulnao
+        170=Ziraldak
+        171=Yazanes
+        172=Lensin
+        173=Shlagon
+        174=Vapwuri
+        175=Lamceng
+        176=Jaddha
+        177=Siziphe
+        178=Eleonearch
+        179=Criptyde
+        18=Pkhatee
+        180=Susander
+        181=Bunneius
+        182=Windy
+        183=Silesti
+        184=Rippoe
+        185=Alenga
+        186=Kyanma
+        187=Sushka Pibola
+        188=Trashea
+        189=Dindareh
+        19=Bernut
+        190=Pelempei
+        191=Khorche
+        192=Vangesh
+        193=Dladiu
+        194=Aeh
+        195=Binneri
+        196=Diodar
+        197=Pernep
+        198=Sharcan
+        199=Pritlo
+        2=Calaina
+        20=Yna-vera
+        200=Dudau
+        201=Nenrit
+        202=Eleoriati
+        203=Zekhus
+        204=Smiryana
+        205=Hukhry
+        206=Aeiga
+        207=Mansa-ukash
+        208=Rinoha
+        209=Samma
+        21=Hungana
+        210=Bestis
+        211=Logant
+        212=Creonaru
+        213=Tyuldi
+        214=Zimyash
+        215=Tzy Maripu
+        216=Kalkoo
+        217=Sanapolis
+        218=Bermelae
+        219=Arrole
+        22=Zanland
+        220=Nanarui
+        221=Lozhiman
+        222=Dnea-rangut
+        223=Banaferma
+        224=Ari Flower
+        225=Ashoka
+        226=Sizun
+        227=Minislav
+        228=Gerhedos
+        229=Viypra
+        23=Roksha
+        230=Neonalle
+        231=Fanders
+        232=Bespedeos
+        233=Umchun
+        234=Pereins
+        235=Ruptur
+        236=Xenauphas
+        237=Gerhedas
+        238=Lisnu
+        239=Rratis
+        24=Littie
+        240=Zezden
+        241=Valla Nio
+        242=Cant
+        243=Ramfina
+        244=Naeya
+        245=Bellini
+        246=Purchen
+        247=Shiori
+        248=Dnadzori
+        249=Skwadroe
+        25=Hangadore
+        250=Aplite
+        251=Nastis
+        252=Zaigra
+        253=Vantra Molka
+        254=Peristidu
+        255=Lumpa David
+        256=Tsuloly
+        257=Yakhchar
+        258=Meniu
+        259=Aunnela
+        26=Ukka
+        260=Mayorbek
+        261=Plistin
+        262=Gida
+        263=Sharkhalla
+        264=Murpes
+        265=Phobius
+        266=Barbados
+        267=Murineka
+        268=Hunne
+        269=Zdana
+        27=Getndrop
+        270=Sillis Aulde
+        271=Vanasu
+        272=Uthe Barra
+        273=Pherpsikhena
+        274=Zantre
+        275=Shesha Muneca
+        276=Canai
+        277=Alewcappe
+        278=Zhitnin
+        279=Bach
+        28=Fancore
+        280=Vinivritt
+        281=Calles
+        282=Argema
+        283=Litoe
+        284=Semuna
+        285=Perostit
+        286=Denki
+        287=Cankus
+        288=Pirenei
+        289=Ullacha
+        29=Yalgaza
+        290=Ezhenori
+        291=Diastra
+        292=Irsa
+        293=Kentra
+        294=Shinaharnad
+        295=Benesei
+        296=Vallide
+        297=Sekundus Bralde
+        298=Plosch
+        299=Sikotta
+        3=Unashera
+        30=Peretur
+        300=Leana-mieh
+        31=Ukas Land
+        32=Pransche
+        33=Diamasei
+        34=Zybarracke
+        35=Zhorsho
+        36=Lanca Stratin
+        37=Neglyas
+        38=Lykamwerte
+        39=Eya
+        4=Vang
+        40=Sujim
+        41=Barcag
+        42=Agaslii
+        43=Xarcimus
+        44=Neosfena
+        45=Hard Kore
+        46=Cuchgoon Preserve
+        47=Dipa
+        48=Murenas
+        49=Enzha
+        5=Preston
+        50=Gashich
+        51=Urragack
+        52=Menna Heatsin
+        53=Oshiely
+        54=Changa
+        55=Deep Sand
+        56=Lyka
+        57=Muinuss
+        58=Fargadres
+        59=Punka Ilorre
+        6=Dytola
+        60=Gnades
+        61=Zanma
+        62=Eynalla
+        63=Bek
+        64=Alexania
+        65=Hooku
+        66=Listui
+        67=Arta-lorag
+        68=Gemesda
+        69=Bonnasis
+        7=Uvadol
+        70=Ublarre
+        71=Zheneba
+        72=Caracas Maliora
+        73=Hell
+        74=Paradise
+        75=Purgatory
+        76=Dwada
+        77=Peregon
+        78=Glotkus
+        79=Darzania
+        8=Listin
+        80=Pretun
+        81=Moqwa
+        82=Shun
+        83=Dorris Caga
+        84=Ultiro
+        85=Goric
+        86=Zhintibus
+        87=Savvala
+        88=Liri
+        89=Urgu
+        9=Ussa
+        90=Vestala
+        91=Dlori
+        92=Bgasak
+        93=Cnut
+        94=Finnirive
+        95=Yken Mae
+        96=Khorhi
+        97=Trannbash
+        98=Masta
+        99=Unnamed
+    }
+    Peleng ^{
+        1=Rakhish
+        10=Tziptza
+        11=Zuyagil
+        12=Jemikh
+        13=Silitz
+        14=Ragtz
+        15=Urnikh
+        16=Pitu
+        17=Bokalatz
+        18=Shesha
+        19=Kayakha
+        2=Shukheo
+        20=Shimea
+        21=Zakhot
+        22=Dabozo
+        23=Gargyng
+        24=Chigasha
+        25=Alkhatzyng
+        26=Kheynkharona
+        27=Pang
+        28=Gezhmy
+        29=Valuikh
+        3=Dykaz
+        30=Phychyn
+        31=Gramtzy
+        32=Yokhang
+        33=Ekhenamat
+        34=Siyaz
+        35=Rackhagog
+        36=Presyan
+        37=Lyunta
+        38=Rshanikh
+        39=Apeng
+        4=Rekheshlik
+        40=Zimer
+        41=Upkanta
+        42=Chimgasa
+        43=Detzy
+        44=Gogetzin
+        45=Ufengikh
+        46=Gyshling
+        47=Dotzakur
+        48=Eprakh
+        49=Umargatzin
+        5=Rokrenkha
+        50=Khyng
+        51=Chyng
+        52=Pkhayakha
+        53=Suikhisa
+        54=Echikhmek
+        55=Nutzbasha
+        56=Lenshikh
+        57=Ashyampa
+        58=Ragaikh
+        59=Guykhinang
+        6=Krynyng
+        60=Tichafa
+        61=Lekhaikha
+        62=Zhalta
+        63=Irashka
+        64=Zhanshema
+        65=Gargatzig
+        66=Dranachy
+        67=Keika
+        68=Radatzui
+        69=Bickhena
+        7=Tudorkh
+        70=Liyantag
+        8=Shorgarotz
+        9=Geshy
+    }
+    People ^{
+        1=Earth
+        10=Astron
+        11=Elinia
+        12=Vinland
+        13=Rynol
+        14=Santa Barbara
+        15=Incara
+        16=Malis Calanca
+        17=Vedas
+        18=New Thebes
+        19=Orlenon
+        2=Unix
+        20=Upsala-vega
+        21=Green Heaven
+        22=Dassilon
+        23=Unasis
+        24=Persephona
+        25=Kerala
+        26=Hope
+        27=Plinium
+        28=Kapablanca
+        29=Dimergon
+        3=Axelman
+        30=Port Ulysses
+        31=Grunwalde
+        32=Kanwa
+        33=Phountains
+        34=Sea Park
+        35=Limyla
+        36=Cutie Gurl
+        37=Wiuke
+        38=Eristidis
+        39=Aurelium
+        4=Beta-ionis
+        40=Neolangoria
+        41=Kamenkoff
+        42=Sibyl
+        43=Ryntrope
+        44=Aqualgon
+        45=Selivan
+        46=Grand Concorde
+        47=Lorena
+        48=Yankie
+        49=Pont
+        5=Calagan
+        50=Kurdania
+        51=Lixan Land
+        52=Velecia
+        53=Lisgad
+        54=Latale
+        55=Agora
+        56=Kontemptis
+        57=Leira
+        58=Vinitron
+        59=Budana
+        6=Linux
+        60=Corioli
+        61=Hellis
+        62=Bygall
+        63=Big Barrier
+        64=Small Barrier
+        65=Leskana
+        66=Yashma
+        67=Aquarius
+        68=Pinta
+        69=Ullis
+        7=Vesta
+        70=Intagon
+        8=Alsea
+        9=Halgalla
+    }
+}
+PlanetQuest ^{
+    PlanetQuest ^{
+        0=cfg\Eng\PlanetQuest\Test.qm
+        1=cfg\Eng\PlanetQuest\Test.qm
+        2=cfg\Eng\PlanetQuest\Test.qm
+        3=cfg\Eng\PlanetQuest\Test.qm
+        4=cfg\Eng\PlanetQuest\Test.qm
+        5=cfg\Eng\PlanetQuest\Test.qm
+        6=cfg\Eng\PlanetQuest\Test.qm
+        7=cfg\Eng\PlanetQuest\Test.qm
+        8=cfg\Eng\PlanetQuest\Test.qm
+        9=cfg\Eng\PlanetQuest\Test.qm
+    }
+}
+Quest ^{
+    DefShip ^{
+        0 ^{
+            End=Ranger <Ship> is still in the saddle! What do you think, is he good enough now with his ship or he still needs to be escorted? After all, every Maloq must learn to defend himself. <Ranger>, we now know that you are a talented bodyguard. <Money> cr is yours.
+            InThisSystem=Yes
+            PlanetRace=Maloc
+            ShipType=Ranger
+            Start=Our national hero, rahrt <Ship> has recently become a ranger. We are his humble subjects and we cannot but admire his courage and bravery. Unfortunately, despite all these qualities, he has very little experience in flying a military ship. Sir <Ship> is a true Maloq and he equals using escort to cowardice. However, we are so worried for his life and reputation that we have decided to ac as follows. We are hiring another ranger, an experienced fighter who is going to guard him discreetly. We repeat, we only need an experienced warrior with good recommendations. Your references are quite impressive so you are suitable for the mission. So, your task is as follows: You ensure rahrt's safety for <Day> days. Afterwards, you return to <FromPlanet> and get your money, <Money> cr. Possibly, afterwards we will find another ranger to take your place.
+            Status=Warrior
+        }
+        1 ^{
+            End=Your contract is complete, <Ranger>. We've just received money transfer and we are paying you 30 per cent, <Money> cr.
+            InThisSystem=Yes
+            PlanetRace=Maloc
+            ShipType=Transport
+            Start=We represent security agency "Cruel Axe". The captain of a freighter <Ship> loaded with some junk has paid us to guard him on his route. Too bad our agents and draqars are all now engaged in other operations. Well, and to tell you the truth, we have no wish to get shame on our heads and guard some filthy merchant. That's why we are using private pilots. Maybe you, as a trader feel professional solidarity and want to help your colleague? This would be most honourable. In this case, if you take the mission and complete it successfully, so that <FShip> stays alive for <Day> days, we will share the sum we'll get from the captain. The ship is not far away, in this system.
+            Status=Trader
+        }
+        2 ^{
+            End=Your contract is complete and we pay you <Money> cr. Unfortunately, even before you arrived, the freighter had to give its cargo to the pirates. So we are going to take "GreenPeace Universal" to court. We hope, you can be our witness in the case?
+            InThisSystem=No
+            PlanetRace=Peleng
+            ShipType=Transport
+            Start=Our planet <FromPlanet> is known in entire Galaxy for our quality canned legs of Vygakh monster bugs. Not long ago transport <Ship> started from our planet and flew to <InStar>, carrying this most tasty delicacy onboard. Just as it reached the destination system, it was attacked by GreenPeace Universal (GPU), under the mask of pirates. In fact, they are real robbers even though they are calling themselves fighters for animal rights. On the gunpoint, they demanded us give them the load of cans, which would be a huge blow for our economy.
+            Start=The cartel specialising in introducing new valuable bug breeds is ready to finance any pilot having a military ship and who is ready to ensure the safety of <Ship> for <Day> days. If you see anyone attacking our ship, just know that it is provocation from GPU scoundrels. The more scumbags you kill, the more money we will give you.
+            Status=Any
+        }
+        3 ^{
+            End=It's so nice to see such mutual aid! If not for you, <Ship> would certainly die. Thus, we have to pay you <Money> cr.
+            InThisSystem=No
+            PlanetRace=Peleng
+            ShipType=Pirate
+            Start=In the system of <InStar> there is a very much respected pilot <FShip>, by the way, he is a pirate like you. He honourable robs Human freighters and destroys Fayean passenger ships. But recently we got a SOS signal from him. Some scoundrels, probably from local anti-terrorist forces have got on his tail. And he is a respectable citizen and hero on <FromPlanet>.
+            Start=We've heard that all pirates are brothers and are always ready to help each other out. Is this true? If <Ship> is still alive at least until <Date>, all of our community is going to be grateful. Well, possibly we will think of something else to reward you.
+            Status=Pirate
+        }
+        4 ^{
+            End=You have honourably completed the difficult task by defending trucker <Ship> and you deserve your reward, <Money> cr. You've served well the economy on <FromPlanet> and also our committee in ethical issues. We have decided to initiate court investigation of the latest incidents.
+            InThisSystem=Yes
+            PlanetRace=People
+            ShipType=Transport
+            Start=Insurance company "Willie and Maxie" that is dealing with insuring spaceships is on the way to bankruptcy. Recently, several ships have been destroyed by pirates, as the result of which the company had to pay the ship owners. It is a huge blow for our business. At the moment, the management believes that ship owners take their ships to hot spots on purpose so that they could get better compensation for their rusty washtubs. Your references are very good and we are ready to offer you a contract to the value of <Money> cr, to guard trucker <Ship> till <Date>, since it has just been insured for a huge sum. At the moment, the vessel is in our system.
+            Status=Trader
+        }
+        5 ^{
+            End=Producers' and composers' Association from <FromPlanet> thanks you heartily for adhering to contract terms. Here is your <Money> cr. Never forget about the beautiful, listen to music. Remember: Beauty will save the Galaxy!
+            InThisSystem=Yes
+            PlanetRace=People
+            ShipType=Liner
+            Start=Tomorrow is the start of annual song festival, "Galactic melody" which is traditionally held onboard space cruiser <Ship>. The festival is attended by the best singers in our system and the liner will visit planets hosting traditional musical events within the festival program. By the end of the cruise, musical awards in seven nominations will have been given. We do not want the festive atmosphere to be spoilt so we have to think of ship's security. We offer you a contract that envisages <Day> days of escorting the ship and subsequent remuneration of <Money> cr. The ship has already started and you will have to catch up with it.
+            Status=Any
+        }
+        6 ^{
+            End=You have defended <Ship>, and we are very grateful for this. Our technological secrets have stayed with us and the loss of valuable cargo has constituted 0.02 per cent, which is admissible for similar ships. Your reward is therefore <Money> cr. We hope you are content with it.
+            InThisSystem=No
+            PlanetRace=Fei
+            ShipType=Transport
+            Start=Our top-class multifunctional transport ship <Ship> has recently been attacked with frequency that is completely irrational. Upon completing careful calculations and research we have found out, who is responsible for this action. You see, the vessel was built using modern technologies of cargo carriage and storing highly sensitive goods, which are much sought after by some persons close to smugglers. The ship has escaped capture several times, but now it is again attacked in the system of <InStar>. Can you escort it for <Day> days? If you agree to these conditions and ensure the security of the object, you will get <Money> cr as your reward when you come back to <FromPlanet>. Now you must act urgently, while the ship is still in good shape.
+            Status=Any
+        }
+        7 ^{
+            End=<Ranger>, you are really a qualified fighter. <Ship> was well guarded while the contract was in force. We feel we've found good use for <Money> cr that you now get.
+            InThisSystem=No
+            PlanetRace=Fei
+            ShipType=Diplomat
+            Start=Our Dalani Ulgenar Voyi, very much respected by our people, has suddenly departed to unknown destination on his posh ship <Ship>. We suspect that he is being blackmailed, and this is confirmed by the fact that he did not say anything about the goal of his trip, which is usual practice in all Fayean consulates. That is why our wise leaders have taken a prudent decision, to hire a bodyguard who could escort Dalani discreetly. We know that you have plenty of fighting experience and we offer you <Money> cr if ship <Ship> is intact until <Date>. If you think this is not enough, we could increase the amount. At the moment Dalani is in the system of <InStar> but we do not know anything about his further plans. Our planet's people would be extremely grateful to you if Ulgenar Voyi returns to us in physiologically sound state.
+            Status=Warrior
+        }
+        8 ^{
+            End=<Ranger>, we are grateful to you for successfully completing the mission. <Money> cr is yours. We hope we have proved it to Pelengs that <Ship> constitutes no threat for them and their suspicions are totally groundless. We deeply regret that there is still so much distrust and suspicion in the Galaxy.
+            InThisSystem=Yes
+            PlanetRace=Gaal
+            ShipType=Transport
+            Start=We have a cargo ship <Ship>, which is built using non-standard schemes. This fact has caused Pelengan intelligence to believe that <Ship> is in fact a spy base under the mask of a freighter. We failed to assure them that it is just experimental design, no more. We are seriously concerned with the security of this vessel since it now needs to depart with some extremely important cargo. We cannot hire a guard who is a recognised warrior since Pelengan intelligence knows all such pilots and will certainly come to the conclusion that we are, indeed, hiding something. That is why we have put forward information that the cargo would be shipped by two vessels, <Ship> and another hired trader. You, <Ranger> are ideal for this role since you are known as peaceful trader and are unlikely to cause suspicion. And you could help our ship in case of danger. We offer you <Money> cr for this operation. The contract expires on <Date>.
+            Status=Trader
+        }
+        9 ^{
+            End=Very well, <Ranger>, it was an easy job for you, and we were so worried. Here is your <Money> cr. We would be glad to use your services in the future.
+            InThisSystem=Yes
+            PlanetRace=Gaal
+            ShipType=Transport
+            Start=We have built <FShip>, a cargo vessel, using ultra-modern technologies. Maloqi spying corporation "Qalagon", which has been working in our system for some time, has found it out. We cannot influence politically and on the other hand we are reluctant to use regular army since it would cause unnecessary confrontation. But we are still concerned that "Kalagon" can hire a group of terrorists or pirates to destroy <FShip>. We have done our best not to provoke the organisation and even did it some favours, but we are still suspicious. The destruction of this oveon is going to be a great loss for us, in every possible sense.
+            Start=Your work is quite simple: ensure the security of the vessel for <Day> days. It is currently here, in the system of <InStar> and is getting ready for the flight. Please only resolve to force if you have no other option. Remember, we wish no deaths! Upon completing the contract we will compensate you with <Money> cr.
+            Status=Warrior
+        }
+        Count=10
+    }
+    DefSystem ^{
+        0 ^{
+            End=Here is your <Money> cr, <Ranger>. Maloqs are grateful to you. Even though you are just a trader, you've earned our respect. We wish you every possible success in future military undertakings.
+            PlanetRace=Maloc
+            Start=Most of our best military pilots are at Universal Maloqi Police Games. Only green rookies are now patrolling our system and you can't trust them even with defending a freighter. <Ranger>, we therefore demand that you help them with their duties. Take off at once and start patrolling our space. If none of the peaceful ships is destroyed before <Date>, your mission will be complete and we will pay you <Money> cr. Believe us, this is much more than the salary of our regular guards. But if you are successful, we are ready to give it even to such petty trader as you.
+            Status=Trader
+        }
+        1 ^{
+            End=Good work, <Ranger>! Corporal Brashir sends you his utmost respect. Those bureaucrats in Headquarters will surely notice how clear and quiet the system has become and Corporal will certainly be restored on his post, and maybe even promoted.
+            PlanetRace=Maloc
+            Start=<Ranger>, we have contacted you following the request of our brigade corporal Nurg Brashir. Corporal is responsible for security in the system of <FromStar>. Quite recently, the Headquarters have signed an order to transfer him to reserve due to low efficiency of his work. Someone thought that he could no longer carry out his duties. And this is after fifty years of faithful service to Maloqi motherland. You cannot even imagine how furious he is at being pointed at the door! And it is really mocking this officer's honour. Now, his only chance to stay in the army is to prove to his superiors that he is not yet a disabled old man and still has all his abilities.
+            Start=<Ranger>, corporal Brashir will pay you <Money> cr from his own savings if you help him improve his reputation by guarding the security of the system of <FromStar>. You are going to make good money if you commit yourself until <Date>.
+            Status=Warrior
+        }
+        2 ^{
+            End=<Ranger>, it is a miracle, indeed no civil ship has suffered in the system! Sultan Nekshisk is now feeling much better. At least, half an hour ago, when he heard that a Maloqi transport was destroyed in the vicinity, he did not jump from the balcony shouting "Klissans!". He has really made excellent progress. Please take your <Money> cr, you've deserved it.
+            PlanetRace=Peleng
+            Start=The ruler of our planet, Sultan Nekshisk is now in great trouble. He suffers from paranoid fever. He constantly has hallucinations of Klissans. No sooner one of our own lyakushas' attacks a passing by ship, Nekshisk claims that is was a Klissan attack who have invaded the system under the mask of the good Pelengs. He is getting worse with every day but, to make matters worse, we have no right to prevent him from getting the full information on what is going on in the system. Doctors say, curing him is possible, but only under the condition if there is no further disturbance. We need to remove the cause of his fits, that is, to temporarily stop lyakushas' operating in our system. This is indeed awful! All lyakushas are going to laugh at us! But, on the other hand, you are yourself a well-known lyakusha so if you make a deal with them, we won't seem such perverts.
+            Start=We are paying you <Money> cr if our system is quiet and secure for all civil ships, even alien, until <Date>. It is the only way to guard our Sultan against these uncontrollable fears and we hope this will give him enough time to get on his way to recovery.
+            Status=Pirate
+        }
+        3 ^{
+            End=You've done excellent, really marvellous job during these <Day> days, and you have even outrun the leader by two points! Long live <Ranger>, the Pirate of the Year!
+            End=Here is your prize, <Ranger>, <Money> cr. We are always glad to see you on <FromPlanet>.
+            PlanetRace=Peleng
+            Start=The system <FromStar> is now hosting a traditional tournament for the best pirate of the year, so you are given an excellent opportunity to take part in it. According to the rules that have remained unchanged for the last 120 years, it is open to any pilot having a military ship. His opponents are local lyakushas who act in the best Pelengan traditions, attacking freighters and other civil vessels. The action is as real as can be, and the task of the contestant is not to have any of the civil ships destroyed during the round (<Day> days). Cool, isn't it?
+            Start=You will be the last contestant in our show. Your number is ten. We will evaluate your performance at the end of the round.
+            Status=Pirate
+        }
+        4 ^{
+            End=<Ranger>, you have successfully completed your contract for patrolling the system of <FromStar>; according to clause 4 of the contract Ministry of Defence on <FromPlanet> pays you <Money> cr. Your co-operation is highly valued.
+            PlanetRace=People
+            Start=Human military doctrine, Chapter 5, Article 23, envisages using civil specialists in law enforcement activities. According to this regulation, Ministry of Defence on <FromPlanet> invites pilots to patrolling on contract basis. The contract clauses are as follows:
+            Status=Warrior
+        }
+        5 ^{
+            End=We are very impressed by your help, <Ranger>. We are paying you <Money> cr according to the contract, for patrolling. Zero statistics of civil ship attacks is the best argument in favour of total security of our system. We do hope that the word gets through to the traders.
+            PlanetRace=People
+            Start=Public Information Agency has just published the list of the most secure Human systems. Just imagine, the system of <FromStar> is in the very end of the list! This is very disappointing since many of the outstanding humans, well known in the Galaxy, were born here. But after publishing the list we can feel that investment flow is falling dramatically. We have already built two new centers for training military pilots for space defence, but it will take some time to get them ready and we certainly must act now. So, reluctantly, we have to turn to private pilots for help. The contract that we are offering you is <Day> days long and envisages remuneration of <Money> cr. Do you agree to such conditions? Mind you, not a single civil ship can be destroyed.
+            Status=Any
+        }
+        6 ^{
+            End=Excellent, <Ranger>! You have proven to be a true crime fighter, which has earned you gratitude of <FromPlanet> government and also a reward of <Money> cr.
+            PlanetRace=Fei
+            Start=At the latest meeting of our Supreme Government a wise decision was taken, namely to tighten measures on precluding criminal actions in the system of <FromStar>. We are a highly developed peace-loving civilisation, but when our security is at stake we are ready to give criminals an adequate response. And we will do it whenever it is necessary, we have stated that a number of times at all inter-racial symposia.
+            Start=Thus, all pilots, including you, <Ranger>, can sign a contract which entitles you to destroy any pirate ships that are interfering with the activity of civil vessels in our system. Term of contract is until <Date>; your reward is <Money> cr. Your help will be very much valued.
+            Status=Any
+        }
+        7 ^{
+            End=<Ranger>, you have successfully completed your task and <Money> cr is yours. Probably, you should think about changing your specialisation and become a warrior. Well, maybe it's not worth it, the Galaxy is already such a violent place.
+            PlanetRace=Fei
+            Start= <FromPlanet> is getting ready for a most important event, a seminar in the issues of nutrition and health care. We are expecting the arrival of many important and respected scientists, so we intend to increase the security forces in the whole system. We know that you do not really specialise in such operations, however the weapons that there are on your ship are quite sufficient for our mission. We believe that the sum of <Money> cr is adequate. Our only condition is that no civil ship, regardless of the race, is destroyed in the system until <Date>. If you make sure they are safe, the money is yours <Money> cr.
+            Status=Trader
+        }
+        8 ^{
+            End=<Ranger>, you have honestly earned your <Money> cr. You have all chances for rehabilitation, but only if you forget about crime. Follow the way to improvement and we would be glad if the Galaxy has one pirate less.
+            PlanetRace=Gaal
+            Start=<Ranger>, we know of your past crimes and also that law and rights of intelligent beings is all empty talk for you. However, we believe that you might have a wish to apply your energy in a more honourable way than piracy. We are giving you this chance because we believe that even difficult cases like you are curable. We will hire you as law enforcement officer. If no civil ship is destroyed in the system of <FromStar> before <Date>, we will pay you <Money> cr and also improve our attitude to you.
+            Status=Pirate
+        }
+        9 ^{
+            End=Your work, <Ranger>, is most valued. We are glad to pay <Money> cr to a person who values law and civil rights. You have to agree that these notions are vital for a society that wishes to be successful. And this is what we wish to you personally.
+            PlanetRace=Gaal
+            Start=In the system of <FromStar> there is now a very dangerous immoral character that is now gathering a criminal team around him. We are very disappointed with this and want to ask you, honourable ranger, to drive all criminals out of our system. You have the right to use your weapons against them, but only if it comes to the worst. Should all civil ships be safe until <Date>, we would be glad to pay you <Money> cr for your service.
+            Status=Trader
+        }
+        Count=10
+    }
+    Info ^{
+        CurQuests ^{
+            Accepted=Mission accomplished, you only have to collect your money
+            NotAccepted=Mission in progress
+            NotQuests=No missions
+        }
+        OldQuests ^{
+            Accepted=Mission accomplished successfully
+            NotAccepted=Mission failed
+            NotQuests=No missions
+        }
+    }
+    KillShip ^{
+        0 ^{
+            End=Thank you, <Ranger>, for destroying this booze advocate. All these people are alcoholics. If not all of them, then the majority, doesn't matter. It is so disgusting! Had it not been for us, the Galaxy would have drowned in alcohol. Oh, yes, and here is your <Money> cr.
+            PlanetRace=Maloc
+            ShipRace=People
+            ShipType=Transport
+            Start=You are probably aware what Maloqi civilisation thinks of alcohol. We suffer so many losses and trouble due to smuggling this nauseating product. Just think of our young people's morals! The planets in the system of <FromStar> have started campaign "No more Booze". Its goal is to reduce and possibly terminate the flow of alcohol to our planets. In the framework of this campaign we are financing eliminating of the most impudent smugglers. On the first place in our black list is trucker <Ship>. Our trade authorities are really tired of playing hide and seek with this adventurer. So we do not want to hear of him any more, in our system or elsewhere. We will be glad to pay you <Money> cr if you take this pain out of our ass. Just do it before <Date>, this is our condition.
+            Status=Warrior
+        }
+        1 ^{
+            End=Now, <Ranger>, you can be proud of yourself. Here is your <Money> cr.
+            End=Oh, yes, we promised you to tell about <Ship>. The truth is, he used to be a milksop, just like you and was afraid of killing even a raspwing fly. We just wanted to give you both a chance to become real heroes so that you are truly called space rangers. That is why, we gave each of you a mission to destroy the other. You've managed to do it, and he obviously didn't. This means, you initially have more potential and are better adapted to this cruel world in which only the strongest are going to survive. And do not thank us for this small lesson.
+            PlanetRace=Maloc
+            ShipRace=Any
+            ShipType=Ranger
+            Start=<Ranger>, we notice that you get more and more involved in the shameful business of changing goods for money. For once, just try doing something like real man. For instance, prove your courage in honest combat. Many Maloqs dream of doing that but they do not have a suitable ship. Now, <Ranger>, you have it, but how do you use it? It's pure disgrace!
+            Start=But now we have nice work for you. Some ranger, <Ship>, has long ago been sentenced to death. Just don't ask us, for what. We can only tell you when you are through with the mission. And it is very simple: just find and kill the ranger before <Date>. Come on, where is your will power, courage and spirit? And you will also get good money, of course if you manage to return to <FromPlanet> alive. If you don't, we will still have a salute ceremony in your honour.
+            Status=Trader
+        }
+        2 ^{
+            End=Ship <Ship> is destroyed, here is your <Money> cr. Well, now we can hope that the conflict between Maloqs and Fayeans is going to escalate further. Of course, we still have to work on it, but that's what our diplomacy is for.
+            PlanetRace=Peleng
+            ShipRace=Fei
+            ShipType=Diplomat
+            Start=Hey <Ranger>, are you ready to get your hands dirty with a diplomat's blood? Then rejoice, we can offer you a most lucrative, unbelievable contract! You must find and destroy a Fayean diplomat Uligon Kessi in <Day> days. You just think of what he is doing and you will understand our outrage. Right now, onboard his ship <Ship> he is working at peace agreement to end military conflict between Fayeans and Maloqs! This is most deplorable! Our diversionary forces have taken so much time and effort on preparing this conflict, provoking both parties, and now this ghastly diplomat can spoil everything with his nauseating peace-making initiatives. We hope you realise how important it is not to let him finish this dirty business and also how good it would be to get a lump sum from us.
+            Status=Pirate
+        }
+        3 ^{
+            End=Thank you for your co-operation, <Ranger>. It is wonderful to see such unanimity in pirates' brotherhood. This is what makes it so strong. And here is your <Money> cr, you've honestly earned it.
+            PlanetRace=Peleng
+            ShipRace=Fei
+            ShipType=Transport
+            Start=<Ranger>, we have been following your venerable feats for some time and now we wish to offer you a very, very, very attractive agreement. Some characters would think it is filthy, but certainly not you. Sure it's no big deal for you to butcher some Fayean ship? This is our answer to the murder of our renowned pirate Khert. Aren't you filled with rage at the news of the death of your famous colleague? Come on, don't hesitate! By taking revenge on this death you will serve the principles of honest piracy, which are nowadays so often questioned.
+            Start=The target of our punitive action is their civil transport <Ship>. It has done us no wrong but since it is Fayean it certainly deserves it! And you must do it before <Date>! And we will be generous with the reward, sure. Pelengs never go back on their promises.
+            Status=Pirate
+        }
+        4 ^{
+            End=Very well <Ranger>, Gap Tooth has finally left Galaxy in peace. Your reward is <Money> cr. Perhaps we should hire you on a permanent basis as a mobile executioner.
+            PlanetRace=People
+            ShipRace=Any
+            ShipType=Pirate
+            Start=Here is a contract for a pilot with iron nerves. A well-known maniac and terrorist Gap Tooth has been recently spotted by one of our ships. Police and special agents from our planet have been looking for him for a long time, but to no avail. But now we have absolutely reliable information that he is staying onboard <Ship> and is engaged in criminal activity in the system of <InStar>. We are ready to pay <Money> cr to anyone who destroys this guy in <Day> days. Should you fail to stay within the time frame we will have to turn to another pilot.
+            Status=Any
+        }
+        5 ^{
+            End=Thank you very much, <Ranger>. The relatives of the deceased have now stopped hunger strike, thanks to you and your noble action. Here is your reward, <Money> cr. Thank you once more.
+            PlanetRace=People
+            ShipRace=Any
+            ShipType=Pirate
+            Start=We are currently looking for space pirate <Ship> who has committed several dreadful crimes here: he has destroyed three passenger liners, together with all passengers. The people of our as well as other planets have been mourning the victims for several days, among them was a group of children going to a summer camp. The crime was just as cruel as senseless. Our fighters almost got at the scumbag but he managed to flee. <Ranger>, if you agree to execute the death sentence, it would help us in our grief. Of course, you will get adequate remuneration... though in such moments we cannot really think of money. Please do it and do your best to kill him before <Date>: many relatives of the deceased have gone on hunger strike until the guy is alive and we are worried for their health.
+            Status=Warrior
+        }
+        6 ^{
+            End=You've made it, <Ranger>! Even though we mourn the death of our compatriot who has strayed from the lawful path, we are glad that justice is triumphant. In this case, the good of the society was more important than the life of a single individual.
+            PlanetRace=Fei
+            ShipRace=Fei
+            ShipType=Transport
+            Start=One of our convicts undergoing a program of labour therapy expressed a wish to take it onboard one of our freighters, <FShip>. We were delighted to hear of his initiative and appointed him as a technician of the above-mentioned vessel. However, this has lead to a tragedy: In the system of <InStar> this criminal killed everybody in the ship's team and took its captain hostage for conducting negotiations with us, but then killed the captain, too. Now it is obvious that he had no wish to change, so we have no other option than to destroy him together with the ship. However, there is a problem of diplomatic nature here. Do we want the Commonwealth to discuss why we have destroyed our own transport? Sure we do not. <Ranger>, you are a pirate, and when a pirate destroys a vessel, it looks so natural. We will pay you <Money> cr if you do it before <Date>.
+            Status=Pirate
+        }
+        7 ^{
+            End=<Ranger>, you were too late! Even though you killed Rangol, he had already destroyed liner "Anhenih". This happened a day after you departed. This is a tragedy for the people of <FromPlanet>! Regretfully, this is surely going to have negative consequences for our relations with Gaalians.
+            End=Of course, we realise that you just could not get there on time. Since you have still completed the mission, we are paying you <Money> cr. Thank you for your help, <Ranger>.
+            PlanetRace=Fei
+            ShipRace=Peleng
+            ShipType=Pirate
+            Start=Our psy-centre used to investigate an especially aggressive character, a Pelengan pirate Rangol. And recently Gaalians persuaded him to take part in their program for correcting pirate behaviour by labour therapy and offered him a contract for escorting their liner "Anhenih". A delegation of our compatriots is on this liner. We have already protested using such irrational and violent subject in escorting civil ships. According to our data, Rangol is 87 per cent likely to destroy the liner himself. But of course Gaalians wouldn't listen.
+            Start=We cannot accept such developments so we suggest you to destroy Rangol. He uses ship <Ship> and is currently on his way to <InStar>. Act as fast as you can: with every passing minute the danger to the liner increases. If you do it in <Day> days, you can count on getting <Money> cr when you return.
+            Status=Warrior
+        }
+        8 ^{
+            End=<Ranger>, you have possibly saved thousands of innocent lives. Don't you feel deep moral satisfaction? Though, we do not think you will reject to take <Money> cr on top of that. We are sure you will use it equally honourably.
+            PlanetRace=Gaal
+            ShipRace=Peleng
+            ShipType=Transport
+            Start=We are aware that Pelengan terrorist group "Shagash Rogtz" is planning a terrorist action using a super toxic gas Nergon-354. It is commonly believed that its presence cannot be detected by any scanners, however we are now certain that a load of this gas is currently onboard freighter <Ship>, which is currently moving to <InStar>. You ask, how dangerous this gas is? Well, a few metric ounces getting into the atmosphere of an average size planet can kill all living organisms in the radius of thousands miles. We do not want sufferings of innocent people but on the other hand the task is too dangerous to involve our regular military pilots. But we are ready to pay good money for destroying <Ship>. We will reward an experienced pilot with <Money> cr if he undertakes to destroy this ship before <Date>. Do not forget to collect your money on <FromPlanet>.
+            Status=Warrior
+        }
+        9 ^{
+            End=We are grateful to you, <Ranger>, that you have solved this irksome problem. You can see that even among Gaalians there are characters without principles. Fortunately, they are very rare. Believe us, <Money> cr that you have earned is a very good reward.
+            PlanetRace=Gaal
+            ShipRace=Gaal
+            ShipType=Ranger
+            Start=Some time ago we have given ranger's licence to some vessel named <Ship>. However, instead of fighting Klissans or otherwise serving our interests in other parts of the Galaxy, he started doing quite the opposite, namely destroying our own ships. We have no idea why this apparently absolutely normal Gaalian would get engaged in such activity. It is possible that he has been recruited by Pelengan or Maloqi agents. But in any case we cannot accept this ranger to continue his activity. On the other hand, we cannot start official action on the incident since this will greatly undermine the trust of other races to our rangers. All this makes us turn to you, an illegal pilot. Let a pirate kill a pirate, there would be nothing unusual about it. If you do it before <Date>, we'll pay you <Money> cr.
+            Status=Pirate
+        }
+        Count=10
+    }
+    SendLetter ^{
+        0 ^{
+            End=It is so good to see our device in one piece! It is a very valuable thing. We use it for executions: we put mines deep into the ground and then drive the criminals into the tunnel. A most effective and ecologically sound method. We wish you would never try it on your own skin.
+            End=<Ranger>, we are paying you <Money> cr for speedy delivery.
+            FromRace=Maloc
+            Start=<Ranger>, we want you to take this device to <ToPlanet>, in the system of <ToStar>. It is a miniature grip-exploder for putting mines underground. It is packed so that it would easily fit under pilot's chair so do not worry about the space. Our partners will wait for it until <Date>. If you are slow, you will never see your <Money> cr.
+            Status=Any
+            ToRace=Maloc
+        }
+        1 ^{
+            End=Great, the samples are here! You are a brave pilot and we hardly regret the necessity to pay you <Money> cr. Did you know that one of these cool guns "Gron-DoRM" is capable of killing a whole infantry regiment in one shot! Of course, if it is not broken like the one we got last time.
+            FromRace=Maloc
+            Start=Our most advanced factories are now constructing a unique weapon that is going to make a revolution in Maloqi industry. It is a super-compact infrared flame-thrower "Gron-DoRM". You need to deliver two experimental samples to the system of <ToStar>, to <ToPlanet>. We are conducting additional field tests there. Unfortunately, our competitors have found out about our research. As the result, we have already lost two transports. Now, you are an honourable and well-known fighter whom we respect. So you can take these samples onboard and deliver them to their destination point. We believe our competitors will not pay any attention to you, so the parcel will be with the addressee before <Date>. If not, forget about <Money> cr.
+            Status=Warrior
+            ToRace=Maloc
+        }
+        2 ^{
+            End=At last, the priceless callice of Tschin dynasty is found! Thank you <Ranger>, we thought we would never see it again. But wait, what's that? Your back is all white! Looks like long contact with callice has put a curse on you after all. Too bad. You will be killed very soon, trust us. Well, maybe this money, <Money> cr, would be a bit of consolation.
+            FromRace=Peleng
+            Start=<Ranger>, you can surely do us a favour. A famous shaman from <ToPlanet> in the system of <ToStar> came to us to read a series of lectures in cyber-mnemonics, telepathy and common curses. When he was leaving, he accidentally (indeed, there was an accident) left his callice. But recently we have accidentally (indeed, there was another accident!) found it and now we want to return it to the owner. It is a very old and valuable thing. If you do not deliver the callice before <Date>, we will claim you a thief, besides keeping it close to you for a long time will negatively affect your bio field. You do not want to become a thief and a cursed one at that, do you?
+            Status=Any
+            ToRace=Any
+        }
+        3 ^{
+            End=The representative of antiviral centre "Bacterius Grocus" hopes that the contents of the container that you have delivered will help us defeat the disease. I wonder why should Pelengs start making medicines? Anyway, thank you very much and here is your <Money> cr.
+            FromRace=Peleng
+            Start=In the system of <ToStar>, <ToPlanet>, has been infected with a horrible disease. Our laboratories have developed a virus that will make it 100 per cent fatal. You, as a representative of creative community, can assist this dirty business by delivering the germs to our Human colleagues. Possibly, you think this is unethical, but life in itself is unethical and so are genetic experiments in survival. Besides, you can only get good money for dirty business.
+            Start=The more days you need for the mission, the better container we have to supply for delivering the viruses. In this container they will stay alive for <Day> days. After this, you will not get a single poisonous Rabogam toad for it. Taking into account the cost of the container, your future profit is estimated as <Money> cr.
+            Status=Pirate
+            ToRace=People
+        }
+        4 ^{
+            End=О, <Ranger>, you have delivered the anthem from <FromPlanet>! It is so nice of you. Let <Money> cr be your reward.
+            End=...
+            End=Hmmm, the tape is crumpled... What, you played it on your rusty tape recorder?! It is such a blow for us. Well, don't despair, most Fayeans have so little knowledge of Human music that they will think it sounds normal.
+            FromRace=People
+            Start=Planets <FromPlanet> and <ToPlanet> take part in twinning scheme and have achieved substantial degree of economic and cultural integration. To honour our friendship, poets and composers from our planet have written an anthem, "Let Peaceful Galaxy prosper" which glorifies the efforts of our peoples to establish peace and co-operation. Our planet has already had the ceremony of first performance of this anthem; now a similar ceremony has to take place on <ToPlanet> (system of <ToStar>).
+            Start=They have everything ready for the ceremony, the only thing they need is a cassette with anthem recording. This is what we want to ask for, <Ranger>. It is necessary to do it as soon as possible, that is why the reward depends on the contract term. If you undertake to deliver the anthem in <Day> days, you will get <Money> cr on arrival.
+            Status=Any
+            ToRace=Fei
+        }
+        5 ^{
+            End=Yeah, I see, here's the package with the goods... Hmmm, three bugs are missing... You say, crawled away? Well, it happens sometimes, not to worry. These ultra-modern Human models can run and hide to prevent themselves from being spotted. I'm sure those three are now somewhere in your ship, already switched to surveillance mode. Well, this might prove to be very useful to us, either.
+            End=Upon subtracting the cost of the missing three bugs, we transfer <Money> cr to your account.
+            FromRace=People
+            Start=<Ranger>, you can be of service to our intelligence. Our friends Gaalians are our allies. Everybody knows that. But unfortunately we cannot trust anyone and so we regretfully have to literally stuff their government buildings with our bugs. Gaalians are tough guys and constantly scan their premises and remove our detectors. To make a long story short: on <ToPlanet> in the system of <ToStar> their counterintelligence has managed to uncover and arrest our Gaalian resident who, pressed by their interrogators told them the location of the bug store.
+            Start=We need to deliver a package with new bugs to our reserve agent so that his activity can go on as usual. Our agent will wait for you in government building for <Day> days, but will need to go to his hiding place afterwards. If you are late, the contract is void.
+            Status=Pirate
+            ToRace=Gaal
+        }
+        6 ^{
+            End="Express Galactica" representative expresses his gratitude for the delivery and hopes that <Money> cr will compensate your expenses. However, we have to warn you that competing with such super monopoly as ourselves is completely useless.
+            FromRace=Fei
+            Start=Fayean division of Galactic mail service "Express Galactica" is overloaded with cargo flow, the situation is especially difficult with distant and expensive haulage. You are an experienced haulier so you could help us and deliver a few parcels to the system of <ToStar>, they are expected on <ToPlanet>.
+            Start=We have to remind you that our service is the fastest and the most popular in the Galaxy. In order to uphold our reputation you need to deliver the parcels in <Day> days, upon which our representative will pay you <Money> cr.
+            Status=Trader
+            ToRace=Any
+        }
+        7 ^{
+            End=We are grateful that you have brought the ashes of Daedalus. He was an honorary citizen of <ToPlanet>; everybody respected and loved him. Can you hear people crying in the streets? Thousands of them have come to the burial ceremony. Please stay with us, too. And here is your money, <Money> cr.
+            FromRace=Fei
+            Start=Two days ago a most regretful thing happened on our planet, which shocked us all: Human ambassador Assirius Daedalus, who represented humanitarian mission from <ToPlanet>, died in an accident. According to his will, we cremated his body and now we need to send the ashes to his home planet, in the system of <ToStar>. <Ranger>, this small urn will not take much space on your ship. We have already sent a message to his relatives and they will conduct all the necessary ceremonies as soon as they get the remains. You can decide how much time you need to deliver them, we believe <Day> days is quite sufficient.
+            Status=Any
+            ToRace=People
+        }
+        8 ^{
+            End=Well, we are grateful to you for this delivery, even though our transport was ready to depart. Of course, we have no intention to treat or subjects for free; these silly Gaalians do not understand business at all. We are going to sell the device to Maloqs; they are ready to pay any money for health. And you can take your <Money> cr: charity is a good thing but money is always welcome.
+            FromRace=Gaal
+            Start=Ranger, if you happen to be in the vicinity of <ToStar>, please deliver this parcel to <ToPlanet>. This is a device for taking carbon dioxide out of Pelengan blood that they have ordered recently. The device is ready but the transport that Pelengs promised to send to collect it is late for some reason, so we have decided to ship it with a private pilot. It can be risky at times since some private hauliers have a tendency to steal valuable devices. However, you have a good record and we think you are worthy of our trust. Please, deliver the device on time, no later than <Date>.
+            Start=<FromPlanet> Charitable Medical Bureau is a non-governmental humanitarian organisation aiming at developing all initiatives directed at improving the health of backward people. All kinds of technological and chemical bacteriological assistance, absolutely free.
+            Status=Trader
+            ToRace=Peleng
+        }
+        9 ^{
+            End=What a wonderful device! Our scientists have been working on something similar for ages, with no result! It's a glorious gift and we are immediately transferring <Money> cr to your account. Please be so kind to accept it.
+            FromRace=Gaal
+            Start=Ranger, would you be so kind to deliver this brain stimulator to <ToPlanet> in the system of <ToStar>. It has been specifically developed for Fayean brain. It is a gift that we wish to present to our Fayean friends. It is going to be most useful in their meditation exercises, since it relieves neurone charge and stimulates the front brain zones. Fayeans are soon holding their annual meeting on the issue of Transcendental Knowledge and we want you to deliver the gift as soon as possible. If you do it in <Day> days, you will get <Money> cr on your arrival. Alternatively, you will get no reward since we think contract terms must be honoured at all times.
+            Status=Any
+            ToRace=Fei
+        }
+        Count=10
+    }
+}
+Race ^{
+    Name ^{
+        Fei=Fayeans
+        Gaal=Gaals
+        Kling=Klissans
+        Maloc=Maloqs
+        None=Unknown
+        Peleng=Pelengs
+        People=Humans
+    }
+}
+RangerInfo ^{
+    Type ^{
+        Pirate=Pirate
+        Trader=Trader
+        Warrior=Warrior
+    }
+}
+Rank ^{
+    Ace ^{
+        Name=Ас
+        Text=Вы, <Ranger>, безусловно лучший из всех пилотов. О вас на многих планетах уже слагают легенды. Вам официально присвоено звание <Rank>. Служите своему народу верой и правдой, безжалостно уничтожайте клисанов и у вас будет шанс получить звание командора, которое еще никто и никогда не заслуживал.
+    }
+    Cadet ^{
+        Name=Кадет
+        Text=Ваш рейтинг боевого пилота, выраженный в количестве сбитых кораблей, достиг <Count>, что, согласно галактической классификации, соответствует званию <Rank>. Мы рады поздравить вас с этим достижением и желаем сбить еще <NextCount> кораблей для получения очередного звания.
+    }
+    Commander ^{
+        Name=Командор
+        Text=Было созвано экстренное совещание Галактического совета на котором было решено присудить вам звание <Rank>. Это высший уровень пилотирования и вы, как лучший пилот всех времен и народов его заслуживаете. Только вы сможете освободить нашу галактику от клисанов. Так чего же вы ждете? Разгромите их!
+    }
+    Leader ^{
+        Name=Истребитель
+        Text=Поздравляем! Ваш опыт пилотирования, выраженный в количестве сбитых кораблей, достиг <Count> и соответствует уровню <Rank>. Вы являетесь одним из самых лучших пилотов галактики. Но чтобы стать действительно лучшим, вам придется сбить еще <NextCount> кораблей.
+    }
+    Pilot ^{
+        Name=Пилот
+        Text=Ваш опыт пилотирования неуклонно растет, где тот салага-пилот скромно получавший наш корабль? :-) Не тушуйтесь. За <Count> сбитых кораблей вам присуждается звание <Rank>. Мы полагаем для вас не составит труда сбить еще <NextCount> кораблей, чтобы стать капитаном.
+    }
+    Rookie ^{
+        Name=Новичок
+        Text=not use
+    }
+    Wingman ^{
+        Name=Капитан
+        Text=Теперь вы <Rank>. Да, ваш рейтинг боевого пилота вырос до <Count> сбитых кораблей! Вы, <Ranger>, подаете большие надежды можете вскоре стать одним из лучших пилотов.
+    }
+}
+Relations ^{
+    Type ^{
+        0=Hostile
+        1=Bad
+        2=Normal
+        3=Good
+        4=Excellent
+    }
+}
+Reward.txt ^{
+    0 ^{
+        Name=Орден Быка
+        Race=Maloc
+        Status=Pirate
+        Text=Гунский черный бык - традиционный малокский символ мощи, ярости и неуправляемости. Орден Быка учрежден в качестве специальной награды пиратам, заслужившим уважение малоков на войне с клисанами.
+        Type=ForLiberationSystem
+    }
+    1 ^{
+        Name=Калкитовый наконечник
+        Race=Maloc
+        Status=Any
+        Text=Наконечник древнего малокского копья присуждается в качестве награды воинам, освободившим от клисанов малокскую систему. Считается очень почетной наградой.
+        Type=ForLiberationSystem
+    }
+    10 ^{
+        Name=Гвардейский вымпел
+        Race=Maloc
+        Status=Any
+        Text=Знак обозначает своего обладателя как первоклассного бойца. Выдается за заслуги, сравнимые с боевыми подвигами малокского народа.
+        Type=ForAccomplishment
+    }
+    11 ^{
+        Name=Значок "Грязный камикадзе"
+        Race=Peleng
+        Status=Any
+        Text=Этот особый знак был учрежден по сложившейся пеленгской традиции грязевых боев. Его можно получить лишь отличившись перед лицом пеленгского народа.
+        Type=ForAccomplishment
+    }
+    12 ^{
+        Name=Красный пантеон
+        Race=Peleng
+        Status=Pirate
+        Text=Пеленгская почетная награда за вклад в развитие космического предпринимательства и саботажа. Считается, что его владелец - пират, и готов вплоть до смерти отстаивать ценности пеленгской цивилизации.
+        Type=ForAccomplishment
+    }
+    13 ^{
+        Name=Золотая звезда героя
+        Race=People
+        Status=Any
+        Text=Почетная награда людей, говорящая о заслугах перед человечеством. Присуждается лишь избранным. Особенно ярко светится в закатных лучах человеческой звезды Солнце.
+        Type=ForAccomplishment
+    }
+    14 ^{
+        Name=Ашианская лента
+        Race=Fei
+        Status=Any
+        Text=Лента, повторяющая три цвета Ашиана, "города прогресса" на Эйпентаке - синий, фиолетовый и белый. Присуждается лицам, оказавшим помощь фэянской цивилизации.
+        Type=ForAccomplishment
+    }
+    15 ^{
+        Name=Большой англум
+        Race=Gaal
+        Status=Any
+        Text=Высшая официальная награда гаальского правительства. Вручается за выдающиеся заслуги перед гаальским народом.
+        Type=ForAccomplishment
+    }
+    16 ^{
+        Name=Медаль элитной охраны
+        Race=Maloc
+        Status=Any
+        Text=Выполнившие опасное спецзадание пилоты приравниваются по статусу и почету к агентам элитных малокских охранных подразделений, получая соответствующий знак.
+        Type=ForSecretMission
+    }
+    17 ^{
+        Name=Бляха "Танцующий пират"
+        Race=Peleng
+        Status=Any
+        Text=Пиратская награда, получившая название от знаменитого пеленгского клана Танцующих пиратов. Присуждается за успехи в деле борьбы с врагами пеленгского народа.
+        Type=ForSecretMission
+    }
+    18 ^{
+        Name=Значок Аарона Кинга
+        Race=People
+        Status=Any
+        Text=Точная копия алюминиевой бляшки, которую носил легендарный шпион Аарон "Рэпер" Кинг. Является официальной наградой людских спецслужб.
+        Type=ForSecretMission
+    }
+    19 ^{
+        Name=Галопуговица
+        Race=Fei
+        Status=Any
+        Text=Пилотам, отличившимся при выполнении фэянских секретных миссий, вручается галопуговица - одновременно и сувенир, и дорогая оптическая игрушка.
+        Type=ForSecretMission
+    }
+    2 ^{
+        Name=Трезубчатый орден
+        Race=Peleng
+        Status=Any
+        Text=Орден в форме боевого трезубца - древнего оружия, которым пользовались воины Рахиша в его лучшие времена - вручается пеленгским правительством активным борцам с клисанами.
+        Type=ForLiberationSystem
+    }
+    20 ^{
+        Name=Некриловая шпилька
+        Race=Gaal
+        Status=Any
+        Text=Острая шпилька из некрила с инкрустированным именем обладателя - полноценное оружие. Вручается пилоту, активно сотрудничающему с гаальскими службами безопасности.
+        Type=ForSecretMission
+    }
+    21 ^{
+        Name=Алмазная гильза
+        Race=Any
+        Status=Any
+        Text=Награда Галактического Совета, присуждаемая работникам секретных служб, как штатным, так и внештатным. Служит свидетельством того, что ее владелецу можно доверить любое задание.
+        Type=ForSecretMission
+    }
+    22 ^{
+        Name=Песочный череп
+        Race=Maloc
+        Status=Any
+        Text=Знак за самое отвратительное, что может быть для малока - трусость. Считается, что голова рассыплется, когда трус станет храбрым. Однако это еще никогда не подтверждалось.
+        Type=ForCowardice
+    }
+    23 ^{
+        Name=Кроличья голова
+        Race=People
+        Status=Any
+        Text=Миниатюрная пуховая голова кролика с глазами из серы украшает коллекцию бойца, запятнавшего свою честь позорной трусостью по отношению к людской цивилизации.
+        Type=ForCowardice
+    }
+    24 ^{
+        Name=Репейник Монго
+        Race=Fei
+        Status=Any
+        Text=Пират, не отличающийся храбростью, получает от фэянского правительства репейник Монго - растение со специфическим резким запахом, символ трусости.
+        Type=ForCowardice
+    }
+    25 ^{
+        Name=Черная метка
+        Race=Any
+        Status=Any
+        Text=Это очень позорный знак. Обозначает своего носителя как труса, бежавшего с поля боя.
+        Type=ForCowardice
+    }
+    26 ^{
+        Name=Ржавый гвоздь
+        Race=Maloc
+        Status=Warrior
+        Text=Для бывших храбрых боевых пилотов, а ныне гнусных предателей, малоки имеют специальный знак - медный гвоздь в третьей стадии коррозии.
+        Type=ForPerfidy
+    }
+    27 ^{
+        Name=Черное сердце
+        Race=Any
+        Status=Any
+        Text=Данная вещь служит подтверждением того, что ее владелец не имеет представления о нравственности.
+        Type=ForPerfidy
+    }
+    3 ^{
+        Name=Медаль Конгресса
+        Race=People
+        Status=Any
+        Text=Медаль от людского Конгресса Конфедерации - награда воинам, освобождающим Галактику от клисанов.
+        Type=ForLiberationSystem
+    }
+    4 ^{
+        Name=Именная монета
+        Race=People
+        Status=Trader
+        Text=Платиновая гербовая монета достоинством в одну тысячу кредитов с выгравированным именем обладателя - специальная награда от торговой палаты людского правительства. Вручается коммерческим пилотам, достигшим успеха в войне с клисанами.
+        Type=ForLiberationSystem
+    }
+    5 ^{
+        Name=Фэянский ивикус - сфера из голографического фосфорита с инкрустированными белыми энергенами - почетная награда для воинов, достигших успеха на фронте войны с клисанами.
+        Race=Fei
+        Status=Any
+        Text=Ивикус
+        Type=ForLiberationSystem
+    }
+    6 ^{
+        Name=Мерциновая подвеска
+        Race=Fei
+        Status=Trader
+        Text=Подвеска из сверхдорогого минерала мерцина. Учреждена правительством фэян для награждения торговцев, принимающих участие в битвах с клисанами.
+        Type=ForLiberationSystem
+    }
+    7 ^{
+        Name=Малый англум
+        Race=Gaal
+        Status=Any
+        Text=Официальная награда гаальского Магистрата Безопасности для воинов, доказавшим свою компетенцию при освобождении систем.
+        Type=ForLiberationSystem
+    }
+    8 ^{
+        Name=Медаль "Канвен-ивирис"
+        Race=Gaal
+        Status=Any
+        Text=Награда, учрежденная гаальским Фондом поддержки рейнджеров, в переводе с гаальского означает "нет мира агрессору". Вручается пилотам, борющимся с клисанами.
+        Type=ForLiberationSystem
+    }
+    9 ^{
+        Name=Орден достоинства
+        Race=Any
+        Status=Any
+        Text=Награда, учрежденная Галактическим Советом. Вручается рейнджерам и прочим пилотам, активно борящюмся с клисанами.
+        Type=ForLiberationSystem
+    }
+    Count=28
+}
+RuinName ^{
+    PB=Пиратская база
+    RС=Центр рейнджеров
+    SC=Научный центр
+    WB=Военная база
+}
+Script ^{
+    __def0 ^{
+        AllReady=Все корабли торгового каравана на месте прыжка. Можно прыгать в систему <s_attack>.
+        BreakMission=Задание отменяется. Один из транспортов не прошел таможенный контроль. Спасибо за участие.
+        FailOrder=<Name>! Вы оставили караван без прикрытия и тем самым нарушили приказ. Вы отстраняетесь от миссии!
+        FailOrderToo=Ты не выполняешь приказы. Куда ты полетел!!? Разгильдяи нам не нужны!
+        IDefense=Не мешай. Я защищаю торговый караван.
+        Loss=Торговые корабли уничтожены. Вы провалили задание.
+        PiratesToDefender=Зря ты взялся за защиту каравана. Я намереваюсь ограбить его.
+        PiratesToNotGroup=Я сейчас очень занят. Поговорим позже.
+        PlanetSayJoin=Нам нужна ваша помощь. Вы не согласитесь присоединиться к охране нашего торгового каравана?
+        PlayerOk=Да, конечно.
+        SayRunner=Нас убивают! Срочно отступаем. По окончании заправки летим в систему <s_end>.
+        ScriptInfo=Внимательно слушайте задание:
+        ScriptInfo=Караван отправляется в систему <s_end> на планету <p_end>. Но вначале караван должен зайти в систему <s_attack>, получить груз и дозаправиться. Есть опасения, что пираты в курсе наших намерений и попытаются атаковать мирные корабли.
+        ShipSayJoin=Привет, рейнджер. Мне тут дали задание охранять торговый караван. Ты не поможешь мне?
+        TraderSayInStart=Ты должен прикрывать меня, а не болтать. Скоро мы совершим гиперпрыжок.
+        TraderSayJump=Я уже прыгаю в систему <s_end>. Ты должен защитить меня!
+        TraderSayLandingToEnd=Идем на посадку. Твоя миссия почти завершена.
+        TraderSayNotGroup=Я лечу с важной торговой миссией. Буду признателен за вашу поддержку.
+        TraderSayRefuel=Я иду на заправку. Ты должен прикрывать меня.
+        WeDefense=Мы должны защищать торговые корабли.
+        Win=Транспортные корабли прибыли на базу. Вы успешно справились с заданием и получаете 1000 cr. Большое вам спасибо за помощь.
+    }
+    test ^{
+        0=Message 1"<PlayerFull>"-'-'-
+        1=Message 2
+        10=Далее
+        11=Landing Ranger center
+        12=Далее 2
+        13=Landing Ranger center<br>OK
+        14=Далее 3
+        15=Landing Ranger center<br>FAIL
+        16=Взлет
+        2=Message 3
+        3=Message 4
+        4=Message 5
+        5=Message 6
+        6=Item in planet
+        7=Item in ship
+        8=Item is not exist
+        9=My exit
+    }
+}
+ShipCharacter ^{
+    00=	0,	100,	0,	Пахан
+    01=	25,	75,	0,	Бандит
+    02=	50,	50,	0,	Ловчила
+    03=	75,	25,	0,	Делец
+    04=	100,	0,	0,	Магнат
+    05=	0,	75,	25,	Гангстер
+    06=	25,	50,	25,	Налетчик
+    07=	50,	25,	25,	Торгаш
+    08=	75,	0,	25,	Коммерсант
+    09=	0,	50,	50,	Громила
+    10=	25,	25,	50,	Тактик
+    11=	50,	0,	50,	Камикадзе
+    12=	0,	25,	75,	Неуязвимый
+    13=	25,	0,	75,	Защитник
+    14=	0,	0,	100,	Воин
+}
+ShipInfo ^{
+    DamageProc=Total damage is <Proc>%
+    FreeSpace=Free volume <FreeSpace> units
+    Mass=Ship weight <Mass> tn
+    NonDamage=Hull in perfect condition
+    Order ^{
+        GoToPlanet=heading for planet <Planet>
+        GoToShip=following <Ship>
+        GoToShipBad=chasing <Ship>
+        GoToStar=jumping to system <Star>
+        InOrbit=waiting for something at orbit of <Planet>
+        Move=moving in indefinite direction
+        None=
+    }
+    Size=Ship size <Size> units
+    SpaceDamageProc=(<Proc>% of damage)
+    SpaceDefField=Defense field <Proc>%
+    SpaceRelation=Relation towards you <Type>
+    SpaceSize=Size <Size> units
+    SpaceSpeed=Current speed <Speed> units
+    Speed=Current speed <Speed> units
+}
+ShipName ^{
+    Pirate ^{
+        Fei ^{
+            1=Bertmarn
+            10=Sargina
+            11=Lipron
+            12=Pchatilla
+            13=Losma
+            14=Naling
+            15=Hefra
+            16=Minin Alla
+            17=Sevit
+            18=Desti
+            19=Sharkinil
+            2=Precnima
+            20=Aepican
+            21=Fantomelga
+            22=Diashas
+            23=Ucon
+            24=Pinniga
+            25=Lafanten
+            26=Zapoca
+            27=Sesle
+            28=Cennalius
+            29=Nia Rasta
+            3=Favnar
+            30=Cmello
+            31=Becan
+            32=Zante
+            33=Taftagon
+            34=Kenzhess
+            35=Upitaca
+            36=Lekkie
+            37=Urmai
+            38=Aenzhick
+            39=Lattapona
+            4=Saia
+            40=Hiolyasta
+            41=Kaengie
+            42=Trettam
+            43=Fiyanlo
+            44=Bonla Cheelda
+            45=Ummgo
+            46=Jixie
+            47=Le Tui
+            48=Ronle
+            49=Kimoga
+            5=Dantigen
+            50=Danai Panits
+            6=Dallig
+            7=Budagon
+            8=Macleta
+            9=Kmen
+        }
+        Gaal ^{
+            1=Luewpasah
+            10=Sicran
+            11=Gaharteh
+            12=Crengih
+            13=Zemnan
+            14=Proya-bagl
+            15=Edogn
+            16=Firmiah
+            17=Letihixah
+            18=Orahas
+            19=Dnenih
+            2=Grentah
+            20=Kerh
+            21=Diplait
+            22=Zargonah
+            23=Aagerah
+            24=Dopehes
+            25=Lataheloh
+            26=Dacoigonah
+            27=Lepi-irpoh
+            28=Zolerit
+            29=Acii-ipiterih
+            3=Baharam
+            30=Mengoah
+            31=Liyaturt
+            32=Keln
+            33=Irpois
+            34=Gahaceah
+            35=Falkeh
+            36=Mincso
+            37=Oya-broh
+            38=Gunlal
+            39=Septankah
+            4=Lerneh
+            40=Decai
+            41=Lominas
+            42=Umannah
+            43=Lokih
+            44=Ganei-urur
+            45=Khleosah
+            46=Nisfih
+            47=Sezereh
+            48=Kef
+            49=Nalt
+            5=Zio-arah
+            50=Proya-agnay
+            6=Dlemen
+            7=Bashmih
+            8=Lintiah
+            9=Zononih
+        }
+        Maloc ^{
+            1=Gronchen
+            10=Bargha
+            11=Surzan
+            12=Brag Budra
+            13=Gikhmet
+            14=Dlatilra
+            15=Germengad
+            16=Urchan
+            17=Predgar
+            18=Sianarra
+            19=Manteqa
+            2=Berqius
+            20=Volsan
+            21=Unra Gi
+            22=Simenqar
+            23=Urgudlun
+            24=Garralius
+            25=Pretana
+            26=Vifnas
+            27=Doroqqa
+            28=Qarn Mapatra
+            29=Poqra
+            3=Samadui
+            30=Finval
+            31=Zigla
+            32=Brenqad
+            33=Pnor
+            34=Lyanta Audroe
+            35=Unglar
+            36=Berkets
+            37=Firqus
+            38=Solonoi
+            39=Dizhdan
+            4=Lipader
+            40=Zurkhater
+            41=Gneq Alqer
+            42=Gorgolot
+            43=Zug
+            44=Gargnu
+            45=Daqid
+            46=Pumparraq
+            47=Zalal
+            48=Sharqeng
+            49=Gonchad
+            5=Barragastanos
+            50=Gratobon
+            6=Gronsha
+            7=Zhenderman
+            8=Zimpru
+            9=Vianqralius
+        }
+        Peleng ^{
+            1=Sheihan
+            10=Nikkim
+            11=Pronk
+            12=Fassyt
+            13=Bzdanboi
+            14=Varialgsha
+            15=Rakhoita
+            16=Glaskhi
+            17=Znigar
+            18=Chinsha
+            19=Aglakh
+            2=Glaycha
+            20=Perchi
+            21=Zhaznap
+            22=Klysh
+            23=Khalkoi
+            24=Kuyla
+            25=Banbek
+            26=Evilya
+            27=Menkui
+            28=Bebis
+            29=Khosan
+            3=Kimurza
+            30=Prek
+            31=Zhangagi
+            32=Sheffoya
+            33=Drut
+            39=Kelba
+            4=Gnarlikh
+            40=Lisyash
+            41=Dolzun
+            42=Shuk
+            43=Pryampa
+            44=Gankhing
+            45=Krul
+            46=Emchai
+            47=Ryastazoi
+            48=Gizgatta
+            49=Ilkish
+            5=Ngongakh
+            50=Rakho
+            6=Pertipong
+            7=Proknunt
+            8=Plengen
+            9=Buchuna
+        }
+        People ^{
+            1=Whalesaur
+            10=Passion
+            11=Corrupted Den
+            12=Pirrax
+            13=Cyberman
+            14=Fright
+            15=Doger
+            16=Executor
+            17=Lusifer
+            18=Caesar
+            19=Pasifist
+            2=Wingy
+            20=Plague
+            21=Zorro
+            22=Romulus
+            23=Cu Clux Guy
+            24=Meteor
+            25=Gozilla
+            26=Barkhan
+            27=Virus
+            28=Crematorium
+            29=Herpis
+            3=Scavenger
+            30=Rotten
+            31=Infect
+            32=Dentist
+            34=Terror Millenium
+            35=Anarchist
+            36=Paratrooper
+            37=Grochan
+            38=Unvulnerable
+            39=Winged Vampire
+            4=Iron Steve
+            40=Toothy
+            41=Harris
+            42=Freeman
+            43=Judgement Day
+            44=Die Pelengs
+            45=Easy Death
+            46=Avenger
+            47=Bald Skull
+            48=Agony
+            49=Yoke
+            5=Brasskettle
+            50=Bloody
+            6=Fiasco
+            7=Tarzan
+            8=Thunderman
+            9=Flying Marsian
+        }
+    }
+    Ranger ^{
+        Fei ^{
+            1=Assiu Aeliscken
+            10=Elchima Hariyam
+            11=Anyon Gutenla
+            12=Ulisandora Laishe
+            13=Iliun Hannibis
+            14=Ieveira Sarckei
+            15=Aelyast Shashine
+            16=Aramallo Pungiada
+            17=Ulgan Camendinei
+            18=Aldasis Bunillia
+            19=Ullini Aeshiora
+            2=Almash Ranoia
+            20=Ezeman Cabis
+            21=Ingi Iffimaira
+            22=Orkon Pungada
+            23=Olar Cassandos
+            24=Emeri Hitalei
+            25=Umtano Nilyar
+            26=Olo Manniver
+            27=Alginosius Vinfe
+            28=Aezeona Urpaga
+            29=Olshe Daricarma
+            3=Aldoman Gnassib
+            30=Aedon Henlinnie
+            31=Ultuna Almaishe
+            32=Inckeen Caebnus
+            33=Aelinmek Lattan
+            34=Izhmenias Rinat
+            35=Aeleon Manfalca
+            36=Onacken Mapwana
+            37=Ulnaga Mapeiri
+            38=Ivaon Selirre
+            39=Untanu Filonit
+            4=Aelfanai Caleonta
+            40=Urmelio Napoler
+            41=Avon Anileus
+            42=Aelckin Syasta
+            43=Asyanaverius
+            44=Alinn Hollmayar
+            45=Irassa Bufalan
+            46=Oltas Planaila
+            47=Uvain Angosheeba
+            48=Afeike Pranalca
+            49=Adacar Cailun
+            5=Imcala Vannant
+            50=Aeshma Umeckeise
+            6=Uliano Gicalma
+            7=Aelshi Bellamist
+            8=Uldafit Linnei
+            9=Ostias Perentine
+        }
+        Gaal ^{
+            1=Roa Lanka
+            10=Tre-oriander
+            11=Zal-oh
+            12=Pelentihiriah
+            13=Cromes-oh
+            14=Crahal Otreh
+            15=Lohoka Zariona
+            16=Fuha Atinnie
+            17=Simeo-alissen
+            18=Nehelenie
+            19=Mali-anoholi
+            2=Prini-atalis
+            20=Gaik-oculah
+            21=Fotah Lweure
+            22=Shohoh Uitanwah
+            23=Gia-uie
+            24=Rarrohah Assen
+            25=Ulana-owkeh
+            26=Sohoh Mariakah
+            27=Tsufai Aartie
+            28=Lama-uhen
+            29=Umu-antahar
+            3=Zalomohok
+            30=Praswarrah
+            31=Oroha-yarras
+            32=Cunsheeh Lwahoah
+            33=Eneh Budwanah
+            34=Vulke Beneyral
+            35=Deben-areh
+            36=Semirgioroh
+            37=Goho-ieh
+            38=Siamie Aislan
+            39=Leya-arorah
+            4=Oroholi
+            40=Swepe-nicnah
+            41=Swane-rilah
+            42=Vuxailah Kim
+            43=Ramaie Endie
+            44=Zineoh Ginutah
+            45=Leska-riuh
+            46=Gaie Siasnah
+            47=Cameirilioh
+            48=Doneckie-ocwah
+            49=Piluru-wennie
+            5=Kleohons
+            50=Oagis Nahan
+            6=Lehesta
+            7=Meliorioh
+            8=Peliongoroh
+            9=Orohon
+        }
+        Maloc ^{
+            1=Dantar Pragradis
+            10=Sirard Provaqardoe
+            11=Gudermander
+            12=Groqkh Morgona
+            13=Qolotiriot Gash
+            14=Arkhond Gufarlaq
+            15=Dant Murrabis
+            16=Zorgis Prakhoter
+            17=Riptusgander
+            18=Raqfard Gentui
+            19=Tandron Talandoe
+            2=Qagon Diatar
+            20=Bungar Lantaqrius
+            21=Arimander
+            22=Montesar Merghis
+            23=Fardar Ganteger
+            24=Urrigis Qargad
+            25=Sizagdub Rastung
+            26=Lador Qradubrot
+            27=Perristius
+            28=Dashqen Merq
+            29=Zitrud Verdigan
+            3=Gatnod Qanoborb
+            30=Qozgard Bindagon
+            31=Undad Lorqer
+            32=Zhesqazgander
+            33=Xanter Dubgod
+            34=Qurgat Aleard
+            35=Barraguta
+            36=Parrag Emergor
+            37=Shordan Ragister
+            38=Monamada Rallogh
+            39=Uzgiranora
+            4=Vartar Horgis
+            40=Algode Fraqeber
+            41=Zazgh Almars
+            42=Alkhiaqer Zaqinorg
+            43=Sivad Proqrag
+            44=Khard Mangos
+            45=Arqanallioe
+            46=Rokhaz Grizgond
+            47=Sogand Biamar
+            48=Molarbander
+            49=Proqnas Urrigond
+            5=Argosh Baragind
+            50=Angardo Dagoi
+            6=Montropalios
+            7=Ritunder
+            8=Qrando Gand
+            9=Fandaq Ninabrus
+        }
+        Peleng ^{
+            1=Tzikhoola
+            10=Ishteenak
+            11=Pichkhanteez
+            12=Yanookhpek
+            13=Janrokh
+            14=Monsashka
+            15=Tzygashoon
+            16=Akhasuxez
+            17=Uliasanez
+            18=Senshirale
+            19=Favagnut
+            2=Umakher
+            20=Nefigertis
+            21=Uloomlakh
+            22=Phendig
+            23=Zagapales
+            24=Zhakhacha
+            25=Gangakhach
+            26=Ashogian
+            27=Nakhuzun
+            28=Tzyngoobal
+            29=Davashez
+            3=Zakhakie
+            30=Sineezrus
+            31=Mokhindirk
+            32=Ezmenarez
+            33=Shaskaziz
+            34=Ognaross
+            35=Plunrakiz
+            36=Pendigrokez
+            37=Coochamash
+            38=Affagitez
+            39=Danurukh
+            4=Ragekhancha
+            40=Galioges
+            41=Tzookhelez
+            42=Khurbansha
+            43=Chesakkar
+            44=Arashamentez
+            45=Khuntahunta
+            46=Rahonkez
+            47=Zaharianta
+            48=Tzumgasa
+            49=Gasigafish
+            5=Zakharang
+            50=Gurge
+            6=Khakarpas
+            7=Ukharizz
+            8=Apkhintz
+            9=Shefigoch
+        }
+        People ^{
+            1=Edward Moe
+            10=Daniel Checkmates
+            11=Lee Mioto
+            12=Johann Rumerman
+            13=Jadd Shaker
+            14=Ulrich Larssen
+            15=Silvester Pratt
+            16=Lisa Miloss
+            17=Robinson Davenport
+            18=Schwarz Mayner
+            19=Vincent Montana
+            2=Roger Swan
+            20=Luke Gonsalez
+            21=Albertini Shtein
+            22=Patrick Filler
+            23=Peter von Somm
+            24=Ernan Mulovich
+            25=Bert Manshow
+            26=Juna Unona
+            27=Nikolas Onion
+            28=Aristarch Constantine
+            29=Oscar Adams
+            3=Yang Alesi
+            30=Cornilius Proclus
+            31=Mark Buonaceros
+            32=Timothy Ally
+            33=Ross MacSheldon
+            34=Frank de Burbon
+            35=Fernand Starconis
+            36=Pirr Almarer
+            37=Rosa Seskendi
+            38=Gerhard Essex
+            39=Ditrich Kent
+            4=Ricardo Velaskes
+            40=Sebastien Chalsy
+            41=Ulsen Iowa
+            42=Victor Yakling
+            43=Rojer Sighte
+            44=Boris Gogolev
+            45=Leonardo Gomes
+            46=Alan Tigris
+            47=Arsenius Ghook
+            48=Marina Vega
+            49=Constable Bromschweiger
+            5=Gomer Pepperoni
+            50=Jeorge Peritula
+            6=Ginando O'Mallor
+            7=Selena Pitty
+            8=Costas Adamastis
+            9=Yanis Elmeier
+        }
+    }
+    Transport ^{
+        Fei ^{
+            1=Analimis
+            10=Dlasigona
+            100=Aeleaki
+            101=Naiashta
+            102=Finlo
+            103=Dlatasia Crelli
+            104=Menkeh
+            105=Aliahora
+            106=Shinfellire
+            107=Iliela
+            108=Aiena
+            109=Dalca
+            11=Sipiush
+            110=Niosh Pakiless
+            111=Nmaira
+            112=Zinlad
+            113=Teite
+            114=Helcaina
+            115=Aelgato
+            116=Fianit
+            117=Igeida
+            118=Lesnaick
+            119=Synshe
+            12=Feowi
+            120=Deltikaia
+            121=Halimeo
+            122=Neckie
+            123=Feiasta
+            124=Nilatso
+            125=Glimen Keisa
+            126=Khilor
+            127=Asaffi
+            128=Uiag
+            129=Caidagol
+            13=Balankila
+            130=Senoruo
+            131=Liemash
+            132=Cratole
+            133=Uitlanta
+            134=Pennasa
+            135=Shalcona
+            136=Kenkaio
+            137=Weriush
+            138=Halsaf
+            139=Kenapiolia
+            14=Gemeia
+            140=Lanuga
+            141=Viita
+            142=Sekenilt Aewist
+            143=Romakin
+            144=Aeimure
+            145=Lanoiga
+            146=Kelale
+            147=Shenwa
+            148=Homineo
+            149=Diplisne
+            15=Linnie Oata
+            150=Umzale
+            16=Siminei
+            17=Laslamon
+            18=Gneza Faia
+            19=Peresmelis
+            2=Aessiula
+            20=Pnetrimiona
+            21=Dezdakan
+            22=Fobiun
+            23=Lexan Arinei
+            24=Tezie
+            25=Gnatsin
+            26=Pramicla
+            27=Ushmakkie
+            28=Berco
+            29=Salosna
+            3=Hinkye
+            30=Lincarna
+            31=Keezis
+            32=Shevitale
+            33=Cugalda
+            34=Glaia Fentit
+            35=Impiriali
+            36=Sintiple
+            37=Calnei
+            38=Huami
+            39=Zhakenlaia
+            4=Selish Praiona
+            40=Akkala
+            41=Mosnara
+            42=Danteius
+            43=Lintaia Minio
+            44=Dnaia Secundash
+            45=Bemen
+            46=Gongasha
+            47=Liaploi
+            48=Fikki Monla
+            49=Zaleia
+            5=Henui
+            50=Taltan
+            51=Aeristili
+            52=Fazian Leprai
+            53=Natsilke
+            54=Laikna
+            55=Hangona Lyaniss
+            56=Buleranlo
+            57=Meccaponia
+            58=Plinacroia
+            59=Falnacolis
+            6=Manta Aconala
+            60=Adlana Mentsi
+            61=Rosnappa
+            62=Zhanlietta
+            63=Partmalla
+            64=Dalaniyga
+            65=Dulimenish
+            66=Pactale
+            67=Laistaponia
+            68=Sinmar
+            69=Chanilshe
+            7=Silicco
+            70=Dnemi
+            71=Yanshale
+            72=Kelsha
+            73=Dalamea
+            74=Halgal
+            75=Nacoshta Feil
+            76=Nehl
+            77=Finlad
+            78=Orialit
+            79=Benkerella
+            8=Leinamis
+            80=Rotomale
+            81=Hente
+            82=Salei
+            83=Nalas Kirme
+            84=Longoka
+            85=Feula
+            86=Oginika
+            87=Lenda Losh
+            88=Cnallie
+            89=Shegelana
+            9=Calesna
+            90=Bunti Osk
+            91=Unlai
+            92=Leigo
+            93=Faiamun
+            94=Oaklash
+            95=Teklinai
+            96=Hensheo
+            97=Lloto Nauwfa
+            98=Madale
+            99=Sherpa
+        }
+        Gaal ^{
+            1=Lahalah
+            10=Zagihi-prens
+            100=Sohon-gecah
+            101=Cagenizeh
+            102=Vayteya-mahoh
+            103=Lullihah
+            104=Pirrah
+            105=Noho-mototash
+            106=Gnalihiazeyah
+            107=Istantlah
+            108=Gaibengen
+            109=Casahayah
+            11=Beltint
+            110=Vecuulh
+            111=Menegereh
+            112=Umacoy-iliah
+            113=Lenlioh
+            114=Peuireh
+            115=Yachyalk
+            116=Aselaha-dienleh
+            117=Vengec-ayah
+            118=Dupiu-ador
+            119=Seoir
+            12=Romnah
+            120=Collat
+            121=Ukinaah
+            122=Kelgebah
+            123=Goiyst
+            124=Necanpeh
+            125=Lemh
+            126=Kirkohoyeh
+            127=Moynanah
+            128=Ohosiya-pleueh
+            129=Rexuei
+            13=Dintih
+            130=Ayna-miantolh
+            131=Luecast
+            132=Kenelosah
+            133=Aglingeh
+            134=Carailh
+            135=Vinfao-elleh
+            136=Asoleun
+            137=Kininaleh
+            138=Mwuayh
+            139=Varooloh
+            14=Leyassah
+            140=Nexeh
+            141=Gnepih
+            142=Umeyah
+            143=Glizdahanes
+            144=Serenif
+            145=Lohost-agloy
+            146=Yaminwolt
+            147=Katlkah
+            148=Csaneo-kirlh
+            149=Minih
+            15=Dlani-agasiah
+            150=Galis-proggeh
+            16=Septimn
+            17=Diaha-indih
+            18=Viamattah
+            19=Glaya-utakan
+            2=Anta-asyah
+            20=Shirralah
+            21=Asamaya-lezgiah
+            22=Persanaleyah
+            23=Doloccah
+            24=Girmenenih
+            25=Fergeh
+            26=Shanaha-plescit
+            27=Uffalin
+            28=Grehemanah
+            29=Dintikih
+            3=Penereah
+            30=Perihindah
+            31=Branac
+            32=Leheyantah
+            33=Bungracah
+            34=Samackenlih
+            38=Aadimcin
+            39=Gitladah
+            4=Lati-ohonah
+            40=Sahemeh
+            41=Ariah
+            42=Dahaenah
+            43=Finwah
+            44=Lei-mapadrah
+            45=Naclaya-seyah
+            46=Dimireh
+            47=Nawoofah
+            48=Dlipea-santil
+            49=Lissih
+            5=Genereh
+            50=Noolah
+            51=Decaah
+            52=Filoa-iyah
+            53=Shentih
+            54=Asti-algah
+            55=Kentam
+            56=Funaalih
+            57=Oorteh
+            58=Dlenc
+            59=Zamal
+            6=Sentahalah
+            60=Reuwzah
+            61=Gaam-ianit
+            62=Demeoh
+            63=Pereioleh
+            64=Derkiah
+            65=Lamayt
+            66=Nayeneh
+            67=Aylee-arkinaah
+            68=Elseh
+            69=Paleyah
+            7=Unti-aprix
+            70=Zeo-rinngeh
+            71=Dankesah
+            78=Sappaya-alit
+            79=Pronce-iyah
+            8=Lanteyac
+            80=Munnahartoh
+            81=Sentisih
+            82=Daorn-maygah
+            83=Clinyanah
+            84=Feoholeh
+            85=Galeppiah
+            86=Sengnosis
+            87=Prahaine-duluh
+            88=Lononenah
+            89=Seuwroy
+            9=Sfinleh
+            90=Arneista-lemac
+            91=Peuwrdah
+            92=Gangeh
+            93=Laon-oh
+            94=Flinkise-bargoh
+            95=Dlesniah
+            96=Eya-metocah
+            97=Saaun
+            98=Geoclayoh
+            99=Ceptahah
+        }
+        Maloc ^{
+            1=Matagon
+            10=Qandr Brog
+            100=Orb
+            101=Tranparg
+            102=Greta
+            103=Muzgander
+            104=Lyaxont
+            105=Sorroz
+            106=Dimengarel
+            107=Riuta Qarnoe
+            108=Pribazir
+            109=Verlax
+            11=Dunalome
+            110=Simingoe
+            111=Veriongeqa
+            112=Dronqu
+            113=Plepoi
+            114=Qrusq
+            115=Rotonoi
+            116=Tleta
+            117=Shandraqen
+            118=Riptirn
+            119=Praqellaris
+            12=Vaqh Dagoin
+            120=Duruntuq
+            121=Buntoe
+            122=Qinzaza
+            123=Origgie
+            124=Maiqnagor
+            125=Qmintu
+            126=Zed
+            127=Rrapanir
+            128=Uqigde
+            129=Nionitug
+            13=Maldi Preta
+            130=Llax
+            131=Giader
+            132=Doromai
+            133=Qnerdt
+            134=Loglesa
+            135=Vantigl
+            136=Sardoe
+            137=Bogen
+            138=Praima Rdita
+            139=Levarghin
+            14=Parnuq
+            140=Qongur
+            141=Goqtis
+            142=Uriqd
+            143=Rendad
+            144=Saprasegh
+            145=Qanza Maigurtu
+            146=Rogoe
+            147=Tertiger
+            148=Astoide
+            149=Pridlat
+            15=Giamart
+            150=Horte
+            16=Prongus
+            17=Daglamirro
+            18=Draqraq
+            19=Gondrun
+            2=Bargan
+            20=Baldamir
+            21=Perfut Magn
+            22=Rratigona
+            23=Persiplent
+            24=Zagnardu
+            25=Logna
+            26=Bragodiqa
+            27=Zhanor
+            28=Zander Khmer
+            29=Perrinala
+            3=Brozhda
+            30=Umalraq
+            31=Yagzona
+            32=Risbalaq
+            33=Zagmer
+            34=Bondag Mur
+            35=Franaqin
+            36=Urimaqgla
+            37=Delizh
+            38=Shavrin
+            39=Gertaqai
+            4=Xanron
+            40=Bertrandu
+            41=Shanger
+            42=Barloe
+            43=Dezden
+            44=Iffriga
+            45=Dragolis
+            46=Serger
+            47=Ulmanaqer
+            48=Restanu
+            49=Trogg
+            5=Ferqimode
+            50=Gergard
+            51=Mrank
+            52=Vipirrax
+            53=Lingaqor
+            54=Lingaru
+            55=Fervel
+            56=Prontilga
+            57=Zherkhan
+            58=Urd Marrasq
+            59=Pretz
+            6=Arralaq
+            60=Danist
+            61=Miolda
+            62=Beverisq
+            63=Qinghir Dlazd
+            64=Rean
+            65=Ragt Gunn
+            66=Letrapun
+            67=Repentis
+            68=Mundaloga
+            69=Orz Greqom
+            7=Qager Menqasa
+            70=Deptekh
+            71=Gerfengoe
+            72=Gollaza Gnetum
+            73=Rangam
+            74=Zalermatsit
+            75=Qipran
+            76=Viqarai
+            76=Dest Mantor
+            77=Gredir
+            78=Qendilga
+            79=Bora
+            8=Branlasis
+            80=Ramazes
+            81=Gerentur
+            82=Diarger
+            83=Plezgad
+            84=Qrionindra
+            85=Nigleg
+            86=Nera
+            87=Barangun
+            88=Qirg Riplya
+            89=Ormatorium
+            9=Enta Forgad
+            90=Sazorro
+            91=Blyqarnasis
+            92=Dagerda
+            93=Rivgeru
+            94=Desst
+            95=Qorroi
+            96=Gry Garch
+            97=Nenris
+            98=Tsennargh
+            99=Dzode
+        }
+        Peleng ^{
+            1=Raikh
+            10=Bebenig
+            100=Putzuk
+            101=Kocha
+            102=Zankuil
+            103=Mikh
+            104=Kiskanik
+            105=Delyacho
+            106=Kozda
+            107=Uppirt
+            108=Yurtka
+            109=Gonk Dlalkh
+            11=Bunda Chkhen
+            110=Geshti
+            111=Zhimakres
+            112=Zdog
+            113=Shikhimart
+            114=Kangai
+            115=Bukhtusaur
+            116=Diekta
+            117=Vyppe
+            118=Utzittim
+            119=Kragol Shenk
+            12=Ylakryus
+            120=Uzhmo
+            121=Lezort
+            122=Shackher
+            123=Plegvin
+            124=Kichusen
+            125=Riapem
+            126=Gunch
+            127=Dezdriaki
+            128=Kamip
+            129=Lului
+            13=Shkhanta Greec
+            130=Nikcha
+            131=Kunurko
+            132=Shakhid
+            133=Gipyr
+            134=Leshuk Akar
+            135=Vekhz
+            136=Kindash
+            137=Syaklyne
+            138=Kokchenk
+            139=Aproyng Ugo
+            14=Bergpama
+            140=Lergikh
+            141=Sayok
+            142=Enzhe Makhaik
+            143=Kipi
+            144=Lyapris
+            145=Kushka
+            146=Giyashma
+            147=Lyaytz
+            148=Khayagunta
+            149=Pinoniyn
+            15=Bgijint
+            150=Ezhask
+            16=Zhdanors Baitan
+            17=China Chinosa
+            18=Perkatz
+            19=Zuzin
+            2=Khaynasyan
+            20=Khatimensh
+            21=Logikht
+            22=Parshagor
+            23=Sinaskha
+            24=Guinakhp
+            25=Nkhent
+            26=Khasha Shonk
+            27=Ytzomnal
+            28=Fanshikki
+            29=Branka Pokh
+            3=Tzugengeek
+            30=Fangipai
+            31=Zuda Beriash
+            32=Pripench
+            33=Kakhik
+            34=Plevrag
+            35=Flaikhidis
+            36=Bangi Bonda
+            37=Zhdonzak
+            38=Garrikhen
+            39=Nancha Pengsha
+            4=Agikas
+            40=Fikuns
+            41=Gukki
+            42=Liptun
+            43=Sorkhoch
+            44=Gallyasta
+            45=Shimink
+            46=Ratkh Mangshas
+            47=Ckhmen
+            48=Nipshina
+            49=Sackhonie
+            5=Knahrak
+            50=Chalg
+            51=Karrikhonk
+            52=Zioss
+            53=Nenkha
+            54=Dliushi
+            55=Fangkye
+            56=Shisaka
+            57=Khopk
+            58=Chanloi
+            59=Ninkalaga
+            6=Uganda Missk
+            60=Detza
+            61=Suolgie
+            62=Clyo
+            63=Legtie
+            64=Soinok
+            65=Prepkh
+            66=Chykenlis
+            67=Uggumen
+            68=Tzanter Budur
+            69=Gorshinyak
+            7=Perioch
+            70=Giogrik
+            71=Peba
+            72=Bertzoi
+            73=Khalyk
+            74=Goncha
+            75=Zezdekai
+            76=Galsui
+            77=Vengresha
+            78=Gharkha
+            79=Benyak
+            8=Vaharlask
+            80=Linyap Orikki
+            81=Shunda
+            82=Kelkhya
+            83=Drekkorkon
+            84=Zhorshus
+            85=Gratzen
+            85=Dimikhrank
+            86=Elkhya
+            87=Segina
+            88=Kumuk
+            89=Khitti
+            9=Uinga
+            90=Ueng
+            91=Lyasoshik
+            92=Zginoi
+            93=Prellokhin
+            94=Ytzamarta
+            95=Beng Karnash
+            96=Getzit
+            97=Semikhlytch
+            98=Dokhlolimba
+            99=Lizgank
+        }
+        People ^{
+            1=Susala
+            10=Arrow
+            100=LeRoy
+            101=Zeya
+            102=Faun
+            103=Ayagse
+            104=Calnamaya
+            105=Kerala
+            106=Barokko
+            107=Mendeleev
+            108=Terpsicora
+            109=Venzite
+            11=Andromeda
+            110=Lyapiss
+            111=Falcon
+            112=Patagonia
+            113=Rodon
+            114=Universalis
+            115=Diamat
+            116=Sirens
+            117=Ghost
+            118=Enlad
+            119=Pherges
+            12=Hercules
+            120=Desis
+            121=Yang
+            122=Arichmet
+            123=Latoya
+            124=Vixan Emillio
+            125=Budokan
+            126=De Goy
+            127=Unzhin
+            128=Alime
+            129=Conga
+            13=Admiral Robson
+            130=Minia
+            131=Proton
+            132=Gigapolis
+            133=Langer
+            134=Faya
+            135=Caraine
+            136=Duplexoid
+            137=Millen
+            138=Fergatere
+            139=Barcal
+            14=Lionella
+            140=Riyho
+            141=Wergatan
+            142=Milky Way
+            143=Parallax
+            144=Elda
+            145=Ancalya Star
+            146=Gemetz
+            147=Latox
+            148=Radogen
+            149=Martelha
+            15=Mongol Shuudan
+            150=Kerinke
+            16=Dingo
+            17=Nimitz Ripablic
+            19=Ganover
+            2=Ellada
+            20=Auditor
+            21=Apollon
+            22=Mercator
+            23=Illusion
+            24=Albinos
+            25=Radon
+            26=Ulysses
+            27=Violet
+            28=Ashoka
+            29=Asylum
+            3=Fibius
+            30=Gemini
+            31=Cybergon
+            32=Neocryne
+            33=Nineveh
+            34=Lightning
+            35=Great Anglas
+            36=Sheridan
+            37=Shyva
+            38=Whirl-wind
+            39=Gardle Empire
+            4=Miacre Alpha
+            40=Orion
+            41=Gailea
+            42=Mercan
+            43=Tangaroga
+            44=Selia
+            45=Ratagon
+            46=Kinshasa
+            47=Retalga
+            48=Al Khaddin
+            49=Bormeo
+            5=Deneb
+            50=MacFertie
+            51=Dalamus
+            52=Silger
+            53=Kappa
+            54=Osval
+            55=Caprietti
+            56=Danglor
+            57=Plenazit
+            58=Matrix
+            59=Elliot
+            6=Tornado
+            60=Dackan
+            61=Fevarius
+            62=Dalgena
+            63=Lilla
+            64=Fimal
+            65=Patrice Bertman
+            66=Menesis
+            67=Ollyster
+            68=Cardago
+            69=Monparlak
+            7=Sphinx
+            70=Zimba
+            71=Seleman
+            72=Micagona
+            73=Ilinney
+            74=Rogger
+            75=Vesta
+            76=Anticulus
+            77=Shenger
+            78=Blatosphera
+            79=Haleppo
+            8=Jastin Bekk
+            80=Garde
+            81=Eristidis
+            82=Niken
+            83=Avenire
+            84=Megnaton
+            85=Coriolis
+            86=Subconverger
+            87=Ginlas
+            88=Aliskendi
+            89=Anaconda
+            9=Minotaur
+            90=Kent
+            91=New Sussex
+            93=Pirinei
+            94=Calamus
+            95=Greta
+            96=Alesta
+            97=Micona Premium
+            98=Alliance
+            99=Tacitus
+        }
+    }
+}
+ShipType ^{
+    Fei ^{
+        Diplomat=Dalani
+        Liner=Piolepteda
+        Pirate=Fantome
+        Ranger=Ranger
+        Transport=Menacken
+        Warrior=Aeckephar
+    }
+    Gaal ^{
+        Diplomat=Gallit
+        Liner=Pleocan
+        Pirate=Renegal
+        Ranger=Ranger
+        Transport=Oveon
+        Warrior=Getereogah
+    }
+    Kling ^{
+        0=Machpella
+        1=Egemon
+        2=Nondus
+        3=Catauri
+        4=Monchik
+        5=Mutonie
+    }
+    Maloc ^{
+        Diplomat=Rart
+        Liner=Aralita
+        Pirate=Bumbai
+        Ranger=Ranger
+        Transport=Qargass
+        Warrior=Draqar
+    }
+    Peleng ^{
+        Diplomat=Lyancher
+        Liner=Pachryamba
+        Pirate=Lyakusha
+        Ranger=Ranger
+        Transport=Cheska
+        Warrior=Sharakesh
+    }
+    People ^{
+        Diplomat=Consul
+        Liner=Astroliner
+        Pirate=Corsair
+        Ranger=Ranger
+        Transport=Trucker
+        Warrior=Interceptor
+    }
+}
+Skills ^{
+    PointForNextLevel=Улучшение навыка <PointForNextLevel> очков.
+    TSkills=(sAccuracy,sMobility,sTechnical,sTrader,sCharm,sLeadership
+    sAccuracy ^{
+        Name=Точность пилота
+        Text=Вероятность нанесения максимального повреждения <SkillValue>%.
+    }
+    sCharm ^{
+        Name=Обаяние пилота
+        Text=Негативная реакция окружающих занижается на <SkillValue>%, а позитивная увеличивается.
+    }
+    sLeadership ^{
+        Name=Лидерство
+        Text=Пилот может иметь в своем подчинении <SkillValue> других кораблей.
+    }
+    sMobility ^{
+        Name=Маневренность пилота
+        Text=Получаемый урон снижается на <SkillValue>%.
+    }
+    sTechnical ^{
+        Name=Технические навыки
+        Text=Износ оборудования происходит на <SkillValue>% медленней обычного.
+    }
+    sTrader ^{
+        Name=Навык торговли
+        Text=Пилот может продать оборудование за <SkillValue>% его стоимости.
+    }
+}
+Star ^{
+    0=Taron,Star.Normal
+    1=Pchedock,Star.Small
+    10=Alphard,Star.Normal
+    11=Zavijava,Star.Small
+    12=Heze,Star.Normal
+    13=Rastaban,Star.Small
+    14=Aldibah,Star.Normal
+    15=Shedir,Star.Small
+    16=Canopus,Star.Normal
+    17=Avior,Star.Small
+    18=Menkar,Star.Normal
+    19=Deneb,Star.Small
+    2=Sol,Star.Normal
+    20=Denebola,Star.Normal
+    21=Procyon,Star.Small
+    22=Altair,Star.Normal
+    23=Betelgeuse,Star.Small
+    24=Bellatrix,Star.Normal
+    25=Sheat,Star.Small
+    26=Algol,Star.Normal
+    27=Orion,Star.Small
+    28=Alphecca,Star.Small
+    29=Alioth,Star.Normal
+    3=Atlan,Star.Small
+    30=Turais,Star.Small
+    31=Regulus,Star.Normal
+    32=Rigel,Star.Small
+    33=Khamale,Star.Normal
+    34=Akharra,Star.Small
+    35=Castor,Star.Normal
+    36=Markab,Star.Small
+    37=Heminni,Star.Normal
+    38=Antares,Star.Small
+    39=Atria,Star.Normal
+    4=Craa,Star.Normal
+    40=Megrez,Star.Small
+    41=Pollux,Star.Normal
+    42=Artz,Star.Small
+    43=Kefron,Star.Normal
+    44=Bachar,Star.Small
+    45=Vitta Prayonis,Star.Normal
+    46=Selyoster,Star.Small
+    47=Tzufai,Star.Normal
+    48=Gever,Star.Small
+    49=Shommah,Star.Normal
+    5=Izar,Star.Small
+    50=Vinnatrix,Star.Small
+    51=Ukfal,Star.Normal
+    52=Murragis,Star.Small
+    53=Sezerke,Star.Normal
+    54=Ayronn,Star.Small
+    55=Veles,Star.Normal
+    56=Tallot,Star.Small
+    57=Kamayle,Star.Normal
+    58=Diatras,Star.Small
+    59=Elga,Star.Normal
+    6=Muphrid,Star.Normal
+    60=Arkabe,Star.Small
+    61=Umme,Star.Normal
+    62=Arrakis,Star.Small
+    63=Saprona,Star.Normal
+    64=Phelgest,Star.Small
+    65=Ufaleue,Star.Normal
+    66=Minnaveri,Star.Small
+    67=Rekze,Star.Normal
+    68=Al Dagor,Star.Small
+    69=Sezmen,Star.Normal
+    7=Diadema,Star.Small
+    8=Alchibah,Star.Normal
+    9=Giena Gurab,Star.Small
+}
+Talk ^{
+    Accept=Accept
+    Attack ^{
+        ComputerAsk=Very interesting. Whom shall we attack, <Player>?
+        ComputerInFear=At the moment I'm going to solve my problems. Let's talk later, in more peaceful situation.
+        ComputerReadyAttack=I'm fighting <Target>, can you help me?
+        DiplomatFear=I believe you are mistaken. This is a peaceful diplomatic ship, it is not designed for combat. Sorry, but I can't help you.
+        DiplomatFear1=As a peaceful diplomat, I'm not going to endanger my life. Look for another accomplice.
+        DiplomatHaveBusiness=I've got lots to do now, I'm in a hurry. Sorry, but I have to reject your offer.
+        DiplomatHaveBusiness1=I'm afraid I'm in a hurry for a very important meeting.
+        DiplomatOk=I agree to abandon my mission for a while and join you.
+        DiplomatOk1=This ship is disloyal towards my government and I will be delighted if it's eliminated. To arms!
+        DiplomatSend=Please, render me assistance in battle with <Target>.
+        DiplomatSend1=I need help. Villain <Target> wants to encroach upon the relics of my people!
+        DiplomatSuspect=I do not have enough reasons to trust you.
+        DiplomatSuspect1=A joint attack is a serious commitment. But what will I do if you leave me in the middle of it?
+        DiplomatSuspect1=No! I don't trust you and I won't take part in this enterprise!
+        DiplomatWeFriends=This attack can entail undesirable diplomatic consequences. I reject your offer.
+        DiplomatWeFriends1=This ship is friendly towards my government. Do you just realise what you are offering me?
+        LinerFear=The passengers are afraid of the combat. As a captain, I reject your offer.
+        LinerFear1=I'm responsible for lives of my passengers, and I can't guarantee they will live through this bloody fight.
+        LinerFear2=Our heart is with you and we would have gone to fight... If not for the little kids onboard, we cannot risk their lives.
+        LinerHaveBusiness=My route is rigidly defined, I cannot deviate from it, not for a single minute.
+        LinerHaveBusiness1=I'm a captain of a scheduled flight, I've got a timetable. I'm afraid it's impossible.
+        LinerOk=Well, sure, this scum needs teaching. Passengers are worried, but all right. I'm with you.
+        LinerOk1=Now this is right! I'm joining you.
+        LinerOk2=Cool. Just let me recharge the batteries before combat. Start it.
+        LinerSend=I suggest joint attack of <Target>. The spoils is all yours. My interest is entirely personal.
+        LinerSend1=I have to attack <Target>. Help me!
+        LinerSuspect=I don't trust you, and I won't attack anyone.
+        LinerSuspect1=I'm a respectable liner and you are a sleazy character. I don't trust you.
+        LinerWeFriends=I'm on a scheduled flight, firstly. Secondly, I have nothing against this vessel.
+        LinerWeFriends1=This ship is my ally, and attacking allies could get a civil pilot to capital punishment, you know.
+        PirateFear=I believe I won't get anything from this business except a broken ship. The enemy's too cool for us.
+        PirateFear1=Nah, it's a cool guy over there, no chance!
+        PirateHaveBusiness=A most promising suggestion, but I'm too busy now. Maybe later.
+        PirateHaveBusiness1=I would have given you a hand, it seems worth it, but I now have other plans.
+        PirateOk=I'm in need of dough and I can smell profit. Immediate attack.
+        PirateOk1=Agreed. Spoils fifty-fifty!
+        PirateOk2=That's great! My hands've been itching for a while, but I was afraid to do it alone.
+        PirateOk3=Excellent, I'm joining in the attack. Rob and kill in a good company - what can be better?
+        PirateOk4=I love murder and robbery. I'm with you!
+        PirateSend=Let's join and butcher <Target>. Spoils will be divided fifty-fifty. Agreed?
+        PirateSend1=Hey, brother, can you see <Target>? Let's dispatch it, like good pirates.Слышь, братан, видишь <Target>?
+        PirateSuspect=I won't consider your offer. I don't like your snout.
+        PirateSuspect1=I only go to battle with my pals whom I trust. And I don't know you.
+        PirateWeFriends=This ship is friendly towards my government. Do you just realise what you are offering me?
+        PirateWeFriends1=It's my old pal over there, I don't want to shoot at him.
+        PlayerSend=I suggest joint attack.
+        RangerFear=I don't want to take part in this action, for it is doomed to failure.
+        RangerFear1=Can't you see it's cooler that both of us? Thanks, but no thanks.
+        RangerHaveBusiness=I cannot consider your offer. I have other things to do now.
+        RangerHaveBusiness1=I'm extremely busy, sorry.
+        RangerOk=Accept. Let's surround it and attack.
+        RangerOk1=Good, let's do it! I'll attack from behind, and you take the front. I can't take the front, afraid for my cargo.
+        RangerSend=I suggest to attack <Target>
+        RangerSuspect=I do not trust you as an ally so I won't support you.
+        RangerSuspect1=But can I trust you? No, don't count on me here.
+        RangerSuspect2=The idea is not bad, but I don't trust you.
+        RangerWeFriends=I don't want to attack a friendly ship.
+        RangerWeFriends1=I won't fire at friends.
+        TransportFear=I can't do it. My ship is falling to pieces, it's all worn out. Battles are the last thing on my mind.
+        TransportFear1=I've got valuable cargo on board and weak weapons. You attack it if you wish so.
+        TransportHaveBusiness=I've got lots to do, perishable goods onboard, I just ahve no time.
+        TransportHaveBusiness1=Maybe, next time when I have more free time.
+        TransportOk=Agreed. I'll attack from behind, and you take the front. I can't take the front, afraid for my cargo.
+        TransportOk1=Sure, sure! The two of us will deal with it in no time.
+        TransportOk2=All right, my business will only be better off if we kill it.
+        TransportSend=I suggest supporting me in combat against <Target>. With the two of us, we'll certainly overpower it.
+        TransportSend1=I need a support of fire! I'm afraid I won't be able to combat <Target> alone!
+        TransportSuspect=I don't think you are a reliable partner in such risky enterprise.
+        TransportWeFriends=I'm not going to attack a friend and endanger my cargo.
+        TransportWeFriends1=This is unheard of, to attack friends. You must be a shameless immoral character if you suggest me such a thing.
+        WarriorFear=Attacking this ship is madness. I'm telling you this, I'm a pro in these things.
+        WarriorHaveBusiness=Our government has given us another mission and we cannot abandon it now.
+        WarriorHaveBusiness1=At the moment I'm taking part in another operation so I can't join you.
+        WarriorOk=Headquaters agree to this attack. Load guns, head for the target!
+        WarriorOk1=This joint operation is acceptable. Attack it from two flanks!
+        WarriorSend=My government has ordered me to attack <Target>. Join me if you are ready to support me. I can't make it myself.
+        WarriorSend1=Military action is on. Target: <Target>. Will you join me?
+        WarriorSuspect=My government forbids me to enter military agreements with suspicious people.
+        WarriorWeFriends=I can't see any reason for attack.
+        WarriorWeFriends1=You've turned to a wrong person. Military fleet serves the law which does not encourage attacking friendly commonwealth ships.
+        WeAlreadyHavePact=I cannot take this offer because I have peace agreement with <Target>.
+        WeAlreadyHavePact1=I promised to guard <Target> and cannot accept your offer.
+    }
+    Cancel=Cancel
+    Exit=Exit talk
+    Goods ^{
+        AnswerNotGoods=Your demands are justified. But I have no cargo.
+        AnswerNotGoods1=I've just unloaded my cargo and I'm all empty. Sorry, next time I'll give you everything.
+        AnswerNotGoods2=I can't suggest you anything except kippers in tomato sauce. Oh, no, even kippers are all gone!
+        DiplomatLongDistance=First try to catch me and then demand. Diplomatic vessels are the fastest in Galaxy!
+        DiplomatLongDistance1=You're talking to the captain of a high-speed spaceship. My ship can easily escape any pirate.
+        DiplomatNo=Don't try to take the cargo by force. I'm armed and very dangerous!
+        DiplomatOk=I was just taking a few presents for my relatives. I'm ready to share them with you. Don't shoot.
+        DiplomatOk1=Funny, I really seem to have a few crates with goods lying around. I'm giving you the best pick. Just don't press down on me.
+        LinerLongDistance=My liner has a cool engine of the latest modification. First try catching me and then make your threats!
+        LinerLongDistance1=My liner has a cool engine of the latest modification.
+        LinerNo=No! I still have my right to defend my property.
+        LinerOk=We'll give you all that we can, but don't kill us!
+        LinerOk1=I was told, I really was, space is full of fraggles. Here, look! I have to do as you say. Now I'll throw out my cargo.
+        PirateLongDistance=You'd better fly closer first and then make your threats. A true pirate looks at the death's face and not begs for a sop at the distance.
+        PirateLongDistance1=Colleague, I'll give you a piece of advise.
+        PirateLongDistance1=There's no point in piracy when you can't catch and kill your target. You can throw dust only in rookie's eyes.
+        PirateNo=I got this cargo in an honest fight. Wanna try taking it away from me? :-)
+        PirateNo1=I think there are too many competitors in my field. I used to share, but not now, no.
+        PirateNo2=Your sight test is overdue if you think there's "Snot" written on my side. Get out of my way, you scumbag!
+        PirateOk=Hey-hey, and I thought I was the coolest guy around here. Well, you're right, I'll now throw out part of my cargo. Fancy some smuggled goods?
+        PirateOk1=Silly ain't it: me robber and criminal myself, and I get robbed? Oh all right, me doesn't want to quarrel with pals. Ok, I'll throw out part of my cargo.
+        PlayerSend=This is robbery! Life or cargo?
+        RangerLongDistance=What? I can't hear you, some interference in the air... Fly closer so we can talk.
+        RangerLongDistance1=I think that even if you're stronger, you're no way faster than me. Try catching me first and then make your threats!
+        RangerNo=I'm in a mean mood today. Don't make it worse by your demands for my cargo. The cargo is mine, that's it! Get lost until I lose my temper.
+        RangerNo1=Hmmmm... Some bastard wants my cargo, did I hear you right? You'd better stop it, or I'll show you where Klissans spend winter...
+        RangerOk=I agree to give you part of the cargo, just don't shoot.
+        RangerOk1=All right, all right, I'm giving you part of my cargo.
+        Send=It is my territory and it's extremely difficult to guard it. Every ship must share its cargo with me.
+        Send1=I demand giving me your cargo, otherwise I'm not answering for my actions.
+        Send2=I'm collecting tribute. Throw your cargo overboard or I'll attack you.
+        TransportLongDistance=I have a new engine, upgraded it recently. First try to catch me. And then make your threats!
+        TransportLongDistance1=I've gor a new engine. A can escape any pirate. And your ship is not an exception. Try catch me.
+        TransportNo=I've been working all my life for this cargo and I'm not prepared to abandon it without good reason.
+        TransportNo1=What, what? Give cargo? And what's this talk about right to property and convention on civil rights?
+        TransportOk=I'm working day and night, and then some scum puts me in the red! Now I'll throw out everything that I have. Just don't shoot!
+        TransportOk1=Yes, I've really got some cargo in my hold that I don't need. I've been waiting for an opportunity to get rid of it.
+        WarriorLongDistance= not talk
+        WarriorNo='Allo, rookie! You better look who you are talking with! We'll now turn and blow your tub straight to hell!
+        WarriorOk= not talk
+        WeAlreadyHavePact=Obviously, you've made a mistake. I'm your friend and we already have peace agreement.
+    }
+    Money ^{
+        AnswerNotMoney=I'm sorry, I really want to pay, but I don't have the sum you require.
+        AnswerNotMoney1=Unfortunately, I do not have the money. Please have mercy on me.
+        AnswerNotMoney2=I wish I had that money. Please take pity of a poor space worker.
+        AnswerNotMoney3=I'd love to, really, but no money at the moment.That's the way life is!
+        AnswerNotMoney4=Where can I take such money? Think what you say!
+        AnswerNotMoney5=Well, maybe, I could pay you, but I do not have such money.
+        AnswerNotMoney6=I don't have the money with me. Maybe, you could let me go in order that I could fly to the planet <HomePlanet> and bring it?..
+        AnswerNotMoney7=Sorry but I don't have such money. You can kill me but mind that I will try to sell my life at the highest price!..
+        AnswerNotMoney8=Oh, I would be glad to pay, but I don't have such money.
+        AnswerNotMoney9=I don't have the sum you require.
+        ComputerAsk=And how much do you want?
+        DiplomatLongDistance=You are talking to a high-speed spaceship. My vessel will easily escape any pirate.
+        DiplomatNo=My ship is well protected against scummy bastards. You won't get my money!
+        DiplomatNo1=I'm not gonna pay. It's against the law to attack diplomatic ships! I'll report this talk in my embassy!
+        DiplomatOk=I have to yield to this unjust requirement. I'll write these costs on account of government expenditures. Get your money.
+        DiplomatOk1=It's a black day in my career today. In order to save my life I have to get my hands into government money. Get your money.
+        DiplomatOk2=Well, I'm ready to transfer the required sum to your account. In my turn I hope that you'll stop chasing my ship right away.
+        DiplomatOk3=I'm paying you this sum out of my traveling allowance. Hope now I can go.
+        DiplomatOk4=Ok, I'll pay you. Here you are. But actually, it's simply a disgrace! By the way, I have a diplomatic inviolability! I'm on a very important mission! Eh...
+        DiplomatOk5=Wait, don't shoot! I think we can make a deal. Here, I'm giving you money. Now, you won't chase me, will you?
+        DiplomatOk6=Now I'm on a very important diplomatic mission, the futureof the planet <HomePlanet> depends on it, that's why I just have no right to expose my life to danger. Based on it, I'm ready to pay you the required sum. Hope, you'll let me go now.
+        DiplomatOk7=I suppose, that paying the required sum to you will be the best way out of the conflict. Take you money and get out of here. I'm in a hurry.
+        DiplomatOk8=Ok, I agree to pay, 'cause I hate armed conflicts!
+        DiplomatOk9=Your requirements will be executed. Check your account, I have already added the sum you wanted to it. Hope, now I'm free.
+        DiplomatSumIsVeryBig=Right now, I can't see why I should pay such money. Maybe you will lower your demands?
+        DiplomatSumIsVeryBig1=If I pay so much, in all likelihood I'll go straight to jail for spending government money. Maybe you will lower your demands?
+        DiplomatSumIsVeryBig2=I share my trip allowance with you, but don't ask for too much! I'm a civil servant, not a banker.
+        LinerLongDistance=And first try catching me. I've recently installed a new engine and can escape any pirate.
+        LinerNo=My ship is equipped with ultramodern weapon, so I need no protection.
+        LinerNo1=Looks like you pirates are becoming more and more impudent lately. You won't get my money!
+        LinerOk=My passengers have gladly collected the required sum, and I transfer it to your account.
+        LinerOk1=A well-off businessman onboard agreed to transfer the required sum into your account, just stop chasing us.
+        LinerOk2=Wait, don't shoot! I have reported the incident to the company direction on the planet <HomePlanet>, and they agreed to transfer the required money into your account to protect the ship, passengers and their reputation. "Cosmofleet" clients ought to know that we take care of their safety!
+        LinerOk3=I'm asking you, there's no need of senseless slaughter, we have children onboard, they're crying because of fear! The Captain has fainted away, Stewardess is talking to you now. On behalf of all the passengers I'm authorized to hand you in this money. Hope now we can go?..
+        LinerOk4=There's a group of rich tourists from the planet <HomePlanet> onboard, they're ready to pay the required sum, just don't shoot!
+        LinerOk5=My passengers are terrified, psychosis seized everybody, some are already trying to throw themselves out of the bull's-eyes... Panic is growing with every passing moment. Please, take this money and leave us alone!..
+        LinerOk6=As the captain of the ship <FullShip>, I have to meet your unjust requirements not to expose my passengers' lives to danger. Here is money I kept to repair the ship and to buy food stuffs.
+        LinerOk7=Understand at last, I'll sooner die than meet your unjust req… hey, what's this?! Passengers are not allowed to the control room! What are you doing?! Ah-m-m... M-m!..
+        LinerOk7=...
+        LinerOk7=Hey, hello, brother! In short, One of the passengers of this tub <Ship> is talking to you. Don't you listen to this goat, our captain, I'm really ready to pay you the money you want. I'm here with my wife and my daughter, and I'm not willing to become an overcooked chicken because of some trifling sum. Well, take the money.  Now will you let us go? Hey, stop kicking you idiot! I'm not about you... Hey, guys, hold him tighter, what for do I pay you money?! Hey-hey, stop! If you shoot him - who's gonna operate the tub? Maybe you?
+        LinerOk7=Enough, next time I will surely fly by the pirate ship - this much more safe!..
+        LinerOk8=We've had an urgent meeting with the passengers, we decided to collect and to pay you the necessary sum. We hope, now you'll let us go.
+        LinerOk9=I'm begging you, don't shoot! I'll pay you the required sum out of my own savings right now. I've been saving this money to purchase a nice cottage house on the planet <HomePlanet> for several years, but passengers' and crew's lives are, any way, more important than money!
+        LinerSumIsVeryBig=My passenger service will go bust if I spend this much!I reject!
+        LinerSumIsVeryBig1=On the whole, I'm not against it, if only you asked for a bit less.
+        PirateLongDistance=First try catching me, then make your threats!
+        PirateLongDistance1=Colleague, I'll give you a little piece of advice. You have such a slow ship that your robbery makes no sense.
+        PirateNo=It's ME who collects money here. You're no chief to me.
+        PirateNo1=It's my territory. And it's me who decides, who, when and how much must pay.
+        PirateOk=Oh, and I thought it was my territory... But I guess you're cooler. O.K here is money.
+        PirateOk1=Hey, you are a tough guy! Ok, here's the dough, just don't shoot, my ship's too old, it'll burst.
+        PirateOk2=ok, partner, I'm ready to share the stolen, just don't shoot! I can't compete with you...
+        PirateOk3=A thief steals the club from a thief... Dog's life!.. This youth just has no standards! Ok, take the money, just leave me alone.
+        PirateOk4=I respect such daring guys like you! Hold the money, brother, let it be. I have no desire of quarreling with you.
+        PirateOk5=It's a pity you're not my accomplice. We could do so much together! Here is money, and let's part friends!
+        PirateOk6=Yeah, fighting with you is not beating money out of different cosmic simpletons! I'd better pay you, otherwise you may break my ship - how can I then earn for living?..
+        PirateOk7=So that you don't break my ship, I'm ready to pay, but I have a term that you'll get out of here and make a living somewhere else. One system is too small for two cool pirates as we!
+        PirateOk8=You, chap, can persuade. I think, I'll pay you the money.
+        PirateOk9=Spare me! Here is money, I confess that you're cooler fighter than me!..
+        PirateSumIsVeryBig=Sure, everybody needs to pay, but the sum is kinda largish. I won't have enough left for repairs.
+        PirateSumIsVeryBig1=Make it less, or get nothing at all.
+        PlayerLess=Ask less
+        PlayerMore=Ask more
+        PlayerSend=I'm collecting a fare
+        PlayerSend1=Give me cash.
+        PlayerSend2=Life or wallet!
+        PlayerSend3=Share your savings with me
+        PlayerSend4=You owe me the fare
+        PlayerSend5=Give me money or you'll be sorry
+        PlayerSend6=Turn your pockets out, this is a robbery!
+        PlayerSendSum=The sum of <Money> cr would be sufficient.
+        PlayerSendSum1=I think your life costs exactly <Money> cr
+        PlayerSendSum2=Give me <Money> cr and you can continue your flight
+        PlayerSendSum3=I don't need much - only <Money> cr
+        RangerLongDistance=First try to catch me and then threaten!
+        RangerLongDistance1=First try to catch me, and then threaten! My engine is cooler, I'll get away in no time.
+        RangerNo=I don't pay money to anybody and my honour is not for sale. And my irritation may result in strong measures. Am I clear?!
+        RangerNo1=Let's say, it was a joke, OK? Don't make me lose my balance.
+        RangerOk=Alright, I agree to your demands. Take your miserable money.
+        RangerOk1=Take your money, you blackmailer, just leave me alone.
+        RangerOk2=ok, fellow, let it be, take money and get out of here before I changed my mind and took it back!
+        RangerOk3=Well, here your dirty money, satisfied? Hope, now I can fly?
+        RangerOk4=Well, fine, fine, here is your money, I hope, now you'll leave me alone?
+        RangerOk5=What a scoundrel you are! I've been saving money for a new weapon for so long, and now I have to give it to you. But that's ok, soon I'll install cool guns, and then you'll beg for mercy when we meet again...
+        RangerOk6=You know, I'm ready to pay any money in order that your vile snoot would disappear from my screen...
+        RangerOk6=I transfer the required sum to your account.
+        RangerOk7=Well, here is your money, but don't be very happy! I have memorized you well, and, believe me, the time will come, when you return me the sum with interest!..
+        RangerSumIsVeryBig=It is a too large sum for me. I think, you should make your request more modest.
+        RangerSumIsVeryBig1=In principle, I'm not against paying, but you ask for too much. Maybe, you'll name a smaller sum?
+        Send=This is my territory. I offer protection and my escort for only <Money> cr.
+        Send1=I need <Money> cr. It's a kind of a fare.
+        Send2=I urgently need money. I won't leave you alone until you transfer <Money> cr to my account. Is it clear?
+        Send3=I need the dough. Give it to me now. Sum <Money> cr would be sufficient.
+        Send4=This is a robbery! Don't wanna die - pay <Money> cr.
+        Send5=Give me <Money> cr, or I'll smash your tub!
+        Send6=I need you to give me <Money> cr, and I'm ready for anything to get this money.
+        Send7=Want to live - learn to share. Pay <Money> cr, and I won't kill you.
+        Send8=I'm your death, you feeble! Give me <Money> now cr, if you don't want to turn into cosmic dust...
+        Send9=In previous life you owed me <Money> cr. It's high time to pay your debts!
+        TransportLongDistance=I believe, the danger is too I don't agree to your unreasonable demands.
+        TransportLongDistance1=We've recently bought a new engine and can escape any pirate.
+        TransportNo=I don't see any reasons for granting your request.
+        TransportNo1=Again these terrorists in our sector. Where do the police look, I wonder!?
+        TransportOk=I've saved this money with a great difficulty but, of course, one should pay the fare.
+        TransportOk1=I'm an honest businessman and I'm ready to pay for my security. Now you must protect me.
+        TransportOk2=You're lucky, nit, that I've got perishable goods in the hold, otherwise I would certainly give you a dressing down! Here, take your money, and let me go.
+        TransportOk3=I beg for mercy! I'm just a civilian cargo boat, and the goods onboard can be damaged in battle! Take money, just let me go!
+        TransportOk4=I'm ready to pay, just leave me alone.
+        TransportOk5=Here, I pay you, just stop getting me!
+        TransportOk6=I yield to violence. Here is money. I'm so tired of you pirates!
+        TransportOk7=Well, we cannot manage it without unexpected expenses in business. Here is money, just let me go.
+        TransportOk8=I wanted to buy toys for my children and now I have to give this money to you, insatiable pirate mug! Well, are you happy now? Can I go now?
+        TransportOk9=Alright, I'm ready to pay, just don't kill me!
+        TransportSumIsVeryBig=It's too high for me. Let's talk about a smaller sum.
+        TransportSumIsVeryBig1=I'm a modest businessman, I haven't got such money. I suggest lowering the rates.
+        WarriorLongDistance= not talk
+        WarriorNo=I think you have gone crazy and you will pay for it. Arm all weapons, get ready to attack the pirate!
+        WarriorNo1=Do you understand what you've just said? You're talking to law enforcement officer! Wanna die early?
+        WarriorOk= not talk
+        WarriorSumIsVeryBig= not talk
+        WeAlreadyHavePact=We have already agreed to live in peace, what else do you want? Breaking peace treaties is not good...
+        WeAlreadyHavePact1=I don't understand... Haven't we agreed to a truce!
+        WeAlreadyHavePact1=We have concluded an armistice! And now you're trying to extort money from me again!
+    }
+    Partner ^{
+        AlreadyHavePartner=Sorry, but <Partner> is my partner.
+        AlreadyHavePartner1=You're late chum, I've already been hired by ranger <Partner>.
+        AnswerLiderBreak=I've paid you, haven't I! You are breaking the agreement by refusing to serve me. I should teach you a lesson!
+        AnswerLiderTheEnd=Pity, you did save my ass once or twice. Don't fly too far, I'll think over the extension of our contract.
+        ComputerAgreeFlyToMe=Yes, sir! I'll follow you wherever you go.
+        ComputerAgreeFlyToMe=Yes, sir. I'm ok, don't worry.
+        ComputerAgreeFlyToStar=Yes, sir. I'm flying to <Star> system.
+        ComputerAgreeFlyToStar=Please inform me beforehand if your plans change.
+        ComputerAgreeLandingToObject=Yes, sir! If I got you roght, we're landing on <ObjectName>.
+        ComputerAgreeLandingToObject=The course has been laid, all systems operate normally.
+        ComputerInFear=I'm sorry, sir, but at the moment I cannot consider any offers. I need refueling and repairs.
+        ComputerSayNo=I'm not going to slave for you for petty <Money> cr. I need a good contract and working conditions.
+        ComputerSayOk=For <Money> cr, I'm ready to work for you for <Month> months. If you think the term is too short, double the sum.
+        FlyToMe=Stop chilling around, follow me
+        FlyToMe1=Follow me now
+        FlyToStar=We're jumping to <Star> system.
+        ILeader=I feel like a leader myself, I'm not going to let anyone command me. Let someone else fly beside me and learn.
+        Ileader1=Nobody hires me, it's me who hires others! You can fly beside me and learn.
+        IsOrderForAll=Is this a group or individual order?
+        LandingToObject=We're landing on <ObjectName>
+        MateBreak=I used to be your partner but you are constantly doing things that are abusing my principles. I therefore terminate the partnership.
+        MateBreak1=I don't like being your partner. You are different from what I thought in the beginning. Farewell.
+        MateTheEnd=Pal, our contract term is at the end, and now I can do what I like.
+        MateTheEnd1=In case you forgot, the contract term has expired. I was true to its terms while it lasted.
+        NeedLeadership=You don't look like a leader, <Ranger>. Your snoot is too primitive.
+        NeedLeadership=I advise you, <Ranger>, to deliver more protoplasm in Rangers' Centers and develop leadership skill, and now there's no point for you in looking for a partner.
+        NeedLeadership1=I descend from the ancient noble family and I will serve only someone more noble than I. And you, <Ranger>, cannot even speak properly -  a farmer, in one word. Have you ever developed your leadership skill in Rangers' Centers?
+        Ok=OK, I'll serve you <Month> months. I promise to always be close and help when you are in danger.
+        Ok=Just give me a sign, and my cool guns are at your disposal, <Ranger>.
+        Ok1=That's a deal. Your wish is my command, for <Month> months.
+        Ok1=I'll be devoted to you, <Ranger>, body and soul, in joy and sorrow till death do us part. Or till the contract term expires.
+        OrderForAll=For all! I'm not going to talk to everyone in person.
+        OrderForYou=For you, personally. End of communication.
+        PlayerLess=Make sum twice less
+        PlayerMore=Make sum twice more
+        PlayerOk=Agreed
+        PlayerSend=How about going under my command, <Ranger>
+        Send=I'm ready to pay <Money> cr for you to become my partner.
+        Send1=I'm paying <Money> cr and you go and work for me.
+        SmallMoney=I reject. My services and my time cost much more.
+        SmallMoney1=What? And you want to buy me for these pennies?
+        SmallMoney2=No, I won't slave for these coppers.
+        Suspect=I don't trust you enough to consider your partnership offer.
+        Suspect1=You are a suspicious character. I won't work for you.
+        YouNeedInMoreRank=Sorry, <Ranger>, but my rank is higher. That's why I won't serve under your command. When were you promoted at the military base last?
+    }
+    PlanetSay=Planet
+    PlanetSay=<Name>
+    Protect ^{
+        ComputerNotFearAndWar=Shut your trap, <Player>. I won't listen to your babble! You're my next.
+        DiplomatNo=You're, maybe, right as a diplomat, <Player>. War is not the best way of proving your case. But now I'm so angry that I just can't simply forgive the offender.
+        DiplomatOk=I see, you're my colleague, <Player>! A diplomat! Ok, I'll stop chasing him. Let him fly where he wants.
+        LinerNo=His actions irritated me so much that I can't but agree to this demand. Inspite of all your efforts, <Target> will die very soon.
+        LinerNo1=You'd better be careful not to become next. My liner is equiped so that it can destroy a hundred of such bastards and then easily escape!
+        LinerOk=He did start it! But if you, <Player>, insist, I don't mind.
+        PirateNo=You, <Player>, are a good guy, and I could agree with you. But robbery is my business! No way, in spite of all your efforts, <Target> will die very soon.
+        PirateOk=Are you mad, <Player>? This is my business! What else can I do to earn a living?
+        PirateOk=Just don't think that I quit. Such a strong guy is not one to be trifled with. I'll find another victim.
+        PlayerSend=Stop attack now! <Target> is under my protection!
+        RangerNo=I understand that you and <Target> may be friends, but it's a point of honor for me! I won't stop attack!
+        RangerNo1=Who the hell are you to tell me what to do, <Player>? I won't stop attack, and I don't care about your opinion!
+        RangerOk=Of course, I'll leave him alone, because I'm not gonna quarrel with you, <Player>. But I should say, it's not your business, actually!
+        TargetGiveGoods=I'll throwpart of my cargo overboard. Take it, <Player>, don't be shy! I owe you an immeasurable debt.
+        TargetGiveMoney=Thank you, <Player>, for your help. I transfer <Money> cr to your account as a token of friendship and respect.
+        TargetMayRunAway=I wasn't afraid of him at all, he would have never caught me. I'm flying very fast. But still, thank you, <Player>.
+        TargetNotFearShip=Thank you, <Player>, but I could have made it alone.
+        TargetThanks=Thank you, <Player>, so much! Unfortunately, there's no way I can thank you for this.
+        TransportNo=His actions irritated me so much that I can't but agree to this demand. Inspite of all your efforts, <Target> will die very soon.
+        TransportNo1=Get lost, <Player>, or your turn will come right now. Death awaits for everyone who will stand in the way of a transport ship!
+        TransportOk=He started this! But if you, <Player>, insist, I don't mind.
+        WarriorNo=Are you mad, <Player>! I'm on duty. Order is order. You're not my commander.
+        WarriorOk=Ok, <Player>, if you want, I'll do it. I do respect you.
+        WarriorOk=And let <Target> get out of here as fast as possible until I change my mind!
+    }
+    Reject=Reject
+    ShipSay=<Name>
+    To= -->
+    Tranclucator ^{
+        Attack ^{
+            Ask=Show the target.
+            Ok=Target coordinates defined. Start attack.
+            PlayerSend=I order to attack
+        }
+        Greeting=All my weapons are at your disposal, master. My guns are ready for battly, wait for your order.
+        Return ^{
+            Ok=Yes, sir, at once. Wait for me and take me onboard.
+            PlayerSend=Come back
+        }
+    }
+    Truce ^{
+        ComputerAsk=And how much will you pay for peace?
+        ComputerAsk1=And how do you value peace between the two of us?
+        ComputerOkWithoutMoney=I'm glad to stop firing. Let's consider it a small misunderstanding. We're friends now!
+        DiplomatNo=I'm very angry and my attitude will only improve if you offer me a much larger sum.
+        DiplomatNo1=You can't buy my favour for such pennies! Give me more!
+        DiplomatOk=I'm on an extremely important mission and I'm glad you've capitulated. You money will just pay for my repairs.
+        DiplomatOk1=It was so good to deal with you. You were so compliant.
+        DiplomatSend=I'm ready to transfer <Money> cr to your account, as a token of friendship and understanding.
+        LinerNo=I believe, your offer is too modest.
+        LinerNo1=I don't accept dirty money. If only you suggest a little more...
+        LinerOk=We think your action is extremely timely and gladly stop offensive against you.
+        LinerOk1=A most prudent decision. In fact, we are just a peaceful liner, we never wanted to fight.
+        LinerSend=My passengers are shocked by your actions. I'm ready to part with <Money> cr to ensure their safety.
+        PirateNo=I'm deaf to pleas that aren't strengthened by good dough.
+        PirateNo1=You value your life too low.
+        PirateNo2=What!!? That's how much you value your mean soul? Look at that niggard!
+        PirateOk=I accept your money and let you go. But try not to cross my path in the future.
+        PirateOk1=Hmmm, that's good money. Well all right, I'll let you live for a while.
+        PirateOk2=OK, fly away. But if I see you again, don't count on my kindness. :-)
+        PirateOk3=Ok, I'm in a good mood today. You're free to go.
+        PirateSend=Oh fuck off, I'll pay you <Money> cr. Or else!!!
+        PirateSend1=Ok, ok, you're cool, I agree. Here, take your <Money> cr, it's good dough. Only stop gunning me.
+        PlayerLess= Make sum twice less
+        PlayerMore=Make sum twice more
+        PlayerNotHaveMoney=I haven't got money
+        PlayerSend=I suggest truce.
+        PlayerSendSum=I'm ready to pay <Money> cr for you to leave me alone.
+        RangerNo=I'm deaf to pleas that aren't strengthened by good dough.
+        RangerNo1=And you call these crumbs money? What can I buy for it?
+        RangerOk=All right, I accept your contribution and stop firing.
+        RangerOk1=All right, cease fire. Thank you for your donation to Klissan Fight Fund.
+        RangerSend=I offer you <Money> cr for stopping the assault.
+        TransportNo=And you call this money? Have you ever SEEN money, you space tramp?
+        TransportOk=Oh, that's a relief. And I thought, I'd have to kill you, and that's a sin, you know.
+        TransportOk1=Now this is right: money is everything in our times. You're being very wise.
+        TransportSend=I'm ready to give <Money> cr, only for you to stop pestering me.
+        TransportSend1=Stop firing! I'm paying <Money> cr!
+        WarriorNo=I have informed my home planet <HomePlanet> about this offer. The direction doesn't think the payment sum is sufficient. I've been ordered to continue the assault.
+        WarriorNo1=Is it a decent sum for a ransom? I'm not gonna even inform my direction about it. Prepare for death!
+        WarriorOk=This money will support our battle effectiveness. Ships of the planet <HomePlanet> will touch you no more.
+        WarriorOk1=I have transmitted this information on this contribution to the direction of the planet <HomePlanet>. They agree to accept it and to strike you off the black list.
+        WarriorSend= not talk
+        WeAlreadyHavePact=I beliebe you have already violated our pact. What's the purpose of any further talks?
+        WeAlreadyHavePact1=You've now shown clearly what a mean character you are. I won't do any business with you in the future.
+    }
+}
