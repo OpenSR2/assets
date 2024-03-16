@@ -3,3 +3,7 @@
 *.gai
 *.hai
 *.dat
+*.exe
+*.dll
+*.log
+/.idea/
