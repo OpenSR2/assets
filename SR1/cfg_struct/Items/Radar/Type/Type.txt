@@ -1,7 +1,8 @@
-1=Animating
-2=Parametric
-3=Metadiodic
-4=Sonar
-5=Fan
-6=Full-resolution
-7=Subtransfer
+1=Визионный
+2=Анимирующий
+3=Веерный
+4=Сотовый
+5=Полнорастровый
+6=Сонирующий
+7=Релятивный
+8=Субтрансферный

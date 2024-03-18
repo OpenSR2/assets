@@ -1,4 +1,6 @@
-End=Your work, <Ranger>, is most valued. We are glad to pay <Money> cr to a person who values law and civil rights. You have to agree that these notions are vital for a society that wishes to be successful. And this is what we wish to you personally.
-PlanetRace=Gaal
-Start=In the system of <FromStar> there is now a very dangerous immoral character that is now gathering a criminal team around him. We are very disappointed with this and want to ask you, honourable ranger, to drive all criminals out of our system. You have the right to use your weapons against them, but only if it comes to the worst. Should all civil ships be safe until <Date>, we would be glad to pay you <Money> cr for your service.
-Status=Trader
+End=Вы прекрасно, прекрасно продержались все <Day> дней и не дали другим пиратам сбить ни одного мирного корабля!
+End=Вот ваш приз, <Player> - <Money> cr. Мы всегда рады видеть вас на планете <FromPlanet>.
+GovernmentAward=Reward,Points,Artefact
+PlanetRace=Peleng
+Start=В нашей системе <FromStar> в настоящее время проводится традиционный турнир на лучшего пирата года, и у вас есть распрекрасная возможность принять в нем участие. Согласно правилам, которые не меняются уже сто двадцать лет, в качестве участника может выступать любой боец с собственным боевым кораблем. Ему будут противостоять другие пираты, действующие в лучших пеленгских традициях - нападая на транспортные и другие суда. Участник действует в реальных условиях, и его задача, со своей стороны - в течение раунда (<Day> дней) не допускать гибели никаких гражданских судов, и при этом сбить как можно больше других пиратов! Захватывающе! Удачи, вам, <Player>!
+Status=Pirate

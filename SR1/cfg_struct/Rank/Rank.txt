@@ -6,6 +6,8 @@ Commander=Commander\Commander.txt ^{
 }
 Leader=Leader\Leader.txt ^{
 }
+NextRankGetText=Пилот представлен к званию <NextRank>! Пора лететь на ближайшую военную базу.
+NextRankText=Требуется <WarPoints> очков воина для получения звания <NextRank>.
 Pilot=Pilot\Pilot.txt ^{
 }
 Rookie=Rookie\Rookie.txt ^{

@@ -1,3 +1,5 @@
+Description=Description\Description.txt ^{
+}
 Name=Name\Name.txt ^{
 }
 Text=Text\Text.txt ^{

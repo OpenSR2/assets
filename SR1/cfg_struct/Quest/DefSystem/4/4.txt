@@ -1,4 +1,6 @@
-End=<Ranger>, you have successfully completed your contract for patrolling the system of <FromStar>; according to clause 4 of the contract Ministry of Defence on <FromPlanet> pays you <Money> cr. Your co-operation is highly valued.
-PlanetRace=People
-Start=Human military doctrine, Chapter 5, Article 23, envisages using civil specialists in law enforcement activities. According to this regulation, Ministry of Defence on <FromPlanet> invites pilots to patrolling on contract basis. The contract clauses are as follows:
+End=Ќу, <Player>, вы и впр€мь не лыком шиты! ѕросим вас остатьс€ посмотреть наш салют из чугунных головешек, а также поучаствовать в играх доброй воли.
+End=» еще неожиданный презент! ћы переводим на ваш счет денежную сумму в размере <Money> cr. ќни вам наверн€ка не помешают.
+GovernmentAward=Reward,Points,Artefact
+PlanetRace=Maloc
+Start=ћы, малоки системы <FromStar>, умеем ценить такие качества, как доблесть и воинское мастерство.  огда мы видим на нашей планете прославленного воина √алактики, мы не можем не оказать ему честь! ¬ам, достопочтенный <Player>, мы даем право послужить стражем нашей системы. ћногие малоки готовы отдать что угодно за то, чтобы оказатьс€ сейчас на вашем месте. “ак что принимайтесь за почетное патрулирование. » помните, что оно продлитс€ до <Date>, и что за это врем€ не должен погибнуть ни один гражданский корабль. ј после вашего возвращени€ мы устроим в вашу честь салют и игры доброй воли!
 Status=Warrior

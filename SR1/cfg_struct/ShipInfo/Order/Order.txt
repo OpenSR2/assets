@@ -1,7 +1,8 @@
-GoToPlanet=heading for planet <Planet>
-GoToShip=following <Ship>
-GoToShipBad=chasing <Ship>
-GoToStar=jumping to system <Star>
-InOrbit=waiting for something at orbit of <Planet>
-Move=moving in indefinite direction
+GoToShip=летит за <Ship>
+GoToShipBad=преследует <Ship>
+GoToStar=прыгает в систему <Star>
+InOrbit=чего-то ждет на орбите <Planet>
+LandingToPlanet=держит курс на планету <Planet>
+LandingToShip=совершает посадку на <Ship>
+Move=движется к неопределенной цели
 None=

@@ -1,13 +1,13 @@
-DamageProc=Total damage is <Proc>%
-FreeSpace=Free volume <FreeSpace> units
-Mass=Ship weight <Mass> tn
-NonDamage=Hull in perfect condition
+DamageProc=Повреждения составляют <Proc>%
+FreeSpace=Свободного места <FreeSpace> ед
+Mass=Масса корабля <Mass> тонн
+NonDamage=Корпус в отличном состоянии
 Order=Order\Order.txt ^{
 }
-Size=Ship size <Size> units
-SpaceDamageProc=(<Proc>% of damage)
-SpaceDefField=Defense field <Proc>%
-SpaceRelation=Relation towards you <Type>
-SpaceSize=Size <Size> units
-SpaceSpeed=Current speed <Speed> units
-Speed=Current speed <Speed> units
+Size=Размер корабля <Size> ед
+SpaceDamageProc=(<Proc>% повреждений)
+SpaceDefField=Защитное поле <Proc>%
+SpaceRelation=Отношение к вам <Type>
+SpaceSize=Размер <Size> ед
+SpaceSpeed=Текущая скорость <Speed> ед
+Speed=Текущая скорость <Speed> ед

@@ -1,6 +1,6 @@
-Diplomat=Gallit
-Liner=Pleocan
-Pirate=Renegal
-Ranger=Ranger
-Transport=Oveon
-Warrior=Getereogah
+Diplomat=Галит
+Liner=Плеокан
+Pirate=Ренегал
+Ranger=Рейнджер
+Transport=Овеон
+Warrior=Гетереога

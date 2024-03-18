@@ -1,6 +1,6 @@
-Exit=Exit
-Load=Load
-QExit=Exit the game?
-Resume=Resume
-Save=Save
-Settings=Settings
+Exit=Выход (<color=255,255,0>E</color>)
+Load=Загрузить (<color=255,255,0>F3</color>)
+QExit=Хотите завершить игру?
+Resume=Продолжить (<color=255,255,0>Esc</color>)
+Save=Сохранить (<color=255,255,0>F2</color>)
+Settings=Настройки (<color=255,255,0>C</color>)

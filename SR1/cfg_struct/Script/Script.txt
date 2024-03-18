@@ -1,4 +1,28 @@
-__def0=__def0\__def0.txt ^{
+MS_AboutGaal=MS_AboutGaal\MS_AboutGaal.txt ^{
+}
+MS_AboutRachehan=MS_AboutRachehan\MS_AboutRachehan.txt ^{
+}
+MS_AboutRachehan2=MS_AboutRachehan2\MS_AboutRachehan2.txt ^{
+}
+MS_First=MS_First\MS_First.txt ^{
+}
+MS_Machpella=MS_Machpella\MS_Machpella.txt ^{
+}
+MS_Report=MS_Report\MS_Report.txt ^{
+}
+Script02=Script02\Script02.txt ^{
+}
+Script03=Script03\Script03.txt ^{
+}
+Script03_1=Script03_1\Script03_1.txt ^{
+}
+Script03_2=Script03_2\Script03_2.txt ^{
+}
+Script04=Script04\Script04.txt ^{
+}
+Script05=Script05\Script05.txt ^{
+}
+ill=ill\ill.txt ^{
 }
 test=test\test.txt ^{
 }

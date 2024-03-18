@@ -1,7 +1,7 @@
-End=Very well, <Ranger>, it was an easy job for you, and we were so worried. Here is your <Money> cr. We would be glad to use your services in the future.
+End=¬ы выполнили наше задание, <Player>.  апитан –ахонча уверенно прожил до указанной в контракте даты: <Date>. ≈го родственники передают вам слова благодарности и собранные премиальные - <Money> cr. Ёто все, что этим бедолагам удалось наскрести в своих тощих карманах.
+GovernmentAward=Reward,Points
 InThisSystem=Yes
-PlanetRace=Gaal
+PlanetRace=Peleng
 ShipType=Transport
-Start=We have built <FShip>, a cargo vessel, using ultra-modern technologies. Maloqi spying corporation "Qalagon", which has been working in our system for some time, has found it out. We cannot influence politically and on the other hand we are reluctant to use regular army since it would cause unnecessary confrontation. But we are still concerned that "Kalagon" can hire a group of terrorists or pirates to destroy <FShip>. We have done our best not to provoke the organisation and even did it some favours, but we are still suspicious. The destruction of this oveon is going to be a great loss for us, in every possible sense.
-Start=Your work is quite simple: ensure the security of the vessel for <Day> days. It is currently here, in the system of <InStar> and is getting ready for the flight. Please only resolve to force if you have no other option. Remember, we wish no deaths! Upon completing the contract we will compensate you with <Money> cr.
-Status=Warrior
+Start=¬ нашей системе в данный момент находитс€ транспортный корабль <Ship>. ¬озможно, вы видели его поблизости. »м командует капитан –ахонча - новичок и не очень опытный капитан. “ак вот, родственники и друзь€ этого –ахончи так переживают за его жизнь, что собирают деньги дл€ того, чтобы нан€ть дл€ него персонального телохранител€. “ак что, уважаемый, вам подвернулась неплоха€ возможность подзаработать. √лавное условие - охрана корабл€ до <Date>; затем вы получите все деньги, которые соберут друзь€ и родственники –ахончи за это врем€. ћы уже и не ищем кого-то опытного в военном деле и готовы нан€ть любого, даже торговца вроде вас, лишь бы выполнить просьбу этих родственничков, которые уже неделю осаждают наше представительство.
+Status=Trader

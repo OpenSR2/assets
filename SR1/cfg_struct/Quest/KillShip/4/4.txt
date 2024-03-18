@@ -1,6 +1,9 @@
-End=Very well <Ranger>, Gap Tooth has finally left Galaxy in peace. Your reward is <Money> cr. Perhaps we should hire you on a permanent basis as a mobile executioner.
-PlanetRace=People
-ShipRace=Any
-ShipType=Pirate
-Start=Here is a contract for a pilot with iron nerves. A well-known maniac and terrorist Gap Tooth has been recently spotted by one of our ships. Police and special agents from our planet have been looking for him for a long time, but to no avail. But now we have absolutely reliable information that he is staying onboard <Ship> and is engaged in criminal activity in the system of <InStar>. We are ready to pay <Money> cr to anyone who destroys this guy in <Day> days. Should you fail to stay within the time frame we will have to turn to another pilot.
-Status=Any
+End=—пасибо вам, <Player>, за устранение транспорта <Ship>, этого поборника алкоголизма. ¬озможно, он и не был виноват, зато теперь другие людишки будут бо€тьс€!
+End=Ёти люди - все алкоголики по натуре. Ќу, если не все, то, по крайней мере, большинство.  ак это отвратительно! ≈сли бы не мы, √алактика уже давно захлебнулась бы в потоках алкогол€. јх да, получите <Money> cr за работу.
+GovernmentAward=Reward
+PlanetRace=Maloc
+ShipRace=People
+ShipType=Transport
+Start=¬еро€тно, вам известно, как цивилизаци€ малоков относитс€ к алкоголю.  ак это подрывает нравы нашей молодежи! ѕланеты системы <FromStar> развернули кампанию "Ќет зеленому змию", цель которой ограничить, а по возможности полностью пресечь приток алкогол€ в систему. ¬ рамках этой кампании мы финансируем ликвидацию самых злостных поставщиков алкогол€. ѕо нашим данным, транспортные суда людей в первую очередь причастны к этому факту. ћы решили показательным примером продемонстрировать нашу решимость и уничтожить один из людских транспортов!
+Start=¬ам, <Player>, поручаетс€ до <Date> ликвидировать транспорт <Ship>. ќн недавно полетел в систему <InStar>. » мы полагаем, что именно за новой партией зель€. Ќайдите и убейте его, <Player>! ¬ам же не привыкать к гр€зной работе?
+Status=Pirate

@@ -1,5 +1,6 @@
-End=Good work, <Ranger>! Corporal Brashir sends you his utmost respect. Those bureaucrats in Headquarters will surely notice how clear and quiet the system has become and Corporal will certainly be restored on his post, and maybe even promoted.
+End=ћы удовлетворены пор€дком, который вы навели в нашей славной системе. ƒеньги уже на вашем счету. ¬се <Money> cr, до последней копеечки. ƒаже будучи пиратом вы, <Player>, заслужили наше уважение. „то говорит только в вашу пользу.
+GovernmentAward=Reward,Points,Artefact
 PlanetRace=Maloc
-Start=<Ranger>, we have contacted you following the request of our brigade corporal Nurg Brashir. Corporal is responsible for security in the system of <FromStar>. Quite recently, the Headquarters have signed an order to transfer him to reserve due to low efficiency of his work. Someone thought that he could no longer carry out his duties. And this is after fifty years of faithful service to Maloqi motherland. You cannot even imagine how furious he is at being pointed at the door! And it is really mocking this officer's honour. Now, his only chance to stay in the army is to prove to his superiors that he is not yet a disabled old man and still has all his abilities.
-Start=<Ranger>, corporal Brashir will pay you <Money> cr from his own savings if you help him improve his reputation by guarding the security of the system of <FromStar>. You are going to make good money if you commit yourself until <Date>.
-Status=Warrior
+Start=”важаемый пират <Player>! ћы обращаемс€ к вам с просьбой, несмотр€ на то, что вы ведете пиратскую де€тельность.
+Start=ƒело в том, что система <FromStar> пытаетс€ вступить в јссоциацию производителей уранового масла. ј эти бюрократы из ревизионной комиссии тверд€т, что дл€ этого у нас недостаточный уровень безопасности перелетов. » пока мы не обеспечим более высокий уровень, дорога в јссоциацию нам будет закрыта. ѕотому мы будем платить хорошие деньги тем, кто обеспечит здесь стабильные перелеты всех невоенных кораблей. Ёти <Money> кредиток могут быть вашими, если вы выполните условие - в течение <Day> дней в нашей системе не должен погибнуть ни один гражданский корабль.
+Status=Pirate

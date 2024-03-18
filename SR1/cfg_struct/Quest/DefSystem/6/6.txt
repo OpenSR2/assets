@@ -1,5 +1,7 @@
-End=Excellent, <Ranger>! You have proven to be a true crime fighter, which has earned you gratitude of <FromPlanet> government and also a reward of <Money> cr.
-PlanetRace=Fei
-Start=At the latest meeting of our Supreme Government a wise decision was taken, namely to tighten measures on precluding criminal actions in the system of <FromStar>. We are a highly developed peace-loving civilisation, but when our security is at stake we are ready to give criminals an adequate response. And we will do it whenever it is necessary, we have stated that a number of times at all inter-racial symposia.
-Start=Thus, all pilots, including you, <Ranger>, can sign a contract which entitles you to destroy any pirate ships that are interfering with the activity of civil vessels in our system. Term of contract is until <Date>; your reward is <Money> cr. Your help will be very much valued.
+End=Ќеверо€тно! ¬ам действительно удалось полностью пресечь де€тельность пиратов в нашей системе! ѕлачевный факт...
+End=Ќу да ладно, такого геро€ наша система не видела уже много лет. Ќадо признать, что на деле вы намного круче, чем с виду. √осподин √онцапок передает вам свое глубочайшее почтение и сумму в размере <Money> cr, начисленных за каждый день патрулировани€.
+GovernmentAward=Reward,Points,Artefact
+PlanetRace=Peleng
+Start=Ќаш магнат √онцапок, заведующий всеми делами по сбору грузов и финансов в космическом пространстве, имеет намерение доказать, что пиратские суда, действующие под его началом - самые опытные пираты в √алактике. „тобы окончательно утвердить свой непререкаемый авторитет, √онцапок ставит большую сумму денег на то, что никто не сумеет помешать его пиратам делать свое дело. ”же немало рейнджеров пытались выиграть это пари, и безрезультатно. ћожет, вы желаете попробовать, эм-м?
+Start=—умма, которую вы получите, зависит от количества дней, в течение которых вам удастс€ не допускать гибели мирных судов. ≈сли вы продержитесь <Day> дней и сможете дать отпор пиратам √онцапока, не дав им сбивать мирные суда, то √онцапок признает свое поражение.
 Status=Any

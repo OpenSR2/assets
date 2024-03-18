@@ -1,3 +1,2 @@
-Name=Asteroid -<Number>-
-Text=Moving at speed <Speed> units
-Text=Mineral content up to <Count> units
+Name=Астероид -<Number>-
+Text=Содержание полезных руд достигает <Count> единиц, скорость астероида <Speed>.

@@ -1,6 +1,7 @@
-End=Thank you, <Ranger>, for destroying this booze advocate. All these people are alcoholics. If not all of them, then the majority, doesn't matter. It is so disgusting! Had it not been for us, the Galaxy would have drowned in alcohol. Oh, yes, and here is your <Money> cr.
+End=Мерзкий рейнджер <Ship> погиб! Теперь мы можем рассказать вам, в чем было дело. Дело в том, что этот рейнджер прилетал ранее на планету <FromPlanet>. Мы дали ему задание по охране нашей передвижной лаборатории, которая занимается выведением супермалоков с повышенными умственными способностями. Но вместо того, чтобы охранять нашу лабораторию, он выкрал из нее наши наработки с целью продать их фэянам. И попади они в руки фэян, нам бы грозила блокада с их стороны, а также со стороны гаальцев и, возможно, людей. Но теперь инцидент исчерпан, наши материалы исчезли вместе с преступником. Мы можем только выразить вам благодарность и предоставить обещанные <Money> cr. Мы будем продолжать наш проект по выведению супермалоков и создадим новую лабораторию.
+GovernmentAward=Reward,Points,Artefact
 PlanetRace=Maloc
-ShipRace=People
-ShipType=Transport
-Start=You are probably aware what Maloqi civilisation thinks of alcohol. We suffer so many losses and trouble due to smuggling this nauseating product. Just think of our young people's morals! The planets in the system of <FromStar> have started campaign "No more Booze". Its goal is to reduce and possibly terminate the flow of alcohol to our planets. In the framework of this campaign we are financing eliminating of the most impudent smugglers. On the first place in our black list is trucker <Ship>. Our trade authorities are really tired of playing hide and seek with this adventurer. So we do not want to hear of him any more, in our system or elsewhere. We will be glad to pay you <Money> cr if you take this pain out of our ass. Just do it before <Date>, this is our condition.
-Status=Warrior
+ShipRace=Any
+ShipType=Ranger
+Start=Торговец <Player>, немедленно отправляйся в систему <InStar>! Разыщи рейнджера по имени <Ship>. Его корабль уничтожь немедленно. Если успеешь сделать это до <Date>, то получишь <Money> cr. Если у тебя еще есть вопросы, то спроси лучше себя, нужны ли тебе эти деньги. Мы же сможем раскрыть причину такой спешки только после успешного выполнения задания.
+Status=Trader

@@ -1,4 +1,5 @@
-End=Here is your <Money> cr, <Ranger>. Maloqs are grateful to you. Even though you are just a trader, you've earned our respect. We wish you every possible success in future military undertakings.
+End=Вот ваши <Money> cr, <Player>. Малоки благодарят вас. Вы хоть и торговец, но заслужили наше уважение. Желаем вам дальнейшего успеха в достойных военных занятиях.
+GovernmentAward=Reward,Points,Artefact
 PlanetRace=Maloc
-Start=Most of our best military pilots are at Universal Maloqi Police Games. Only green rookies are now patrolling our system and you can't trust them even with defending a freighter. <Ranger>, we therefore demand that you help them with their duties. Take off at once and start patrolling our space. If none of the peaceful ships is destroyed before <Date>, your mission will be complete and we will pay you <Money> cr. Believe us, this is much more than the salary of our regular guards. But if you are successful, we are ready to give it even to such petty trader as you.
-Status=Trader
+Start=Большинство наших лучших боевых пилотов сейчас находятся на Всемалокских Полицейских Играх. В системе остались нести службу только зеленые новички, которым и охрану торговца доверить нельзя. Мы настаиваем, чтобы вы, <Player>, приступили к патрулированию околозвездного пространства нашей системы. Если до <Date> ни один из мирных кораблей не погибнет, ваша миссия будет считаться выполненной, и мы выплатим вам <Money> cr.
+Status=Any

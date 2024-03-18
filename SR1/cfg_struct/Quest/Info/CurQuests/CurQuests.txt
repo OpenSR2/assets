@@ -1,3 +1,2 @@
-Accepted=Mission accomplished, you only have to collect your money
-NotAccepted=Mission in progress
-NotQuests=No missions
+Accepted=Задание выполнено, осталось получить деньги
+NotAccepted=Задание в процессе выполнения

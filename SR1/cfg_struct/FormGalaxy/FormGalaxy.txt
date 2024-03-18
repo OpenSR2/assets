@@ -1,4 +1,8 @@
-Distance=Distance:
-Exit=Exit
-Jump=Jump
-NotFuel=Not enough fuel
+Distance=Дистанция:
+Exit=Выход
+Jump=Прыжок
+NeedFuelOrEngine=Совершить прыжок к системе <Star> невозможно
+NeedFuelOrEngine=<ll>
+NeedFuelOrEngine=Вероятные причины отказа:
+NeedFuelOrEngine= - Не хватает топлива
+NeedFuelOrEngine= - Маломощный двигатель

@@ -1,8 +1,7 @@
-End=Now, <Ranger>, you can be proud of yourself. Here is your <Money> cr.
-End=Oh, yes, we promised you to tell about <Ship>. The truth is, he used to be a milksop, just like you and was afraid of killing even a raspwing fly. We just wanted to give you both a chance to become real heroes so that you are truly called space rangers. That is why, we gave each of you a mission to destroy the other. You've managed to do it, and he obviously didn't. This means, you initially have more potential and are better adapted to this cruel world in which only the strongest are going to survive. And do not thank us for this small lesson.
+End=Преступник <Ship> умер, да здравствует <Player>, выполнивший приговор нашего суда! <Money> cr - щедрая награда за вашу отвагу и отчаянность. Мы очень ценим подобные проявления лучших малокских качеств.
+GovernmentAward=Reward,Points
 PlanetRace=Maloc
-ShipRace=Any
+ShipRace=Fei
 ShipType=Ranger
-Start=<Ranger>, we notice that you get more and more involved in the shameful business of changing goods for money. For once, just try doing something like real man. For instance, prove your courage in honest combat. Many Maloqs dream of doing that but they do not have a suitable ship. Now, <Ranger>, you have it, but how do you use it? It's pure disgrace!
-Start=But now we have nice work for you. Some ranger, <Ship>, has long ago been sentenced to death. Just don't ask us, for what. We can only tell you when you are through with the mission. And it is very simple: just find and kill the ranger before <Date>. Come on, where is your will power, courage and spirit? And you will also get good money, of course if you manage to return to <FromPlanet> alive. If you don't, we will still have a salute ceremony in your honour.
-Status=Trader
+Start=Уважаемый воин <Player>, мы требуем от вас, как от честного пилота, уничтожить опасного рецидивиста, рейнджера по имени <Ship>. Этот фэянский подонок уже давно промышляет разбоем, атакуя ни в чем не повинные малокские транспорты. Его уже ищут на многих планетах. Мы, как цивилизованный мир с разрешенной смертной казнью, даем вам право стать нашим палачом. Никто не требует, чтобы вы его пытали или унижали. Просто до <Date> уничтожьте его вместе с его судном. Убьете вы его сами или поручите это кому-то другому, не важно. Важно, чтобы преступник понес наказание в соответствии с приговором. О деньгах не беспокойтесь, вы будете щедро вознаграждены.
+Status=Warrior

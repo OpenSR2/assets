@@ -1,6 +1,7 @@
-End=You have honourably completed the difficult task by defending trucker <Ship> and you deserve your reward, <Money> cr. You've served well the economy on <FromPlanet> and also our committee in ethical issues. We have decided to initiate court investigation of the latest incidents.
+End=¬ы выполнили контракт по охране торговой посудины <Ship>. “олько что до нас дошел денежный перевод, и мы выплачиваем вам 30% от него - <Money> cr. ѕримите также особую благодарность от охранного агентства "√розный топор".
+GovernmentAward=Points
 InThisSystem=Yes
-PlanetRace=People
+PlanetRace=Maloc
 ShipType=Transport
-Start=Insurance company "Willie and Maxie" that is dealing with insuring spaceships is on the way to bankruptcy. Recently, several ships have been destroyed by pirates, as the result of which the company had to pay the ship owners. It is a huge blow for our business. At the moment, the management believes that ship owners take their ships to hot spots on purpose so that they could get better compensation for their rusty washtubs. Your references are very good and we are ready to offer you a contract to the value of <Money> cr, to guard trucker <Ship> till <Date>, since it has just been insured for a huge sum. At the moment, the vessel is in our system.
+Start=ћы представл€ем охранное агентство "√розный топор".  апитан торговой посудины под названием <Ship>, груженой вс€кой ерундой, заплатил нам за охрану своего рейса. ј наши дракары и агенты, как назло, все зан€ты на других операци€х. ƒа и, признатьс€, у нас нет никакого желани€ заниматьс€ этим срамом, охран€ть торговца. ѕоэтому мы будем использовать частных пилотов. ћожет быть, вы, как торговец, испытываете профессиональную солидарность и желаете помочь коллеге? Ёто очень и очень похвально. ¬ таком случае, если вы возьметесь охран€ть корабль <Ship> до <Date>, то мы в свою очередь поделимс€ с вами суммой, которую скоро должны получить от его капитана. —ейчас <FullShip> находитс€ недалеко, в этой системе. Ќе подведите нас, <Player>. Ётот корабль должен остатьс€ цел, пока вы его охран€ете, иначе не видать вам обещанных денег!
 Status=Trader

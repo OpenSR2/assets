@@ -1,6 +1,8 @@
-End=Ranger <Ship> is still in the saddle! What do you think, is he good enough now with his ship or he still needs to be escorted? After all, every Maloq must learn to defend himself. <Ranger>, we now know that you are a talented bodyguard. <Money> cr is yours.
-InThisSystem=Yes
+End=ќпераци€ прошла блест€ще, мы засекли троих пеленгских агентов, проводивших разного рода подрывную де€тельность по отношению к нам. Ќаверное, мы расширим наш проект "Ќевидимое око" и заключим контракты с такими орлами, как вы. —ейчас же мы рады вручить вам эти <Money> cr.
+GovernmentAward=Reward,Points,Artefact
+InThisSystem=No
 PlanetRace=Maloc
-ShipType=Ranger
-Start=Our national hero, rahrt <Ship> has recently become a ranger. We are his humble subjects and we cannot but admire his courage and bravery. Unfortunately, despite all these qualities, he has very little experience in flying a military ship. Sir <Ship> is a true Maloq and he equals using escort to cowardice. However, we are so worried for his life and reputation that we have decided to ac as follows. We are hiring another ranger, an experienced fighter who is going to guard him discreetly. We repeat, we only need an experienced warrior with good recommendations. Your references are quite impressive so you are suitable for the mission. So, your task is as follows: You ensure rahrt's safety for <Day> days. Afterwards, you return to <FromPlanet> and get your money, <Money> cr. Possibly, afterwards we will find another ranger to take your place.
-Status=Warrior
+ShipType=Pirate
+Start=Ќа планете <FromPlanet> базируетс€ штаб-квартира суперконцерна  алагон - ведущей малокской корпорации в области военных технологий. Ќедавно им был разработан проект "Ќевидимое око", суть которого - сбор информации под пиратским прикрытием. Ќаши агенты под видом пиратов работают на пиратском корабле <Ship>. ћы не можем обеспечить их безопасность и выдать эскорт дракаров, так как это сразу вызовет подозрени€. Ќо вот сопровождение его пиратом вроде вас, <Player>, не вызовет никаких вопросов.
+Start=ћы знаем, что наши люди попали в беду, и готовы гарантировать вам неплохое вознаграждение, если до <Date> указанный корабль останетс€ целым и невредимым.
+Status=Pirate

@@ -1,5 +1,7 @@
-End=Great, the samples are here! You are a brave pilot and we hardly regret the necessity to pay you <Money> cr. Did you know that one of these cool guns "Gron-DoRM" is capable of killing a whole infantry regiment in one shot! Of course, if it is not broken like the one we got last time.
+End=ќчень при€тно видеть наш аппарат в целости и сохранности, <Player>! Ётой крайне ценный агрегат. — помощью него мы проводим казни - минируем землю и загон€ем туда преступников. ќчень эффективный и экологически чистый метод. ∆елаем вам никогда не испытывать его на своей шкуре.
+End=«а вашу оперативность мы выплачиваем вам <Money> cr.
 FromRace=Maloc
-Start=Our most advanced factories are now constructing a unique weapon that is going to make a revolution in Maloqi industry. It is a super-compact infrared flame-thrower "Gron-DoRM". You need to deliver two experimental samples to the system of <ToStar>, to <ToPlanet>. We are conducting additional field tests there. Unfortunately, our competitors have found out about our research. As the result, we have already lost two transports. Now, you are an honourable and well-known fighter whom we respect. So you can take these samples onboard and deliver them to their destination point. We believe our competitors will not pay any attention to you, so the parcel will be with the addressee before <Date>. If not, forget about <Money> cr.
-Status=Warrior
+Start=ћы хотим, <Player>, чтобы вы доставили на планету <ToPlanet> системы <ToStar> данный агрегат. Ёто миниатюрный захват-взрыватель, предназначенный дл€ минерных работ под землей. ¬ упакованном состо€нии он поместитс€ под креслом пилота, так что за место не беспокойтесь. Ќаши партнеры будут ждать его до <Date>. ≈сли вы промедлите, то как пить дать не получите <Money> cr.
+Status=Any
+SysName=Usl_1
 ToRace=Maloc

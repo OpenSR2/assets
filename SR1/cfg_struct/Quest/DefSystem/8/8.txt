@@ -1,4 +1,6 @@
-End=<Ranger>, you have honestly earned your <Money> cr. You have all chances for rehabilitation, but only if you forget about crime. Follow the way to improvement and we would be glad if the Galaxy has one pirate less.
-PlanetRace=Gaal
-Start=<Ranger>, we know of your past crimes and also that law and rights of intelligent beings is all empty talk for you. However, we believe that you might have a wish to apply your energy in a more honourable way than piracy. We are giving you this chance because we believe that even difficult cases like you are curable. We will hire you as law enforcement officer. If no civil ship is destroyed in the system of <FromStar> before <Date>, we will pay you <Money> cr and also improve our attitude to you.
-Status=Pirate
+End=Ѕлагородный <Player>, мы вами весьма довольны, и, так уж и быть, перечисл€ем на ваш счет <Money> cr. ’от€, с другой стороны, очень жаль наших пиратов. ∆изнь без подвигов, мирное существование - что может быть ужасней?
+GovernmentAward=Reward,Points,Artefact
+PlanetRace=Peleng
+Start=”важаемый <Player>, в нашей системе всегда было достаточно много пиратов, которые, как известно, представл€ют самый прогрессивный класс пеленгского общества. » вот недавно у нас побывали представители какой-то √алактической јнтитеррористической  омиссии. Ёти сущие снобы выдвинули нам ультиматум! Ћибо мы обеспечиваем безопасность системы на уровне галактических стандартов, либо на нас накладывают торговое эмбарго... ”жас!
+Start=¬роде бы вы, <Player>, весьма миролюбива€ натура - может быть, согласитесь нам посодействовать? ¬се, что нужно делать, это следить за тем, чтобы в течение <Day>-дневного периода в нашей системе не погибали гражданские суда.
+Status=Trader

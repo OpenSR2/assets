@@ -1,5 +1,6 @@
-End=At last, the priceless callice of Tschin dynasty is found! Thank you <Ranger>, we thought we would never see it again. But wait, what's that? Your back is all white! Looks like long contact with callice has put a curse on you after all. Too bad. You will be killed very soon, trust us. Well, maybe this money, <Money> cr, would be a bit of consolation.
-FromRace=Peleng
-Start=<Ranger>, you can surely do us a favour. A famous shaman from <ToPlanet> in the system of <ToStar> came to us to read a series of lectures in cyber-mnemonics, telepathy and common curses. When he was leaving, he accidentally (indeed, there was an accident) left his callice. But recently we have accidentally (indeed, there was another accident!) found it and now we want to return it to the owner. It is a very old and valuable thing. If you do not deliver the callice before <Date>, we will claim you a thief, besides keeping it close to you for a long time will negatively affect your bio field. You do not want to become a thief and a cursed one at that, do you?
-Status=Any
-ToRace=Any
+End=Вы уложились в срок, <Player>! Еще чуть-чуть, и клисаны передислоцировались бы в другой сектор, а нам опять пришлось бы по крупицам собирать информацию. Вам повезло, что вы успели. Но все же могли бы и побыстрее. Ладно, забирайте ваши <Money> cr. Большего ваши услуги не стоят.
+FromRace=Maloc
+Start=У вас появилась возможность внести свой скромный вклад в дело освобождения Галактики от нашествия клисанов. Дело ответственное, как и все, что поручают малоки. Мы вверяем вам пакет наблюдений за последними перемещениями военных сил клисанов. Информация настолько секретна, что мы не можем передать ее по обычным каналам связи. Также опасаемся посылать курьеров, которые часто подвергаются атакам. Информация предназначена для координационного центра в системе <ToStar>. Генштаб располагается на планете <ToPlanet>. Туда вы и должны доставить пакет. Учтите, что эти сведения имеют оперативную ценность. Через месяц-другой их актуальность потеряет всякую силу. Поэтому в генштабе заинтересованы в самых жестких сроках доставки сообщения. Мы передаем на <ToPlanet>, что вы доставите им пакет до <Date>. Если вы промедлите и не выполните своих обязательств в срок, то мы серьезно пересмотрим наше к вам отношение.
+Status=Warrior
+SysName=Usl_2
+ToRace=Maloc

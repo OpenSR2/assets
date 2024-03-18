@@ -1,3 +1,3 @@
-Pirate=I'm <Name>, I specialise in drug trafficking. By becoming a ranger, I hope to get more clients.
-Trader=I'm <Name> and I'm ready to abandon my business to become a ranger and save the Galaxy.
-Warrior=I'm called <Name>. As a new ranger, I promise to do my part in fighting Klissans.
+Pirate=Отошедший от дел наркобарон <Name>. Не имеет ничего, кроме огромной партии наркотиков на борту. Репутация даже среди соотечественников ужасная. Только на планетах пеленгов он является званым гостем. Имеет навык <clr>лидерства<clrEnd>.
+Trader=В высшей степени образцовый фэянин <Name>. Корабль после стычки с пиратами в ужасном состоянии. Но шансы стать лучшим рейнджером очень высоки благодаря наличию продвинутого <clr>знания техники<clrEnd>, а также навыков <clr>торговли<clrEnd> и <clr>обаяния<clrEnd>.
+Warrior=Военный пилот <Name> прошедший подготовку в Корпусе Мира. Хорошо разбирается в <clr>технике<clrEnd>, имеет образцовый корабль, увешанный новейшим вооружением. Репутация на всех планетах отличная (за исключением пеленгов, корабли которых он нещадно уничтожал).

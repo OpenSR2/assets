@@ -1,24 +1,47 @@
-ButFilm=Movie
-ButGalaxy=Galaxy map
-ButGoods=Trade center
-ButGov=Government
-ButHangar=Hangar
-ButInfo=Information center (not available)
-ButLogo=Menu
-ButPlanet=Planet
-ButQuest=Mission log
-ButScaner=Scan ship (<color=255,255,0>S</color>)
-ButSelAllWeapon=Select all weapons (<color=255,255,0>~</color>)
-ButShip=Ship
-ButShop=Equipment shop
-ButShowWeapon=Show/hide weapon
-ButTalk=Talk to ship (<color=255,255,0>T</color>)
-ButTurn=End of turn
-ButW0=Weapon <color=255,255,0>1</color>
-ButW1=Weapon <color=255,255,0>2</color>
-ButW2=Weapon <color=255,255,0>3</color>
-ButW3=Weapon <color=255,255,0>4</color>
-ButW4=Weapon <color=255,255,0>5</color>
-LabelDate=Current date
-LabelFreeSpace=Free volume onboard ship
-LabelMoney=Money
+ABItemDamage=Сила оружия <color=255,245,80>+50%</color>
+ABItemDefence=Защита <color=255,245,80>+50%</color>
+ABItemFast=Ускорение
+ABItemInvisible=Невидимость
+ABItemLife=Аптечка
+ABItemLock=Блокиратор
+ABItemReload=Перезарядка <color=255,245,80>+100%</color>
+ABItemSlow=Замедление
+ABSphere=Сгусток (Вход: <color=255,245,80>Enter</color>)
+ABWeapon1=<WeaponName> (Стрелять: <color=255,245,80>Ctrl</color>, Выбрать: <color=255,245,80><SelectKey></color>, Режим: <color=255,245,80>Shift+<SelectKey></color>)
+ABWeapon2=<WeaponName> (Стрелять: <color=255,245,80>Space</color>, Выбрать: <color=255,245,80><SelectKey></color>, Режим: <color=255,245,80>Shift+<SelectKey></color>)
+ButABPause=Стоять (<color=255,245,80>Space</color>)
+ButABPlay=Лететь (<color=255,245,80>Space</color>)
+ButAI=Автопилот (<color=255,245,80>A</color>)
+ButBreakMove=Прервать полет (<color=255,245,80>Space</color>)
+ButCaptain=Капитан (<color=255,245,80>G</color>)
+ButCenterShip=Отцентровать корабль (<color=255,245,80>C</color>)
+ButFilm=Фильм (<color=255,245,80>F</color>)
+ButGalaxy=Галактическая карта (<color=255,245,80>M</color>)
+ButGoods=Торговый центр (<color=255,245,80>T</color>)
+ButGov=Правительство (<color=255,245,80>G</color>)
+ButHangar=Ангар (<color=255,245,80>H</color>)
+ButInfo=Информационный центр (<color=255,245,80>I</color>)
+ButLogo=Меню (<color=255,245,80>Esc</color>)
+ButPlanet=Планета (<color=255,245,80>P</color>)
+ButQuest=Журнал заданий (<color=255,245,80>Q</color>)
+ButRating=Рейтинг рейнджеров (<color=255,245,80>R</color>)
+ButRefuel=Заправка (<color=255,245,80>B</color>)
+ButRepair=Починка (<color=255,245,80>A</color>)
+ButScaner=Сканирование корабля (<color=255,245,80>I</color>)
+ButSearchArtefact=Выполнить квест
+ButSelAllWeapon=Выбрать все оружие (<color=255,245,80>~</color>)
+ButShip=Корабль (<color=255,245,80>S</color>)
+ButShop=Магазин оборудования (<color=255,245,80>E</color>)
+ButShowWeapon=Показать/спрятать оружие (<color=255,245,80>W</color>)
+ButTakeoff=Взлет (<color=255,245,80>F</color>)
+ButTalk=Разговор с кораблем (<color=255,245,80>T</color>)
+ButTurn=Конец хода (<color=255,245,80>Space</color>)
+ButW0=Оружие (<color=255,245,80>1</color>)
+ButW1=Оружие (<color=255,245,80>2</color>)
+ButW2=Оружие (<color=255,245,80>3</color>)
+ButW3=Оружие (<color=255,245,80>4</color>)
+ButW4=Оружие (<color=255,245,80>5</color>)
+LabelDate=Текущая дата
+LabelFreeSpace=Объем свободного места на корабле
+LabelMoney=Деньги
+Speed0=Скорость корабля нулевая!<br>Проверьте наличие двигателя и топливного бака.<br>Если корабль перегружен, избавьтесь от лишнего груза.

@@ -1,4 +1,6 @@
-End=We are very impressed by your help, <Ranger>. We are paying you <Money> cr according to the contract, for patrolling. Zero statistics of civil ship attacks is the best argument in favour of total security of our system. We do hope that the word gets through to the traders.
-PlanetRace=People
-Start=Public Information Agency has just published the list of the most secure Human systems. Just imagine, the system of <FromStar> is in the very end of the list! This is very disappointing since many of the outstanding humans, well known in the Galaxy, were born here. But after publishing the list we can feel that investment flow is falling dramatically. We have already built two new centers for training military pilots for space defence, but it will take some time to get them ready and we certainly must act now. So, reluctantly, we have to turn to private pilots for help. The contract that we are offering you is <Day> days long and envisages remuneration of <Money> cr. Do you agree to such conditions? Mind you, not a single civil ship can be destroyed.
-Status=Any
+End=ћы благодарим вас, <Player>. ƒоблестным воинам мы рады заплатить любые деньги, даже такие немалые, как <Money> cr. ѕотратьте их на благородные дела - например, на покупку нового оружи€.
+GovernmentAward=Reward,Points,Artefact
+PlanetRace=Maloc
+Start=Ќедавно в нашей системе побывал какой-то людской торговец.  ак и следовало ожидать, его случайно укокошили. » вот, люди на всю галактику разнесли слух о том, что наша система €кобы - € подчеркиваю - €кобы опасна дл€ полетов! Ёто полна€ хрень, ложь мерзких, трусливых людишек, которые став€т свою жизнь выше чести!
+Start=“ак вот, клевета уже пустила корни. » мы стали тер€ть поставки техники и медикаментов. ћы решили положить этому конец! — насто€щего момента и вплоть до <Date> на вас, <Player>, ложитс€ вс€ ответственность за все невоенные суда в нашей системе. ¬ас ждет хорошее вознаграждение, но если лоханетесь и допустите гибель мирного судна, то получите лишь наше презрение.
+Status=Warrior

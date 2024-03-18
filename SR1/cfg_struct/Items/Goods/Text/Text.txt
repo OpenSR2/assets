@@ -1,8 +1,8 @@
-1=Various kinds of food in tetrogen packs
-2=Goods for medical and prophylactic purposes
-3=Electronics, home and factory equipment
-4=Precious goods, items of art, and other luxury
-5=Minerals, precious metals, and other rare elements
-6=Alcohol drinks and all products of drug nutrition
-7=All kinds of weapons: hand, infantry, nuclear, mental, etc
-8=Forbidden gaosteroids and all types of narcotics
+1=Различные съедобные товары, упакованные в тетрогенные упаковки.
+2=Продукция, служащая для лечения и профилактики заболеваний.
+3=Предметы электроники, бытовой и производственной техники.
+4=Драгоценности, произведения искусства и другие предметы роскоши.
+5=Минералы, ценные металлы и прочие редкие элементы.
+6=Вино-водочные изделия и прочая слабонаркотическая продукция.
+7=Всевозможные виды оружия: холодное, ручное, ядерное, психотропное и прочее.
+8=Запрещенные гаостимуляторы и прочая наркотическая продукция.

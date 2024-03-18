@@ -1,6 +1,6 @@
-End=The representative of antiviral centre "Bacterius Grocus" hopes that the contents of the container that you have delivered will help us defeat the disease. I wonder why should Pelengs start making medicines? Anyway, thank you very much and here is your <Money> cr.
-FromRace=Peleng
-Start=In the system of <ToStar>, <ToPlanet>, has been infected with a horrible disease. Our laboratories have developed a virus that will make it 100 per cent fatal. You, as a representative of creative community, can assist this dirty business by delivering the germs to our Human colleagues. Possibly, you think this is unethical, but life in itself is unethical and so are genetic experiments in survival. Besides, you can only get good money for dirty business.
-Start=The more days you need for the mission, the better container we have to supply for delivering the viruses. In this container they will stay alive for <Day> days. After this, you will not get a single poisonous Rabogam toad for it. Taking into account the cost of the container, your future profit is estimated as <Money> cr.
+End=Ём-м, наконец-то прибыл замечательный прибор по разведению рагобамских жаб! Ќаши друзь€ малоки, как видно, не сид€т без дела. ¬от эти замечательные животные очень хорошо подход€т дл€ ношени€ жучков и плевани€ €довитой слюной в политических противников. —пасибо за доставку, <Player>, и получите <Money> cr гонорара.
+FromRace=Maloc
+Start=ƒоблестный пират <Player>, не упустите возможность подзаработать легко и легально. ¬ам ведь редко выпадает подобна€ возможность, верно? «доровенный €щик нужно доставить на планету <ToPlanet>, в систему <ToStar>. Ќе спрашивайте нас, что в нем, это вас совсем не касаетс€. ћы только гарантируем, что он не радиоактивен, не заразен, не токсичен и не представл€ет никакой иной опасности дл€ здоровь€. ƒл€ пеленгов он представл€ет немалый интерес. ≈сли вы доставите груз до <Date>, то по прибытию получите от них <Money> cr.
 Status=Pirate
-ToRace=People
+SysName=Usl_3
+ToRace=Peleng

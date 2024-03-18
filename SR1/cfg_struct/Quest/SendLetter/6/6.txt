@@ -1,6 +1,7 @@
-End="Express Galactica" representative expresses his gratitude for the delivery and hopes that <Money> cr will compensate your expenses. However, we have to warn you that competing with such super monopoly as ourselves is completely useless.
-FromRace=Fei
-Start=Fayean division of Galactic mail service "Express Galactica" is overloaded with cargo flow, the situation is especially difficult with distant and expensive haulage. You are an experienced haulier so you could help us and deliver a few parcels to the system of <ToStar>, they are expected on <ToPlanet>.
-Start=We have to remind you that our service is the fastest and the most popular in the Galaxy. In order to uphold our reputation you need to deliver the parcels in <Day> days, upon which our representative will pay you <Money> cr.
-Status=Trader
+End=Наконец-то найдена ценнейшая чхаша! Спасибо, <Player>, мы уже и не чаяли когда-либо ее увидеть... Постойте, что это с вами? У вас вся спина белая! Да, никак чхаша навела-таки на вас порчу. Очень жаль, очень жаль. Теперь вам не поздоровится, вас быстро укокошат в бою. Ну, пусть хотя бы эти <Money> cr вас утешат.
+FromRace=Peleng
+GovernmentAward=Points
+Start=Дорогой <Player>, вы конечно же можете оказать нам услугу. С планеты <ToPlanet> (система <ToStar>) к нам прилетал известный шаман, который читал здесь курс лекций по кибермнемонике, телепатии и наведению порчи. Когда он улетал, то случайно (именно случайно) забыл свою чхашу. Но недавно мы опять же случайно (совершенно случайно!) ее нашли, и теперь очень хотим поскорее возвратить владельцу. Это невообразимо древняя и ценная вещь. Если вы не доставите чхашу до <Date>, мы будем считать вас вором и заклеймим позором, и, кроме того, ее длительное пребывание рядом с вами может негативно сказаться на вашей ауре. Вы же не хотите, чтобы вас считали вором и сглаженным, не так ли, а?
+Status=Any
+SysName=Usl_6
 ToRace=Any

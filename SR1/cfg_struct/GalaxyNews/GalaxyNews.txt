@@ -1,6 +1,24 @@
+BlackHole=BlackHole\BlackHole.txt ^{
+}
+CreateNewObject=CreateNewObject\CreateNewObject.txt ^{
+}
+DeadShip=DeadShip\DeadShip.txt ^{
+}
+EminentRangers=EminentRangers\EminentRangers.txt ^{
+}
 Globals=Globals\Globals.txt ^{
+}
+GoToPrison=GoToPrison\GoToPrison.txt ^{
+}
+Group=Group\Group.txt ^{
+}
+Planet=Planet\Planet.txt ^{
 }
 Quest=Quest\Quest.txt ^{
 }
-RangersCenters=RangersCenters\RangersCenters.txt ^{
+RC=RC\RC.txt ^{
+}
+SB=SB\SB.txt ^{
+}
+Star=Star\Star.txt ^{
 }

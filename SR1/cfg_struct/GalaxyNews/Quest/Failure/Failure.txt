@@ -1,3 +1,4 @@
-DeadDefShip=The ship <Ship> guarded by you has died in system <Star>. As a result you <Player> have not fulfilled the contract terms and infamized your name among those people.
-DeadShipInDefSystem=In the system <Star> guarded by you there have died a ship <Ship>. As a result you <Player> have not completed the contract terms with planet <Planet>
-Time=The time provided for the mission of planet <Planet> has expired, the contract is abandoned.
+DeadDefShip=ќхран€емый вами корабль <Ship> трагически погиб в системе <Star>. ¬ы, <Player>, не смогли выполнить услови€ договора с планетой <Planet>, тем самым опозорив свое им€ среди тамошних жителей. Ќе ждите на этой планете теплого приема.
+DeadShipInDefSystem=¬ охран€емой вами системе <Star> погиб корабль <Ship>. ¬ы, <Player>, не смогли выполнить услови€ договора с планетой <Planet>. ќтношение вам упало и теперь оцениваетс€ всего лишь как <Relation>.
+PlanetaryQuest=«адание планеты <FromPlanet> провалено. Ќе стоит теперь рассчитывать на теплый прием тамошних властей.
+Time=»стекло врем€, за которое вы должны были выполнить задание, данное вам на планете <Planet>. — вами разрывают контракт в одностороннем пор€дке. ќтношение к вам теперь не иначе как <Relation>.

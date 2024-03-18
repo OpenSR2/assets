@@ -1,5 +1,9 @@
-End=We are grateful that you have brought the ashes of Daedalus. He was an honorary citizen of <ToPlanet>; everybody respected and loved him. Can you hear people crying in the streets? Thousands of them have come to the burial ceremony. Please stay with us, too. And here is your money, <Money> cr.
-FromRace=Fei
-Start=Two days ago a most regretful thing happened on our planet, which shocked us all: Human ambassador Assirius Daedalus, who represented humanitarian mission from <ToPlanet>, died in an accident. According to his will, we cremated his body and now we need to send the ashes to his home planet, in the system of <ToStar>. <Ranger>, this small urn will not take much space on your ship. We have already sent a message to his relatives and they will conduct all the necessary ceremonies as soon as they get the remains. You can decide how much time you need to deliver them, we believe <Day> days is quite sufficient.
-Status=Any
+End=ѕредставитель центра по борьбе с вирусом "Ѕактериус √рокус" выражает надежду, что содержимое контейнера, который вы привезли, поможет нам быстрее покончить с болезнью. »нтересно, что это вдруг пеленги стали изготавливать лекарства?
+End=¬прочем, огромное вам спасибо, <Player>, и вот ваши <Money> cr.
+FromRace=Peleng
+GovernmentAward=Reward,Artefact
+Start=¬ системе <ToStar> на планете <ToPlanet> разразилась страшна€ болезнь. ¬ наших лабораторных услови€х успешно разработан вирус, который может ее многократно усилить! ¬ы, как представитель творческой интеллигенции, можете внести в это гр€зное дело свой вклад, доставив бациллы нашим коллегам-люд€м. ¬озможно, вам это может показатьс€ неэтичным заданием, но как же, такова жизнь и генетические эксперименты по выживанию. ’орошие деньги плат€тс€ только за плохие дела.
+Start=„ем больше дней вы захотите получить на выполнение этого задани€, тем более надежный контейнер понадобитс€ дл€ доставки бацилл. ¬от в этом контейнере они проживут только <Day> дней, после чего за товар вы не сможете получить даже одной €довитой рагобамской жабы. — учетом стоимости контейнера мы оцениваем ваш будущий доход в <Money> cr.
+Status=Pirate
+SysName=Usl_7
 ToRace=People

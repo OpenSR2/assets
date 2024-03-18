@@ -1,6 +1,8 @@
-End=Your contract is complete, <Ranger>. We've just received money transfer and we are paying you 30 per cent, <Money> cr.
+End=Спасибо за защиту нашего мастера Драгита от дерзких пиратов, <Player>! Мы правильно сделали, что обратились к вам. Эти <Money> cr - приличная оценка вашего мужества. Вы стоите на правильном пути.
+GovernmentAward=Reward,Points
 InThisSystem=Yes
 PlanetRace=Maloc
-ShipType=Transport
-Start=We represent security agency "Cruel Axe". The captain of a freighter <Ship> loaded with some junk has paid us to guard him on his route. Too bad our agents and draqars are all now engaged in other operations. Well, and to tell you the truth, we have no wish to get shame on our heads and guard some filthy merchant. That's why we are using private pilots. Maybe you, as a trader feel professional solidarity and want to help your colleague? This would be most honourable. In this case, if you take the mission and complete it successfully, so that <FShip> stays alive for <Day> days, we will share the sum we'll get from the captain. The ship is not far away, in this system.
-Status=Trader
+ShipType=Diplomat
+Start=Наш рарт (дипломат) Никчер Драгит является мастером стиля Бадуба-рен, искусства боя с каменной дубиной бадубой. Он ведет собственную практику, давая уроки на самых разных планетах Галактики. Недавно представители пеленгского стиля грязевого боя Гоцок бросили вызов мастеру Драгиту. Они предложили ему несколько боев в разных местах, по его выбору. Если он выиграет больше половины этих поединков, то школа Гоцок официально признает преимущество стиля Бадуба-рен.
+Start=Пока наш мастер успешно побеждает, но мы боимся подвоха со стороны пеленгов. Они способны устроить провокацию и погубить Драгита. Мы готовы заплатить вам <Money> cr, если вы будете в течение <Day> дней охранять корабль мастера (он носит название <Ship>).
+Status=Any

@@ -1,7 +1,8 @@
-End=Yeah, I see, here's the package with the goods... Hmmm, three bugs are missing... You say, crawled away? Well, it happens sometimes, not to worry. These ultra-modern Human models can run and hide to prevent themselves from being spotted. I'm sure those three are now somewhere in your ship, already switched to surveillance mode. Well, this might prove to be very useful to us, either.
-End=Upon subtracting the cost of the missing three bugs, we transfer <Money> cr to your account.
-FromRace=People
-Start=<Ranger>, you can be of service to our intelligence. Our friends Gaalians are our allies. Everybody knows that. But unfortunately we cannot trust anyone and so we regretfully have to literally stuff their government buildings with our bugs. Gaalians are tough guys and constantly scan their premises and remove our detectors. To make a long story short: on <ToPlanet> in the system of <ToStar> their counterintelligence has managed to uncover and arrest our Gaalian resident who, pressed by their interrogators told them the location of the bug store.
-Start=We need to deliver a package with new bugs to our reserve agent so that his activity can go on as usual. Our agent will wait for you in government building for <Day> days, but will need to go to his hiding place afterwards. If you are late, the contract is void.
-Status=Pirate
-ToRace=Gaal
+End=Прекрасно, образцы в целости и сохранности! Вы храбрый пилот, и нам не жалко для вас этих <Money> cr. Один замечательный огнемет "Грон-ДоРМ", который вы доставили, может положить целый полк пехоты.
+End=Правда, надо его еще испытать... Да вы не волнуйтесь, у нас есть целая группа пленных гаальцев. Говорят, что они очень теплолюбивые существа. Вот и испытаем!
+FromRace=Maloc
+GovernmentAward=Reward,Points,Artefact
+Start=На наших передовых заводах создается уникальное оружие, которое может совершить переворот в малокской военной промышленности. Это сверхкомпактный инфракрасный огнемет "Грон-ДоРМ". Необходимо доставить два опытных образца в систему <ToStar>, на планету <ToPlanet>. Там мы проводим дублирующие испытания. К сожалению, о наших разработках узнали конкуренты. В результате мы уже потеряли два специальных транспорта. Вы достойный, известный боец, которого мы можем уважать. На этом основании мы настаиваем, чтобы вы взяли эти образцы на борт и доставили по назначению до <Date>. Мы думаем, что наши конкуренты не обратят на вас внимания, так что груз благополучно достигнет цели. В обратном же случае вы не получите <Money> cr.
+Status=Warrior
+SysName=Usl_5
+ToRace=Maloc

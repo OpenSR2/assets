@@ -1,6 +1,9 @@
-End=You've made it, <Ranger>! Even though we mourn the death of our compatriot who has strayed from the lawful path, we are glad that justice is triumphant. In this case, the good of the society was more important than the life of a single individual.
-PlanetRace=Fei
-ShipRace=Fei
-ShipType=Transport
-Start=One of our convicts undergoing a program of labour therapy expressed a wish to take it onboard one of our freighters, <FShip>. We were delighted to hear of his initiative and appointed him as a technician of the above-mentioned vessel. However, this has lead to a tragedy: In the system of <InStar> this criminal killed everybody in the ship's team and took its captain hostage for conducting negotiations with us, but then killed the captain, too. Now it is obvious that he had no wish to change, so we have no other option than to destroy him together with the ship. However, there is a problem of diplomatic nature here. Do we want the Commonwealth to discuss why we have destroyed our own transport? Sure we do not. <Ranger>, you are a pirate, and when a pirate destroys a vessel, it looks so natural. We will pay you <Money> cr if you do it before <Date>.
-Status=Pirate
+End=Вот теперь, <Player>, вы можете собой гордиться. Дипломат <Ship> уничтожен, а у вас в кармане <Money> cr.
+End=Ну разве эта работа вам не нравится? Вы же, наверное, почувствовали запах крови, и больше не будете обычным торговцем? Гораздо интересней воевать. Война - вот основа всего!
+GovernmentAward=Reward,Points,Artefact
+PlanetRace=Maloc
+ShipRace=Gaal
+ShipType=Diplomat
+Start=Уважаемый <Player>! Ну как вам не стыдно быть торговцем? Разве это не постыдно? Попробуйте хоть раз совершить что-то достойное настоящего мужчины.
+Start=У нас как раз есть для вас хорошая работенка. Недавно у нас побывал один гаалец и промыл тут всем мозги. Он утверждал, что мир и очищение - это основа всего. Вобщем вешал лапшу на уши нашей молодежи и призывал наш народ к миру. Мы уже было собрались его убрать, но он просек в чем дело и улетел в систему <InStar>. Так вот, если вам по пути, то разыщите этого хренового дипломата и передайте ему от имени планеты <FromPlanet> красный венок - символ смерти. Если до <Date> корабль <Ship> будет уничтожен, то вы получите <Money> cr из нашего молодежного фонда.
+Status=Trader

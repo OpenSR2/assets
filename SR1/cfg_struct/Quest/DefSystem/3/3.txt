@@ -1,6 +1,6 @@
-End=You've done excellent, really marvellous job during these <Day> days, and you have even outrun the leader by two points! Long live <Ranger>, the Pirate of the Year!
-End=Here is your prize, <Ranger>, <Money> cr. We are always glad to see you on <FromPlanet>.
-PlanetRace=Peleng
-Start=The system <FromStar> is now hosting a traditional tournament for the best pirate of the year, so you are given an excellent opportunity to take part in it. According to the rules that have remained unchanged for the last 120 years, it is open to any pilot having a military ship. His opponents are local lyakushas who act in the best Pelengan traditions, attacking freighters and other civil vessels. The action is as real as can be, and the task of the contestant is not to have any of the civil ships destroyed during the round (<Day> days). Cool, isn't it?
-Start=You will be the last contestant in our show. Your number is ten. We will evaluate your performance at the end of the round.
-Status=Pirate
+End=Вы хорошо поработали, <Player>! Капрал Брашир выражает вам свою пламенную благодарность. Надо думать, бюрократы их Командования заметят, как чисто и спокойно стало в системе, и его восстановят в должности. А возможно, даже и повысят.
+GovernmentAward=Reward,Points,Artefact
+PlanetRace=Maloc
+Start=Уважаемый <Player>, мы вышли на вас по рекомендации бригадного капрала Нурга Брашира. Капрал отвечает за безопасность полетов в районе системы <FromStar>. Недавно Высшее Командование подписало приказ об увольнении капрала в запас по причине низких результатов его работы. И это после пятидесяти лет верной службы на <FromPlanet>! Что это, если не форменное издевательство над достоинством офицера? Как ни верти, единственный шанс для него остаться в армии - доказать командованию, что он умеет подбирать личный состав.
+Start=Так вот, <Player>, капрал Брашир выплатит вам <Money> cr из своих личных сбережений, если вы обеспечите безопасность в системе до <Date>. Он верит в вас, не подведите его.
+Status=Warrior

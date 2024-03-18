@@ -1,6 +1,3 @@
-TextAboutPlanet=Planet: <Planet>
-TextAboutPlanet=Inhabiting race: <Race>
-TextAboutPlanet=Population: <Population> mln.
-TextAboutPlanet=Relation towards you: <Relation>
-TextAboutPlanet=Planet captured by Klissans
-TextAboutPlanet=Landing impossible
+TextAboutPlanet=Проживающая раса <Race>
+TextAboutPlanet=Находится под контролем клисан
+TextAboutPlanet=Посадку совершить невозможно

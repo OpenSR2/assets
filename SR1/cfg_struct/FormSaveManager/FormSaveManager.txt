@@ -1,7 +1,10 @@
-Cancel=Cancel
-CaptionLoad=Load game
-CaptionSave=Save game
-Load=Load
-LoadError=Game loading error
-Save=Save
-SaveError=Game saving error
+AutoSave=Автоматическое сохранение
+Cancel=Отменить
+CaptionLoad=Загрузить игру
+CaptionSave=Сохранить игру
+Delete=Удалить
+Load=Загрузить
+LoadError=Ошибка загрузки игры
+QueryDelete=Удалить сохраненную игру?
+Save=Сохранить
+SaveError=Ошибка сохранения игры

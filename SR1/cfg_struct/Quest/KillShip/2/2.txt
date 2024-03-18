@@ -1,6 +1,7 @@
-End=Ship <Ship> is destroyed, here is your <Money> cr. Well, now we can hope that the conflict between Maloqs and Fayeans is going to escalate further. Of course, we still have to work on it, but that's what our diplomacy is for.
-PlanetRace=Peleng
+End=Транспорт <Ship> уничтожен! Вы выполнили наш договор, <Player>. Из нашего бюджета мы выделяем вам <Money> cr. Пусть это послужит уроком для всех, кто захочет дерзнуть напасть на наши подразделения.
+PlanetRace=Maloc
 ShipRace=Fei
-ShipType=Diplomat
-Start=Hey <Ranger>, are you ready to get your hands dirty with a diplomat's blood? Then rejoice, we can offer you a most lucrative, unbelievable contract! You must find and destroy a Fayean diplomat Uligon Kessi in <Day> days. You just think of what he is doing and you will understand our outrage. Right now, onboard his ship <Ship> he is working at peace agreement to end military conflict between Fayeans and Maloqs! This is most deplorable! Our diversionary forces have taken so much time and effort on preparing this conflict, provoking both parties, and now this ghastly diplomat can spoil everything with his nauseating peace-making initiatives. We hope you realise how important it is not to let him finish this dirty business and also how good it would be to get a lump sum from us.
+ShipType=Transport
+Start=У нас произошло чрезвычайное происшествие, <Player>! По словам командира боевых дракаров, некий фэянский транспорт <Ship> нагло обстрелял наш конвой во время посадки на <FromPlanet>. Когда же военные взлетели, то фэянин удрал в систему <InStar>. К сожалению, мы не можем преследовать его за пределами системы, так как ограничены мирным договором с фэянами.
+Start=Однако для вас, <Player>, как для пирата, не писаны никакие законы, не так ли? За вознаграждение в <Money> cr вы вполне могли бы до <Date> убрать этого ублюдка. Для вас это неплохой заработок, а для нас - дело чести.
 Status=Pirate

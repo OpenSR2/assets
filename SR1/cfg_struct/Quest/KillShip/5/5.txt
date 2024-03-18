@@ -1,6 +1,9 @@
-End=Thank you very much, <Ranger>. The relatives of the deceased have now stopped hunger strike, thanks to you and your noble action. Here is your reward, <Money> cr. Thank you once more.
-PlanetRace=People
-ShipRace=Any
-ShipType=Pirate
-Start=We are currently looking for space pirate <Ship> who has committed several dreadful crimes here: he has destroyed three passenger liners, together with all passengers. The people of our as well as other planets have been mourning the victims for several days, among them was a group of children going to a summer camp. The crime was just as cruel as senseless. Our fighters almost got at the scumbag but he managed to flee. <Ranger>, if you agree to execute the death sentence, it would help us in our grief. Of course, you will get adequate remuneration... though in such moments we cannot really think of money. Please do it and do your best to kill him before <Date>: many relatives of the deceased have gone on hunger strike until the guy is alive and we are worried for their health.
+End=Вы, <Player>,  с честью выполнили контракт! Обещанные нами <Money> cr уже на вашем счету.
+End=Да, мерзопакостного рейнджера <Ship> больше нет. Поменьше бы подобных субъектов в малокском обществе, и мы бы уже давно достигли наших самых высоких идеалов.
+GovernmentAward=Reward,Points,Artefact
+PlanetRace=Maloc
+ShipRace=Maloc
+ShipType=Ranger
+Start=Один из наших рейнджеров, <Ship>, уже давно позорит честь и достоинство всей малокской расы. Он постоянно совершает всевозможные торговые операции и не чтит наших устоев. Просто плевать хочется от одного его имени. И при этом он безжалостно уничтожает своих же земляков - малоков! Конечно, большинство из его жертв - пираты. Но разве это нормально, когда малок так нетерпим к своим храбрым собратьям? Нет, это абсолютно ненормально!
+Start=Мы хотим, <Player>, чтобы вы устранили этого маньяка. Найдите его и убейте. Срок вам дается до <Date>, а сумма вознаграждения составит <Money> cr.
 Status=Warrior

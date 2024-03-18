@@ -1,5 +1,4 @@
-PointForNextLevel=????????? ?????? <PointForNextLevel> ?????.
-TSkills=(sAccuracy,sMobility,sTechnical,sTrader,sCharm,sLeadership
+PointForNextLevel=Улучшение навыка <PointForNextLevel> очков.
 sAccuracy=sAccuracy\sAccuracy.txt ^{
 }
 sCharm=sCharm\sCharm.txt ^{

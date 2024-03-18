@@ -1,5 +1,9 @@
-End=What a wonderful device! Our scientists have been working on something similar for ages, with no result! It's a glorious gift and we are immediately transferring <Money> cr to your account. Please be so kind to accept it.
-FromRace=Gaal
-Start=Ranger, would you be so kind to deliver this brain stimulator to <ToPlanet> in the system of <ToStar>. It has been specifically developed for Fayean brain. It is a gift that we wish to present to our Fayean friends. It is going to be most useful in their meditation exercises, since it relieves neurone charge and stimulates the front brain zones. Fayeans are soon holding their annual meeting on the issue of Transcendental Knowledge and we want you to deliver the gift as soon as possible. If you do it in <Day> days, you will get <Money> cr on your arrival. Alternatively, you will get no reward since we think contract terms must be honoured at all times.
-Status=Any
+End=Позвольте выразить вам нашу искреннюю признательность за доставку груза. Переводим на ваш счет <Money> cr.
+End=...
+End=Что это за безобразие? Вы, что, совали туда ножи, <Player>?!!
+FromRace=Peleng
+Start=Мы представляем частную почтовую фирму "Почта без границ", специализирующуюся на поставках контрабанды. На планету <ToPlanet> (система <ToStar>) необходимо доставить пистолет "Ультра-громикс". Объект замаскирован под прибор для механической заточки ножей, но во время перелета им пользоваться настоятельно не рекомендуется. За своевременную доставку, а именно до <Date>, вы получите <Money> cr.
+Start=Реклама: Фирма "Почта без границ" - поставки любых товаров на все планеты Содружества; выплата от наших агентов по прибытию; работа только с лучшими перевозчиками; гарантия доставки и полная страховка по желанию клиента!
+Status=Pirate
+SysName=Usl_9
 ToRace=Fei

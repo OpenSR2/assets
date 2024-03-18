@@ -10,3 +10,5 @@ Peleng=Peleng\Peleng.txt ^{
 }
 People=People\People.txt ^{
 }
+TypeName=TypeName\TypeName.txt ^{
+}

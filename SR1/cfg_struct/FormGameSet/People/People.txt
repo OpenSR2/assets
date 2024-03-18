@@ -1,3 +1,3 @@
-Pirate=I'm a well known pirate <Name>. I was born on planet Earth in 2978. I want to become a ranger to get a licence for killing and robbery.
-Trader=I'm a humble realtor, my name is <Name>. I cannot sleep well while I know that Klissans are conquering our Galaxy. I want to help our army.
-Warrior=I'm <Name>. I'm an old soldier and I left the army long ago. I've got nothing to lose, so I want to become a ranger and drive Klissans out of our Galaxy.
+Pirate=Ранее известный пират <Name>. Родился на планете <clr>Земля<clrEnd> в 2978 году. Умеет только грабить и убивать, в чем ему помогают захват, хорошее вооружение и продвинутый навык <clr>знания техники<clrEnd>. Презираем гаальцами и фэянами.
+Trader=Пилот <Name> имеет хороший корабль со всем необходимым оборудованием. Владелец небольшого бизнеса по торговле предметами роскоши. Имеет навыки <clr>торговли<clrEnd> и <clr>знания техники<clrEnd>. Отношения дружественные со всеми, кроме малоков.
+Warrior=Пока ничего не добившийся, но честный служака <Name>. Выскочка, по природе <clr>лидер<clrEnd>, о чем свидетельствует соответствующий навык. На счету небольшая сумма, корабль плохо оборудован.

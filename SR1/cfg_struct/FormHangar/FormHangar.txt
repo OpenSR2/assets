@@ -1,22 +1,16 @@
-AnswerCancel=? ?????????
-AnswerFullTanks=?????? ???, ??????????
-AnswerNotMoney=? ???? ??? ????? ?????
-AnswerRepairHull=?????
-AnswerSmallMoney=??????? ??? ?? <Money> cr
-Damaged=damaged
-DispatcherRefuel=?????????? ????????? ??? ? <Money> cr
-DispatcherRepairHull=??????? ??????? ????????? ??? ? <Money> cr
-EmptyFuelTanks=empty
-Good=??
-I_Planet=Exit hangar
-I_Refuel=Refuel
-I_TakeOff=Take off
-NeedAdditionalFuel=Refuelling recommended
-NeedFuel=Ship needs refuelling
-NonEngine=Engine not installed
-NonFuelTanks=Fuel tanks not installed
-ShipOvercharging=Ship overloaded
-ShipOvercharging=You have to leave part of your cargo
-ShipReady=Ship ready to take off
-TestAllEqupments=Testing all systems:
-Total=Result:
+EngineStatus=EngineStatus\EngineStatus.txt ^{
+}
+FuelTankStatus=FuelTankStatus\FuelTankStatus.txt ^{
+}
+HullStatus=HullStatus\HullStatus.txt ^{
+}
+TakeOff=Взлететь с планеты <CurPlanet>
+TestSystem=Тестирование системы:
+TestSystem=<ll>
+TestSystem=Корпус - <HullStatus>
+TestSystem=Двигатель - <EngineStatus>
+TestSystem=Топливный бак - <FuelTankStatus>
+TestSystem=<ll>
+TestSystem=<TotalStatus>
+TotalStatus=TotalStatus\TotalStatus.txt ^{
+}

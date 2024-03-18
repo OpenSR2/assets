@@ -1,6 +1,6 @@
-0=Machpella
-1=Egemon
-2=Nondus
-3=Catauri
-4=Monchik
-5=Mutonie
+0=Махпелла
+1=Эгемон
+2=Нондус
+3=Катаури
+4=Рогит
+5=Мутенок

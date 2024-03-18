@@ -1,6 +1,6 @@
-Diplomat=Rart
-Liner=Aralita
-Pirate=Bumbai
-Ranger=Ranger
-Transport=Qargass
-Warrior=Draqar
+Diplomat=Рарт
+Liner=Аралита
+Pirate=Бамбай
+Ranger=Рейнджер
+Transport=Каргас
+Warrior=Дракар

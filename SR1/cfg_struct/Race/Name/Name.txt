@@ -1,7 +1,7 @@
-Fei=Fayeans
-Gaal=Gaals
-Kling=Klissans
-Maloc=Maloqs
-None=Unknown
-Peleng=Pelengs
-People=Humans
+Fei=Фэяне
+Gaal=Гаальцы
+Kling=Клисаны
+Maloc=Малоки
+None=Неизвестно
+Peleng=Пеленги
+People=Люди

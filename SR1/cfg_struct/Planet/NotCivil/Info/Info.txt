@@ -1,3 +1,2 @@
-TextAboutPlanet=Planet: <Planet>
-TextAboutPlanet=Developed life forms not registered
-TextAboutPlanet=No spaceport
+TextAboutPlanet=–азвитые формы жизни не зарегистрированы
+TextAboutPlanet= осмодром отсутствует, посадка нежелательна

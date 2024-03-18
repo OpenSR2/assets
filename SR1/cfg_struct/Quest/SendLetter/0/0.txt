@@ -1,6 +1,7 @@
-End=It is so good to see our device in one piece! It is a very valuable thing. We use it for executions: we put mines deep into the ground and then drive the criminals into the tunnel. A most effective and ecologically sound method. We wish you would never try it on your own skin.
-End=<Ranger>, we are paying you <Money> cr for speedy delivery.
+End=—пасибо за сообщение, <Player>. Ѕлагодар€ ему нашим вооруженным силам удастс€ успешно выполнить текущие боевые задачи. —умма в размере <Money> cr в вашем распор€жении.
 FromRace=Maloc
-Start=<Ranger>, we want you to take this device to <ToPlanet>, in the system of <ToStar>. It is a miniature grip-exploder for putting mines underground. It is packed so that it would easily fit under pilot's chair so do not worry about the space. Our partners will wait for it until <Date>. If you are slow, you will never see your <Money> cr.
-Status=Any
+GovernmentAward=Reward,Points
+Start=”важаемый <Player>, вы сейчас взлетите и отправитесь в систему <ToStar>. “уда, на планету <ToPlanet>, вы доставите секретное послание дл€ местного корпуса малокской галактической обороны. ≈сли вы выполните это задание до <Date>, то получите небольшое вознаграждение. ѕослание имеет очень высокий уровень секретности. ѕоэтому в случае опасности быть вз€тым в плен вам следует его уничтожить. «адание настолько важно, что его провал повлечет непоправимые последстви€ дл€ вашей репутации.
+Status=Warrior
+SysName=Usl_0
 ToRace=Maloc

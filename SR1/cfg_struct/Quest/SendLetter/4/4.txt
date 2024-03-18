@@ -1,8 +1,6 @@
-End=?, <Ranger>, you have delivered the anthem from <FromPlanet>! It is so nice of you. Let <Money> cr be your reward.
-End=...
-End=Hmmm, the tape is crumpled... What, you played it on your rusty tape recorder?! It is such a blow for us. Well, don't despair, most Fayeans have so little knowledge of Human music that they will think it sounds normal.
-FromRace=People
-Start=Planets <FromPlanet> and <ToPlanet> take part in twinning scheme and have achieved substantial degree of economic and cultural integration. To honour our friendship, poets and composers from our planet have written an anthem, "Let Peaceful Galaxy prosper" which glorifies the efforts of our peoples to establish peace and co-operation. Our planet has already had the ceremony of first performance of this anthem; now a similar ceremony has to take place on <ToPlanet> (system of <ToStar>).
-Start=They have everything ready for the ceremony, the only thing they need is a cassette with anthem recording. This is what we want to ask for, <Ranger>. It is necessary to do it as soon as possible, that is why the reward depends on the contract term. If you undertake to deliver the anthem in <Day> days, you will get <Money> cr on arrival.
-Status=Any
-ToRace=Fei
+End=Спасибо за доставку, <Player>, и возьмите свои <Money> cr. С вами намного приятней иметь дело, чем с этими монополистами из почтовых сетей. Обычно мы не жалуем торгашей и прочих лентяев, но иногда и без них не обойтись. Представьте, пока вы летали, "Экспресс" снова поднял тарифы на свои перевозки!
+FromRace=Maloc
+Start=Рейнджер <Player>, вы должны сделать следующее. Эта контора торговцев, "Экспресс-галактика", совершенно нагло завышает тарифы на межпланетные перевозки. Настолько, что становится совсем невыгодно делать ей заказы. И они это прекрасно знают. Но, видно, не спешат с реакцией. Нам дешевле заплатить частному перевозчику, такому, как вы. Тут некоторые посылки нужно доставить в систему <ToStar>, а именно на планету <ToPlanet>. Если вы уложитесь до <Date>, то по прибытии получите <Money> cr. Это половина той суммы, которую обычно берет "Экспресс" за аналогичные условия. Для вас это хороший доход, ведь именно этим вы обычно промышляете, не так ли?
+Status=Trader
+SysName=Usl_4
+ToRace=Any

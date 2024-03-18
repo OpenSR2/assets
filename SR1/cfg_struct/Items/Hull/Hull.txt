@@ -1,5 +1,7 @@
-Name=<Type> hull
-ShortName=Hull
-Text=Endurance of the hull is <Size> (<MaxSize>) units, cover can block up to <Damage> points of damage
+Description=Description\Description.txt ^{
+}
+Name=<Type> корпус
+ShortName=Корпус
+Text=Стойкость корпуса: <Size> (<MaxSize>) единиц, обшивка блокирует до <HitProtect> единиц ущерба.
 Type=Type\Type.txt ^{
 }

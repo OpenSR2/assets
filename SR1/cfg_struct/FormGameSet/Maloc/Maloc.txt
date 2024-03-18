@@ -1,3 +1,3 @@
-Pirate=My name is <Name>. I rip through time and space. I'm ready to become a ranger, for glory and profit.
-Trader=I, <Name>, have long been engaged in trading, real shame for a Maloq. But now I want to rehabilitate myself by becoming a ranger and proving that I am still worth something.
-Warrior=I'm called <Name> and I've been thrown out of regular army, for constant drinking and fights. I want to take part in the military action, if only as a ranger.
+Pirate=Малокский пират <Name>. Гроза пространства и времени на крутом, защищенном корабле. Имеет навыки <clr>атаки<clrEnd>, <clr>маневренности<clrEnd> и <clr>знания техники<clrEnd>. На планетах фэян и гаальцев объявлен вне закона.
+Trader=Добрый малок <Name>, владелец небольшого корабля с устаревшим оборудованием и хорошим вооружением. Имеет начальные навыки <clr>торговли<clrEnd> и <clr>маневренности<clrEnd>. Вступался за корабли других рас, чем снискал хорошее отношение чужаков.
+Warrior=Уволенный из рядов вооруженных сил <Name> за пьянство и дебоши. Бронированный малокский корабль с хорошим, но старым вооружением. Денег на счету почти нет. Имеет двойной навык <clr>атаки<clrEnd> и начальный <clr>маневренности<clrEnd>.

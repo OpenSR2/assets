@@ -1,4 +1,6 @@
-End=<Ranger>, you have successfully completed your task and <Money> cr is yours. Probably, you should think about changing your specialisation and become a warrior. Well, maybe it's not worth it, the Galaxy is already such a violent place.
-PlanetRace=Fei
-Start= <FromPlanet> is getting ready for a most important event, a seminar in the issues of nutrition and health care. We are expecting the arrival of many important and respected scientists, so we intend to increase the security forces in the whole system. We know that you do not really specialise in such operations, however the weapons that there are on your ship are quite sufficient for our mission. We believe that the sum of <Money> cr is adequate. Our only condition is that no civil ship, regardless of the race, is destroyed in the system until <Date>. If you make sure they are safe, the money is yours <Money> cr.
-Status=Trader
+End=ќ, <Player>, вы сделали чудо - в системе не пострадал ни один мирный корабль! Ќаш правитель, ’етрикс, стал чувствовать себ€ куда лучше. ¬о вс€ком случае, когда полчаса назад недалеко отсюда был уничтожен малокский транспорт, он не бросилс€ с криками "клисаны!" с балкона. Ёто уже большой прогресс. ѕолучите честно отработанные <Money> cr.
+GovernmentAward=Reward,Points,Artefact
+PlanetRace=Peleng
+Start=— правителем нашей планеты, шахом ’етриксом, случилась страшна€ беда - параноидальна€ гор€чка. ќн страдает от галлюцинаций - везде ему мерещатс€ клисаны. —тоит кому-то из наших доблестных пиратов напасть на проход€щий корабль, как ’етрикс начинает утверждать, что это была атака клисанов, и призывает всех покончить жизнь самоубийством! Ѕолезнь прогрессирует, и скоро он перестанет отличать реальность от вымысла. ¬ыздоровление возможно, но лишь при условии полного спокойстви€.
+Start=—ейчас мы готовы заплатить вам <Money> cr за то, чтобы до <Date> в нашей системе царили покой и безопасность дл€ всех гражданских судов, даже иностранных. Ќадеемс€, что за это врем€ ’етрикс успокоитс€ и пойдет на поправку.
+Status=Pirate

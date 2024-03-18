@@ -1,8 +1,8 @@
-End=<Ranger>, you were too late! Even though you killed Rangol, he had already destroyed liner "Anhenih". This happened a day after you departed. This is a tragedy for the people of <FromPlanet>! Regretfully, this is surely going to have negative consequences for our relations with Gaalians.
-End=Of course, we realise that you just could not get there on time. Since you have still completed the mission, we are paying you <Money> cr. Thank you for your help, <Ranger>.
-PlanetRace=Fei
-ShipRace=Peleng
+End=ѕохвально, <Player>! ћы давно пытались устранить этого террориста, но он посто€нно, посто€нно ускользал от нас. ¬ы действительно храбрый воин. јх да, мы обещали заплатить вам кругленькую сумму... Ёмм, видите ли, мы сейчас несколько стеснены в финансовом плане... непредвиденные государственные расходы, траты на содержание голодных ртов... ћы надеемс€, что вы поймете наше положение. ¬ сущности, мы вам заплатим... например, <Money> cr. Ёто тоже очень неплохие деньги по современным меркам.
+End=—понсором этого проекта выступил торговый дом "„укен-дак", имеющий представительства во множестве систем, в том числе и на планете <FromPlanet>. ¬се виды товаров народного пользовани€ с минимальной наценкой!
+PlanetRace=Peleng
+ShipRace=Any
 ShipType=Pirate
-Start=Our psy-centre used to investigate an especially aggressive character, a Pelengan pirate Rangol. And recently Gaalians persuaded him to take part in their program for correcting pirate behaviour by labour therapy and offered him a contract for escorting their liner "Anhenih". A delegation of our compatriots is on this liner. We have already protested using such irrational and violent subject in escorting civil ships. According to our data, Rangol is 87 per cent likely to destroy the liner himself. But of course Gaalians wouldn't listen.
-Start=We cannot accept such developments so we suggest you to destroy Rangol. He uses ship <Ship> and is currently on his way to <InStar>. Act as fast as you can: with every passing minute the danger to the liner increases. If you do it in <Day> days, you can count on getting <Money> cr when you return.
-Status=Warrior
+Start=Ќам как раз нужен насто€щий супермен с железной хваткой! ћы даем суперсделку на суперсумму в 100.000 cr и более! ¬ы хотите заработать эти бешеные деньги, рейнджер? Ќеобходимо всего-навсего найти и ликвидировать величайшего преступника √алактики, который на своем корабле <Ship> наводит ужас везде где по€вл€етс€. «адание необходимо выполнить до <Date>, иначе мы будем искать кого-то другого, покруче.
+Start=—понсором этого проекта выступает торговый дом "„укен-дак", имеющий представительства во множестве систем, в том числе и на планете <FromPlanet>. ¬се виды товаров народного пользовани€ с минимальной наценкой! ѕрекрасно, мм!
+Status=Any

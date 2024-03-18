@@ -1,6 +1,7 @@
-End=<Ranger>, you are really a qualified fighter. <Ship> was well guarded while the contract was in force. We feel we've found good use for <Money> cr that you now get.
+End=Вы выполнили условия договора, и на ваш счет переведены <Money> cr. Но к сожалению, еще до того, как вы прибыли, транспорт уже отдал груз пиратам. Поэтому мы подаем в суд на организацию "ГринПис Юниверсал" и вскоре пригласим вас в качестве нашего свидетеля.
 InThisSystem=No
-PlanetRace=Fei
-ShipType=Diplomat
-Start=Our Dalani Ulgenar Voyi, very much respected by our people, has suddenly departed to unknown destination on his posh ship <Ship>. We suspect that he is being blackmailed, and this is confirmed by the fact that he did not say anything about the goal of his trip, which is usual practice in all Fayean consulates. That is why our wise leaders have taken a prudent decision, to hire a bodyguard who could escort Dalani discreetly. We know that you have plenty of fighting experience and we offer you <Money> cr if ship <Ship> is intact until <Date>. If you think this is not enough, we could increase the amount. At the moment Dalani is in the system of <InStar> but we do not know anything about his further plans. Our planet's people would be extremely grateful to you if Ulgenar Voyi returns to us in physiologically sound state.
-Status=Warrior
+PlanetRace=Peleng
+ShipType=Transport
+Start=Наша планета <FromPlanet> известна на всю Галактику своими замечательными качественными полуфабрикатами из лапок гигантских жуков выйгахов. Недавно с нашей планеты стартовал и взял курс в систему <InStar> транспорт <Ship>, загруженный этим вкуснейшим деликатесом. Когда он достиг системы назначения, его атаковали представители организации ГринПис Юниверсал (ГПЮ) под личиной пиратов. Впрочем, они и есть самые настоящие бандиты, хоть и называются борцами за права животных. Под угрозой расстрела они потребовали отдать ценную партию деликатесов... Мы крайне не заинтересованы в повторении таких инцидентов!
+Start=Картель по выведению ценных пород жуков готов профинансировать любого пилота, обладающего боевым кораблем и готового обеспечить судну <Ship> безопасность рейсов в течение <Day> дней. Если вы увидите, что кто-то нападает на наше судно, то знайте, что это происки подонков из ГПЮ. Атакуйте их немедленно! Чем больше вы собьете этих ублюдков, тем больше мы начислим вам денег.
+Status=Any

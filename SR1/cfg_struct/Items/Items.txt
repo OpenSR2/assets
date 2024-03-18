@@ -12,9 +12,7 @@ ArtefactFuel=ArtefactFuel\ArtefactFuel.txt ^{
 }
 ArtefactHook=ArtefactHook\ArtefactHook.txt ^{
 }
-ArtefactHull=ArtefactHull[0]\ArtefactHull.txt ^{
-}
-ArtefactHull=ArtefactHull[1]\ArtefactHull.txt ^{
+ArtefactHull=ArtefactHull\ArtefactHull.txt ^{
 }
 ArtefactMiniExpl=ArtefactMiniExpl\ArtefactMiniExpl.txt ^{
 }
@@ -34,6 +32,8 @@ ArtefactTransmitter=ArtefactTransmitter\ArtefactTransmitter.txt ^{
 }
 CargoHook=CargoHook\CargoHook.txt ^{
 }
+Communicator=Communicator\Communicator.txt ^{
+}
 DefGenerator=DefGenerator\DefGenerator.txt ^{
 }
 Engine=Engine\Engine.txt ^{
@@ -46,6 +46,8 @@ Goods=Goods\Goods.txt ^{
 }
 Hull=Hull\Hull.txt ^{
 }
+Pelengator=Pelengator\Pelengator.txt ^{
+}
 Protoplasm=Protoplasm\Protoplasm.txt ^{
 }
 Radar=Radar\Radar.txt ^{
@@ -54,6 +56,6 @@ RepairRobot=RepairRobot\RepairRobot.txt ^{
 }
 Scaner=Scaner\Scaner.txt ^{
 }
-SmallInfo=Container
+SmallInfo=Контейнер
 Weapon=Weapon\Weapon.txt ^{
 }

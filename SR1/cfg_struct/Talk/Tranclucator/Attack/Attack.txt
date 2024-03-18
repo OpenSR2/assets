@@ -1,3 +1,3 @@
-Ask=Show the target.
-Ok=Target coordinates defined. Start attack.
-PlayerSend=I order to attack
+Ask=Прошу указать цель.
+Ok=Координаты цели определены. Иду на перехват курсом атаки.
+PlayerSend=Приказываю атаковать

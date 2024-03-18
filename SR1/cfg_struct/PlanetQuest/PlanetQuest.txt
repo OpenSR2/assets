@@ -1,2 +1,4 @@
+ItemForPlanetQuest=ItemForPlanetQuest\ItemForPlanetQuest.txt ^{
+}
 PlanetQuest=PlanetQuest\PlanetQuest.txt ^{
 }

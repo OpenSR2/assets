@@ -1,6 +1,8 @@
-End=Producers' and composers' Association from <FromPlanet> thanks you heartily for adhering to contract terms. Here is your <Money> cr. Never forget about the beautiful, listen to music. Remember: Beauty will save the Galaxy!
+End=Ѕлест€ще, <Player>! ƒо <Date> наш лайнер <Ship> оставалс€ на св€зи. ¬се как и указано в контракте. ¬ы честно заработали свои <Money> cr, в то врем€ как лайнер продолжит свою работу.
+GovernmentAward=Reward,Points,Artefact
 InThisSystem=Yes
-PlanetRace=People
+PlanetRace=Maloc
 ShipType=Liner
-Start=Tomorrow is the start of annual song festival, "Galactic melody" which is traditionally held onboard space cruiser <Ship>. The festival is attended by the best singers in our system and the liner will visit planets hosting traditional musical events within the festival program. By the end of the cruise, musical awards in seven nominations will have been given. We do not want the festive atmosphere to be spoilt so we have to think of ship's security. We offer you a contract that envisages <Day> days of escorting the ship and subsequent remuneration of <Money> cr. The ship has already started and you will have to catch up with it.
+Start=¬ы когда-нибудь слышали о корабле <Ship>? ¬сем кажетс€, что это обычное пассажирское судно. Ќо на самом деле это замаскированна€ мобильна€ исследовательска€ лаборатори€! ќна занимаетс€ вз€тием проб околозвездных частиц в разных системах. ѕо сведени€м нашей разведки, им заинтересовались пираты –ачехана.
+Start=¬ы, <Player>, можете оказать нам услугу, если согласитесь стать на защиту нашего лайнера и охран€ть его до <Date>. ћы обещаем заплатить вам <Money> cr. Ќу как, беретесь за это дело? »ли нам следует поискать кого-нибудь другого, более опытного и доблестного?
 Status=Any

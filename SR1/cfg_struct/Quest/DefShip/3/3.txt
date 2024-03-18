@@ -1,7 +1,7 @@
-End=It's so nice to see such mutual aid! If not for you, <Ship> would certainly die. Thus, we have to pay you <Money> cr.
-InThisSystem=No
-PlanetRace=Peleng
-ShipType=Pirate
-Start=In the system of <InStar> there is a very much respected pilot <FShip>, by the way, he is a pirate like you. He honourable robs Human freighters and destroys Fayean passenger ships. But recently we got a SOS signal from him. Some scoundrels, probably from local anti-terrorist forces have got on his tail. And he is a respectable citizen and hero on <FromPlanet>.
-Start=We've heard that all pirates are brothers and are always ready to help each other out. Is this true? If <Ship> is still alive at least until <Date>, all of our community is going to be grateful. Well, possibly we will think of something else to reward you.
-Status=Pirate
+End=ћы вынуждены признать, <Player>, что вы - очень хороший телохранитель. Ёти <Money> cr теперь ваши. ќбъект охраны - рейнджер <Ship> - еще в седле!  ак вы считаете, он теперь достаточно владеет боевым кораблем, чтобы больше не нуждатьс€ в охране? ¬се-таки каждый малок должен уметь защищать себ€ сам.
+GovernmentAward=Reward,Points
+InThisSystem=Yes
+PlanetRace=Maloc
+ShipType=Ranger
+Start=√ерой нашей планеты, благородный рарт <Ship> недавно пожелал стать рейнджером. ћы, его покорные подданные, не можем не восхищатьс€ его отвагой и храбростью. Ќо при всех прочих его достоинствах, у него нет никакого опыта обращени€ с боевым кораблем. √осподин <Ship> - насто€щий малок и считает трусостью использование эскорта. Ќо все же мы очень беспокоимс€ за его жизнь. ѕоэтому мы решили нан€ть другого рейнджера, чтобы он незаметно осуществл€л охрану. ” вас, <Player>, весьма неплохие рекомендации, поэтому мы вас берем. ¬ы должны будете обеспечивать безопасность рарта до <Date>. ѕосле этого возвращайтесь на планету <FromPlanet> и получайте деньги - <Money> cr. ¬озможно, после этого мы наймем другого рейнджера, чтобы заменить вас.
+Status=Any

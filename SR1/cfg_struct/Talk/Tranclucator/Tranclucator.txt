@@ -1,5 +1,5 @@
 Attack=Attack\Attack.txt ^{
 }
-Greeting=All my weapons are at your disposal, master. My guns are ready for battly, wait for your order.
+Greeting=Вся моя боевая мощь к вашим услугам, хозяин. Мои пушки готовы к бою, жду указаний.
 Return=Return\Return.txt ^{
 }

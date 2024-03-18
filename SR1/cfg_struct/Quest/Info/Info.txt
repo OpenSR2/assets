@@ -1,4 +1,6 @@
+CountDay=До окончания задания осталось <Day> дней
 CurQuests=CurQuests\CurQuests.txt ^{
 }
+FromPlanet=Заказчик - планета <Planet> (система <System>)
 OldQuests=OldQuests\OldQuests.txt ^{
 }

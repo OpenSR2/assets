@@ -1,8 +1,8 @@
-1=Foods
-2=Medicines
-3=Electroincs
-4=Luxury
-5=Minerals
-6=Alcohol
-7=Weapons
-8=Narcotics
+1=Продовольствие
+2=Медикаменты
+3=Техника
+4=Роскошь
+5=Минералы
+6=Алкоголь
+7=Оружие
+8=Наркотики

@@ -1,2 +1,2 @@
-Ok=Yes, sir, at once. Wait for me and take me onboard.
-PlayerSend=Come back
+Ok=Приказ понятен. Я немедленно возвращаюсь. Прошу подождать и принять меня на борт.
+PlayerSend=Возвращайся назад
