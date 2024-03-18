@@ -1,0 +1,38 @@
+Main {
+	Model=b0.vo
+      TextureGloss=b0_gloss
+	TextureMask=b0_mask
+	TextureBack=b0_back
+	TextureBackScroll=0,0.00006
+
+}
+Main2 {
+      Texture=b0_1
+	Model=b0_0.vo
+
+}
+
+
+{
+	Texture=b0_1
+	Model=b0_radar.vo
+}
+{
+	Texture=b0_1
+	Model=b0_anim.vo
+}
+Platform {
+	Id=1
+	Texture=b0_1
+	Model=b0_platform.vo
+}
+Left {
+	Id=2
+	Texture=b0_1
+	Model=b0_left.vo
+}
+Left {
+	Id=3
+	Texture=b0_1
+	Model=b0_right.vo
+}

@@ -1,0 +1,16 @@
+{
+    Model=b5.vo
+
+    TextureMask=b5_mask
+    TextureBack=b5_back
+    TextureBackScroll=0,-0.000035
+
+}
+{
+    Model=platform.vo?MF
+    Texture=platform
+//    TextureGloss=b1_gloss
+//    TextureMask=b1_mask
+//    TextureBack=b1_back
+//    TextureBackScroll=0,0.00002
+}
