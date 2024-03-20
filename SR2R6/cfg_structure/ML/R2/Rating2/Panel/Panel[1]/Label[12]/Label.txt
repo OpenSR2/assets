@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Name=BestPirate
+Pos=30,542,-3
+Size=184,22
+TextColor=204,161,101
+WordWrap=True

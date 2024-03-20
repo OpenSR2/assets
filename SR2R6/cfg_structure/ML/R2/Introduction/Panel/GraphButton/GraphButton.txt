@@ -1,0 +1,10 @@
+Auto=Size
+ImageDisable=GI,Bm.FormIntro2.2NextH
+ImageDown=GI,Bm.FormIntro2.2NextD
+ImageNormal=GI,Bm.FormIntro2.2NextN
+ImageNormalA=GI,Bm.FormIntro2.2NextA
+Kind=Disable
+KindHit=Rect
+Name=Ok
+Pos=966,686,2
+Style=Style.GB.SoundNormal

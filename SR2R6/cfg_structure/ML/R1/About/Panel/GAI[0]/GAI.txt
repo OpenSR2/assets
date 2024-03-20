@@ -1,0 +1,7 @@
+Frame=[50,0-298]
+Image=Bm.FormAbout2.1S1A
+ImageFirst=Bm.FormAbout2.1S1
+Name=S1
+PBuf=True
+Pos=605,391,50
+Size=195,209

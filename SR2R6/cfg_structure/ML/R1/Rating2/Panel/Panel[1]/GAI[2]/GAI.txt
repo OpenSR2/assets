@@ -1,0 +1,5 @@
+FrameLoad=0
+Image=Bm.FormRating2.1TraderEmpty
+Name=TraderEmpty
+Pos=60,201,2
+Size=77,86

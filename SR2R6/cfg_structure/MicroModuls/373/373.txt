@@ -1,0 +1,14 @@
+Cost=300
+Equipments=Radar
+KindGraph=12
+Name=<color=48,236,248>Резонансный радар</color>
+Priority=40
+Ruins=SB,BK,MC
+Size=130
+Special=1
+Text=<color=248,252,248>Кристаллиновый шар в центре этого радара резонирует в защитном поле, чем усиливает его на <clr>5<clrEnd>%, однако, вызванная резонансом пульсация защитного поля сбивает прицел ракетных орудий, снижая их мощность на <clr>10<clrEnd> ед.</color>
+Text=
+Text=Мощность ракетного оружия: <bonWMissile> ед.
+Text=Мощность защиты: <bonDef> ед.
+bonDef=5
+bonWMissile=-10

@@ -1,0 +1,7 @@
+Access=5
+Dif=37
+Genre=симулятор жизни животного
+Group=0
+Image=Bm.PQI.Pachvarash_00
+Length=3
+Name=Пачвараш

@@ -1,0 +1,3 @@
+Image=GI,Bm.FormShip2.1Zaglushka
+Pos=76,405,5
+Size=54,55

@@ -1,0 +1,14 @@
+Active=False
+Kind=x
+KindCalc=0
+LargeChange=1
+MVUpdate=True
+Max=200
+Min=1
+Name=SBFrame
+PageSize=1
+Pos=-412,295,ButtonNav
+Position=1
+Size=300,20
+SmallChange=1
+Style=Style.ScrollBar.H

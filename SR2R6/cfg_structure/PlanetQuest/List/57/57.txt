@@ -1,0 +1,7 @@
+Access=5
+Dif=32
+Genre=математическая головоломка
+Group=1
+Image=Bm.PQI.Doomino
+Length=1
+Name=Доомино

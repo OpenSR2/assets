@@ -1,0 +1,6 @@
+FrameLoad=0
+Image=Bm.FormShip2.2CenterNormalAnim
+Name=CenterNormalAnim
+PBuf=True
+Pos=58,176,3
+Size=334,249

@@ -1,0 +1,16 @@
+Artefact=4
+Cost=300
+Def=1
+Droid=1
+Forsage=1
+Hook=1
+Name=Идеал
+Probability=85
+Race=Any
+Radar=1
+Scaner=1
+ShipType=Ranger
+Size=70
+Text=Идеальный рейнджерский корпус для любых операций. Создан по эксклюзивному заказу сети центров рейнджеров.
+Weapon=4
+Year=20

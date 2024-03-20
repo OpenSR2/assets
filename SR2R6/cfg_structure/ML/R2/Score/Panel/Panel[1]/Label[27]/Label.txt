@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Normal
+Name=LabelHelp
+Pos=220,701,2
+Size=483,25
+TextColor=97,149,168

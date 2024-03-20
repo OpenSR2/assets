@@ -1,0 +1,4 @@
+Name=W1I
+Pos=86,12,7
+Size=44,44
+Sme=0,0

@@ -1,0 +1,7 @@
+Access=5
+Dif=24
+Genre=логико-тактическая игра
+Group=0
+Image=Bm.PQI.Bomber_03
+Length=2
+Name=Бомбер

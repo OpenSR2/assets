@@ -1,0 +1,3 @@
+Name=S_Weapon_4i
+Pos=232,26,0
+Size=93,77

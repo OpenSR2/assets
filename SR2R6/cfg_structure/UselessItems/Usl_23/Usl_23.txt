@@ -1,0 +1,5 @@
+Cost=Average
+Name=Часовой механизм
+Owner=People
+Size=1
+Text=Механизм для знаменитых аморфных часов.

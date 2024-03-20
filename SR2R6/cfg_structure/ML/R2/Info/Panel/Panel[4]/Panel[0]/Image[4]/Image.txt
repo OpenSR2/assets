@@ -1,0 +1,4 @@
+Image=GI,Bm.FormInfo3.2MM_C2
+Name=ImgMM_C2
+Pos=275,172,7
+Size=28,28

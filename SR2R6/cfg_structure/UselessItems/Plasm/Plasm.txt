@@ -1,0 +1,6 @@
+Cost=Mini
+Description=
+Name=Протоплазма
+Owner=None
+Size=25
+Text=Биологическая субстанция. Продукт разложения клисанов.

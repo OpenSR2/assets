@@ -1,0 +1,4 @@
+Auto=Size
+Image=GI,Bm.FormMain3.2Planet
+Pos=0,121
+PosZ=999

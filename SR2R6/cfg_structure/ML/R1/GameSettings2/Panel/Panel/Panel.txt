@@ -1,0 +1,4 @@
+Panel=Panel\Panel.txt ^{
+}
+Pos=416,81,20
+Size=371,427

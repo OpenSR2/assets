@@ -1,0 +1,11 @@
+Edit=Edit\Edit.txt ^{
+}
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+Name=PanelJournal
+Pos=39,689,7
+Size=391,75

@@ -1,0 +1,3 @@
+TextAboutPlanet=Проживающая раса <Race>
+TextAboutPlanet=Находится под контролем доминаторов
+TextAboutPlanet=Посадку совершить невозможно

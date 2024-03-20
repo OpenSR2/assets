@@ -1,0 +1,4 @@
+Name=StarField
+Pos=400,300,999
+Size=800,600
+Sme=400,300

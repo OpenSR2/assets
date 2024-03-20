@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Small
+Name=HillSpace
+Pos=467,66,8
+Size=125,15
+TextColor=0,0,0
+WordWrap=True

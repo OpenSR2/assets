@@ -1,0 +1,16 @@
+Artefact=0
+Cost=20
+Def=0
+Droid=-1
+Forsage=-1
+Hook=0
+Name=Эконом
+Probability=10
+Race=Fei,Gaal
+Radar=0
+Scaner=-1
+ShipType=Ranger,Liner,Diplomat
+Size=80
+Text=Небольшой экономичный корпус. Отличное решение при ограниченных средствах и разумном подходе к эргономичности.
+Weapon=0
+Year=0

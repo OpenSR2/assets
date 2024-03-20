@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpRaceGaal
+ImageDown=GI,Bm.FormGameSet2.1RaceGaalD
+ImageNormalA=GI,Bm.FormGameSet2.1RaceGaalA
+Kind=Fix
+KindHit=Graph
+Name=RaceGaal
+Pos=227,144,50
+Size=150,74
+Style=Style.GB.SoundNormal

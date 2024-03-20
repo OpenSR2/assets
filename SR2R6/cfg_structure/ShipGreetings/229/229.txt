@@ -1,0 +1,14 @@
+AutoTalk=Any
+FlyType=ToStar
+Goods=Medicine
+LastPlanetGoodsSale=Mini,Small
+LastPlanetGoverment=Republic,Democracy
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+Priority=50
+Relations=Normal,Good,Best
+ShipGoodsTypeCnt=2,3,4,5,6,7
+ShipHaveGoods=No
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=ѕриветствую теб€, космический скиталец, рейнджер <Player>!
+Text=’очу перед тем, как прыгнуть в систему <ToStar>, теб€ предупредить, что планета <LastPlanet>, откуда € лечу, очень высоко развита. ћедицина всем доступна наравне с образованием. “ак вот, если ты хочешь учебников купить, или медицинских препаратов, то очень советую. —ам бы вз€л, но, к сожалению, трюм уже до отказа завален другими товарами.

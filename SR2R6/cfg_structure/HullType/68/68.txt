@@ -1,0 +1,16 @@
+Artefact=0
+Cost=110
+Def=1
+Droid=-1
+Forsage=1
+Hook=0
+Name=Жажда мести
+Probability=20
+Race=Maloc,Peleng,People
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=80
+Text=Защищенный корпус для мстительных личностей. Единственным недостатком является отсутствие дроида.
+Weapon=2
+Year=0

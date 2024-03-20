@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=Center
+Font=Font.2Normal
+Name=Count2
+Pos=105,96,5
+Size=38,19
+TextColor=0,0,0

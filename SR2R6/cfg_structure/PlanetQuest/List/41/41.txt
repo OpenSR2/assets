@@ -1,0 +1,7 @@
+Access=5
+Dif=43
+Genre=симулятор "космических рейнджеров"
+Group=1
+Image=Bm.PQI.proprolog_00
+Length=3
+Name=Пропролог

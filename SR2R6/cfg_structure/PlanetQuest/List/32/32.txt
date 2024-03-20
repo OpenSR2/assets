@@ -1,0 +1,7 @@
+Access=5
+Dif=28
+Genre=бродилка
+Group=0
+Image=Bm.PQI.Xenolog_00
+Length=2
+Name=Ксенолог

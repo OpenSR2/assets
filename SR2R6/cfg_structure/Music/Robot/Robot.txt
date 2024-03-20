@@ -1,0 +1,6 @@
+10=Music\fly\Beyond_reach.dat
+10=data\music\Slide_Agressor.dat
+10=data\music\next_target.dat
+10=data\music\Machine.dat
+3=Music\planet\bunker.dat
+3=Music\planet\RobotForce.dat

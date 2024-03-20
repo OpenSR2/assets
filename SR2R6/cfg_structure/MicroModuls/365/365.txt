@@ -1,0 +1,21 @@
+Cost=200
+Equipments=Hull
+KindHull=ASTA
+Name=<color=48,236,248>Исследовательский корпус</color>
+Priority=10
+Ruins=SB
+Size=70
+Special=1
+Text=<color=248,252,248>Быстрый корпус для исследователей космоса и курьеров. Идеален для оперативного выполнения правительственных заданий.</color>
+Text=
+Text=Скорость: <bonSpeed> ед.
+Text=Прыжок: <bonJump> парсек
+Text=Радиус радара: <bonRadar> ед.
+bonJump=2
+bonRadar=300
+bonSlotArt=3
+bonSlotDef=-1
+bonSlotForsage=1
+bonSlotHook=-1
+bonSlotWeapon=-3
+bonSpeed=100

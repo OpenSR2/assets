@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=ToStar
+PlayerRace=Any
+PlayerRank=Rookie,Cadet,Pilot
+Priority=30
+RankShipWithPlayer=Average,Big,Huge
+Relations=Normal,Good,Best
+ShipRace=Any
+ShipType=Ranger
+StrengthShipWithPlayer=Small,Average,Big,Huge
+Text=Приветствую, <Player>! Вижу, ты не очень крутой вояка, поэтому могу дать хороший совет - летим со мной в систему <ToStar>, на доминаторов поохотимся. В моей компании у тебя больше шансов уцелеть, а если зевать не станешь, то и опыта наберешься.
+ToStarControlByKling=Yes
+ToStarInBattle=Any

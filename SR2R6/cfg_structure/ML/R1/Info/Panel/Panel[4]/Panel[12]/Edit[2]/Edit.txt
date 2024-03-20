@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.1Normal
+MaxLen=30
+Name=M12Range
+Pos=232,145,0
+Size=69,15
+TextColor=0,0,0

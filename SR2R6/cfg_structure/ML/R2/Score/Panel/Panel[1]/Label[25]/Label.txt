@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2NormalBold
+Name=ITotal
+Pos=641,596,2
+Size=252,30
+TextColor=255,255,255

@@ -1,0 +1,6 @@
+AnimTakt=5
+D=D\D.txt ^{
+}
+LeftTime=50
+S=S\S.txt ^{
+}

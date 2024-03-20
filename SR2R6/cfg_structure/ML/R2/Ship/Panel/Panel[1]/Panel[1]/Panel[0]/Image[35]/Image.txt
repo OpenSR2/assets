@@ -1,0 +1,3 @@
+Name=S_DefGenerator_0i
+Pos=276,420,0
+Size=100,77

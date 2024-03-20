@@ -1,0 +1,3 @@
+Auto=Size
+Image=GI,Bm.FormMain3.1Caption
+Pos=311,18,48

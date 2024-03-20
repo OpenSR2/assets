@@ -1,0 +1,3 @@
+Auto=Size
+Image=GI,Bm.PanelSpace.2AddonPanel
+Pos=502,201,47

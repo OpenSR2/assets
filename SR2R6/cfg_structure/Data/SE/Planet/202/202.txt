@@ -1,0 +1,8 @@
+AtmColor=171,117,84
+Image=Bm.Planet2.T.Solar.Mars
+ImageMap=Bm.Planet.M.0
+PosZ=Planet
+Radius=70
+SmeImage=70,70
+SmeImageMap=4,4
+Style=1,4

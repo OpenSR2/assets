@@ -1,0 +1,3 @@
+Name=ImageMap
+Pos=499,12,98
+Size=154,176

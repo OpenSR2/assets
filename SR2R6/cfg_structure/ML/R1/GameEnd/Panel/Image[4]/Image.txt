@@ -1,0 +1,4 @@
+Image=GI,Bm.FormEnd2.1Maloc
+Name=Maloc
+Pos=0,46,9
+Size=324,492

@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormShip2.1CloseD
+ImageNormal=GI,Bm.FormShip2.1CloseN
+ImageNormalA=GI,Bm.FormShip2.1CloseA
+Kind=Normal
+KindHit=Rect
+Name=ExitRH
+Pos=161,438,1
+Size=54,31
+Style=Style.GB.SoundNormal

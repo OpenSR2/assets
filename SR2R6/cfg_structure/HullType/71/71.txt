@@ -1,0 +1,16 @@
+Artefact=0
+Cost=110
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Заноза
+Probability=10
+Race=Maloc,People
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=100
+Text=С выходом этой серии корпусов к базовой комплектации добавился слот оружия, а с ним и новые проблемы торговцев, разумеется.
+Weapon=1
+Year=30

@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Small
+Pos=50,250,0
+Size=200,20
+Text=FormInfo.M09ControlDom
+TextColor=0,0,0

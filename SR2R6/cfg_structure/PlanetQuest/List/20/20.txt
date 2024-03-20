@@ -1,0 +1,7 @@
+Access=5
+Dif=47
+Genre=логическая игра с элементами менеджмента
+Group=0
+Image=Bm.PQI.Olympiada_03
+Length=4
+Name=Олимпиада

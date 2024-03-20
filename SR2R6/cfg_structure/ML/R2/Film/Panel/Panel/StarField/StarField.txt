@@ -1,0 +1,5 @@
+Image=Bm.BGO.bg0
+Name=StarField
+Pos=0,0,250
+Size=1920,1080
+Sme=960,540

@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormGoods2.1MemH
+ImageDown=GI,Bm.FormGoods2.1MemD
+ImageNormal=GI,Bm.FormGoods2.1MemN
+ImageNormalA=GI,Bm.FormGoods2.1MemA
+Kind=Disable
+KindHit=Rect
+Name=UserMsgAdd
+Pos=281,388,8
+Size=21,18
+Style=Style.GB.SoundNormal

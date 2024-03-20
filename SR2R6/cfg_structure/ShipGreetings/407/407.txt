@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=ToShip
+PlayerFlyToShip=No
+PlayerIsShipBad=Yes
+Priority=20
+Relations=War
+ShipFlyToPlayer=Yes
+ShipType=Pirate
+Text=я чувствую, тут пахнет жареным. ћои услови€ таковы, <Player>!
+Text=“ы должен заплатить мне за проезд. ≈сли денег нет, выбрасывай груз, оружие и оборудование. » тогда, возможно, ты улетишь отсюда живым.
+ToShipInPlanet=No

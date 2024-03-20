@@ -1,0 +1,14 @@
+Cost=200
+Equipments=Engine
+KindGraph=10
+Name=<color=48,236,248>Таурный двигатель</color>
+Priority=30
+Ruins=RC
+Size=100
+Special=1
+Text=<color=248,252,248>Способен перенаправлять часть энергии со своей энергоустановки на генератор защитного поля, таким образом, усиливая защитное поле на <clr>5%<clrEnd> - при этом максимальная скорость двигателя уменьшается на <clr>100<clrEnd> ед.</color>
+Text=
+Text=Скорость: <bonSpeed> ед.
+Text=Мощность защиты: <bonDef> ед.
+bonDef=5
+bonSpeed=-100

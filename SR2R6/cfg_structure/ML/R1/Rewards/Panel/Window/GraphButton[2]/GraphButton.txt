@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormMessageBox.1CancelD
+ImageNormal=GI,Bm.FormMessageBox.1CancelN
+ImageNormalA=GI,Bm.FormMessageBox.1CancelA
+Kind=Normal
+KindHit=Graph
+Name=ButExit
+Pos=180,460,1
+Size=38,17
+Style=Style.GB.SoundNormal

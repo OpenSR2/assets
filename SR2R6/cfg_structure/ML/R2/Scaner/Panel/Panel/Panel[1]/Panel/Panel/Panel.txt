@@ -1,0 +1,57 @@
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[3]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[4]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[5]\GraphButton.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Image=Image[2]\Image.txt ^{
+}
+Image=Image[3]\Image.txt ^{
+}
+Image=Image[4]\Image.txt ^{
+}
+Image=Image[5]\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Name=Skills
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Panel=Panel[2]\Panel.txt ^{
+}
+Panel=Panel[3]\Panel.txt ^{
+}
+Panel=Panel[4]\Panel.txt ^{
+}
+Panel=Panel[5]\Panel.txt ^{
+}
+Pos=0,0
+Size=328,598
+Zone=Zone[0]\Zone.txt ^{
+}
+Zone=Zone[1]\Zone.txt ^{
+}
+Zone=Zone[2]\Zone.txt ^{
+}
+Zone=Zone[3]\Zone.txt ^{
+}
+Zone=Zone[4]\Zone.txt ^{
+}
+Zone=Zone[5]\Zone.txt ^{
+}

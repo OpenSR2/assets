@@ -1,0 +1,8 @@
+Accel=-0.05
+Angle=50
+AutoAnim=True
+Image=Bm.Hits.14
+LoopAnim=False
+SkipTime=10
+Speed=1.2
+StartPos=0

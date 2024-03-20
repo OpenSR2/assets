@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2NormalBold
+Pos=88,0,0
+Size=270,45
+Text=FormInfo.MMCaption
+TextColor=0,0,0
+WordWrap=True

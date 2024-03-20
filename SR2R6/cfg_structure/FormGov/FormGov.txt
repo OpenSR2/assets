@@ -1,0 +1,39 @@
+AfterPlayerTakeQuest=Мы заключили сделку. Постарайтесь выполнить условия договора в срок.
+AfterPlayerTakeQuest1=Договор вступает в силу. Не забывайте про сроки его действия. Мы к этому очень серьезно относимся.
+AfterPlayerTakeQuest2=Договор - дороже денег, поэтому постарайтесь выполнить обещанное в срок.
+Bribe=Bribe\Bribe.txt ^{
+}
+BuyMap=BuyMap\BuyMap.txt ^{
+}
+CheckQuest=CheckQuest\CheckQuest.txt ^{
+}
+DontQuest=DontQuest\DontQuest.txt ^{
+}
+GovAfterBattlePlanetQuestClose=Вы сами просили задание, <Player>. Впрочем, это не наше дело, участие в планетарных сражениях не входит в круг обязанностей рейнджеров. Тут надо иметь природный дар полководца, уметь чувствовать роботов, управлять ими, а это дано далеко не каждому.
+GovAfterBattlePlanetQuestClose=...
+GovAfterBattlePlanetQuestClose=Хорошо, мы передадим вашему руководству, в центр рейнджеров, чтобы вам не предлагали такого рода миссии! Отдыхайте.
+GovAfterPlanetQuestClose=Безусловно, это задание не из легких. Но вы же рейнджер! Надо держать марку, <Player>.
+GovAfterPlanetQuestClose=...
+GovAfterPlanetQuestClose=Впрочем, мы подберем другого кандидата для этой миссии. Отдыхайте.
+GovAfterScript=Ну и каковы ваши дальнейшие планы?
+GuarantPrison=GuarantPrison\GuarantPrison.txt ^{
+}
+I_Continue=Далее
+I_Exit=Пока
+I_PlanetBattleQuestClose=Я отказываюсь в этом участвовать. Меня не интересуют такого рода задания!
+I_PlanetQuestClose=Отказываюсь выполнять это задание
+I_Prison=Это ошибка, меня подставили, я законопослушный гражданин!
+I_QueryQuest=Есть ли для меня специальное задание?
+I_QuestAccept=Я берусь за это задание
+I_QuestDifficult=Потруднее
+I_QuestEasy=Полегче
+I_QuestReject=Мне надо подумать
+PlanetBattle=PlanetBattle\PlanetBattle.txt ^{
+}
+PlayerAfterCongratulationsLiberator=Был рад помочь!
+PlayerDontTakeQuest=Нет проблем
+Prison=Prison\Prison.txt ^{
+}
+QuestCertificate=QuestCertificate\QuestCertificate.txt ^{
+}
+Relation=Отношение:

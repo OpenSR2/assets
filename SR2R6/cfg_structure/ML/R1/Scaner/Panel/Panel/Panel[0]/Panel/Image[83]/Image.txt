@@ -1,0 +1,3 @@
+Name=Art0i
+Pos=12,322,-2
+Size=42,35

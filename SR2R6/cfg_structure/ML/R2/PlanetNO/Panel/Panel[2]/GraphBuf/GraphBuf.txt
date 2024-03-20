@@ -1,0 +1,3 @@
+Name=PlanetImage
+Pos=58,121,100
+Size=503,251

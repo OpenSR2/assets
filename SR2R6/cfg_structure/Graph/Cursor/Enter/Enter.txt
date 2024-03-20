@@ -1,0 +1,2 @@
+Image=GAI,Bm.Cursor.Enter
+Sme=16,0

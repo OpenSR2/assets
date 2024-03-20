@@ -1,0 +1,7 @@
+Access=5
+Dif=18
+Genre=математическая головоломка
+Group=0
+Image=Bm.PQI.Shashki_00
+Length=1
+Name=Шашки

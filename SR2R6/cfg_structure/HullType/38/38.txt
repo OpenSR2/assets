@@ -1,0 +1,16 @@
+Artefact=0
+Cost=50
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Слепая ярость
+Probability=20
+Race=Maloc,Peleng,People
+Radar=-1
+Scaner=-1
+ShipType=Ranger,Warrior
+Size=120
+Text=Машина для убийства. Установка радара и сканера невозможна.
+Weapon=1
+Year=40

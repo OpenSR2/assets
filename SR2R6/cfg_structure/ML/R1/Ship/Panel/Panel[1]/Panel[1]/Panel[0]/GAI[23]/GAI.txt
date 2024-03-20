@@ -1,0 +1,6 @@
+Active=True
+FrameLoad=0
+Image=Bm.FormHangar2.1Repair
+Name=S_Weapon_2Repair
+Pos=216,84,-4
+Size=38,38

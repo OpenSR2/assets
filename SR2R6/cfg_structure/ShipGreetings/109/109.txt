@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Arms
+PlayerRank=Rookie,Cadet
+Priority=50
+Relations=Good,Best
+ShipType=Diplomat
+Text=ƒипломатическое судно <Ship> приветствует теб€, <Player>! «наю, что ты еще новичок на просторах вселенной, о чем красноречиво говорит твое звание <PlayerRank>. ¬ыше нос, у теб€ все еще впереди!
+Text= стати, если нужна парти€ оружи€, то рекомендую планету <ToPlanet>. ѕосле последнего государственного переворота там бросовые цены.
+ToPlanetGoodsSale=Mini,Small
+ToPlanetGoverment=Anarchy,Dictatorship,Monarchy

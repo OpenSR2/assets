@@ -1,0 +1,15 @@
+Artefact=-3
+Cost=180
+Def=+1
+Forsage=+1
+Hook=-1
+Name=Запорожец
+Probability=5
+Race=People
+Radar=1
+Scaner=-1
+ShipType=Transport,Liner
+Size=120
+Text=Серия древних человеческих корпусов с большим трюмом спереди и служебными помещениями на корме.<br>
+Weapon=-4
+Year=40

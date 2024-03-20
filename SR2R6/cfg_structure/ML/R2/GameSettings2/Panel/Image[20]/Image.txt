@@ -1,0 +1,3 @@
+Image=GI,Bm.FormGameSet2.2Help
+Pos=609,700,60
+Size=360,68

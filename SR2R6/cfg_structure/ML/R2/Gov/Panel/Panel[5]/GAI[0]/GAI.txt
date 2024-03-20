@@ -1,0 +1,10 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-99]
+Image=Bm.Gov.2PeopleAnim0a
+ImageFirst=Bm.Gov.2PeopleAnim0i
+Name=GovPeopleAnim0
+PBuf=True
+Pos=1235,409,-2
+Size=345,671

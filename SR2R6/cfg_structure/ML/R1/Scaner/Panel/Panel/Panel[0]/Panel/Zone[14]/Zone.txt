@@ -1,0 +1,4 @@
+Kind=Circle
+Name=Art0z
+Pos=12,322,-2
+Size=42,35

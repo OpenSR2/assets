@@ -1,0 +1,16 @@
+Artefact=0
+Cost=100
+Def=0
+Droid=1
+Forsage=0
+Hook=0
+Name=Тратахан
+Probability=10
+Race=Maloc
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=80
+Text=Малокский корпус для беспредельных пиратских забав с дроидом.
+Weapon=0
+Year=10

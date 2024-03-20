@@ -1,0 +1,15 @@
+ImageBottomA=GI,Bm.FormPQuest2.2S1BBottomA
+ImageBottomD=GI,Bm.FormPQuest2.2S1BBottomD
+ImageBottomN=GI,Bm.FormPQuest2.2S1BBottomN
+ImageCenterA=GI,Bm.FormPQuest2.2S1BCenterA
+ImageCenterD=GI,Bm.FormPQuest2.2S1BCenterD
+ImageCenterN=GI,Bm.FormPQuest2.2S1BCenterN
+ImageDownA=GI,Bm.FormPQuest2.2S1BDownA
+ImageDownD=GI,Bm.FormPQuest2.2S1BDownD
+ImageDownN=GI,Bm.FormPQuest2.2S1BDownN
+ImageTopA=GI,Bm.FormPQuest2.2S1BTopA
+ImageTopD=GI,Bm.FormPQuest2.2S1BTopD
+ImageTopN=GI,Bm.FormPQuest2.2S1BTopN
+ImageUpA=GI,Bm.FormPQuest2.2S1BUpA
+ImageUpD=GI,Bm.FormPQuest2.2S1BUpD
+ImageUpN=GI,Bm.FormPQuest2.2S1BUpN

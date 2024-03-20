@@ -1,0 +1,4 @@
+1Image=Bm.ItemsUseless.Plasm_c
+2Image=Bm.ItemsUseless.Plasm_c
+ImageMap=Bm.Container.Map0
+PosZ=Item

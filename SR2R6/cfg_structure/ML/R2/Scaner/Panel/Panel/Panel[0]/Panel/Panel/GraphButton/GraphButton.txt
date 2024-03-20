@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormShip2.2ForsageH
+ImageDown=GI,Bm.FormShip2.2ForsageD
+ImageNormal=GI,Bm.FormShip2.2ForsageN
+ImageNormalA=GI,Bm.FormShip2.2ForsageA
+Kind=Disable
+KindHit=Rect
+Name=ForsageBut
+Pos=12,9,3
+Size=17,17
+Style=Style.GB.SoundNormal

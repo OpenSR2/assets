@@ -1,0 +1,5 @@
+Cost=Big
+Name=Детектор лжи
+Owner=Gaal
+Size=10
+Text=Новейшая модель детектора лжи

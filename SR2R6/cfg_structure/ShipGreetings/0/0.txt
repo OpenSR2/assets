@@ -1,0 +1,6 @@
+FlyType=Any
+Relations=Bad,Normal,Good
+ShipRace=Maloc
+ShipRaceIsPlayerRace=No
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=ћне конкретно надоело видеть ваши противные рожи. ’удосочные инопланетные морды неестественных цветов. ј цвет морды, к твоему сведению, <Player>, у насто€щего рейнджера должен быть красный, как у мен€! “ак что когда разговариваешь со мной, рожу-то потри, чтобы кровь в бошке прилила.

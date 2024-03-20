@@ -1,0 +1,8 @@
+0=Sound.Talk
+1=Sound.Talk
+2=Sound.Talk
+3=Sound.Talk
+4=Sound.Talk
+5=Sound.Talk
+6=Sound.Talk
+7=Sound.Talk

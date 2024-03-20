@@ -1,0 +1,10 @@
+AutoTalk=Any
+FlyType=Any
+PlayerIsShipBad=Yes
+Priority=1
+Relations=War
+ShipBadFlyToShip=Yes
+ShipRace=Maloc
+ShipRaceIsPlayerRace=No
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Арр-р, <Player>! И как только у тебя хватило смелости напасть на малокский корабль? Или ты не слыхал о малокской доблести? Наверное, ты слишком глуп, чтобы осознать безнадежность своего поступка. Так что пеняй на себя, если сегодня твои родственники станут богаче на 10000 cr!

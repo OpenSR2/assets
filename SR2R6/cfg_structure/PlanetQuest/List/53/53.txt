@@ -1,0 +1,7 @@
+Access=5
+Dif=19
+Genre=бродилка-стрелялка
+Group=1
+Image=Bm.PQI.stealth_00
+Length=1
+Name=Стелс

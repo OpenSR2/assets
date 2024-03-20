@@ -1,0 +1,9 @@
+ImageDisable=GI,Bm.FormShop2.1RightH
+ImageDown=GI,Bm.FormShop2.1RightD
+ImageNormal=GI,Bm.FormShop2.1RightN
+ImageNormalA=GI,Bm.FormShop2.1RightA
+Kind=Disable
+KindHit=Rect
+Name=Right
+Pos=556,137,8
+Size=33,56

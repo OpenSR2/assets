@@ -1,0 +1,16 @@
+Artefact=1
+Cost=150
+Def=0
+Droid=0
+Forsage=1
+Hook=0
+Name=Гугол
+Probability=10
+Race=Maloc,Peleng,Gaal
+Radar=1
+Scaner=1
+ShipType=Ranger
+Size=100
+Text=Быстрый рейнджерский корпус. Согласно опросам, был признан лучшим корпусом 3302 года.
+Weapon=1
+Year=20

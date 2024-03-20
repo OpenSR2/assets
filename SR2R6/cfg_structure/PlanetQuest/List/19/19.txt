@@ -1,0 +1,7 @@
+Access=5
+Dif=5
+Genre=бродилка с элементами менеджмента
+Group=0
+Image=Bm.PQI.Muzon_01
+Length=2
+Name=Музыкальный фестиваль

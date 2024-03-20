@@ -1,0 +1,8 @@
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Panel=Panel\Panel.txt ^{
+}
+Pos=50,2,11
+Size=78,12

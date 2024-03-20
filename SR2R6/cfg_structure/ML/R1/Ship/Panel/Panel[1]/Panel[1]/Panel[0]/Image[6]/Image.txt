@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.1HullA
+Name=HullA
+Pos=111,166,0
+Size=137,138

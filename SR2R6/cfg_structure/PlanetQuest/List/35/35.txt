@@ -1,0 +1,7 @@
+Access=5
+Dif=25
+Genre=бродилка с элементами файтинга
+Group=1
+Image=Bm.PQI.van_01
+Length=2
+Name=Плохой день рейнджера

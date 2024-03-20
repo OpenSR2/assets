@@ -1,0 +1,7 @@
+Access=5
+Dif=32
+Genre=доставка груза с элементами квеста
+Group=1
+Image=Bm.PQI.van_31
+Length=0
+Name=Диск

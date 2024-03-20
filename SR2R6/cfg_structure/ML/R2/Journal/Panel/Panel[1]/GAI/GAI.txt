@@ -1,0 +1,8 @@
+Active=True
+AlignX=Center
+AlignY=Center
+Name=TV
+PBuf=True
+Pos=134,10,11
+Size=225,85
+SkipImageUpdateRect=True

@@ -1,0 +1,2 @@
+Image2=GAI,Bm.PlanetAdvt.2_0_14
+Owner=People

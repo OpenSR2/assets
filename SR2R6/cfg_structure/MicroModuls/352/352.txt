@@ -1,0 +1,14 @@
+Cost=130
+Equipments=Hull
+KindHull=AST3
+Name=Болид
+Size=100
+Special=1
+Text=Двигатель: <bonSpeed> скорости.
+Text=Дальность прыжка: <bonJump> ед.
+Text=Радар: <bonRadar> радиус.
+Text=Броня корпуса: <bonHull> ед.
+bonHull=-5
+bonJump=20
+bonRadar=1000
+bonSpeed=300

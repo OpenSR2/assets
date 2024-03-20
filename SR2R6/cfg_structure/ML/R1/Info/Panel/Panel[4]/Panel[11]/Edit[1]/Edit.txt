@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.1Normal
+MaxLen=30
+Name=M11Def
+Pos=236,219,0
+Size=73,15
+TextColor=0,0,0

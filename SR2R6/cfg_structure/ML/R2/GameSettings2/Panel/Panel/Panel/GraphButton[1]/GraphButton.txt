@@ -1,0 +1,10 @@
+Help=FormGameSet2.Common.HelpLevelOpen
+ImageDown=GI,Bm.FormGameSet2.2LevelOpenD
+ImageNormal=GI,Bm.FormGameSet2.2LevelOpenN
+ImageNormalA=GI,Bm.FormGameSet2.2LevelOpenA
+Kind=Normal
+KindHit=Graph
+Name=LevelOpen
+Pos=203,491,50
+Size=70,41
+Style=Style.GB.SoundNormal

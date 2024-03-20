@@ -1,0 +1,6 @@
+Active=True
+FrameLoad=0
+Image=Bm.FormHangar2.2Repair
+Name=S_RepairRobot_0Repair
+Pos=83,420,-4
+Size=48,48

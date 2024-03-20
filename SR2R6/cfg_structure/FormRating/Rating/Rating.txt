@@ -1,0 +1,4 @@
+Pirate=Пиратский
+Title=Рейтинг
+Trader=Торговый
+Warrior=Военный

@@ -1,0 +1,25 @@
+Cost=700
+Equipments=Hull
+KindHull=ASTD
+Name=<color=48,236,248>ННП-корпус</color>
+Priority=50
+Ruins=MC
+Size=120
+Special=1
+Text=<color=248,252,248>Корпус, оснащённый портативным генератором ННП-поля (Не-Наши-Проблемы). Жизнь с таким корпусом становится намного счастливее и веселее, потому что все оборудование работает без задержек, проблем и форс-мажоров, что позволяет владельцу такого корабля прожигать жизнь и просто наслаждаться полетом.</color>
+Text=
+Text=Броня корпуса: <bonHull> ед.
+Text=Скорость: <bonSpeed> ед.
+Text=Прыжок: <bonJump> парсек
+Text=Радиус радара: <bonRadar> ед.
+Text=Мощность защиты: <bonDef> ед.
+bonDef=3
+bonHull=2
+bonJump=2
+bonRadar=300
+bonSlotArt=-1
+bonSlotDef=1
+bonSlotHook=1
+bonSlotRadar=1
+bonSlotWeapon=-1
+bonSpeed=50

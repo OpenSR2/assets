@@ -1,0 +1,10 @@
+ImageDown=GI,Bm.FormInfo3.1MH13D
+ImageDownA=GI,Bm.FormInfo3.1MH13C
+ImageNormal=GI,Bm.FormInfo3.1MH13N
+ImageNormalA=GI,Bm.FormInfo3.1MH13A
+Kind=Fix
+KindHit=Graph
+Name=M11S13
+Pos=21,105,1
+Size=18,16
+Style=Style.GB.SoundNormal

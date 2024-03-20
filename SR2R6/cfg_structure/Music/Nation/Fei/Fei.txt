@@ -1,0 +1,2 @@
+1=Music\planet\fei1.dat
+1=data\music\Gatekeeper - Feican Cry.dat

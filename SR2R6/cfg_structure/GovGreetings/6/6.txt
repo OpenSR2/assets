@@ -1,0 +1,11 @@
+CurPlanetGoodsCnt=Small,Average,Big,Huge
+CurPlanetGoodsSale=Mini,Small
+CurPlanetRelations=Normal,Good,Best
+Goods=Medicine
+Priority=10
+Text=По нашим сведениям, на планете <ToPlanet> сейчас проблемы с медикаментами. Население страдает от болезней, и мы им очень сочувствуем.
+Text=Вы, <Player>, можете cделать хорошие деньги, занявшись доставкой наших медикаментов в систему <ToStar>. Поспешите, пока более предприимчивые рейнджеры вас не обставили.
+ToPlanetGoodsBuy=Big,Huge
+ToPlanetGoodsCnt=Zero,Mini,Small,Average
+ToPlanetInCurStar=No
+ToPlanetRace=Maloc,Peleng,People,Fei,Gaal

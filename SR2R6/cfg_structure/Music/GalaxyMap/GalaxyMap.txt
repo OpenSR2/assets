@@ -1,0 +1,8 @@
+1=Music\special\hymn.dat
+1=Music\fly\Theo-Inside.dat
+1=data\music\DenisLiganov_RunningAway.dat
+1=data\music\Gatekeeper - Amyleign.dat
+1=data\music\Another SilenceA.dat
+1=data\music\Antares.dat
+1=data\music\rose.dat
+1=data\music\next_generation.dat

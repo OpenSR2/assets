@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormShip2.2SC_StUpH
+ImageDown=GI,Bm.FormShip2.2SC_StUpD
+ImageNormal=GI,Bm.FormShip2.2SC_StUpN
+ImageNormalA=GI,Bm.FormShip2.2SC_StUpA
+Kind=Disable
+KindHit=Rect
+Name=Storage_Up
+Pos=144,8,3
+Size=11,15
+Style=Style.GB.SoundNormal

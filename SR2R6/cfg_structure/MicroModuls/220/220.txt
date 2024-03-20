@@ -1,0 +1,15 @@
+Cost=125
+Equipments=WEnergy,WSplinter
+Name=Берн
+Owner= Maloc,Peleng,Fei,Gaal
+Priority=1
+Size=120
+Text=Микромодуль первого уровня. Модифицирует боеприпасы и системы фокусировки оружия, благодаря чему возрастает наносимый урон и дальность поражения. Несовместим с ракетным оружием и оборудованием людей.
+Text=Сила энергетического оружия: <bonWEnergy> ед.
+Text=Сила осколочного оружия: <bonWSplinter> ед.
+Text=Дальность стрельбы: <bonWRadius> ед.
+Text=Стоимость: <clr>+25%<clrEnd>
+Text=Размер: <clr>+20%<clrEnd>
+bonWEnergy=20
+bonWRadius=55
+bonWSplinter=35

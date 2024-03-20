@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.1Normal
+MaxLen=30
+Name=M09Const
+Pos=221,184,0
+Size=78,15
+TextColor=0,0,0

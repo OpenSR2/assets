@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormShip2.2RHDownH
+ImageDown=GI,Bm.FormShip2.2RHDownD
+ImageNormal=GI,Bm.FormShip2.2RHDownN
+ImageNormalA=GI,Bm.FormShip2.2RHDownA
+Kind=Disable
+KindHit=Rect
+Name=DownRH
+Pos=301,297,-1
+Size=24,19
+Style=Style.GB.SoundNormal

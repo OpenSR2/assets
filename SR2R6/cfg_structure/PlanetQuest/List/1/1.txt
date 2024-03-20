@@ -1,0 +1,7 @@
+Access=5
+Dif=23
+Genre=логико-познавательная игра
+Group=0
+Image=Bm.PQI.Banket_00
+Length=2
+Name=Банкет

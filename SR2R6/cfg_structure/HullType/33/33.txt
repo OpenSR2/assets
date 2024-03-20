@@ -1,0 +1,16 @@
+Artefact=0
+Cost=110
+Def=0
+Droid=-1
+Forsage=0
+Hook=0
+Name=Убишак
+Probability=10
+Race=Peleng
+Radar=0
+Scaner=0
+ShipType=Pirate
+Size=90
+Text=Серия украденных и модернизированных пеленгами корпусов. Место для дроида переоборудовано под оружейный отсек.
+Weapon=1
+Year=30

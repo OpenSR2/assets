@@ -1,0 +1,5 @@
+AutoTalk=Any
+FlyType=ToItem
+ItemType=Alcohol
+Relations=Good,Best
+Text=Смотри-ка, <Player>, по курсу выпивка бесхозная болтается. Была бесхозная, а станет хозная!

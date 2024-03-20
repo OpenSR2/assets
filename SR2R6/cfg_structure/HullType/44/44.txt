@@ -1,0 +1,16 @@
+Artefact=1
+Cost=270
+Def=1
+Droid=1
+Forsage=1
+Hook=0
+Name=Антидоминатор
+Probability=20
+Race=Maloc, People, Fei, Gaal
+Radar=0
+Scaner=0
+ShipType=Warrior
+Size=150
+Text=Дорогое и эффективное оружие против доминаторов. Выбор настоящих патриотов.
+Weapon=1
+Year=70

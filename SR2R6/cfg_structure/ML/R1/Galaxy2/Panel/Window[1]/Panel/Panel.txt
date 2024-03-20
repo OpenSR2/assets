@@ -1,0 +1,3 @@
+Name=InfoStarPanel
+Pos=0,58,8
+Size=220,10

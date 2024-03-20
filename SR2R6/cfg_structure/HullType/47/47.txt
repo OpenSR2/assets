@@ -1,0 +1,16 @@
+Artefact=0
+Cost=150
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Красный топор
+Probability=20
+Race=Maloc
+Radar=0
+Scaner=-1
+ShipType=Ranger
+Size=130
+Text=Просторный боевой корабль, обитый внутри красным пластиком. Установка сканера невозможна.
+Weapon=0
+Year=10

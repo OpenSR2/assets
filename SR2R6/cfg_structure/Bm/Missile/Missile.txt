@@ -1,0 +1,6 @@
+00=data\Missile\00.hai
+01=data\Missile\01.hai
+1_00=data\Missile\1_00.gi
+1_01=data\Missile\1_01.gi
+2_00=data\Missile\2_00.gi
+2_01=data\Missile\2_01.gi

@@ -1,0 +1,7 @@
+Equipments=Hull
+Name=Форсер
+Priority=70
+Text=Микромодуль третьего уровня. Встраивается в корпус. Активирует слоты сканера, радара и форсажа.
+bonSlotForsage=1
+bonSlotRadar=1
+bonSlotScaner=1

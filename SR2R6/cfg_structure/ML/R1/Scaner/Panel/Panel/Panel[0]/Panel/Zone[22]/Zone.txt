@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_4z
+Pos=262,429,0
+Size=30,30

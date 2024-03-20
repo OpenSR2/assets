@@ -1,0 +1,2 @@
+NotCertificate=Внимание! Данное задание не прошло сертификацию Elemental Games.
+NotCertificateAttention=Данное задание не прошло сертификацию Elemental Games. Вы выполняете его на свой страх и риск.

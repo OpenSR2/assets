@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Name=BestWarrior
+Pos=30,195,-3
+Size=189,22
+TextColor=102,177,201
+WordWrap=True

@@ -1,0 +1,3 @@
+Image=GI,Bm.FormLoadQuest.2ImageBG
+Pos=640,16,99
+Size=196,226

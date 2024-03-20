@@ -1,0 +1,3 @@
+Name=WinItem
+Pos=0,50,8
+Size=1916,1

@@ -1,0 +1,5 @@
+10=Sound.RndPlanet00
+10=Sound.RndPlanet05
+10=Sound.RndPlanet06
+Group=104001
+NextTime=5000-8000

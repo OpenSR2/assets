@@ -1,0 +1,4 @@
+Active=True
+Image=GI,Bm.FormCount2.1BarBorder
+Pos=3,5,11
+Size=104,10

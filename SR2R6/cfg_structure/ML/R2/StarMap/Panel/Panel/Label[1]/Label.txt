@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=Center
+Font=Font.2Mini
+MVUpdate=True
+Name=Mods
+Pos=-260,-540,InfoPanel
+Size=500,15
+TextColor=255,0,0
+WordWrap=False

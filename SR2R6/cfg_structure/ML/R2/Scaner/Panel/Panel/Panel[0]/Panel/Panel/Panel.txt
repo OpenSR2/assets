@@ -1,0 +1,9 @@
+GraphButton=GraphButton\GraphButton.txt ^{
+}
+Image=Image[0]\Image.txt ^{
+}
+Image=Image[1]\Image.txt ^{
+}
+Name=Forsage
+Pos=6,201,-1
+Size=53,56

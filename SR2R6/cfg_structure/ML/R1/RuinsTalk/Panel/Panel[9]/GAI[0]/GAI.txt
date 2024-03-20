@@ -1,0 +1,10 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-150]
+Image=Bm.FormRuins.1MCAnim0a
+ImageFirst=Bm.FormRuins.1MCAnim0i
+Name=PanelGaalMC_Anim0
+PBuf=True
+Pos=432,85,-2
+Size=262,515

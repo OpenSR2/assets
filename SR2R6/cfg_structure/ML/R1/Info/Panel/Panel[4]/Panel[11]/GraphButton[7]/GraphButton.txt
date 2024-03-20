@@ -1,0 +1,12 @@
+Down=True
+ImageDown=GI,Bm.FormInfo3.1MCheckD
+ImageDownA=GI,Bm.FormInfo3.1MCheckC
+ImageNormal=GI,Bm.FormInfo3.1MCheckN
+ImageNormalA=GI,Bm.FormInfo3.1MCheckA
+Kind=Fix
+KindHit=Rect
+Name=M11TypeDiplomat
+Pos=246,137,1
+Size=11,11
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

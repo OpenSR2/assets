@@ -1,0 +1,12 @@
+AutoTalk=Yes
+FlyType=ToPlanet
+Goods=Technics
+Priority=5
+Relations=Good,Best
+ShipGoodsCnt=Mini,Small,Average,Big,Huge
+ShipStatus=Trader
+ShipType=Transport,Diplomat,Ranger
+Text=Хагрр-р, привет, <Player>! Ты тоже летишь на планету <ToPlanet>, на ежегодную выставку макроизделий? Говорят, там будет выставляться малокская новинка - гигантский червяк-робот!
+Text=Так я заодно и немного техники прихватил, чтобы сбыть ее, пока ажиотаж вокруг технических новинок, вызванный выставкой, не угас.
+ToPlanetGoodsBuy=Average,Big,Huge
+ToPlanetRace=Maloc

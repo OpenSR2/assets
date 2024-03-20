@@ -1,0 +1,13 @@
+Equipments=WEnergy,WSplinter,WMissile
+Name=Берсерк
+Owner=Any
+Priority=90
+Size=180
+Text=Микромодуль третьего уровня. Дополняет орудийные системы довольно массивным ускорителем частиц и генератором антиматерии, существенно увеличивая боевые характеристики оружия.
+Text=Сила любого оружия: <bonWEnergy> ед.
+Text=Дальность стрельбы: <bonWRadius> ед.
+Text=Размер: <clr>+80%<clrEnd>
+bonWEnergy=5
+bonWMissile=5
+bonWRadius=20
+bonWSplinter=5

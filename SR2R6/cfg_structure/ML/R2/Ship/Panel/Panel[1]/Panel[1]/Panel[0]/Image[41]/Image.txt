@@ -1,0 +1,3 @@
+Name=S_Radar_0i
+Pos=317,316,0
+Size=99,77

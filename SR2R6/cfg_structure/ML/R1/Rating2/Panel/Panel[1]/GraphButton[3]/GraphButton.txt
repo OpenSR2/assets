@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormRating2.1CloseD
+ImageNormal=GI,Bm.FormRating2.1CloseN
+ImageNormalA=GI,Bm.FormRating2.1CloseA
+Kind=Normal
+KindHit=Rect
+Name=ButClose
+Pos=611,459,-3
+Size=63,28
+Style=Style.GB.SoundNormal

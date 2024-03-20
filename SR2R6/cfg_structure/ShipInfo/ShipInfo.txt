@@ -1,0 +1,4 @@
+AddInfo=AddInfo\AddInfo.txt ^{
+}
+Forsage=Forsage\Forsage.txt ^{
+}

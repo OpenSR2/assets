@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Name=SortScore
+Pos=599,45,2
+Size=57,12
+Text=FormRating.Points
+TextColor=0,0,0
+WordWrap=True

@@ -1,0 +1,8 @@
+Active=False
+AlignX=Left
+AlignY=Center
+MVUpdate=True
+Name=ABInfo
+Pos=100,0,-3
+Size=1920,20
+Style=Style.Label.2Normal

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormGoods2.1CloseLine
+Name=CloseLine
+Pos=29,297,8
+Size=63,1

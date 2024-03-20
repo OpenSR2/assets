@@ -1,0 +1,40 @@
+JEDI_MS=JEDI_MS\JEDI_MS.txt ^{
+}
+MS_BK=MS_BK\MS_BK.txt ^{
+}
+MS_BOMBER=MS_BOMBER\MS_BOMBER.txt ^{
+}
+MS_Begin=MS_Begin\MS_Begin.txt ^{
+}
+MS_Blazer=MS_Blazer\MS_Blazer.txt ^{
+}
+MS_COLONIZE=MS_COLONIZE\MS_COLONIZE.txt ^{
+}
+MS_DIPL=MS_DIPL\MS_DIPL.txt ^{
+}
+MS_DOCTORM=MS_DOCTORM\MS_DOCTORM.txt ^{
+}
+MS_DOMSPY=MS_DOMSPY\MS_DOMSPY.txt ^{
+}
+MS_ELECTION=MS_ELECTION\MS_ELECTION.txt ^{
+}
+MS_KARAVAN=MS_KARAVAN\MS_KARAVAN.txt ^{
+}
+MS_Keller=MS_Keller\MS_Keller.txt ^{
+}
+MS_PB=MS_PB\MS_PB.txt ^{
+}
+MS_RANGERS_ARTS=MS_RANGERS_ARTS\MS_RANGERS_ARTS.txt ^{
+}
+MS_SB1=MS_SB1\MS_SB1.txt ^{
+}
+MS_SB2=MS_SB2\MS_SB2.txt ^{
+}
+MS_TM=MS_TM\MS_TM.txt ^{
+}
+MS_Terron=MS_Terron\MS_Terron.txt ^{
+}
+MS_WB_P=MS_WB_P\MS_WB_P.txt ^{
+}
+test=test\test.txt ^{
+}

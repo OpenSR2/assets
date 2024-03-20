@@ -1,0 +1,9 @@
+Cost=70
+Equipments=FuelTank,Engine,Radar,Scaner,Droid,Hook,DefGenerator,WSplinter
+Name=Миниразмерный
+Owner=People
+Priority=70
+Size=80
+Text=Микромодуль третьего уровня. Производит ряд замен крупных тексоэлементов на более компактные, но при этом очень дешевые. Совместим только с оборудованием расы <clr>людей<clrEnd>. Не взаимодействует с энергетическим и ракетным оружием, а также с корпусом.
+Text=Размер: <clr>-20%<clrEnd>
+Text=Стоимость: <clr>-30%<clrEnd>

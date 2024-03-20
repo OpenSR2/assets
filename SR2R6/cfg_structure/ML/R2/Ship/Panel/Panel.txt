@@ -1,0 +1,28 @@
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+MoveWorld=False
+Name=MainPanel
+Panel=Panel[0]\Panel.txt ^{
+}
+Panel=Panel[1]\Panel.txt ^{
+}
+Panel=Panel[2]\Panel.txt ^{
+}
+Pos=0,0
+ShrLight=ShrLight\ShrLight.txt ^{
+}
+Size=1920,1080
+Window=Window[0]\Window.txt ^{
+}
+Window=Window[1]\Window.txt ^{
+}
+Window=Window[2]\Window.txt ^{
+}
+Window=Window[3]\Window.txt ^{
+}
+XviD=XviD\XviD.txt ^{
+}

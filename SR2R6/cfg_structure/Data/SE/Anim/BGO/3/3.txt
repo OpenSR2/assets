@@ -1,0 +1,4 @@
+Image=Bm.BGO.a3
+LoopAnim=False
+PosZ=BGObj
+SmeImage=0,0

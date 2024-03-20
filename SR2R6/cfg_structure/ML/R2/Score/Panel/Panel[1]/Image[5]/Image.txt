@@ -1,0 +1,3 @@
+Name=Skill3
+Pos=701,398,0
+Size=30,43

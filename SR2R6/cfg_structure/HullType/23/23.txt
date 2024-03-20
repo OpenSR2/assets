@@ -1,0 +1,16 @@
+Artefact=2
+Cost=40
+Def=1
+Droid=-1
+Forsage=1
+Hook=-1
+Name=Курьер
+Probability=5
+Race=Maloc,Peleng,People,Fei,Gaal
+Radar=0
+Scaner=0
+ShipType=Diplomat
+Size=70
+Text=Серия миниатюрных корпусов, предназначенных для быстрой доставки ценных грузов и информации.
+Weapon=-1
+Year=0

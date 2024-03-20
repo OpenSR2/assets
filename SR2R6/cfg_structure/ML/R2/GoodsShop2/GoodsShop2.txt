@@ -1,0 +1,5 @@
+Border=0,0,1920,1080
+Panel=Panel\Panel.txt ^{
+}
+Sound=Sound\Sound.txt ^{
+}

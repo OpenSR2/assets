@@ -1,0 +1,16 @@
+Artefact=4
+Cost=120
+Def=1
+Droid=0
+Forsage=1
+Hook=1
+Name=Тяжелый гавон
+Probability=50
+Race=Maloc
+Radar=0
+Scaner=1
+ShipType=Transport
+Size=110
+Text=Малокское транспортное судно, переоборудованное для шпионажа и разведки.
+Weapon=-1
+Year=5

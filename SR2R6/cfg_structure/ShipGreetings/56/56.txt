@@ -1,0 +1,9 @@
+AutoTalk=Any
+FlyType=Any
+PlayerAttackGoodShip=Yes
+Priority=10
+Relations=Bad,Normal,Good,Best
+ShipStructure=Average,Big,Huge
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Ёй, <Player>! “ы разве не знаешь, что <FullShipGood> мой друг?
+Text=Ќемедленно прекрати атаку! ¬ обратном случае € за свое отношение к тебе не ручаюсь, и всем расскажу о твоих гр€зных проделках!

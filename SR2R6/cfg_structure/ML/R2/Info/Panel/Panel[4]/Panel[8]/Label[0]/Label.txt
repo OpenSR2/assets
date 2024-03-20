@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2Ranger
+Pos=56,15,0
+Size=300,20
+Text=FormInfo.MMExtSe
+TextColor=0,0,0

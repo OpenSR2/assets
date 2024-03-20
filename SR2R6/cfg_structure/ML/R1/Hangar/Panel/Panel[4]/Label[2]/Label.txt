@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Name=Text2
+Pos=159,66,-3
+Size=181,12
+Style=Style.Label.1Normal
+TextColor=0,0,0
+WordWrap=False

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormAB2.2NoPower2
+Name=W2P2
+Pos=106,34,6
+Size=9,11

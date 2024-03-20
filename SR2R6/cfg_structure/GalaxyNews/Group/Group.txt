@@ -1,0 +1,2 @@
+WarriorLiberator=WarriorLiberator\WarriorLiberator.txt ^{
+}

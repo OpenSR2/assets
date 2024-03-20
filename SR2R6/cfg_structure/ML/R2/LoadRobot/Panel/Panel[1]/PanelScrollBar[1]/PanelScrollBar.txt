@@ -1,0 +1,13 @@
+ActiveBarY=True
+ExternalSB=True
+Label=Label\Label.txt ^{
+}
+MoveWorld=True
+Name=MessageWindow
+Pos=630,287,2
+PosAutoBarY=False
+RectBarY=917,290,934,524
+Size=280,266
+StyleBarY=Style.ScrollBar.2V1
+TextColor=255,255,230
+UnlimitedWorld=False

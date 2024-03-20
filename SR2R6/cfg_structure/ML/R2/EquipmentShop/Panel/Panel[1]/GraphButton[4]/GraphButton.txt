@@ -1,0 +1,10 @@
+Help=Help.ButInfo
+ImageDown=GI,Bm.PanelMain2.2InfoD
+ImageNormal=GI,Bm.PanelMain2.2InfoN
+ImageNormalA=GI,Bm.PanelMain2.2InfoA
+Kind=Normal
+KindHit=Graph
+Name=PP_Info
+Pos=199,2,8
+Size=43,33
+Style=Style.GB.SoundNormal

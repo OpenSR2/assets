@@ -1,0 +1,9 @@
+Help=FormPQuest.HelpAnimTextOn
+ImageDown=GI,Bm.FormPQuest2.2AnimOnD
+ImageNormal=GI,Bm.FormPQuest2.2AnimOnN
+ImageNormalA=GI,Bm.FormPQuest2.2AnimOnA
+Kind=Normal
+KindHit=Rect
+Name=AnimTextOn
+Pos=497,741,2
+Size=28,17

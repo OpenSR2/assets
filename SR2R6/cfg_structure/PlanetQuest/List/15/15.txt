@@ -1,0 +1,7 @@
+Access=5
+Dif=46
+Genre=логическая головоломка
+Group=0
+Image=Bm.PQI.Jumper_01
+Length=2
+Name=Джампер

@@ -1,0 +1,42 @@
+Anim=Anim\Anim.txt ^{
+}
+Asteroid=Asteroid\Asteroid.txt ^{
+}
+BGO=BGO\BGO.txt ^{
+}
+Garbage=Garbage\Garbage.txt ^{
+}
+Gate=Gate\Gate.txt ^{
+}
+Hole=Hole\Hole.txt ^{
+}
+Item=Item\Item.txt ^{
+}
+ItemAB=ItemAB\ItemAB.txt ^{
+}
+Laser=Laser\Laser.txt ^{
+}
+Meteorite=Meteorite\Meteorite.txt ^{
+}
+Missile=Missile\Missile.txt ^{
+}
+Planet=Planet\Planet.txt ^{
+}
+Process=Process\Process.txt ^{
+}
+Ruins=Ruins\Ruins.txt ^{
+}
+Ship=Ship\Ship.txt ^{
+}
+Sound=Sound\Sound.txt ^{
+}
+Sputnik=Sputnik\Sputnik.txt ^{
+}
+Star=Star\Star.txt ^{
+}
+StarsField=StarsField\StarsField.txt ^{
+}
+Weapon=Weapon\Weapon.txt ^{
+}
+_BGObj=_BGObj\_BGObj.txt ^{
+}

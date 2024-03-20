@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.1SmallBold
+Pos=189,195,0
+Size=156,16
+Text=FormInfo.M13PriceSell
+TextColor=0,0,0

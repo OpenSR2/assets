@@ -1,0 +1,8 @@
+Active=False
+AlignX=Left
+AlignY=Center
+Pos=824,10,8
+Size=100,20
+Style=Style.Label.2Normal
+Text=FormGov.Relation
+TextColor=0,0,255

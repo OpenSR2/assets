@@ -1,0 +1,4 @@
+1=Music\planet\cosmic.dat
+1=Music\planet\cosmic2.dat
+1=Music\quests\gladiator.dat
+3=Music\special\outroden.dat

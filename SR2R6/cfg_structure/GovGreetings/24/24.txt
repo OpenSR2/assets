@@ -1,0 +1,10 @@
+CurPlanetEconomy=Mixed,Industrial
+CurPlanetGoodsCnt=Small,Average,Big,Huge
+CurPlanetGoodsPermit=Yes
+CurPlanetGoodsSale=Mini,Small
+CurPlanetRace=Fei,Gaal
+CurPlanetRelations=Normal,Good
+Goods=Technics
+PlayerRace=Maloc,Peleng,People
+Priority=20
+Text=Представители твоей расы, <Player>, к сожалению, не наделены могучим интеллектом. Тем не менее ты должен понимать, что контейнер с техническими изделиями стоимостью <CurPlanetGoodsSale> cr не часто встретишь. Загляни к нам в торговый центр и купи партию. Возможно, в голове ума и прибавится.

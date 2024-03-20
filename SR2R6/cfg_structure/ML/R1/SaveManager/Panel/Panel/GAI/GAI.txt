@@ -1,0 +1,5 @@
+FrameLoad=0
+Image=Bm.FormSave2.1Anim
+Name=Anim
+Pos=483,37,100
+Size=237,348

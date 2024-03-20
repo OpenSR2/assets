@@ -1,0 +1,3 @@
+Goods=Technics
+Image2=GAI,Bm.PlanetAdvt.2_3_02
+War=-1

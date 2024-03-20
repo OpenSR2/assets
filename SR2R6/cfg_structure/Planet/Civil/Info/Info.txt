@@ -1,0 +1,10 @@
+BadDopInfo=Вам нельзя посещать:
+BadDopInfo= - магазин оборудования
+BadDopInfo= - торговый центр
+BadDopInfo= - информационный центр
+TextAboutPlanet=Проживающая раса: <Race>
+TextAboutPlanet=Население: <Population> млн
+TextAboutPlanet=Экономический тип: <Economy>
+TextAboutPlanet=Политический строй: <Goverment>
+TextAboutPlanet=Отношение к вам: <Relation>
+TextNamePlanet=Планета <Planet>

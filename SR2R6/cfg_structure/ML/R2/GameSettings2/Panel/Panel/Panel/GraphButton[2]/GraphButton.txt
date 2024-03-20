@@ -1,0 +1,11 @@
+Enabled=False
+Help=FormGameSet2.Common.HelpLevelClose
+ImageDown=GI,Bm.FormGameSet2.2LevelCloseD
+ImageNormal=GI,Bm.FormGameSet2.2LevelCloseN
+ImageNormalA=GI,Bm.FormGameSet2.2LevelCloseA
+Kind=Normal
+KindHit=Graph
+Name=LevelClose
+Pos=203,483,50
+Size=70,41
+Style=Style.GB.SoundNormal

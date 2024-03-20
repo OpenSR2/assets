@@ -1,0 +1,5 @@
+Cost=Average
+Name=Диск
+Owner=None
+Size=1
+Text=Диск с секретными данными

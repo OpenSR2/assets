@@ -1,0 +1,3 @@
+Image=GI,Bm.FormInfo2.1FindPrice
+Pos=0,16
+Size=53,32

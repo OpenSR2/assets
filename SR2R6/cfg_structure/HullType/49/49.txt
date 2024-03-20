@@ -1,0 +1,16 @@
+Artefact=3
+Cost=130
+Def=0
+Droid=0
+Forsage=0
+Hook=1
+Name=Чистотел
+Probability=10
+Race=Gaal
+Radar=0
+Scaner=0
+ShipType=Warrior
+Size=100
+Text=Не по-гаальски агрессивный корпус с большим функционалом переработки и сбора мусора.
+Weapon=1
+Year=20

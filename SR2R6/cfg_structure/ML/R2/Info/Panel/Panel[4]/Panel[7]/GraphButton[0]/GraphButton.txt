@@ -1,0 +1,11 @@
+ImageDown=GI,Bm.FormInfo3.2BRaceMalocD
+ImageDownA=GI,Bm.FormInfo3.2BRaceMalocC
+ImageNormal=GI,Bm.FormInfo3.2BRaceMalocN
+ImageNormalA=GI,Bm.FormInfo3.2BRaceMalocA
+Kind=Fix
+KindHit=Graph
+Name=M07Maloc
+Pos=18,252,1
+Size=35,35
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

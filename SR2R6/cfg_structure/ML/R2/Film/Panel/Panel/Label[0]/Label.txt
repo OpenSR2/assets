@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=Center
+Font=Font.2Normal
+MVUpdate=True
+Name=FPS
+Pos=-50,-530,InfoPanel
+Size=100,20
+WordWrap=False

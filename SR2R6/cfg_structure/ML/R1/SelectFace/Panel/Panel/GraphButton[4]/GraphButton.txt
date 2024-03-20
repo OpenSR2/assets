@@ -1,0 +1,8 @@
+ImageDown=GI,Bm.FormGameSet2.1RacePeopleD
+ImageNormalA=GI,Bm.FormGameSet2.1RacePeopleA
+Kind=Fix
+KindHit=Graph
+Name=RacePeople
+Pos=174,82,50
+Size=90,93
+Style=Style.GB.SoundNormal

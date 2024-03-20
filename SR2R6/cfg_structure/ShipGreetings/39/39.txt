@@ -1,0 +1,7 @@
+FlyType=Any
+PlayerIsShipBad=No
+Relations=War,Bad
+ShipBadFlyToShip=Yes
+ShipRaceIsPlayerRace=No
+ShipType=Pirate
+Text=Отстань от меня, инопланетное страшилище. Не желаю видеть твою уродливую рожу на своем мониторе! У меня сейчас и так проблем хватает. С тобой и всей твоей расой я разберусь позже.

@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.2CenterDamageImage
+Name=CenterDamageImage
+Pos=60,176,4
+Size=334,249

@@ -1,0 +1,3 @@
+Image=GI,Bm.SB.1V1_UpH
+Pos=207,312,1
+Size=15,16

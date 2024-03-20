@@ -1,0 +1,7 @@
+Equipments=WMissile
+Name=Антифэй
+Owner=Maloc,Peleng,People,Gaal
+Priority=10
+Text=Микромодуль первого уровня. Увеличивает заряд ракетного оружия. По неизвестным причинам, отвергается <clr>фэянским<clrEnd> оборудованием.
+Text=Мощность ракетного оружия: <bonWMissile> ед.
+bonWMissile=30

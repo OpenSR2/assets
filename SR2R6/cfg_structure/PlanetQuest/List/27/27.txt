@@ -1,0 +1,7 @@
+Access=5
+Dif=14
+Genre=тактический файтинг
+Group=0
+Image=Bm.PQI.Robots_00
+Length=2
+Name=Ѕои минироботов

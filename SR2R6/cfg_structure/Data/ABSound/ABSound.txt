@@ -1,0 +1,10 @@
+Explosion=Explosion\Explosion.txt ^{
+}
+Hit=Hit\Hit.txt ^{
+}
+Item=Item\Item.txt ^{
+}
+WeaponFirst=WeaponFirst\WeaponFirst.txt ^{
+}
+WeaponLoop ^{
+}

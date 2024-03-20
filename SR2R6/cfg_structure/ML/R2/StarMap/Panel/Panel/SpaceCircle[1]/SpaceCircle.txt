@@ -1,0 +1,4 @@
+Active=False
+Name=CircleActionWeaponColor
+Pos=-960,-540,CircleActionColor
+Size=1920,1080

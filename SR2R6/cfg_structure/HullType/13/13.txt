@@ -1,0 +1,16 @@
+Artefact=0
+Cost=10
+Def=-1
+Droid=0
+Forsage=1
+Hook=0
+Name=Экспериметр
+Probability=40
+Race=People,Peleng
+Radar=-1
+Scaner=-1
+ShipType=Diplomat,Liner
+Size=50
+Text=Незавершенная совместная разработка пеленгских и человеческих ученых. Установка генератора поля, радара и сканера невозможна.
+Weapon=0
+Year=0

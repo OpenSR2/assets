@@ -1,0 +1,8 @@
+1A=data\FormSave\1A.gi
+1E=data\FormSave\1E.gi
+1N=data\FormSave\1N.gi
+1bg=data\FormSave\1bg.gi
+2A=data\FormSave\2A.gi
+2E=data\FormSave\2E.gi
+2N=data\FormSave\2N.gi
+2bg=data\FormSave\2bg.gi

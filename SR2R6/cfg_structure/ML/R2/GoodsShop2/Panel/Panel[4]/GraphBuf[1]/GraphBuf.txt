@@ -1,0 +1,4 @@
+Name=GraphBufFace
+Pos=62,101,4
+Size=52,52
+Sme=0,0

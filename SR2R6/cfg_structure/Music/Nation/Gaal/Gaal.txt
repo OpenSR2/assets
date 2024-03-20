@@ -1,0 +1,2 @@
+1=Music\planet\gaal.dat
+1=data\music\Gaal_Music.dat

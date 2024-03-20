@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Pos=112,575,-20
+Size=156,16
+Text=FormMain.LRobot
+TextColor=255,202,21
+WordWrap=False

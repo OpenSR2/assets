@@ -1,0 +1,7 @@
+KindX=Center
+KindY=Center
+Name=WarriorCaptainA
+PBuf=True
+Pos=76,83,0
+Size=99,110
+TransColor=255,0,255

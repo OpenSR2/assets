@@ -1,0 +1,3 @@
+Image=GI,Bm.FormMessageBox.1CancelN
+Pos=270,555,0
+Size=38,17

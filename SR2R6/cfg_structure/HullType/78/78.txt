@@ -1,0 +1,16 @@
+Artefact=1
+Cost=130
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Катозавр
+Probability=30
+Race=Maloc,Peleng,Gaal
+Radar=0
+Scaner=0
+ShipType=Ranger,Pirate
+Size=110
+Text=Боевой корпус. Внутренняя отделка, выполненная в доисторическом стиле, прекрасно дополняет возросшую огневую мощь.
+Weapon=1
+Year=50

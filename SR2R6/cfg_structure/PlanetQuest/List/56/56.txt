@@ -1,0 +1,7 @@
+Access=5
+Dif=32
+Genre=логико-познавательная игра
+Group=1
+Image=Bm.PQI.Energy_00
+Length=0
+Name=Мегатест

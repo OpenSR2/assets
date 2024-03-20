@@ -1,0 +1,15 @@
+AutoTalk=Any
+FlyType=ToStar
+InFear=Any
+PirateInCurStar=3,4,5,6,7,8,9,Many
+PirateInToStar=0,1
+PlayerStatus=Pirate
+Priority=40
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Ranger,Pirate
+ShipStatus=Pirate
+ShipType=Ranger,Pirate
+Text=Нет здесь, <Player>, простора для нашего бизнеса. Сматываюсь я в систему <ToStar>, там конкуренции такой нет, как здесь - на пару жалких торгашей целая толпа рэкетиров. А этот <ShipBad> совсем задрал!
+TransportInCurStar=1,2,3
+TransportInToStar=3,4,5,6,7,8,9,Many

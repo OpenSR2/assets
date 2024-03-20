@@ -1,0 +1,4 @@
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Pos=450,22,5
+Size=550,631

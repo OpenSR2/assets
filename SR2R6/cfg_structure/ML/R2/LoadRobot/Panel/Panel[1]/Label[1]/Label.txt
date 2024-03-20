@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.2Ranger
+Pos=787,118,2
+Size=135,30
+Text=FormLoadRobot.DifCap
+TextColor=88,229,255
+WordWrap=True

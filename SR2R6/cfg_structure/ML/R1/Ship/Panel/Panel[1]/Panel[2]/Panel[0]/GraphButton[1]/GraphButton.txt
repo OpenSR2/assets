@@ -1,0 +1,10 @@
+Help=FormShip.OpenHold
+ImageDown=GI,Bm.FormShip2.1RHOpenD
+ImageNormal=GI,Bm.FormShip2.1RHOpenN
+ImageNormalA=GI,Bm.FormShip2.1RHOpenA
+Kind=Normal
+KindHit=Rect
+Name=ToRH
+Pos=98,438,-1
+Size=54,30
+Style=Style.GB.SoundNormal

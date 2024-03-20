@@ -1,0 +1,6 @@
+Active=True
+FrameLoad=0
+Image=Bm.FormHangar2.2Repair
+Name=HullRepair
+Pos=169,237,-4
+Size=48,48

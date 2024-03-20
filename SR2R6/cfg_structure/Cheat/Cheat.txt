@@ -1,0 +1,6 @@
+DayWait= <br>У вас есть <CurPoints> очков.<br> <br>Чит будет доступен через <Day> дней.
+Info=Чит: <Name>
+Info=Стоимость: <CheatPoints>
+Ok= <br>Чит успешно запущен!<br>
+Ok=Всего использовано <AllPoints> чит-очков.
+Warning=Читы

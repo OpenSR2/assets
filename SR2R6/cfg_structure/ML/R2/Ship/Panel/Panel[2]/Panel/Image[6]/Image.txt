@@ -1,0 +1,3 @@
+Name=Storage_5i
+Pos=102,50,0
+Size=39,39

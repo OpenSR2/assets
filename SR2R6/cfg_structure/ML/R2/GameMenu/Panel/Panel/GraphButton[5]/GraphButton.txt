@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormMenu2.2HelpH
+ImageDown=GI,Bm.FormMenu2.2HelpD
+ImageNormal=GI,Bm.FormMenu2.2HelpN
+ImageNormalA=GI,Bm.FormMenu2.2HelpA
+Kind=Normal
+KindHit=Rect
+Name=Help
+Pos=77,268,-3
+Size=48,50
+Style=Style.GB.SoundNormal

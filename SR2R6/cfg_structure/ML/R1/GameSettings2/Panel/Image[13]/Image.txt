@@ -1,0 +1,3 @@
+Name=ItemI7
+Pos=482,408,40
+Size=28,28

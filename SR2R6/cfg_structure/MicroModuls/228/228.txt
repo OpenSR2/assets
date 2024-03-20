@@ -1,0 +1,17 @@
+Cost=30
+Equipments=Hull
+Name=Слиток
+Priority=1
+Size=150
+Text=Микромодуль первого уровня. Встраивается в корпус. Блокирует как минимум четыре слота орудий, слоты дроида, генератора защиты, форсажа, радара и сканера, а так же все слоты под артефакты. Цена такого корпуса падает в разы. Обратным действием является увеличение корпуса в 1.5 раза.
+Text=Размер корпуса: <clr>150%<clrEnd>
+Text=Стоимость: <clr>-70%<clrEnd>
+Text=Броня корпуса: <bonHull> ед.
+bonHull=-1
+bonSlotArt=-4
+bonSlotDef=-1
+bonSlotDroid=-1
+bonSlotForsage=-1
+bonSlotRadar=-1
+bonSlotScaner=-1
+bonSlotWeapon=-4

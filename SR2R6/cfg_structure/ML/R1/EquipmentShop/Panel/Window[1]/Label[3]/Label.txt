@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.1Normal
+Name=InfoHullPrice
+Pos=207,121,8
+Size=65,28
+TextColor=255,255,255

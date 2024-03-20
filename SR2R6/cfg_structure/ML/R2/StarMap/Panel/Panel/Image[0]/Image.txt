@@ -1,0 +1,3 @@
+Image=GI,Bm.PanelSpace.2RadarAdd
+Pos=770,-540,MapPanelF
+Size=28,204

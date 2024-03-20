@@ -1,0 +1,14 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Medicine
+PlayerRank=Rookie,Cadet
+PlayerRating=Mini,Small
+Priority=50
+Relations=Good,Best
+ShipHaveGoods=No
+ShipType=Transport,Liner
+Text=Ёй, <Player>, чего такой кислый? ¬ыше нос, у теб€ только начало карьеры, все победы еще впереди! —танешь еще лучшим рейнджером.
+Text=я сейчас иду на планету <ToPlanet> за товаром. ” них там оп€ть кризис перепроизводства, поэтому жутко дешевые медикаменты и вс€кие технические издели€.
+ToPlanetEconomy=Mixed,Industrial
+ToPlanetGoodsCnt=Average,Big,Huge
+ToPlanetGoodsSale=Mini,Small

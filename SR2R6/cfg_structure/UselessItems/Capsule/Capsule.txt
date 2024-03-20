@@ -1,0 +1,6 @@
+Cost=Huge
+Description=
+Name=Спасательная капсула
+Owner=People
+Size=1
+Text=Используется для эвакуации из терпящего бедствие корабля.

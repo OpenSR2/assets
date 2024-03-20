@@ -1,0 +1,7 @@
+Access=5
+Dif=45
+Genre=экономический симулятор
+Group=1
+Image=Bm.PQI.Glavred_02
+Length=3
+Name=Главный редактор

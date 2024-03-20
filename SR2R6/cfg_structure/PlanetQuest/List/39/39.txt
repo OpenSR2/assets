@@ -1,0 +1,7 @@
+Access=5
+Dif=12
+Genre=симулятор рыбалки
+Group=1
+Image=Bm.PQI.van_14
+Length=2
+Name=Чемпионат по рыбалке

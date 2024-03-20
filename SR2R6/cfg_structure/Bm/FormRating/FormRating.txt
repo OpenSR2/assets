@@ -1,0 +1,16 @@
+1CloseA=data\FormRating\1CloseA.gi
+1CloseD=data\FormRating\1CloseD.gi
+1Down=data\FormRating\1Down.gi
+1Empty=data\FormRating\1Empty.gi
+1Panel=data\FormRating\1Panel.gi
+1Status=data\FormRating\1Status.gai
+1Up=data\FormRating\1Up.gi
+1VLine=data\FormRating\1VLine.gi
+2CloseA=data\FormRating\2CloseA.gi
+2CloseD=data\FormRating\2CloseD.gi
+2Down=data\FormRating\2Down.gi
+2Empty=data\FormRating\2Empty.gi
+2Panel=data\FormRating\2Panel.gi
+2Status=data\FormRating\2Status.gai
+2Up=data\FormRating\2Up.gi
+2VLine=data\FormRating\2VLine.gi

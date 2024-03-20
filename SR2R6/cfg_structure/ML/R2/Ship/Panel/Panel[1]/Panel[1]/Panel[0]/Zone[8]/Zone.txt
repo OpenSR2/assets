@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_Scaner_0z
+Pos=317,209,0
+Size=99,77

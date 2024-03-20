@@ -1,0 +1,8 @@
+Comet00=data\BGObj\HS_1\comet00.gai
+Comet01=data\BGObj\HS_1\comet01.gai
+Comet02=data\BGObj\HS_1\comet02.gai
+Comet03=data\BGObj\HS_1\comet03.gai
+Comet04=data\BGObj\HS_1\comet04.gai
+Comet05=data\BGObj\HS_1\comet05.gai
+Explore=data\BGObj\HS_1\des.gai
+Track=data\BGObj\HS_1\track.gai

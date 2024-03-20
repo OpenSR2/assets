@@ -1,0 +1,4 @@
+Image=GI,Bm.FormPQuest2.1S1
+Name=BGStyle
+Pos=27,3,20
+Size=458,555

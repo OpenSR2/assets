@@ -1,0 +1,5 @@
+Cost=Huge
+Name=ящик с золотом
+Owner=None
+Size=5
+Text=Ќелегально добытые самородки

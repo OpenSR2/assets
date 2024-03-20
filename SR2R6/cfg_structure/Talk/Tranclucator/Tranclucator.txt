@@ -1,0 +1,15 @@
+AgreeLandingToObject=—лушаюсь, хоз€ин! —овершаю посадку на <ObjectName>.
+AgreeLandingToStorage=—лушаюсь, хоз€ин! Ћечу на <ObjectName> и остаюсь на складе
+Attack=Attack\Attack.txt ^{
+}
+DropCargo=DropCargo\DropCargo.txt ^{
+}
+Greeting=¬с€ мо€ боева€ мощь к вашим услугам, хоз€ин. ћои пушки готовы к бою, жду указаний.
+LandingToObject=—овершаем посадку на <ObjectName>
+LandingToStorage=—адись на <ObjectName> и оставайс€ на складе
+Options=Options\Options.txt ^{
+}
+Return=Return\Return.txt ^{
+}
+SeekItems=SeekItems\SeekItems.txt ^{
+}

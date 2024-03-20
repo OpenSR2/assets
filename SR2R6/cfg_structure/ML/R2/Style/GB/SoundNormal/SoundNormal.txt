@@ -1,0 +1,3 @@
+SoundClick=Sound.ButtonClick
+SoundEnter=Sound.ButtonEnter
+SoundLeave=Sound.ButtonLeave

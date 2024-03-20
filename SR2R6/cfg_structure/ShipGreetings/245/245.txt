@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=ToStar
+KlingInCurStar=0
+PlayerStatus=Pirate
+Priority=30
+Relations=Normal,Good,Best
+ShipRace=Peleng,People,Fei
+ShipStatus=Pirate
+ShipType=Ranger,Pirate
+Text=Тебе, <Player>, для здоровья полезней будет со мной в систему <ToStar> лететь. Посмотри, сколько вояк развелось - совсем пролету не дают, житья от них здесь не стало. Нынче нашему брату-пирату нужно сидеть в норе, а не то, не ровен час, можно и нарваться на очень большие неприятности.
+WarriorInCurStar=4,5,6,7,8,9,Many

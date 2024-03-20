@@ -1,0 +1,5 @@
+Cost=Average
+Name=Аквариум с лососями
+Owner=Peleng
+Size=5
+Text=Аквариум со священными лососями с планеты <FromPlanet>

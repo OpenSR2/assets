@@ -1,0 +1,4 @@
+Image=GI,Bm.FormRating2.1SortDown
+Name=SortImage
+Pos=0,46,1
+Size=15,11

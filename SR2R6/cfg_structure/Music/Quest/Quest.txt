@@ -1,0 +1,17 @@
+1=Music\special\triumph.dat
+5=Music\special\SpaceIsCalling.dat
+5=Music\special\outroden.dat
+5=Music\fly\starflight.dat
+5=Music\quests\gladiator.dat
+5=Music\special\SilentFlower.dat
+5=data\music\DenisLiganov_WaitingForYou.dat
+5=data\music\DenisLiganov_RunningAway.dat
+5=data\music\theo_-_Sansara.dat
+5=data\music\Gatekeeper - Amyleign.dat
+5=data\music\about_natural_dreems.dat
+5=data\music\tales.dat
+5=data\music\legend.dat
+5=data\music\Silent Planet.dat
+5=data\music\next_generation.dat
+5=data\music\space_mystery.dat
+5=data\music\etude.dat

@@ -1,0 +1,10 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Alcohol
+Relations=Bad,Normal
+ShipGoodsCnt=Average,Big,Huge
+ShipRace=People
+ShipStructure=Huge
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=Слуш-шай, п-почему когда я, ик, набиваю полный трюм первоклас-с-сной выпивкой, до пункта назнач-чения, ик, т-только половина полными долетает? А вт-торая, ик, половина бутылок - пустые? А?
+ToPlanetGoodsBuy=Average,Big,Huge

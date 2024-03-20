@@ -1,0 +1,17 @@
+Caption=FormInfo.SearchStr
+CaptionColorDown=255,255,230
+CaptionColorDownA=255,255,230
+CaptionColorNormal=255,255,230
+CaptionColorNormalA=255,255,230
+CaptionSme=0,-2,0,-2
+Font=Font.1Ranger
+ImageDown=GI,Bm.FormInfo2.1FindD
+ImageNormal=GI,Bm.FormInfo2.1FindN
+ImageNormalA=GI,Bm.FormInfo2.1FindA
+Kind=Normal
+KindHit=Rect
+Name=M09Search
+Pos=135,318,1
+Size=54,17
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

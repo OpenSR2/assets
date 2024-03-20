@@ -1,0 +1,7 @@
+Frame=[80,0-124]
+Image=Bm.FormMain2.2AnimLineA
+ImageFirst=Bm.FormMain2.2AnimLine
+Name=AnimLine
+PBuf=True
+Pos=0,0,49
+Size=1024,308

@@ -1,0 +1,7 @@
+Access=5
+Dif=20
+Genre=симул€тор составлени€ фоторобота
+Group=1
+Image=Bm.PQI.van_50
+Length=1
+Name=‘оторобот

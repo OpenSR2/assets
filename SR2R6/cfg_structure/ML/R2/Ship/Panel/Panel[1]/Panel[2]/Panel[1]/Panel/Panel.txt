@@ -1,0 +1,3 @@
+Name=PanelItemRH
+Pos=82,59,-1
+Size=208,460

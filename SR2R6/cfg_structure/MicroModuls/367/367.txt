@@ -1,0 +1,18 @@
+Cost=200
+Equipments=Hull
+KindHull=ASTC
+Name=<color=48,236,248>Торговый корпус</color>
+Priority=10
+Ruins=BK
+Size=160
+Special=1
+Text=<color=248,252,248>Для истинных пацифистов и заядлых торговцев, чтящих древнее правило "время - деньги", и готовых ежедневно конвертировать первое во второе. Все ненужные для торговли узлы убраны для увеличения трюма. Отсутствие боевой системы позволяет увеличить скорость на <clr>50<clrEnd> ед, а дальность прыжка - на <clr>2<clrEnd> парсек.</color>
+Text=
+Text=Скорость: <bonSpeed> ед.
+Text=Прыжок: <bonJump> парсек
+bonJump=2
+bonSlotDroid=-1
+bonSlotForsage=1
+bonSlotHook=-1
+bonSlotWeapon=-3
+bonSpeed=50

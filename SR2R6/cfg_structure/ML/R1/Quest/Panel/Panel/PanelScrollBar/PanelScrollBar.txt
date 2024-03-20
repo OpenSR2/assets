@@ -1,0 +1,10 @@
+ActiveBarY=True
+ExternalSB=True
+MoveWorld=True
+Name=QuestPT
+Pos=61,42,-3
+PosAutoBarY=False
+RectBarY=293,42,309,357
+Size=230,305
+StyleBarY=Style.ScrollBar.FormMsg
+UnlimitedWorld=False

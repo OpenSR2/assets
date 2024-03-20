@@ -1,0 +1,8 @@
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Pos=1453,1003,2
+Size=180,45

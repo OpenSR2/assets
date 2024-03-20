@@ -1,0 +1,8 @@
+AutoTalk=Any
+FlyType=ToStar
+Priority=50
+Relations=War,Bad
+ShipBadFlyToShip=Yes
+ShipBadType=Kling
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Ќесмотр€ на то, что отношени€ между нами паршивые, € вынужден признать, что доминаторы еще хуже, чем ты, <Player>. ƒай мне уйти от <ShipBad>, а уж потом мы встретимс€ и вы€сним отношени€.

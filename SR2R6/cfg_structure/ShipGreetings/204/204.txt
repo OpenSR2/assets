@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=ToStar
+InFear=Yes
+PlayerIsShipBad=Yes
+Priority=50
+Relations=War
+ShipBadFlyToShip=Any
+ShipStructure=Average,Big,Huge
+ShipTurnBeforeEndOrder=1
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Text=Ты меня уже не достанешь, <Player>! Встретимся в системе <ToStar>. Там и поговорим!

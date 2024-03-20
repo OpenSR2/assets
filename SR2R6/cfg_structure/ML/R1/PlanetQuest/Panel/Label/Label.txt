@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.1Small
+Name=LabelHelp
+Pos=516,557,1,w
+Size=200,17
+TextColor=169,196,208
+WordWrap=False

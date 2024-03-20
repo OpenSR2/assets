@@ -1,0 +1,9 @@
+Active=True
+AlignX=Left
+AlignY=CenterEx
+Font=Font.1Ranger
+Name=MCW8
+Pos=443,555,2
+Size=221,12
+Text=FormIntroduction.MCW8
+TextColor=27,68,98

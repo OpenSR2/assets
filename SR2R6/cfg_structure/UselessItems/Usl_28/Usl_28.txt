@@ -1,0 +1,5 @@
+Cost=Small
+Name=Пластиковый короб
+Owner=People
+Size=1
+Text=Коробка с шифром шифра для агента.

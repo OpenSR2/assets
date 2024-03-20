@@ -1,0 +1,4 @@
+Kind=Circle
+Name=S_5z
+Pos=296,429,0
+Size=30,30

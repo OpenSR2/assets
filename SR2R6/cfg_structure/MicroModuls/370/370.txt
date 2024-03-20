@@ -1,0 +1,12 @@
+Cost=50
+Equipments=Engine
+KindGraph=13
+Name=<color=48,236,248>Трешевый двигатель</color>
+Priority=10
+Ruins=Any
+Size=100
+Special=1
+Text=<color=248,252,248>Доисторический, но крайне дешевый двигатель, предназначенный специально для малоимущих рейнджеров. Полёты на высоких скоростях опасны для жизни  </color>
+Text=
+Text=Скорость: <bonSpeed> ед.
+bonSpeed=-110

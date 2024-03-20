@@ -1,0 +1,3 @@
+Name=S_RepairRobot_0anim
+Pos=83,420,-1
+Size=97,77

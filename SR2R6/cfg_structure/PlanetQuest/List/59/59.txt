@@ -1,0 +1,7 @@
+Access=5
+Dif=32
+Genre=тактическая стратегия
+Group=1
+Image=Bm.PQI.Cybersport_06
+Length=4
+Name=Киберспорт

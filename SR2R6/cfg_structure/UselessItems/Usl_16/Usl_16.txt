@@ -1,0 +1,5 @@
+Cost=Average
+Name=Одежда
+Owner=Peleng
+Size=3
+Text=Комплект меняющих цвет пеленгских плащей.

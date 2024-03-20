@@ -1,0 +1,5 @@
+Auto=Pos,Size
+Name=AnimAddonShip
+PBuf=True
+Pos=0,0,29
+SkipImageUpdateRect=True

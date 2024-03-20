@@ -1,0 +1,6 @@
+AlignX=Left
+Font=Font.1Normal
+Name=IKeller
+Pos=494,428,2
+Size=191,16
+TextColor=212,212,212

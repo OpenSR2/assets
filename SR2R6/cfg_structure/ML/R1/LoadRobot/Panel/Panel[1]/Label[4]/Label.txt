@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=Top
+Font=Font.1Small
+Pos=629,171,2
+Size=106,35
+Text=FormLoadRobot.Dif3
+TextColor=88,229,255
+WordWrap=True

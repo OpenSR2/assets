@@ -1,0 +1,11 @@
+Active=False
+ImageDown=GI,Bm.PanelFilm2.2StopD
+ImageDownA=GI,Bm.PanelFilm2.2StopG
+ImageNormal=GI,Bm.PanelFilm2.2StopN
+ImageNormalA=GI,Bm.PanelFilm2.2StopA
+Kind=Normal
+KindHit=Rect
+Name=PF_Stop
+Pos=83,10,8
+Size=45,44
+Style=Style.GB.SoundNormal

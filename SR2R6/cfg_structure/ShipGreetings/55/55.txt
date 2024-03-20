@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=Any
+Goods=Luxury
+LastPlanetGoodsBuy=Big,Huge
+LastPlanetInCurStar=No
+LastPlanetRace=Peleng
+Relations=Bad,Normal
+ShipRace=Peleng
+ShipRaceIsPlayerRace=No
+ShipType=Transport,Liner,Diplomat
+Text=На пеленгском судне <Ship> очень рады возможности пообщаться с тобой, <Player>. Нашему уважению и почтению нет предела. Тебе, единственному чужеземцу в этом мире, мы готовы открыть коммерческую тайну! В нашей пеленгской системе <LastPlanetStar> на всех планетах резко упали цены на предметы роскоши.
+Text=Быстрей слетай туда и привози сюда все, что сможешь купить. Сомневаешься? Даю честное слово пеленга!

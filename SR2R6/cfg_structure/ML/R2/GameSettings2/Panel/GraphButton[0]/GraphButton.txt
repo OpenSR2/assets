@@ -1,0 +1,9 @@
+Help=FormGameSet2.Common.HelpRaceMaloc
+ImageDown=GI,Bm.FormGameSet2.2RaceMalocD
+ImageNormalA=GI,Bm.FormGameSet2.2RaceMalocA
+Kind=Fix
+KindHit=Graph
+Name=RaceMaloc
+Pos=80,184,50
+Size=193,95
+Style=Style.GB.SoundNormal

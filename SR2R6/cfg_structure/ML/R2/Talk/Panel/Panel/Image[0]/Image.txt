@@ -1,0 +1,4 @@
+Image=GI,Bm.FormTalk2.2BgB
+Name=ImageBGB
+Pos=15,554,10
+Size=361,223

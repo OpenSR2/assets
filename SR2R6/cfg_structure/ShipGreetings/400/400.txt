@@ -1,0 +1,10 @@
+AutoTalk=Any
+FlyType=ToShip
+InFear=Any
+Priority=20
+Relations=Bad,Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Transport,Liner,Diplomat,Pirate,Kling
+ShipType=Transport,Liner,Diplomat
+Text=У меня проблемы, <Player>! Прошу помочь мне в бою с <FullShipBad>!
+ToShipRelations=War

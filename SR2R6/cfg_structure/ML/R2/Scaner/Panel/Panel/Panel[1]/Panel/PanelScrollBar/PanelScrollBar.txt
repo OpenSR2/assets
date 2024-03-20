@@ -1,0 +1,10 @@
+ActiveBarY=True
+ExternalSB=True
+MoveWorld=True
+Name=PanelAddInfo
+Pos=91,418,0
+PosAutoBarY=False
+RectBarY=265,399,282,542
+Size=168,126
+StyleBarY=Style.ScrollBar.2V1
+UnlimitedWorld=False

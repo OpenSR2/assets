@@ -1,0 +1,7 @@
+AlignX=Left
+Font=Font.2Normal
+MaxLen=30
+Name=M10Range
+Pos=313,331,0
+Size=65,17
+TextColor=0,0,0

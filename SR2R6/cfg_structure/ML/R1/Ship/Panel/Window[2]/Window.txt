@@ -1,0 +1,11 @@
+Active=False
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Name=RewardWnd
+Pos=205,137,4
+Size=281,152
+Style=Style.Window.1Simple

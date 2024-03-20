@@ -1,0 +1,5 @@
+Cost=Average
+Name=Робот-клон
+Owner=Peleng
+Size=5
+Text=Механический клон пеленгского президента.

@@ -1,0 +1,7 @@
+Access=5
+Dif=40
+Genre=бродилка-стрелялка
+Group=0
+Image=Bm.PQI.Amnesia_08
+Length=3
+Name=Амнезия

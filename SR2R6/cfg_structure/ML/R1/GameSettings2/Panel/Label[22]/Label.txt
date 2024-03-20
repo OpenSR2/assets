@@ -1,0 +1,9 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Help=FormGameSet2.Common.HelpHelp
+Name=LabelHelp
+Pos=485,551,2
+Size=216,32
+TextColor=97,149,168
+WordWrap=True

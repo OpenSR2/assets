@@ -1,0 +1,14 @@
+AutoTalk=Any
+FlyType=Any
+Goods=Technics
+LastPlanetEconomy=Industrial
+LastPlanetGoodsSale=Mini,Small
+LastPlanetInCurStar=No
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerGoodsTypeCnt=2,3,4,5,6,7,8
+PlayerHaveGoods=Yes
+Relations=Bad,Normal
+ShipRace=Peleng
+ShipRaceIsPlayerRace=No
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=я так уважаю теб€, <Player>, что хочу поделитьс€ с тобой маленькой тайной. Ќа планете <LastPlanet>(система <LastPlanetStar>) сейчас врем€ сенокоса. “ы можешь получить кучу денег, если доставишь им туда предметы техники. ƒаю честное пеленгское слово!

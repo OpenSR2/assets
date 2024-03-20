@@ -1,0 +1,11 @@
+Help=FormCfgSettings.HelpButOk
+ImageDisable=GI,Bm.FormOptions2.1OkH
+ImageDown=GI,Bm.FormOptions2.1OkD
+ImageNormal=GI,Bm.FormOptions2.1OkN
+ImageNormalA=GI,Bm.FormOptions2.1OkA
+Kind=Normal
+KindHit=Rect
+Name=Ok
+Pos=475,17,1
+Size=52,36
+Style=Style.GB.SoundNormal

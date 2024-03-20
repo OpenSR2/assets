@@ -1,0 +1,7 @@
+Access=5
+Dif=9
+Genre=гоночный симулятор
+Group=0
+Image=Bm.PQI.Foncers_01
+Length=2
+Name=Фонсеры

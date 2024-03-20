@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormOptions2.2SwitchD
+ImageNormal=GI,Bm.FormOptions2.2SwitchN
+ImageNormalA=GI,Bm.FormOptions2.2SwitchA
+Kind=Fix
+KindHit=Rect
+Name=Dif1
+Pos=790,152,-3
+Size=17,17
+Style=Style.GB.SoundNormal

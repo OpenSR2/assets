@@ -1,0 +1,16 @@
+Artefact=0
+Cost=100
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Звездный скиталец
+Probability=10
+Race=People
+Radar=0
+Scaner=-1
+ShipType=Ranger,Pirate
+Size=110
+Text=Знаменитая серия людских рейнджерских корпусов. Используется пиратами для маскировки. Установка собственного сканера не предусмотрена.
+Weapon=0
+Year=30

@@ -1,0 +1,18 @@
+00=00\00.txt ^{
+}
+01=01\01.txt ^{
+}
+02=02\02.txt ^{
+}
+03=03\03.txt ^{
+}
+04=04\04.txt ^{
+}
+Blue=Blue\Blue.txt ^{
+}
+Green=Green\Green.txt ^{
+}
+Red=Red\Red.txt ^{
+}
+Terron=Terron\Terron.txt ^{
+}

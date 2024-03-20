@@ -1,0 +1,43 @@
+Active=False
+GraphBuf=GraphBuf\GraphBuf.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Label=Label[3]\Label.txt ^{
+}
+Label=Label[4]\Label.txt ^{
+}
+Label=Label[5]\Label.txt ^{
+}
+Label=Label[6]\Label.txt ^{
+}
+Label=Label[7]\Label.txt ^{
+}
+Label=Label[8]\Label.txt ^{
+}
+Label=Label[9]\Label.txt ^{
+}
+Label=Label[10]\Label.txt ^{
+}
+Label=Label[11]\Label.txt ^{
+}
+Label=Label[12]\Label.txt ^{
+}
+Label=Label[13]\Label.txt ^{
+}
+Label=Label[14]\Label.txt ^{
+}
+MVUpdate=True
+MouseBlocking=False
+Name=InfoShip
+Panel=Panel\Panel.txt ^{
+}
+Pos=10,10,InfoPanel
+Size=215,137
+Style=Style.Window.1Simple

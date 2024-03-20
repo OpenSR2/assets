@@ -1,0 +1,4 @@
+Image=GI,Bm.FormIntro2.2bg
+Name=ImageFon2
+Pos=976,976,1001
+Size=2896,2056

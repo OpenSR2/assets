@@ -1,0 +1,8 @@
+ItemForPlanetQuest=ItemForPlanetQuest\ItemForPlanetQuest.txt ^{
+}
+List=List\List.txt ^{
+}
+PlanetQuest=PlanetQuest\PlanetQuest.txt ^{
+}
+StartText=StartText\StartText.txt ^{
+}

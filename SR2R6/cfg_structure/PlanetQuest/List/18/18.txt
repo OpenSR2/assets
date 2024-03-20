@@ -1,0 +1,7 @@
+Access=5
+Dif=55
+Genre=фэнтезийная ролевая игра
+Group=0
+Image=Bm.PQI.Moi_17
+Length=4
+Name=Мастер Иике-Бааны

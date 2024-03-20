@@ -1,0 +1,10 @@
+ImageDisable=GI,Bm.FormMenu2.1LoadH
+ImageDown=GI,Bm.FormMenu2.1LoadD
+ImageNormal=GI,Bm.FormMenu2.1LoadN
+ImageNormalA=GI,Bm.FormMenu2.1LoadA
+Kind=Normal
+KindHit=Rect
+Name=Load
+Pos=253,210,-3
+Size=37,40
+Style=Style.GB.SoundNormal

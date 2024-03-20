@@ -1,0 +1,7 @@
+Access=5
+Dif=10
+Genre=аркадно-логическая игра
+Group=1
+Image=Bm.PQI.van_40
+Length=2
+Name=Сортировка
