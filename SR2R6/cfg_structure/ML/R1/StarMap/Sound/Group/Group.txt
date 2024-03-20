@@ -1,0 +1,8 @@
+1=Sound.FormSpace0
+1=Sound.FormSpace1
+1=Sound.FormSpace2
+1=Sound.FormSpace3
+1=Sound.FormSpace4
+1=Sound.FormSpace5
+1=Sound.FormSpace6
+NextTime=10000-20000

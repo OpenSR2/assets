@@ -1,0 +1,4 @@
+Failure=Failure\Failure.txt ^{
+}
+Successful=Successful\Successful.txt ^{
+}

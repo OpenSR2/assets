@@ -1,0 +1,3 @@
+Name=ImageCaptain
+Pos=502,64,5
+Size=77,77

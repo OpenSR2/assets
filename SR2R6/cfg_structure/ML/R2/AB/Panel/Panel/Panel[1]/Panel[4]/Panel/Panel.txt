@@ -1,0 +1,9 @@
+Label=Label\Label.txt ^{
+}
+Name=PanelWinHide
+Panel=Panel\Panel.txt ^{
+}
+Pos=0,0,0
+ShrLight=ShrLight\ShrLight.txt ^{
+}
+Size=1920,200

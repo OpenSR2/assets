@@ -1,0 +1,4 @@
+Image=GI,Bm.FormAbout2.2RangersRU
+Name=RangersRU
+Pos=265,19,20
+Size=452,39

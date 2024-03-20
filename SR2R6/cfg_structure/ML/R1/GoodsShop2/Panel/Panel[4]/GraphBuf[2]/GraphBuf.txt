@@ -1,0 +1,4 @@
+Name=GraphBufCaptain
+Pos=527,79,4
+Size=41,41
+Sme=0,0

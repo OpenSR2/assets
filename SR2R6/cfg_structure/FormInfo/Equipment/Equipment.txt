@@ -1,0 +1,17 @@
+Cost=Цена: <val>
+Damage=Урон: <min>-<max>
+Defend=Защита: <val>
+Droid=Ремонт: <val>
+Fuel=Емкость: <val>
+Hook=Мощность: <val>
+HookRadius=Дальность: <val>
+HookSpeed=Скорость: <min>-<max>
+Jump=Дальность: <val>
+Owner=Раса: <val>
+Protect=Броня: <val>
+Radar=Дальность: <val>
+Radius=Радиус: <val>
+Scaner=Сканер: <val>
+Series=Серия: <val>
+Speed=Скорость: <val>
+Tech=Техноуровень: <val>

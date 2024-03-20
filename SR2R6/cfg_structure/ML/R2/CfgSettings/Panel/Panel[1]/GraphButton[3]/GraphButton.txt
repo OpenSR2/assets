@@ -1,0 +1,10 @@
+Help=FormCfgSettings.HelpButAuto
+ImageDown=GI,Bm.FormOptions2.2AutoD
+ImageNormal=GI,Bm.FormOptions2.2AutoN
+ImageNormalA=GI,Bm.FormOptions2.2AutoA
+Kind=Normal
+KindHit=Graph
+Name=ButAAuto
+Pos=101,21,-3
+Size=67,45
+Style=Style.GB.SoundNormal

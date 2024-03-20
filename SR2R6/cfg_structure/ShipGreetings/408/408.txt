@@ -1,0 +1,12 @@
+AutoTalk=Any
+FlyType=ToShip
+PlayerFlyToShip=Any
+PlayerIsShipBad=Yes
+PlayerStatus=Trader,Pirate
+Priority=20
+Relations=War
+ShipFlyToPlayer=Yes
+ShipRace=Maloc,People,Fei,Gaal
+ShipRaceIsPlayerRace=No
+ShipType=Transport,Liner,Diplomat
+Text=Мерзкий пират! Я тебе, <Player>, и всей твоей мерзкой пиратской расе еще покажу! Бортовые системы, цельсь!!!

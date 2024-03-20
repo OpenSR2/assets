@@ -1,0 +1,6 @@
+Active=True
+Frame=[50,0-5]
+Image=Bm.FormGalaxy2.1Anim
+Name=Anim
+Pos=138,442,-3
+Size=91,29

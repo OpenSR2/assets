@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=Any
+Goods=Narcotics
+LastPlanetGoodsCnt=Average,Big,Huge
+LastPlanetGoodsSale=Mini,Small
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerStatus=Pirate
+Priority=20
+Relations=Normal,Good,Best
+ShipType=Pirate
+Text=Здорово, <Player>! Я вижу, ты под нашего брата косишь, занимаешься делишками темными и антисоциальными? :-)
+Text=Если тебе интересно, то на <LastPlanet> есть целая партия наркоты по бросовой цене.

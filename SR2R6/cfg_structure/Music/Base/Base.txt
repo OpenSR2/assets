@@ -1,0 +1,5 @@
+1=Music\special\hymn.dat
+1=data\music\just_listen.dat
+10=Music\special\SpaceIsCalling.dat
+10=data\music\DenisLiganov_RunningAway.dat
+3=Music\fly\HyperDream2.dat

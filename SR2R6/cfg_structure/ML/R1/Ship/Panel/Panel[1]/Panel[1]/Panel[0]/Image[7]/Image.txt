@@ -1,0 +1,4 @@
+Image=GI,Bm.Micromoduls.1MM3_Set
+Name=HullSet
+Pos=163,272,-2
+Size=27,28

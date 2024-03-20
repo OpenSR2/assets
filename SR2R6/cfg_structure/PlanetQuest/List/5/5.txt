@@ -1,0 +1,7 @@
+Access=5
+Dif=48
+Genre=логико-математическая игра
+Group=0
+Image=Bm.PQI.Depth_00
+Length=4
+Name=Глубина

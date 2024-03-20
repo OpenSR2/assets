@@ -1,0 +1,3 @@
+Image=GI,Bm.FormInfo3.1M10_BG
+Pos=0,31,9
+Size=322,309

@@ -1,0 +1,16 @@
+Artefact=0
+Cost=100
+Def=0
+Droid=0
+Forsage=0
+Hook=0
+Name=Стандарт
+Probability=1
+Race=People
+Radar=0
+Scaner=0
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate,Warrior
+Size=100
+Text=Стандартный корпус человеческого производства.
+Weapon=0
+Year=0

@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Ranger
+Pos=302,19,7
+Size=195,31
+Text=FormCfgSettings.Caption
+TextColor=0,255,255
+WordWrap=True

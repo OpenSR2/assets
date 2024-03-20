@@ -1,0 +1,6 @@
+AlignX=Left
+Font=Font.2Normal
+Name=IRewards
+Pos=642,452,2
+Size=354,20
+TextColor=212,212,212

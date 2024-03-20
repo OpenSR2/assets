@@ -1,0 +1,6 @@
+Cost=Huge
+Description=Дескрипшн
+Name=Горшок зеленый
+Owner=Peleng
+Size=10
+Text=Что б нужну ночью справлять

@@ -1,0 +1,9 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.2Small
+Name=ISDamage
+Pos=0,125,8
+Size=125,15
+Text=FormInfo.ISDamage
+TextColor=140,140,140
+WordWrap=False

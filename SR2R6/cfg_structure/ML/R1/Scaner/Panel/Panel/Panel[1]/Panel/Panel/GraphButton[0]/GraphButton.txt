@@ -1,0 +1,9 @@
+ImageDown=GI,Bm.FormShip2.1SkillAddD
+ImageNormal=GI,Bm.FormShip2.1SkillAddN
+ImageNormalA=GI,Bm.FormShip2.1SkillAddA
+Kind=Normal
+KindHit=Rect
+Name=Skill0Add
+Pos=87,192,-1
+Size=14,14
+Style=Style.GB.SoundNormal

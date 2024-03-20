@@ -1,0 +1,8 @@
+Active=False
+AlignX=Center
+AlignY=CenterEx
+Font=Font.2SmallBold
+Name=PM_Help
+Pos=100,55,8
+Size=1256,22
+TextColor=200,240,255

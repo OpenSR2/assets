@@ -1,0 +1,7 @@
+Access=5
+Dif=6
+Genre=логическая головоломка
+Group=1
+Image=Bm.PQI.Siege_03
+Length=0
+Name=Логика

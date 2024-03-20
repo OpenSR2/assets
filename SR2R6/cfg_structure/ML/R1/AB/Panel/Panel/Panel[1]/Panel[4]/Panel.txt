@@ -1,0 +1,7 @@
+Active=False
+MVUpdate=True
+Name=PanelWin
+Panel=Panel\Panel.txt ^{
+}
+Pos=0,390,-11
+Size=800,200

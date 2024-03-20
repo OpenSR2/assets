@@ -1,0 +1,17 @@
+AutoTalk=Any
+FlyType=Any
+Goods=Minerals
+LastPlanetEconomy=Mixed,Industrial
+LastPlanetInCurStar=Yes
+LastPlanetRace=Maloc,Peleng,People,Fei,Gaal
+PlayerHaveGoods=Yes
+Priority=20
+Relations=Bad,Normal,Good,Best
+ShipHaveGoods=No
+ShipMayScanPlayer=Yes
+ShipRace=Maloc,Peleng,People,Fei,Gaal
+ShipRaceIsPlayerRace=No
+ShipStructure=Huge
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=—лушай, <Player>, ты случайно не минералы везешь, а, морда ты иноземна€? ≈сли € не ошибаюсь, и твой трюм полон этим добром, то рекомендую планету <LastPlanet>. я недавно был там и заметил, что их промышленности сейчас очень требуетс€ сырье.
+Text=Ѕлагодарности оставь себе. ” мен€ просто хорошее настроение.

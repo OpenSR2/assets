@@ -1,0 +1,2 @@
+Image=GAI,Bm.Cursor.Scroll
+Sme=16,16

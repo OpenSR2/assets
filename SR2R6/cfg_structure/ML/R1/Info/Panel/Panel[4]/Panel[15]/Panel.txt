@@ -1,0 +1,64 @@
+Active=False
+Edit=Edit[0]\Edit.txt ^{
+}
+Edit=Edit[1]\Edit.txt ^{
+}
+Edit=Edit[2]\Edit.txt ^{
+}
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[3]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[4]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[5]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[6]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[7]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[8]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[9]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[10]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[11]\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Label=Label[3]\Label.txt ^{
+}
+Label=Label[4]\Label.txt ^{
+}
+Label=Label[5]\Label.txt ^{
+}
+Label=Label[6]\Label.txt ^{
+}
+Label=Label[7]\Label.txt ^{
+}
+Label=Label[8]\Label.txt ^{
+}
+Label=Label[9]\Label.txt ^{
+}
+Label=Label[10]\Label.txt ^{
+}
+Label=Label[11]\Label.txt ^{
+}
+Label=Label[12]\Label.txt ^{
+}
+Label=Label[13]\Label.txt ^{
+}
+Name=PanelM15
+Pos=25,73,7
+Size=322,340

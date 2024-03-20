@@ -1,0 +1,5 @@
+Image=GI,Bm.FormQuest.2bg
+KindX=LeftFill
+KindY=TopFill
+Pos=0,0,-2
+Size=340,440

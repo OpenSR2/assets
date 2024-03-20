@@ -1,0 +1,9 @@
+AlignX=Right
+AlignY=CenterEx
+Font=Font.1Small
+Name=IPGov
+Pos=0,91,8
+Size=100,12
+Text=FormInfo.IPGov
+TextColor=140,140,140
+WordWrap=False

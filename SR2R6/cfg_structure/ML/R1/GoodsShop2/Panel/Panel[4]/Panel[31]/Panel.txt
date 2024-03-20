@@ -1,0 +1,3 @@
+Name=TovCool18
+Pos=370,323,3
+Size=70,12

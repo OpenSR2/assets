@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=Top
+Name=InfoZag
+Pos=0,420,0
+Size=420,30
+Style=Style.Label.2Normal
+TextColor=0,0,255
+WordWrap=True

@@ -1,0 +1,16 @@
+Artefact=0
+Cost=80
+Def=0
+Droid=0
+Forsage=0
+Hook=-1
+Name=Орландо
+Probability=4
+Race=Maloc,Peleng
+Radar=0
+Scaner=0
+ShipType=Diplomat
+Size=100
+Text=Корпус для агрессивных дипломатов. Установка захвата невозможна.
+Weapon=1
+Year=0

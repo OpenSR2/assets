@@ -1,0 +1,7 @@
+Access=5
+Dif=32
+Genre=экономическая стратегия
+Group=1
+Image=Bm.PQI.mafia_03
+Length=1
+Name=Космолинии

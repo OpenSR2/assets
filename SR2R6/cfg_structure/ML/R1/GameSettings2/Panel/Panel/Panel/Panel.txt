@@ -1,0 +1,160 @@
+GraphButton=GraphButton[0]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[1]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[2]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[3]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[4]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[5]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[6]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[7]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[8]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[9]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[10]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[11]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[12]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[13]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[14]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[15]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[16]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[17]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[18]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[19]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[20]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[21]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[22]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[23]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[24]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[25]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[26]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[27]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[28]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[29]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[30]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[31]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[32]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[33]\GraphButton.txt ^{
+}
+GraphButton=GraphButton[34]\GraphButton.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label[0]\Label.txt ^{
+}
+Label=Label[1]\Label.txt ^{
+}
+Label=Label[2]\Label.txt ^{
+}
+Label=Label[3]\Label.txt ^{
+}
+Label=Label[4]\Label.txt ^{
+}
+Label=Label[5]\Label.txt ^{
+}
+Label=Label[6]\Label.txt ^{
+}
+Label=Label[7]\Label.txt ^{
+}
+Label=Label[8]\Label.txt ^{
+}
+Label=Label[9]\Label.txt ^{
+}
+Label=Label[10]\Label.txt ^{
+}
+Label=Label[11]\Label.txt ^{
+}
+Label=Label[12]\Label.txt ^{
+}
+Label=Label[13]\Label.txt ^{
+}
+Label=Label[14]\Label.txt ^{
+}
+Label=Label[15]\Label.txt ^{
+}
+Label=Label[16]\Label.txt ^{
+}
+Label=Label[17]\Label.txt ^{
+}
+Label=Label[18]\Label.txt ^{
+}
+Label=Label[19]\Label.txt ^{
+}
+Label=Label[20]\Label.txt ^{
+}
+Label=Label[21]\Label.txt ^{
+}
+Label=Label[22]\Label.txt ^{
+}
+Label=Label[23]\Label.txt ^{
+}
+Label=Label[24]\Label.txt ^{
+}
+Label=Label[25]\Label.txt ^{
+}
+Label=Label[26]\Label.txt ^{
+}
+Label=Label[27]\Label.txt ^{
+}
+Label=Label[28]\Label.txt ^{
+}
+Label=Label[29]\Label.txt ^{
+}
+Label=Label[30]\Label.txt ^{
+}
+Label=Label[31]\Label.txt ^{
+}
+Label=Label[32]\Label.txt ^{
+}
+Label=Label[33]\Label.txt ^{
+}
+Label=Label[34]\Label.txt ^{
+}
+Label=Label[35]\Label.txt ^{
+}
+Label=Label[36]\Label.txt ^{
+}
+Label=Label[37]\Label.txt ^{
+}
+Label=Label[38]\Label.txt ^{
+}
+Label=Label[39]\Label.txt ^{
+}
+Label=Label[40]\Label.txt ^{
+}
+Label=Label[41]\Label.txt ^{
+}
+MouseBlocking=True
+Name=PanelLevel
+Pos=0,-351,10
+Size=371,427

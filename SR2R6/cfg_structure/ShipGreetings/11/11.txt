@@ -1,0 +1,11 @@
+FlyType=Any
+PlayerRank=Rookie,Cadet,Pilot
+PlayerRating=Mini,Small
+PlayerStatus=Trader,Warrior
+Relations=Bad,Normal,Good
+ShipRace=Peleng
+ShipRaceIsPlayerRace=No
+ShipStatus=Pirate
+ShipType=Ranger,Pirate
+StrengthShipWithPlayer=Small,Average,Big,Huge
+Text=Привет тебе, малорукое существо по имени <Player>. Рейнджер из тебя пока никудышный, торговец тоже. Ты займись делом, всякими грабежами и убийствами. Вот тогда быстро станешь уважаемым членом общества. Я знаю, что говорю!

@@ -1,0 +1,4 @@
+Image=Bm.Ruins.MC
+ImageI=GI,Bm.Ruins.MCi
+ImageMap=GI,Bm.Ruins.MapMC
+PosZ=Ruins

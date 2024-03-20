@@ -1,0 +1,12 @@
+FlyType=Any
+PlayerRank=Rookie,Cadet,Pilot
+PlayerRating=Mini,Small
+PlayerStatus=Trader,Pirate
+Relations=Bad,Normal,Good
+ShipRace=Maloc
+ShipRaceIsPlayerRace=No
+ShipStatus=Pirate,Warrior
+ShipType=Ranger,Pirate
+StrengthShipWithPlayer=Small,Average,Big,Huge
+Text=И как только таких недоносков в рейнджеры записывают, а, <Player>? Настоящими рейнджерами могут стать только малоки, а остальные просто халявщики. Только малок знает, какова цена чужой жизни...
+Text=Так вот, чужая жизнь бесценна - то есть грош ломаный ей цена. И только с этой философией можно разгромить доминаторов. Тебе, чужак, этого никогда не понять.

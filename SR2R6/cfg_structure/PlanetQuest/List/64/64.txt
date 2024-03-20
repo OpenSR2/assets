@@ -1,0 +1,7 @@
+Access=5
+Dif=32
+Genre=экшн с хоррором
+Group=1
+Image=Bm.PQI.Massacri_00
+Length=4
+Name=Массакри

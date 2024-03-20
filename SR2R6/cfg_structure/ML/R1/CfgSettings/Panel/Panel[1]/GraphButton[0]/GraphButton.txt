@@ -1,0 +1,10 @@
+Help=FormCfgSettings.HelpButMax
+ImageDown=GI,Bm.FormOptions2.1HighD
+ImageNormal=GI,Bm.FormOptions2.1HighN
+ImageNormalA=GI,Bm.FormOptions2.1HighA
+Kind=Normal
+KindHit=Graph
+Name=ButAUp
+Pos=137,3,-3
+Size=43,21
+Style=Style.GB.SoundNormal

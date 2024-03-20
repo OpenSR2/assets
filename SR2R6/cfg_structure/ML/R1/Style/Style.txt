@@ -1,0 +1,20 @@
+Button=Button\Button.txt ^{
+}
+Frame=Frame\Frame.txt ^{
+}
+GB=GB\GB.txt ^{
+}
+Grid=Grid\Grid.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Label=Label\Label.txt ^{
+}
+Panel=Panel\Panel.txt ^{
+}
+ScrollBar=ScrollBar\ScrollBar.txt ^{
+}
+ShrLight=ShrLight\ShrLight.txt ^{
+}
+Window=Window\Window.txt ^{
+}

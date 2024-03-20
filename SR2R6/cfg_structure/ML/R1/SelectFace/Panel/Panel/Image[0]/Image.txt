@@ -1,0 +1,5 @@
+KindX=Center
+KindY=Center
+Name=CaptainI
+Pos=181,192,0
+Size=77,86

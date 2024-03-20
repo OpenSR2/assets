@@ -1,0 +1,16 @@
+Caption=FormInfo.MM10
+CaptionAlignX=Left
+CaptionColorDown=0,0,0
+CaptionColorDownA=0,0,0
+CaptionColorNormal=0,0,0
+CaptionColorNormalA=0,0,0
+CaptionSme=17,0,17,1
+Font=Font.2Small
+ImageNormalA=GI,Bm.FormInfo3.2MM_10
+Kind=Normal
+KindHit=Rect
+Name=ButMM_10
+Pos=290,232,1
+Size=84,18
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

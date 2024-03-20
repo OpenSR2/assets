@@ -1,0 +1,7 @@
+Access=5
+Dif=7
+Genre=бродилка с элементами аркады
+Group=0
+Image=Bm.PQI.Borzukhan_04
+Length=3
+Name=Борзухан

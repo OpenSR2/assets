@@ -1,0 +1,7 @@
+Access=5
+Dif=41
+Genre=бродилка с элементами файтинга и головоломками
+Group=1
+Image=Bm.PQI.van_12
+Length=4
+Name=Тестинг

@@ -1,0 +1,11 @@
+Help=FormInfo.HelpNews
+ImageDown=GI,Bm.FormInfo2.2CloseD
+ImageNormal=GI,Bm.FormInfo2.2CloseN
+ImageNormalA=GI,Bm.FormInfo2.2CloseA
+Kind=Normal
+KindHit=Rect
+Name=ButFormClose
+Pos=382,769,1
+Size=77,42
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

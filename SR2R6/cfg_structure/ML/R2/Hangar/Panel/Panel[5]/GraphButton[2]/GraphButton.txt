@@ -1,0 +1,11 @@
+Help=Help.ButTakeoff
+ImageDisable=GI,Bm.FormHangar2.2TakeOffH
+ImageDown=GI,Bm.FormHangar2.2TakeOffD
+ImageNormal=GI,Bm.FormHangar2.2TakeOffN
+ImageNormalA=GI,Bm.FormHangar2.2TakeOffA
+Kind=Disable
+KindHit=Graph
+Name=ButTakeOff
+Pos=138,11,8
+Size=63,37
+Style=Style.GB.SoundNormal

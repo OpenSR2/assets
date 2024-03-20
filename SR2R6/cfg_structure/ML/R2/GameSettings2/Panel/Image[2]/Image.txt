@@ -1,0 +1,4 @@
+Help=FormGameSet2.Common.HelpFace
+Name=CaptainI
+Pos=232,246,1
+Size=99,110

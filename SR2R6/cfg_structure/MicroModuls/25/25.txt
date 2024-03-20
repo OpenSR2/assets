@@ -1,0 +1,7 @@
+Equipments=Engine
+Name=Энтерквад
+Owner=Gaal,Fei,People,Peleng,Maloc
+Priority=90
+Text=Микромодуль третьего уровня. Увеличивает скорость двигателя за счет ввода субквадратичной системы вычисления расхода топлива.
+Text=Скорость двигателя: <bonSpeed> ед.
+bonSpeed=55

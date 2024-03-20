@@ -1,0 +1,11 @@
+Active=False
+AlignX=Center
+AlignY=Center
+Frame=[75,0-100]
+Image=Bm.Gov.2Maloc2Anim1a
+ImageFirst=Bm.Gov.2Maloc2Anim1i
+Name=PanelMaloc_Anim1
+PBuf=True
+Pos=1163,426,-2
+Size=467,654
+SkipImageUpdateRect=True

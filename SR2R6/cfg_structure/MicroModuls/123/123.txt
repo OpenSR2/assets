@@ -1,0 +1,7 @@
+Equipments=FuelTank,Engine,Radar,Scaner,Droid,Hook,DefGenerator
+Name=Оптиматор
+Owner=Peleng
+Priority=40
+Size=80
+Text=Микромодуль второго уровня. Удаляет из <clr>пеленгского<clrEnd> оборудования нефункциональные и декоративные узлы и детали, уменьшая его габаритные размеры. Не используется для корпусов и орудийных систем.
+Text=Уменьшение объема на: <clr>20%<clrEnd>

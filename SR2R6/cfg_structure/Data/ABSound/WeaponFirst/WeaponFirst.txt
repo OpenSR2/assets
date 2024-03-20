@@ -1,0 +1,15 @@
+0=Sound.ab_shot0
+1=Sound.ab_shot1
+10=Sound.ab_shot10
+11=Sound.ab_shot11
+12=Sound.ab_shot12
+13=Sound.ab_shot13
+14=Sound.ab_shot14
+2=Sound.ab_shot2
+3=Sound.ab_shot3
+4=Sound.ab_shot4
+5=Sound.ab_shot5
+6=Sound.ab_shot6
+7=Sound.ab_shot7
+8=Sound.ab_shot8
+9=Sound.ab_shot9

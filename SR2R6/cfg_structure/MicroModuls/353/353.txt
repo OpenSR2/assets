@@ -1,0 +1,14 @@
+Cost=300
+Equipments=FuelTank
+KindGraph=10
+Name=<color=48,236,248>Каталитический топливный бак</color>
+Priority=10
+Ruins=SB
+Size=100
+Special=1
+Text=<color=248,252,248>Добавляет в топливо особые присадки, которые позволяют двигателю развить скорость на <clr>25<clrEnd> ед. выше паспортной, а также совершить прыжок на <clr>2<clrEnd> парсека дальше.</color>
+Text=
+Text=Скорость: <bonSpeed> ед.
+Text=Прыжок: <bonJump> парсек
+bonJump=2
+bonSpeed=25

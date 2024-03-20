@@ -1,0 +1,15 @@
+Caption=FormInfo.MM11
+CaptionColorDown=0,0,0
+CaptionColorDownA=0,0,0
+CaptionColorNormal=0,0,0
+CaptionColorNormalA=0,0,0
+CaptionSme=1,-13,1,-12
+Font=Font.1SmallBold
+ImageNormalA=GI,Bm.FormInfo3.1MM_11
+Kind=Normal
+KindHit=Rect
+Name=ButMM_11
+Pos=28,164,1
+Size=54,49
+Style=Style.GB.SoundNormal
+UpOnlyDown=True

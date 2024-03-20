@@ -1,0 +1,4 @@
+Active=False
+Name=ItemBuf
+Pos=24,30,5
+Size=25,27

@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Normal
+Pos=651,295,2
+Size=147,20
+Text=FormScore.KillHyper
+TextColor=212,212,212

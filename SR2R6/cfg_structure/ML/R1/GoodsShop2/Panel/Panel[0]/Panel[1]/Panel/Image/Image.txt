@@ -1,0 +1,4 @@
+Image=GI,Bm.PanelMain2.1DateNext
+Name=PM_DateNextImage
+Pos=0,4,8
+Size=7,15

@@ -1,0 +1,6 @@
+Cost=Huge
+Description=1
+Name=Световой меч
+Owner=People
+Size=1
+Text=Джедайский световой меч. Синий.

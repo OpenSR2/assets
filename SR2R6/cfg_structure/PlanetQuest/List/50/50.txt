@@ -1,0 +1,7 @@
+Access=5
+Dif=54
+Genre=бродилка с приключениями
+Group=1
+Image=Bm.PQI.mafia_00
+Length=4
+Name=Мафия

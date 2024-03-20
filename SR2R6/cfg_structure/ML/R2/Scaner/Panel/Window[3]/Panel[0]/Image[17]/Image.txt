@@ -1,0 +1,4 @@
+Image=GI,Bm.FormNote.2HP_DefGenerator
+Name=InfoHull_DefGenerator
+Pos=48,70
+Size=18,13

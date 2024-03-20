@@ -1,0 +1,6 @@
+Diplomat=Консул
+Liner=Астролайнер
+Pirate=Корсар
+Ranger=Рейнджер
+Transport=Дальнобойщик
+Warrior=Истребитель

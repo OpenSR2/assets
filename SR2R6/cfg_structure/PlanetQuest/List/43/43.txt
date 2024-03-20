@@ -1,0 +1,7 @@
+Access=5
+Dif=33
+Genre=логический симулятор мольберта
+Group=1
+Image=Bm.PQI.van_38
+Length=2
+Name=Леонардо да Винчи

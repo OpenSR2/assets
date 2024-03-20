@@ -1,0 +1,15 @@
+CurPlanetEconomy=Mixed,Industrial
+CurPlanetGoodsBuy=Average,Big,Huge
+CurPlanetGoodsCnt=Zero,Mini,Small
+CurPlanetGoodsPermit=Yes
+CurPlanetRace=Peleng,People
+CurPlanetRelations=Normal,Good,Best
+Goods=Alcohol
+Priority=50
+Text=ѕриветствуем, <Player>! ¬ы знаете, что неразбериха на <ToPlanet>, вызванна€ отсутствием нормального правительства, привела к резкому снижению цен на виноводочную продукцию?
+Text=Ќа нашей планете данный вид товаров традиционно пользуетс€ большим спросом, и мы заплатили бы за него хорошие деньги. ѕока только вы, <Player>, €вл€етесь обладателем этой информации! Ќо поспешите, если хотите заработать, потому что предприимчивые торговцы всегда найдутс€.
+ToPlanetEconomy=Agriculture,Mixed
+ToPlanetGoodsCnt=Small,Average,Big,Huge
+ToPlanetGoodsPermit=Yes
+ToPlanetGoodsSale=Mini,Small
+ToPlanetRace=Peleng,People,Fei

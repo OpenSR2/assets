@@ -1,0 +1,7 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Normal
+Name=TovCnt12
+Pos=307,153,6
+Size=78,16
+TextColor=0,0,0

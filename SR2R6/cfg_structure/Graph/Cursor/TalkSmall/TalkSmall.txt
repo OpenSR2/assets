@@ -1,0 +1,2 @@
+Image=GAI,Bm.Cursor.TalkSmall
+Sme=1,1

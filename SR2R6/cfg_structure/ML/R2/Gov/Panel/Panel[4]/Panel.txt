@@ -1,0 +1,10 @@
+Active=False
+GAI=GAI[0]\GAI.txt ^{
+}
+GAI=GAI[1]\GAI.txt ^{
+}
+Image=Image\Image.txt ^{
+}
+Name=GovPeleng
+Pos=0,0,999
+Size=1920,1080

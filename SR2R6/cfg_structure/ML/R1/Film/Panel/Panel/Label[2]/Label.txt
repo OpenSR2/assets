@@ -1,0 +1,6 @@
+Active=False
+Font=Font.1Normal
+MVUpdate=True
+Pos=112,245,ButtonNav
+Size=100,20
+Text=Speed

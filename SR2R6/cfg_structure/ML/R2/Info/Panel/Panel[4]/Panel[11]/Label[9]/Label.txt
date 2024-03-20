@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Small
+Pos=327,172,0
+Size=66,20
+Text=FormInfo.M11TypeDiplomat
+TextColor=0,0,0

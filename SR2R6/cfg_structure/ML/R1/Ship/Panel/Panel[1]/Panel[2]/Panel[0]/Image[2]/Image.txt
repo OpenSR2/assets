@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.1NextRank
+Name=RankAdd
+Pos=153,44,0
+Size=15,16

@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.1Ranger
+Pos=215,34,8
+Size=92,13
+Text=FormPlanetNO.Land
+TextColor=0,0,0
+WordWrap=False

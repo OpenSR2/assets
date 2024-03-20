@@ -1,0 +1,15 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Technics
+PlayerGoodsTypeCnt=2,3,4,5,6,7,8
+PlayerHaveGoods=Yes
+Priority=50
+Relations=Bad
+ShipMayScanPlayer=Yes
+ShipRace=Peleng,People
+ShipRaceIsPlayerRace=No
+ShipType=Transport,Liner,Diplomat,Ranger,Pirate
+Text=Я так уважаю тебя, <Player>, что хочу поделиться с тобой маленькой тайной. На планете <ToPlanet> сейчас идет сбор урожая.
+Text=Ты можешь получить кучу денег, если доставишь им туда технику. Знаю, у тебя сейчас трюмы всяким хламом забиты, так лети и продай все! Неужто ты думаешь, что я могу обмануть?
+ToPlanetEconomy=Industrial
+ToPlanetGoodsSale=Mini,Small

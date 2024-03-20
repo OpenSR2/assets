@@ -1,0 +1,19 @@
+Cost=700
+Equipments=Hull
+KindHull=ASTE
+Name=<color=48,236,248>Боевой корпус</color>
+Priority=30
+Ruins=WB
+Size=80
+Special=1
+Text=<color=248,252,248>Оснащен усовершенствованными слотами под оружие, которые благодаря своей конструкции повышают скорострельность орудий, а также максимально наносимый урон. Мощность осколочного оружия увеличивается на <clr>9<clrEnd> единиц, а ракетного и энергетического - на <clr>7<clrEnd>. Идеальный корпус для прожжёного бойца.</color>
+Text=
+Text=Мощность энергетического оружия: <bonWEnergy> ед.
+Text=Мощность осколочного оружия: <bonWSplinter> ед.
+Text=Мощность ракетного оружия: <bonWMissile> ед.
+bonSlotArt=-2
+bonSlotForsage=-1
+bonSlotWeapon=-1
+bonWEnergy=7
+bonWMissile=9
+bonWSplinter=9

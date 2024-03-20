@@ -1,0 +1,7 @@
+Access=5
+Dif=35
+Genre=логико-математическая головоломка
+Group=0
+Image=Bm.PQI.Faruk_00
+Length=2
+Name=Фарюки

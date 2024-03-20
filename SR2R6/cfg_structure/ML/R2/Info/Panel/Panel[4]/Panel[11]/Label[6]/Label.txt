@@ -1,0 +1,7 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2SmallBold
+Pos=18,54,0
+Size=200,20
+Text=FormInfo.M11Slot
+TextColor=0,0,0

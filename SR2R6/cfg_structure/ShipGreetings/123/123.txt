@@ -1,0 +1,13 @@
+AutoTalk=Any
+FlyType=ToPlanet
+Goods=Food
+InFear=Yes
+Priority=50
+Relations=Normal,Good,Best
+ShipBadFlyToShip=Yes
+ShipBadType=Pirate
+ShipRace=Peleng,People,Fei,Gaal
+ShipType=Transport,Liner,Diplomat,Ranger
+Text=SOS, SOS, на моем хвосте пират! Пытаюсь уйти от преследования звездолета <ShipBad>!
+Text=Помоги мне, <Player>, прогони пирата, а я поделюсь ценной информацией! На <ToPlanet> очень дешевые апельсины. Товар для бизнеса просто идеальный. Стоит копейки!
+ToPlanetGoodsSale=Mini,Small

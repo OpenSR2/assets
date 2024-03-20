@@ -1,0 +1,14 @@
+ABMap=ABMap\ABMap.txt ^{
+}
+BV=BV\BV.txt ^{
+}
+Bm=Bm\Bm.txt ^{
+}
+Font=Font\Font.txt ^{
+}
+Script=Script\Script.txt ^{
+}
+Sound=Sound\Sound.txt ^{
+}
+Style=Style\Style.txt ^{
+}

@@ -1,0 +1,16 @@
+Artefact=0
+Cost=120
+Def=-1
+Droid=0
+Forsage=1
+Hook=0
+Name=Жандарм
+Probability=5
+Race=Maloc,Peleng
+Radar=0
+Scaner=0
+ShipType=Warrior
+Size=100
+Text=Гроза пиратов. Выглядит настолько устрашающим, что инженеры даже отказались от установки защитного генератора.
+Weapon=0
+Year=0

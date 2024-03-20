@@ -1,0 +1,9 @@
+AutoTalk=Any
+FlyType=Any
+PlayerAttackGoodShip=Yes
+Priority=30
+Relations=Bad,Normal,Good
+ShipType=Pirate
+StrengthShipWithPlayer=Average,Big,Huge
+Text=Опа-на, это еще что за беспредел, в натуре? <Player>! Ты на кого наехал, а? На <FullShipGood> летает мой братан, и я за него пасть любому порву.
+Text=Ну, че, просек типа?

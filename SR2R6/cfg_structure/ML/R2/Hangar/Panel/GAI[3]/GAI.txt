@@ -1,0 +1,6 @@
+Active=True
+FrameLoad=0
+Image=Bm.FormHangar2.2Fuel
+Name=AnimFuel
+Pos=967,540,-4
+Size=48,48

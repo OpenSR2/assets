@@ -1,0 +1,7 @@
+10=Sound.RndShip00
+10=Sound.RndShip01
+10=Sound.RndShip02
+10=Sound.RndShip03
+10=Sound.RndShip04
+Group=102001
+NextTime=6000-10000

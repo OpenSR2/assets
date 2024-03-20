@@ -1,0 +1,4 @@
+CurPlanetRaceIsPlayerRace=Yes
+CurPlanetRelations=Normal,Good,Best
+Priority=1
+Text=Приветствуем соотечественника, рейнджер <Player>! Мы всегда рады видеть вас на планете <CurPlanet>.

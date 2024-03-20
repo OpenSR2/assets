@@ -1,0 +1,11 @@
+AutoTalk=Any
+FlyType=ToStar
+InFear=No
+PlayerIsShipBad=Any
+Priority=10
+Relations=War
+ShipBadFlyToShip=Any
+ShipType=Warrior
+Text=Ќу че смотришь, <Player>? Ћети своей дорогой, пиратска€ морда. ѕредупреждаю, мною получена директива с планеты <HomePlanet> на открытие огн€ без предупреждени€. “ак что если сунешьс€ на рассто€ние выстрела, то сильно пожалеешь!
+ToStarControlByKling=Any
+ToStarInBattle=Any

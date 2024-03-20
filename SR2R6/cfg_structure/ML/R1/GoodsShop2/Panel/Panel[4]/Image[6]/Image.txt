@@ -1,0 +1,3 @@
+Name=ImageFace
+Pos=37,64,5
+Size=77,77

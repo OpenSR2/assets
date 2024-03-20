@@ -1,0 +1,16 @@
+Artefact=0
+Cost=130
+Def=0
+Droid=0
+Forsage=1
+Hook=0
+Name=Черная вдова
+Probability=4
+Race=Maloc
+Radar=0
+Scaner=0
+ShipType=Warrior, Ranger
+Size=100
+Text=Маневренный боевой корабль. Выбор беспощадных убийц.
+Weapon=2
+Year=10

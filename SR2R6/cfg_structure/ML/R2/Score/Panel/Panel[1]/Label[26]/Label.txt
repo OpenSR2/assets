@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=Top
+Font=Font.2Mini
+Name=INote
+Pos=641,628,2
+Size=252,49
+TextColor=177,89,0
+WordWrap=True

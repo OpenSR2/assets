@@ -1,0 +1,8 @@
+AlignX=Center
+AlignY=CenterEx
+Font=Font.1Small
+Pos=14,583,40
+Size=133,16
+Text=FormAbout.Elemental
+TextColor=128,144,154
+WordWrap=False

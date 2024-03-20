@@ -1,0 +1,11 @@
+Help=Help.ButExploration
+ImageDisable=GI,Bm.FormUnknown2.2ResearchH
+ImageDown=GI,Bm.FormUnknown2.2ResearchD
+ImageNormal=GI,Bm.FormUnknown2.2ResearchN
+ImageNormalA=GI,Bm.FormUnknown2.2ResearchA
+Kind=Disable
+KindHit=Graph
+Name=ButResearch
+Pos=82,4,8
+Size=46,33
+Style=Style.GB.SoundNormal

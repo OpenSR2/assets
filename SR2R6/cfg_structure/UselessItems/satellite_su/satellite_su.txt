@@ -1,0 +1,6 @@
+Cost=Mini
+Description=
+Name=–адиоспутник
+Owner=People
+Size=1
+Text=—таринный человеческий спутник св€зи в отличном состо€нии.

@@ -1,0 +1,8 @@
+AlignX=Left
+AlignY=CenterEx
+Font=Font.2Normal
+Name=InfoExit
+Pos=140,85,8
+Size=120,20
+TextColor=255,255,0
+WordWrap=False

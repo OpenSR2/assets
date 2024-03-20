@@ -1,0 +1,4 @@
+Image=GI,Bm.FormShip2.2GateLeft
+Name=GateLeft
+Pos=34,547,3
+Size=27,48
